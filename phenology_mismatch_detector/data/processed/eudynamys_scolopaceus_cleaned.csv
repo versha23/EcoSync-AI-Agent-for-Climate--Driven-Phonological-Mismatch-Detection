@@ -1,0 +1,357 @@
+observation_id,species_key,species_common,species_type,species_role,observed_date,year,month,day,day_of_year,season,latitude,longitude,place_guess,scientific_name,quality_grade
+19512072,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-01-06,2019,1,6,6,winter,12.3197375,76.6973477,"Parashakthi Rd, Sathagalli Layout, Mysuru, Karnataka 570019, India",Eudynamys scolopaceus,research
+19677580,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-01-12,2019,1,12,12,winter,12.9480165871,77.5868711248,"Lal Bagh Rd, Mavalli, Bengaluru, Karnataka 560004, India",Eudynamys scolopaceus,research
+19780223,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-01-20,2019,1,20,20,winter,12.3079205895,76.6361986846,"Pump House, Ramavilas Road, Kukkarahalli, Saraswathipuram, Mysuru, Karnataka 570009, India",Eudynamys scolopaceus,research
+19799906,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-01-21,2019,1,21,21,winter,12.4238351098,76.6549191624,"Rd to Car parking, Karnataka 571427, India",Eudynamys scolopaceus,research
+19799916,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-01-21,2019,1,21,21,winter,12.4233773694,76.6557992622,"Rd to Car parking, Karnataka 571427, India",Eudynamys scolopaceus,research
+21112909,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-03-02,2019,3,2,61,pre_monsoon,12.9854542,77.6639248,"C V Raman Nagar, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+21558220,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-02-16,2019,2,16,47,winter,12.8823304767,77.5260379763,"Thurahalli, Bengaluru, Karnataka 560062, India",Eudynamys scolopaceus,research
+27252803,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-06-19,2019,6,19,170,monsoon,13.0314366026,77.5880112174,"University of Agricultural Sciences, Bengaluru, Karnataka, IN",Eudynamys scolopaceus,research
+35524488,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-11-10,2019,11,10,314,post_monsoon,12.93898,77.54351667,Bengaluru,Eudynamys scolopaceus,research
+36157145,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-11-24,2019,11,24,328,post_monsoon,12.9177601942,77.6658212766,"Bangalore, IN-KA, IN",Eudynamys scolopaceus,research
+37742677,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-01-19,2020,1,19,19,winter,13.9347566667,75.5502616667,"E Block, Shivamogga, Karnataka 577205, India",Eudynamys scolopaceus,research
+37817939,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-01-08,2020,1,8,8,winter,12.2960723571,76.6256088408," Mysuru, Karnataka, India",Eudynamys scolopaceus,research
+38212286,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-01-30,2020,1,30,30,winter,12.145031929,75.9390258789,"Extension Education Unit, Bizarre Nagara, Ponampet, Karnataka 571216, India",Eudynamys scolopaceus,research
+38319694,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-01-22,2020,1,22,22,winter,12.3679148814,76.4807923015,"Mysuru, Karnataka, India",Eudynamys scolopaceus,research
+38319722,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-01-24,2020,1,24,24,winter,12.3679148814,76.4807923015,"Mysuru, Karnataka, India",Eudynamys scolopaceus,research
+38873866,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-02-11,2020,2,11,42,winter,12.9558816667,77.5174466667,"Naagarabhaavi, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+38945718,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-02-12,2020,2,12,43,winter,12.952245,77.51598,"Naagarabhaavi, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+39083806,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-02-16,2020,2,16,47,winter,12.8954833333,77.590195,"Panduranga Nagar, Bengaluru, Karnataka 560076, India",Eudynamys scolopaceus,research
+39159279,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-02-24,2020,2,24,55,winter,12.1446428299,75.9392471313,"Extension Education Unit, Bizarre Nagara, Ponampet, Karnataka 571216, India",Eudynamys scolopaceus,research
+41882557,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-02-22,2020,2,22,53,winter,15.3849411757,75.0954340079,"Bairidevarkoppa, Hubli, Karnataka 580025, India",Eudynamys scolopaceus,research
+42403137,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-03-11,2020,3,11,71,pre_monsoon,12.9703947793,77.5645863265,Binny Mill Road,Eudynamys scolopaceus,research
+42403276,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-03-22,2020,3,22,82,pre_monsoon,12.9702078942,77.5644756854,"#11 9th cross 3rd main cholurapalya magadi main, Keshava Nagar, Binnipete, Bengaluru, Karnataka 560023, India",Eudynamys scolopaceus,research
+43023035,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-04-24,2020,4,24,115,pre_monsoon,13.07740722,77.63500684,"4061 Mykonos sobha city, Devin Paradise Enclave, N. Nagenahalli AKC, Bengaluru, Karnataka 560077, India",Eudynamys scolopaceus,research
+43836014,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-04-26,2020,4,26,117,pre_monsoon,12.9397684467,77.560467687,"Banashankari, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+44093260,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-04-25,2020,4,25,116,pre_monsoon,12.8843797,77.4637183,"Bengaluru, Karnataka 560060, India",Eudynamys scolopaceus,research
+45235191,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-04-14,2020,4,14,105,pre_monsoon,14.2849072656,74.4455745444,"Honnavar, Karnataka, India",Eudynamys scolopaceus,research
+45945935,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-12-20,2019,12,20,354,winter,13.0873671,77.609935,"Jakkur Lake, Agrahara, Bengaluru, Karnataka 560064",Eudynamys scolopaceus,research
+47804410,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-05-30,2020,5,30,151,pre_monsoon,12.9696527,74.8870779,"Karnataka 574142, India",Eudynamys scolopaceus,research
+48011627,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-05-31,2020,5,31,152,pre_monsoon,12.9428318458,77.5810431147,"2nd Cross Road, Bengaluru, Karnataka, IN",Eudynamys scolopaceus,research
+48142156,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-06-01,2020,6,1,153,monsoon,12.8991793,77.6669909,"Haralur, Karnataka, India",Eudynamys scolopaceus,research
+48142401,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-06-01,2020,6,1,153,monsoon,12.8991793,77.6669909,"Haralur, Karnataka, India",Eudynamys scolopaceus,research
+48741586,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-06-06,2020,6,6,158,monsoon,12.8991793,77.6669909,"Haralur, Karnataka, India",Eudynamys scolopaceus,research
+50361852,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-06-20,2020,6,20,172,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Eudynamys scolopaceus,research
+50447927,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-05-10,2019,5,10,130,pre_monsoon,16.8490201972,75.7194361327,"Sri Nagalingeshwara Waterbody, Vijayapura",Eudynamys scolopaceus,research
+51912730,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-07-04,2020,7,4,186,monsoon,12.9067956,77.677293,"Kasavanhalli Rd, Kasavanahalli, Karnataka 560035, India",Eudynamys scolopaceus,research
+52332917,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-07-08,2020,7,8,190,monsoon,12.9579395002,77.7067447454,"Munnekollal, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+52333889,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-07-08,2020,7,8,190,monsoon,12.9579395002,77.7067447454,"Munnekollal, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+52460005,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-07-09,2020,7,9,191,monsoon,13.0655280998,77.6477458701,"115, Anjanappa Layout, Kothanur, Bengaluru, Karnataka 560077, India",Eudynamys scolopaceus,research
+52766967,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-12-22,2019,12,22,356,winter,12.9151072913,77.6630518958,"Amblipura, Eastwood Twp, HSR Layout, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+54722633,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-07-29,2020,7,29,211,monsoon,12.2736060115,76.6097998538,"Somanath Nagar, Ayyajayyanahundi, Karnataka, India",Eudynamys scolopaceus,research
+54722634,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-07-29,2020,7,29,211,monsoon,12.274057,76.610342,"Somanath Nagar, Ayyajayyanahundi, Karnataka, India",Eudynamys scolopaceus,research
+54837297,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-03-23,2020,3,23,83,pre_monsoon,12.8643066,77.5212751,"Off, Kanakapura Rd, Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Eudynamys scolopaceus,research
+54837299,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-03-18,2020,3,18,78,pre_monsoon,12.8643066,77.5212751,"Off, Kanakapura Rd, Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Eudynamys scolopaceus,research
+55551071,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-08-06,2020,8,6,219,monsoon,12.8090335,74.8928618,"Karnataka 575022, India",Eudynamys scolopaceus,research
+56497471,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-03-09,2019,3,9,68,pre_monsoon,15.2361191,74.6172819,"Old Dandeli, Dandeli, Karnataka 581325, India",Eudynamys scolopaceus,research
+56499884,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-08-15,2020,8,15,228,monsoon,12.9128792156,77.6743256048,"Valliyamma Layout, Haralur, Karnataka, India",Eudynamys scolopaceus,research
+60035741,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-09-19,2020,9,19,263,monsoon,12.960308995,77.6582296193,"BDA Colony, Jeevan Bima Nagar, Bengaluru, Karnataka 560017, India",Eudynamys scolopaceus,research
+61773023,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-02-01,2020,2,1,32,winter,12.8540009008,77.5087114832,"Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+62115962,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-09-09,2020,9,9,253,monsoon,12.7791030282,77.6435978338,"94, Kyalasanahalli, Bengaluru, Karnataka 560105, India",Eudynamys scolopaceus,research
+63621704,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-10-27,2020,10,27,301,post_monsoon,12.8742055,77.5272426,"Adarsha Layout, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Eudynamys scolopaceus,research
+63871120,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-10-31,2020,10,31,305,post_monsoon,12.8789462,77.5297793,"100 Feet Road, Off, Kanakapura Rd, Banashankari 6th Stage, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Eudynamys scolopaceus,research
+64167466,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-04,2020,11,4,309,post_monsoon,12.8733009105,77.522659041,"Adarsha Layout, Lingadeeranahalli, Bengaluru, Karnataka 560109, India",Eudynamys scolopaceus,research
+64168776,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-04,2020,11,4,309,post_monsoon,12.8758483587,77.5185384974,"No 86, 4th main, 1st cross, 1st block, Pavamanapura, Bengaluru, Karnataka 560109, India",Eudynamys scolopaceus,research
+64169141,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-04,2020,11,4,309,post_monsoon,12.8733914477,77.522264421,"Pavamanapura, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+64232509,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-05,2020,11,5,310,post_monsoon,12.8734630276,77.5192610174,"Pavamanapura, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+64509949,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-07,2020,11,7,312,post_monsoon,14.2212684863,74.9536691473,"Sagar, Shivamogga, KA, IN",Eudynamys scolopaceus,research
+65328977,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-21,2020,11,21,326,post_monsoon,12.8794063927,77.5296398248,"Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+65560668,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-22,2020,11,22,327,post_monsoon,16.6181620277,75.5178210939,"Yakkundi Kere, Bijapur, Karnataka, India",Eudynamys scolopaceus,research
+67124353,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-12-25,2020,12,25,360,winter,16.2168150891,77.3580376245,Raichur,Eudynamys scolopaceus,research
+67199659,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-12-28,2020,12,28,363,winter,12.8791018022,77.5297156908,"Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+67734222,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-01-08,2021,1,8,8,winter,12.69622325,75.10973603,"574260, India",Eudynamys scolopaceus,research
+67998211,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-12-25,2020,12,25,360,winter,13.5026635,75.0903154,"Agumbe, Karnataka, India",Eudynamys scolopaceus,research
+68153677,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-02-04,2020,2,4,35,winter,15.3374346474,76.4702199029,"Nimbapura, Karnataka, Indie",Eudynamys scolopaceus,research
+68153682,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-02-04,2020,2,4,35,winter,15.3399810554,76.4739675256,"Nimbapura, Karnataka, Indie",Eudynamys scolopaceus,research
+68592608,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-01-23,2021,1,23,23,winter,12.447032785,76.5801938251,"Karnataka 571455, India",Eudynamys scolopaceus,research
+69430422,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-02-25,2019,2,25,56,winter,12.2752284936,76.6128872567,"Somanath Nagar, Ayyajayyanahundi, Karnataka, India",Eudynamys scolopaceus,research
+69758153,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-01-21,2021,1,21,21,winter,14.5478586,74.318841,Gokarna,Eudynamys scolopaceus,research
+69851638,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-02-13,2021,2,13,44,winter,12.8742055,77.5272426,"Adarsha Layout, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Eudynamys scolopaceus,research
+70247954,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-02-20,2021,2,20,51,winter,12.8406478781,75.3822565824,Konalu,Eudynamys scolopaceus,research
+70743651,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-03-07,2021,3,7,66,pre_monsoon,12.8571865,77.508911,"Rachanamadu, Karnataka, India",Eudynamys scolopaceus,research
+70743688,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-03-07,2021,3,7,66,pre_monsoon,12.8571865,77.508911,"Rachanamadu, Karnataka, India",Eudynamys scolopaceus,research
+70857790,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-03-09,2021,3,9,68,pre_monsoon,12.9230407532,77.5829155371,Brij Kutir,Eudynamys scolopaceus,research
+70923095,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-03-09,2021,3,9,68,pre_monsoon,12.915140861,77.6639476921,"Amblipura, Eastwood Twp, HSR Layout, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+71493261,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-09-12,2019,9,12,255,monsoon,12.3158633779,76.6913791671,"Mysore, IN-KA, IN",Eudynamys scolopaceus,research
+78184398,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-02-14,2021,2,14,45,winter,12.2828233333,76.6147333333,"Ramakrishnanagar, Mysuru, Karnataka, India",Eudynamys scolopaceus,research
+79902576,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-05-17,2020,5,17,138,pre_monsoon,15.832493,74.492834,vaccine depot belgaum,Eudynamys scolopaceus,research
+79939685,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-05-17,2020,5,17,138,pre_monsoon,15.8321178647,74.4928585365,"ಲಸಿಕೆ ಕೆಂದ್ರ Vaccine Depot,",Eudynamys scolopaceus,research
+80291596,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-04-07,2021,4,7,97,pre_monsoon,12.8905,77.564,Bangalore,Eudynamys scolopaceus,research
+80291598,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-04-07,2021,4,7,97,pre_monsoon,12.8905,77.564,Bangalore,Eudynamys scolopaceus,research
+80291599,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-04-07,2021,4,7,97,pre_monsoon,12.8905,77.564,Bangalore,Eudynamys scolopaceus,research
+80864195,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-03-23,2021,3,23,82,pre_monsoon,12.9200562095,77.6477278929,"6th Cross Road, Bengaluru, KA, IN",Eudynamys scolopaceus,research
+80872873,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-09-01,2020,9,1,245,monsoon,12.9200451334,77.6476407414,"6th Cross Road, Bengaluru, KA, IN",Eudynamys scolopaceus,research
+81404124,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-01-06,2021,1,6,6,winter,13.8779352833,74.8229881912,"Udupi, Karnataka, India",Eudynamys scolopaceus,research
+84538551,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-07-01,2020,7,1,183,monsoon,12.8385833549,77.6521691403,"Concorde Silicon Valley, Electronics City Phase 1, Electronic City, Karnataka 560100, India",Eudynamys scolopaceus,research
+88129564,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-06-06,2021,6,6,157,monsoon,14.8148759343,74.1301386201,"Kodibag, Karwar, Karnataka, India",Eudynamys scolopaceus,research
+88129568,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-06-09,2021,6,9,160,monsoon,14.8148698448,74.1300826429,"Kodibag, Karwar, Karnataka, India",Eudynamys scolopaceus,research
+88391379,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-07-24,2021,7,24,205,monsoon,12.2243056281,76.6394708234,"Mandakalli Plains, Mysuru, Karnataka, India",Eudynamys scolopaceus,research
+88663090,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-11-10,2019,11,10,314,post_monsoon,12.2752546,76.6701475,"Chamundi Hill, Mysuru, Karnataka, India",Eudynamys scolopaceus,research
+93366128,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-08-22,2021,8,22,234,monsoon,12.9714785136,77.5945626944,Bengaluru,Eudynamys scolopaceus,research
+95033199,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-12-12,2020,12,12,347,winter,11.9671112,76.6372531,Thanglittina Mallappana Betta,Eudynamys scolopaceus,research
+95042471,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-14,2020,11,14,319,post_monsoon,12.2626994217,76.5676205815,"Muganahundi, Mysore Dt",Eudynamys scolopaceus,research
+97151936,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-10-02,2021,10,2,275,post_monsoon,12.84275,77.724463,"Nambiar Bellezea, Bommasandra, Karnataka 560099, India",Eudynamys scolopaceus,research
+101099363,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-11-14,2021,11,14,318,post_monsoon,12.880932109,77.5291899807,"Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+101607906,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-11-21,2021,11,21,325,post_monsoon,12.8731521089,77.5204563136,"Pavamanapura, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+102527667,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-12-05,2021,12,5,339,winter,12.878924,77.5300912,"100 Feet Road, SOBHA FOREST VIEW, Off, Kanakapura Rd, Banashankari 6th Stage, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Eudynamys scolopaceus,research
+102546315,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-12-05,2021,12,5,339,winter,14.2485186699,74.6524265036,"6MX2+8VR, Gerasappa, Karnataka 581384, India",Eudynamys scolopaceus,research
+102753864,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-12-08,2021,12,8,342,winter,12.269372,76.611978,"Lingambudhi Lake, Lingambudhi Kere, Ramakrishnanagar, Mysuru, Karnataka 570023",Eudynamys scolopaceus,research
+103041635,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-12-11,2021,12,11,345,winter,12.269372,76.611978,"Lingambudhi Lake, Lingambudhi Kere, Ramakrishnanagar, Mysuru, Karnataka 570023",Eudynamys scolopaceus,research
+103416355,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-12-19,2021,12,19,353,winter,14.2480997934,74.6526330337,"6MX2+8VR, Gerasappa, Karnataka 581384, India",Eudynamys scolopaceus,research
+104394273,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-01-02,2022,1,2,2,winter,13.0204,77.569946,"Indian Institute of Science, Bangalore, Karnataka",Eudynamys scolopaceus,research
+104636012,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-01-09,2022,1,9,9,winter,12.2626994217,76.5676205815,"Muganahundi, Mysore Dt",Eudynamys scolopaceus,research
+105020320,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-01-15,2022,1,15,15,winter,12.84275,77.724463,"Nambiar Bellezea, Bommasandra, Karnataka 560099, India",Eudynamys scolopaceus,research
+105090555,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-02-21,2021,2,21,52,winter,13.034732,77.57302,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Eudynamys scolopaceus,research
+105090564,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-02-16,2021,2,16,47,winter,13.034732,77.57302,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Eudynamys scolopaceus,research
+105090569,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-02-13,2021,2,13,44,winter,13.034732,77.57302,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Eudynamys scolopaceus,research
+105090577,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-02-06,2021,2,6,37,winter,13.034732,77.57302,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Eudynamys scolopaceus,research
+105407425,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-08-27,2021,8,27,239,monsoon,12.84275,77.724463,"Nambiar Bellezea, Bommasandra, Karnataka 560099, India",Eudynamys scolopaceus,research
+105417780,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-05-07,2021,5,7,127,pre_monsoon,13.0354321344,77.5775087149,"Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+105649507,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-01-26,2022,1,26,26,winter,12.170211,76.543737,"Arasinakere Grama, Karnataka 570008, India",Eudynamys scolopaceus,research
+105768632,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-10-08,2021,10,8,281,post_monsoon,12.809525937,77.5268483314,"Alakabelalu, Bengaluru, KA, IN",Eudynamys scolopaceus,research
+106078237,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-02-03,2022,2,3,34,winter,12.81290805,77.5279257319,"Alakabelalu, Bengaluru, KA, IN",Eudynamys scolopaceus,research
+106112889,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-01-26,2022,1,26,26,winter,13.0345890308,77.5733401566,"Bengaluru, Karnataka 560094, India",Eudynamys scolopaceus,research
+106112898,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-01-29,2022,1,29,29,winter,13.0345890308,77.5733401566,"Bengaluru, Karnataka 560094, India",Eudynamys scolopaceus,research
+106853659,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-09,2020,11,9,314,post_monsoon,14.2342494572,75.6469932944,Honnali,Eudynamys scolopaceus scolopaceus,research
+107036600,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-02-19,2022,2,19,50,winter,12.9065599167,77.6763610833,"WM4G+PM6, Kasavanahalli, Karnataka 560035, India",Eudynamys scolopaceus,research
+109026629,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-03-20,2022,3,20,79,pre_monsoon,12.8368153727,77.7593143657,Bikkanahalli,Eudynamys scolopaceus,research
+109630546,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-02-18,2022,2,18,49,winter,13.034732,77.57302,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Eudynamys scolopaceus,research
+111166540,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-04-06,2022,4,6,96,pre_monsoon,12.1445376194,75.938203074,"College of Forestry, Ponnampet",Eudynamys scolopaceus,research
+111523157,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-04-15,2022,4,15,105,pre_monsoon,12.9344168264,77.606017068,Christ University,Eudynamys scolopaceus,research
+115525421,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-05-02,2022,5,2,122,pre_monsoon,12.920060068,77.6476820351,"6th Cross Road, Bengaluru, KA, IN",Eudynamys scolopaceus,research
+116088876,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-03-19,2019,3,19,78,pre_monsoon,15.3350132,76.460024,"Hampi, Karnataka 583239, India",Eudynamys scolopaceus,research
+116089013,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-03-19,2019,3,19,78,pre_monsoon,15.3350132,76.460024,"Hampi, Karnataka 583239, India",Eudynamys scolopaceus,research
+116931173,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-03-13,2022,3,13,72,pre_monsoon,12.9200954978,77.6477292681,"6th Cross Road, Bengaluru, KA, IN",Eudynamys scolopaceus,research
+118131855,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-03-09,2022,3,9,68,pre_monsoon,12.9200664347,77.6477487156,"6th Cross Road, Bengaluru, KA, IN",Eudynamys scolopaceus,research
+119562697,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-04-17,2022,4,17,107,pre_monsoon,13.0346965503,77.5730095071,"Bengaluru, Karnataka 560094, India",Eudynamys scolopaceus,research
+120312986,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-06-05,2022,6,5,156,monsoon,12.9199827313,77.6476930557,"6th Cross Road, Bengaluru, KA, IN",Eudynamys scolopaceus,research
+120701835,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-03-13,2022,3,13,72,pre_monsoon,13.1108173301,77.5759122893,Puttanahalli Lake,Eudynamys scolopaceus,research
+120968189,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-02-06,2022,2,6,37,winter,12.9715987,77.5945627,"Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+121107659,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-03-14,2021,3,14,73,pre_monsoon,14.8160846598,74.209544292,"Uttara Kannada, Karnataka, India",Eudynamys scolopaceus,research
+122922260,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-06-22,2022,6,22,173,monsoon,12.8737934715,77.4978214502,"10th Stone NICE Road, Bengaluru, Karnataka 560062, India",Eudynamys scolopaceus,research
+123927402,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-06-06,2021,6,6,157,monsoon,14.8147882864,74.1302014142,"Kodibag, Karwar, Karnataka, India",Eudynamys scolopaceus,research
+124085187,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-06-30,2022,6,30,181,monsoon,13.0703081,77.5825384,"Bangalore, IN-KA, IN",Eudynamys scolopaceus,research
+124097539,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-06-30,2022,6,30,181,monsoon,13.0712624,77.5806936,"3HCJ+G7W, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka 560065, India",Eudynamys scolopaceus,research
+127477981,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-07-23,2022,7,23,204,monsoon,12.3092188951,76.5556045912,"K.Hemmanahalli, Karnataka 571130, India",Eudynamys scolopaceus,research
+128266359,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-05-04,2021,5,4,124,pre_monsoon,15.4590461373,75.007808134,Dharwad,Eudynamys scolopaceus,research
+131545812,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-04-14,2022,4,14,104,pre_monsoon,12.1515046636,75.9430276975,Ponnampet,Eudynamys scolopaceus,research
+132912084,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-08-20,2020,8,20,233,monsoon,13.0339131643,77.5500088558,J.P park,Eudynamys scolopaceus,research
+133089374,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-07-31,2022,7,31,212,monsoon,12.8424027,77.726986,"Narayanaghatta Village, Chandapura Dommasandra Road Circle, near Muthanallur, Chintalamadivala Village, Bengaluru, Karnataka 560099, India",Eudynamys scolopaceus,research
+134274390,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-01-08,2021,1,8,8,winter,12.8794204297,74.8364008963,Vishal Children's & Maternity Hospital,Eudynamys scolopaceus,research
+136245800,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-08-31,2022,8,31,243,monsoon,12.9715987,77.5945627,"Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+137444616,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-06-14,2020,6,14,166,monsoon,13.070291138,77.7695255354,Hoskote Lake,Eudynamys scolopaceus,research
+137835256,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-10-07,2022,10,7,280,post_monsoon,12.962288,77.7098984,"963, 3rd Main Rd, AECS Layout - D Block, AECS Layout, Marathahalli, Bengaluru, Karnataka 560037, India",Eudynamys scolopaceus,research
+138356094,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-10-11,2022,10,11,284,post_monsoon,12.9609816,77.7083642,"Munekolala Lake, Chennappa Layout, Bengaluru, Karnataka 560037",Eudynamys scolopaceus,research
+138812488,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-10-15,2022,10,15,288,post_monsoon,12.956644,77.712924,"Sankara eye hospital, Brookfield Bengaluru Karnataka India",Eudynamys scolopaceus,research
+138840243,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-10-13,2022,10,13,286,post_monsoon,12.0315272,77.5920295,"Male Mahadeshwara Hills, Karnataka 571490, India",Eudynamys scolopaceus,research
+138917359,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-10-16,2022,10,16,289,post_monsoon,12.7737016667,77.618425,"Nandanavana Layout, Bukkasagara, Karnataka 560105, India",Eudynamys scolopaceus,research
+138943370,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-10-16,2022,10,16,289,post_monsoon,12.9609816,77.7083642,"Munekolala Lake, Chennappa Layout, Bengaluru, Karnataka 560037",Eudynamys scolopaceus,research
+139230755,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-10-18,2022,10,18,291,post_monsoon,12.958266,77.7255357,"Thubarahalli Lake, Brookefield, Bengaluru, Karnataka 560066",Eudynamys scolopaceus,research
+139307346,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-10-19,2022,10,19,292,post_monsoon,13.1463526693,77.5475045913,"Karnataka, IN",Eudynamys scolopaceus,research
+139337511,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-01-03,2021,1,3,3,winter,13.0109346094,77.4862209641,"Ragavendra Nagar, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+140487163,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-10-30,2022,10,30,303,post_monsoon,12.9609816,77.7083642,"Munekolala Lake, Chennappa Layout, Bengaluru, Karnataka 560037",Eudynamys scolopaceus,research
+140487208,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-10-30,2022,10,30,303,post_monsoon,12.962288,77.7098984,"963, 3rd Main Rd, AECS Layout - D Block, AECS Layout, Marathahalli, Bengaluru, Karnataka 560037, India",Eudynamys scolopaceus,research
+141069876,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-11-04,2022,11,4,308,post_monsoon,12.9582721195,77.7255356312,Thubarahalli Lake,Eudynamys scolopaceus,research
+141457668,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-11-02,2022,11,2,306,post_monsoon,17.115893,75.7313342,"Savalsang, Karnataka, India",Eudynamys scolopaceus,research
+142120485,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-11-16,2022,11,16,320,post_monsoon,13.0649277778,77.6477430556,"BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Eudynamys scolopaceus,research
+142220775,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-10-28,2022,10,28,301,post_monsoon,15.3350132,76.460024,"Hampi, Karnataka 583239, India",Eudynamys scolopaceus,research
+142521042,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-03-14,2022,3,14,73,pre_monsoon,12.1923531205,76.6447599036,"Byathahalli, Karnataka 571311, India",Eudynamys scolopaceus,research
+142665907,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-11-23,2022,11,23,327,post_monsoon,12.240906,76.5979445,"Halalu, Karnataka 570008, India",Eudynamys scolopaceus,research
+142820698,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-11-25,2022,11,25,329,post_monsoon,13.2252387533,77.6770526916,"Bangalore Rural, IN-KA, IN",Eudynamys scolopaceus,research
+142828936,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-07-15,2022,7,15,196,monsoon,13.107805,77.5680483333,"Bangalore, Karnataka, India",Eudynamys scolopaceus,research
+143011161,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-11-26,2022,11,26,330,post_monsoon,12.9609817419,77.7083641291,Munekolala Lake,Eudynamys scolopaceus,research
+143260447,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-16,2020,11,16,321,post_monsoon,12.8878694544,77.4680623412,"Kambipura, Karnataka 560060, India",Eudynamys scolopaceus,research
+143713114,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-12-03,2022,12,3,337,winter,13.0142866496,77.6833236963,Kowdenahalli Lake And Park,Eudynamys scolopaceus,research
+143713302,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-12-03,2022,12,3,337,winter,13.0142866496,77.6833236963,Kowdenahalli Lake And Park,Eudynamys scolopaceus,research
+144830718,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-12-11,2022,12,11,345,winter,12.919993511,77.6476264323,"HSR Layout, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+144858637,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-12-22,2022,12,22,356,winter,12.8439630568,77.72419479,"Chintalamadivala Village, Bommasandra, Karnataka 560099, India",Eudynamys scolopaceus,research
+144997276,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-12-17,2022,12,17,351,winter,13.0702915,77.7695255,"Hoskote Lake, Karnataka",Eudynamys scolopaceus,research
+145115555,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-12-18,2022,12,18,352,winter,12.1505424546,76.5297371715,"Gujjegowdanapura, Karnataka 570008, India",Eudynamys scolopaceus,research
+145270751,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-05-02,2021,5,2,122,pre_monsoon,13.045431,77.54787,Jalahalli Bengaluru,Eudynamys scolopaceus,research
+145754563,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-01-03,2023,1,3,3,winter,12.8019332,77.5095784,"Kaggalipura, Karnataka 560082, India",Eudynamys scolopaceus,research
+145833593,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-01-04,2023,1,4,4,winter,13.0063502157,77.6234588027,"Thomas Town, Cooke Town, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+146214257,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-03-19,2022,3,19,78,pre_monsoon,13.0601285087,77.6429483124,"Kothnur Narayanapura, Bengaluru, KA, IN",Eudynamys scolopaceus scolopaceus,research
+146216163,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-03-01,2022,3,1,60,pre_monsoon,13.0488557271,77.6438026778,"Kothnur Narayanapura, Bengaluru, KA, IN",Eudynamys scolopaceus scolopaceus,research
+146806055,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-03-14,2022,3,14,73,pre_monsoon,12.189455,76.642543,"PB No. 1, Byatha Halli, Kadakola,, Mysuru, Karnataka 571311, India",Eudynamys scolopaceus,research
+146930074,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-01-14,2023,1,14,14,winter,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+146930082,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-01-14,2023,1,14,14,winter,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+147311530,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-01-18,2023,1,18,18,winter,12.9147393208,77.6636999843,PV,Eudynamys scolopaceus,research
+147329111,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-01-22,2023,1,22,22,winter,14.8644383333,74.264,"Naitisavar, Karnataka, India",Eudynamys scolopaceus,research
+150357626,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-02-25,2023,2,25,56,winter,15.3369606002,76.4555600398,"Kalaburagi Division, Karnataka, India",Eudynamys scolopaceus,research
+151359654,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-03-17,2023,3,17,76,pre_monsoon,12.7735433333,77.617985,"QJF8+9QH, Nandanavana Layout, Bukkasagara, Karnataka 560105, India",Eudynamys scolopaceus,research
+151569427,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-03-19,2023,3,19,78,pre_monsoon,13.0042083333,77.61535,"John Armstrong Road, Bengaluru, KA, IN",Eudynamys scolopaceus,research
+151814184,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-03-06,2023,3,6,65,pre_monsoon,12.7773962319,75.1814908907,"Q5GJ+XM4, Nehru Nagar, Puttur, Karnataka 574203, India",Eudynamys scolopaceus,research
+152711415,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-01-28,2023,1,28,28,winter,12.958266,77.7255357,"Thubarahalli Lake, Brookefield, Bengaluru, Karnataka 560066",Eudynamys scolopaceus,research
+153060049,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-02-05,2023,2,5,36,winter,12.9183126,77.680097,"Saul Kere, Kaikondrahalli, Bengaluru, Karnataka 560035",Eudynamys scolopaceus,research
+153139491,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-03-27,2023,3,27,86,pre_monsoon,12.9147393208,77.6636999843,PV,Eudynamys scolopaceus,research
+153578991,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-05,2023,4,5,95,pre_monsoon,12.8672773379,77.5935729593,"Vakil Garden City, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+153793462,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-11-09,2022,11,9,313,post_monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Eudynamys scolopaceus,research
+153794928,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-11-09,2022,11,9,313,post_monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Eudynamys scolopaceus,research
+153794959,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-11-10,2022,11,10,314,post_monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Eudynamys scolopaceus,research
+154060833,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-12-08,2022,12,8,342,winter,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Eudynamys scolopaceus,research
+154060835,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-12-08,2022,12,8,342,winter,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Eudynamys scolopaceus,research
+154070813,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-12-05,2022,12,5,339,winter,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Eudynamys scolopaceus,research
+154070819,eudynamys_scolopaceus,Asian Koel,bird,consumer,2022-12-05,2022,12,5,339,winter,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Eudynamys scolopaceus,research
+154250098,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-01-10,2023,1,10,10,winter,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Eudynamys scolopaceus,research
+154250150,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-01-17,2023,1,17,17,winter,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Eudynamys scolopaceus,research
+154787079,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-03-26,2023,3,26,85,pre_monsoon,12.9200291759,77.6476329649,"HSR Layout, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+154800298,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-14,2023,4,14,104,pre_monsoon,12.9726648,77.5340025,"CHBS Layout, Stage 2, Vijayanagar, Bengaluru, Karnataka 560040, India",Eudynamys scolopaceus,research
+155695814,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-20,2023,4,20,110,pre_monsoon,12.9715987,77.5945627,"Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+156679046,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-26,2023,4,26,116,pre_monsoon,12.9715987,77.5945627,"Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+156980341,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-28,2023,4,28,118,pre_monsoon,13.0977438,77.5835667,"Yelahanka Satellite Town, Yelahanka, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+156991010,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-28,2023,4,28,118,pre_monsoon,12.9737211,77.5888,"XHFQ+M7C, Nunegundlapalli, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560001, India",Eudynamys scolopaceus,research
+157023089,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-28,2023,4,28,118,pre_monsoon,12.9878684,77.6169578,"Hermit Colony, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",Eudynamys scolopaceus,research
+157023549,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-28,2023,4,28,118,pre_monsoon,12.98792513,77.61694353,"Tatopo Digital Consultancy Services LLP No. 2 St. John's Road, Hermit Colony, Sivanchetti Gardens, Bengaluru, Karnataka 560042, India",Eudynamys scolopaceus,research
+157069856,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-28,2023,4,28,118,pre_monsoon,12.9780383333,77.5947066667,"Food Court, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560001, India",Eudynamys scolopaceus,research
+157098357,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-28,2023,4,28,118,pre_monsoon,12.8994809,77.65260028,"VMX3+Q3J, Somasundarapalya, Bengaluru, Karnataka 560068, India",Eudynamys scolopaceus,research
+157158157,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-28,2023,4,28,118,pre_monsoon,12.9702548462,77.5892465684,"Gandhi Nagar, Bengaluru, KA, IN",Eudynamys scolopaceus,research
+157401244,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-29,2023,4,29,119,pre_monsoon,13.0659435131,77.7711758484,"Hosakote, Bengaluru Rural, KA, IN",Eudynamys scolopaceus,research
+157425251,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-29,2023,4,29,119,pre_monsoon,12.9254533,77.546757,"Banashankari, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+157448639,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-29,2023,4,29,119,pre_monsoon,13.0664689635,77.7729659944,"Hosakote, Bengaluru Rural, KA, IN",Eudynamys scolopaceus,research
+157545341,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-29,2023,4,29,119,pre_monsoon,12.8902523177,77.5754063361,"10, Yadava Farm, Chunchgatta, JP Nagar 7th Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",Eudynamys scolopaceus,research
+157859706,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-30,2023,4,30,120,pre_monsoon,12.9579329654,77.7065878361,"Bangalore, IN-KA, IN",Eudynamys scolopaceus,research
+157915481,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-30,2023,4,30,120,pre_monsoon,12.9764066689,77.6446727427,"Defence Colony, Indiranagar, Bengaluru, Karnataka 560038, India",Eudynamys scolopaceus,research
+157950125,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-30,2023,4,30,120,pre_monsoon,12.8883548,77.5280598,"Turahalli, Bengaluru, Karnataka 560062, India",Eudynamys scolopaceus,research
+158430237,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-30,2023,4,30,120,pre_monsoon,12.9420000425,77.5095655024,"WGR6+J2R, Gnana Bharathi, Bengaluru, Karnataka 560056, India",Eudynamys scolopaceus,research
+158431132,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-05-01,2023,5,1,121,pre_monsoon,12.9878866924,77.6171670795,"St Johns Church Road, Bengaluru, KA, IN",Eudynamys scolopaceus,research
+158455119,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-05-01,2023,5,1,121,pre_monsoon,12.97684419,77.59605527,"Bangalore, IN-KA, IN",Eudynamys scolopaceus,research
+158488044,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-05-01,2023,5,1,121,pre_monsoon,12.9580434029,77.7070374414,Rohan Vasantha Apartments,Eudynamys scolopaceus,research
+158595799,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-05-01,2023,5,1,121,pre_monsoon,12.9254533,77.546757,"Banashankari, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+158596972,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-05-01,2023,5,1,121,pre_monsoon,12.9330885,77.5718682,"6th B Main Road, Bengaluru, KA, IN",Eudynamys scolopaceus,research
+158932437,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-05-02,2023,5,2,122,pre_monsoon,13.0235794,77.5787641,"RMV 2nd Stage, Ashwath Nagar, Armane Nagar, Bengaluru, Karnataka 560094, India",Eudynamys scolopaceus,research
+159139438,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-27,2023,4,27,117,pre_monsoon,13.1399642125,77.5680896267,"4HQ9+V9Q Avalahalli Lake, Bengaluru, Karnataka 560064, India",Eudynamys scolopaceus,research
+159351361,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-05-03,2023,5,3,123,pre_monsoon,12.9254533,77.546757,"Banashankari, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+160292421,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-05-07,2023,5,7,127,pre_monsoon,12.9578195872,77.7063062042,ROHAN VASANTH,Eudynamys scolopaceus scolopaceus,research
+160552948,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-05-01,2023,5,1,121,pre_monsoon,13.0031678,77.6228252,"Cooke Town, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+160697941,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-05-09,2023,5,9,129,pre_monsoon,12.9898921,77.5882768,"Vasanth Nagar, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+161797131,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-27,2023,4,27,117,pre_monsoon,12.2567557,75.8475397,"Sand Banks, Ammathi, Karnataka 571211, India",Eudynamys scolopaceus,research
+163213717,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-05-23,2023,5,23,143,pre_monsoon,12.87860463,77.53010487,"VGHJ+M23 SOBHA FOREST VIEW, Lingadeeranahalli, Hosahalli, Karnataka 560062, India",Eudynamys scolopaceus,research
+164386290,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-05-28,2023,5,28,148,pre_monsoon,13.0855843559,77.6090172449,"Agrahara, Bengaluru, Karnataka 560064, India",Eudynamys scolopaceus,research
+166804556,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-06-10,2023,6,10,161,monsoon,12.9254533,77.546757,"Banashankari, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+168102688,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-06-18,2023,6,18,169,monsoon,12.9077988,77.5415208,"Uttarahalli Lake, Uttarahalli Hobli, Bengaluru, Karnataka 560061",Eudynamys scolopaceus,research
+169366652,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-06-25,2023,6,25,176,monsoon,12.98400877,77.71250837,"Bangalore, IN-KA, IN",Eudynamys scolopaceus scolopaceus,research
+169941734,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-06-28,2023,6,28,179,monsoon,12.7734421095,77.618266046,"QJF9+822, Nandanavana Layout, Bukkasagara, Karnataka 560105, India",Eudynamys scolopaceus,research
+170049408,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-06-29,2023,6,29,180,monsoon,12.9867251129,77.746600695,Kadugodi tree park,Eudynamys scolopaceus scolopaceus,research
+172965120,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-07-09,2023,7,9,190,monsoon,12.9254533,77.546757,"Banashankari, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+172993661,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-07-15,2023,7,15,196,monsoon,12.8749763,77.6299858,"Begur Lake, Begur, Bengaluru, Karnataka 560068",Eudynamys scolopaceus,research
+174433270,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-07-23,2023,7,23,204,monsoon,12.9254533,77.546757,"Banashankari, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+174433310,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-07-23,2023,7,23,204,monsoon,12.9254533,77.546757,"Banashankari, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+175910753,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-07-28,2023,7,28,209,monsoon,12.958266,77.7255357,"Thubarahalli Lake, Brookefield, Bengaluru, Karnataka 560066",Eudynamys scolopaceus,research
+176097718,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-07-31,2023,7,31,212,monsoon,11.976132,76.311426,"Badane Kuppe ,Via Antharasante, Near Hosmalla , HD Kote Taluk, Mysore, Basapura (Kittur), Karnataka 571114, India",Eudynamys scolopaceus,research
+176251882,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-08-02,2023,8,2,214,monsoon,13.0237374608,77.4293895512,"Bangalore Rural, IN-KA, IN",Eudynamys scolopaceus,research
+180902575,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-08-18,2023,8,18,230,monsoon,12.8724674442,77.5230516493,"Adarsha Layout, Lingadeeranahalli, Bengaluru, Karnataka 560109, India",Eudynamys scolopaceus,research
+181226256,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-08-27,2023,8,27,239,monsoon,13.0863043179,77.6117985696,"Dr. Mahadevappa D Gouri Kalmeshwar Nivas, 1st Cross, 1st Main, Near Gundutopu Balaji Lakeview Layout, Balaji Lake View Layout, Agrahara, Bengaluru, Karnataka 560064, India",Eudynamys scolopaceus,research
+182439147,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-09-09,2023,9,9,252,monsoon,12.8409532,77.5879346,"RHRQ+95M, Pillaganahalli, Bengaluru, Karnataka 560083, India",Eudynamys scolopaceus scolopaceus,research
+187497249,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-10-14,2023,10,14,287,post_monsoon,12.8789072887,77.5298513845,"VGHJ+M23 SOBHA FOREST VIEW, Lingadeeranahalli, Hosahalli, Bengaluru, Karnataka 560062, India",Eudynamys scolopaceus,research
+187603074,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-10-14,2023,10,14,287,post_monsoon,12.9501647,77.7409162,"Varthur Kere, Varthur, Bengaluru, Bengaluru east, XP2R+397, Devasthanagalu, Bellandur Amanikere, Karnataka 560087, India",Eudynamys scolopaceus,research
+188491593,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-10-22,2023,10,22,295,post_monsoon,12.8543147,77.5099453,"Thatguni Post, VG35+PXG, Kanakpura Road, Bengaluru, Rachanamadu, Karnataka 560082, India",Eudynamys scolopaceus,research
+188521416,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-10-16,2023,10,16,289,post_monsoon,14.3785294751,74.4264353368,"Belgaum Division, Karnataka, India",Eudynamys scolopaceus,research
+188637368,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-10-23,2023,10,23,296,post_monsoon,12.8744788715,77.5240152329,"VGFF+7J, Adarsha Layout, Bengaluru, Uttarahalli -Manavarthekaval, Karnataka 560109, India",Eudynamys scolopaceus,research
+188758671,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-10-23,2023,10,23,296,post_monsoon,12.899404,77.5798522,"Sarakki Lake, Jarganahalli, JP Nagar 7th Phase, J. P. Nagar, Bengaluru, Karnataka 560078",Eudynamys scolopaceus,research
+190993321,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-11-14,2023,11,14,318,post_monsoon,12.855081,77.6964663,"VM4W+2HP, Lake, Chikkanagamangala, Bengaluru, Karnataka 560099, India",Eudynamys scolopaceus,research
+191073768,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-06-04,2023,6,4,155,monsoon,13.0346651931,77.5730202359,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Eudynamys scolopaceus,research
+191258985,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-08-24,2023,8,24,236,monsoon,13.034732,77.572999,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Eudynamys scolopaceus,research
+191658204,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-08-07,2023,8,7,219,monsoon,12.9719911376,77.5417023897,"SBI Staff Colony, Hoshalli Extension, Stage 1, Vijayanagar, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+192806478,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-12-02,2023,12,2,336,winter,12.6864914,77.6626243,"Anekal Division, Karnataka, India",Eudynamys scolopaceus,research
+193371907,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-12-07,2023,12,7,341,winter,12.9817971139,77.7131642774,"XPJ7+Q8M, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",Eudynamys scolopaceus,research
+194004446,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-12-06,2023,12,6,340,winter,15.4566765,74.4935913,"Londa, Karnataka 591301, India",Eudynamys scolopaceus,research
+194798546,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-12-25,2023,12,25,359,winter,12.9183126,77.680097,"Saul Kere, Kaikondrahalli, Bengaluru, Karnataka 560035",Eudynamys scolopaceus scolopaceus,research
+195352735,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-12-31,2023,12,31,365,winter,13.0255295231,77.0255384222,"22GG+667, Kunigal, Karnataka 572130, India",Eudynamys scolopaceus scolopaceus,research
+195749013,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-11-05,2023,11,5,309,post_monsoon,12.910865137,77.6127993688,"MCHS Colony, Stage 2, BTM Layout, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+195815330,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-12-06,2023,12,6,340,winter,13.060819,77.6133939722,"3J67+2G Rohingya Settlement, Rachenahalli, Thanisandra, Bengaluru, Karnataka 560092, India",Eudynamys scolopaceus,research
+195907843,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-01-06,2024,1,6,6,winter,12.8225173,77.7294705,"Muthanallur Lake, Bommasandra, Karnataka",Eudynamys scolopaceus scolopaceus,research
+196128922,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-04-07,2019,4,7,97,pre_monsoon,12.4406642,75.7165956,CM Madikeri,Eudynamys scolopaceus,research
+196201397,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-01-09,2024,1,9,9,winter,13.062765,77.613396,"13.062765, 77.613396",Eudynamys scolopaceus,research
+196339963,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-01-09,2024,1,9,9,winter,13.7400683912,77.3232329238,"Mydanahalli, Karnataka, India",Eudynamys scolopaceus,research
+197126254,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-01-20,2024,1,20,20,winter,13.0658816667,77.61018,"3J86+R7R, Rachenahalli, Thanisandra, Bengaluru, Karnataka 560064, India",Eudynamys scolopaceus,research
+197760649,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-01-28,2024,1,28,28,winter,15.4416416667,75.0231083333,"Dharwad, IN-KA, IN",Eudynamys scolopaceus,research
+198371311,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-02-04,2024,2,4,35,winter,12.2823417867,76.5787545179,"Mysore Division, Karnataka, India",Eudynamys scolopaceus,research
+198400699,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-02-04,2024,2,4,35,winter,12.9170983333,77.6821566667,"Kaikondrahalli, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+198460911,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-02-01,2024,2,1,32,winter,15.970826,75.3836819722,"Belgaum Division, Karnataka, India",Eudynamys scolopaceus,research
+198831046,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-01-10,2024,1,10,10,winter,14.8543340478,74.2777938371,"Belgaum Division, Karnataka, Indie",Eudynamys scolopaceus,research
+198979296,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-02-11,2024,2,11,42,winter,12.8856646497,77.4674999348,"Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+200188339,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-02-10,2024,2,10,41,winter,12.9172801691,77.6649702288,Lower Amblipura Lake,Eudynamys scolopaceus,research
+200789314,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-02-29,2024,2,29,60,winter,12.951762436,77.5601506233,"XH26+P35, Nanjamba Agrahara, Chamrajpet, Bengaluru, Karnataka 560019, India",Eudynamys scolopaceus,research
+201877967,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-03-10,2024,3,10,70,pre_monsoon,13.1110933997,77.5727550997,"4H6F+J52, Bengaluru, Karnataka 560064, India",Eudynamys scolopaceus,research
+202240201,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-03-13,2024,3,13,73,pre_monsoon,12.9343866667,77.5771716667,"3rd Main Road, Bengaluru, KA, IN",Eudynamys scolopaceus,research
+203220075,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-03-20,2024,3,20,80,pre_monsoon,12.9391284,77.551288,"9, 80 Feet Rd, Mysore Bank Colony, SBM Colony, Banashankari 1st Stage, One, Bengaluru, Karnataka 560050, India",Eudynamys scolopaceus,research
+204688350,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-03-31,2024,3,31,91,pre_monsoon,15.4417887629,75.0231000781,"Dharwad, Karnataka 580004, India",Eudynamys scolopaceus,research
+204688391,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-03-31,2024,3,31,91,pre_monsoon,15.4418071838,75.0230859965,"C2VF+99C, Daneshwari Nagar, Vidyagiri, Dharwad, Karnataka 580004, India",Eudynamys scolopaceus,research
+204943961,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-12-02,2023,12,2,336,winter,12.6864208,77.6654326,"Pearl Vally, Thammanayakanahalli, Karnataka 562106, India",Eudynamys scolopaceus,research
+206018746,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-04-07,2024,4,7,98,pre_monsoon,14.5714393571,75.8897027001,"Avaragolla, Karnataka 577589, India",Eudynamys scolopaceus,research
+206055886,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-04-08,2024,4,8,99,pre_monsoon,12.9134101978,77.7574621289,"Karnataka, IN",Eudynamys scolopaceus,research
+206402734,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-04-06,2024,4,6,97,pre_monsoon,12.9183126,77.680097,"Saul Kere, Kaikondrahalli, Bengaluru, Karnataka 560035",Eudynamys scolopaceus,research
+208156515,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-03-22,2024,3,22,82,pre_monsoon,11.9922612,76.0667218,"Nagarahole national park Safari, Nagarhole Rd, Nalkeri Forest, Karnataka 571250, India",Eudynamys scolopaceus,research
+208432983,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-04-21,2024,4,21,112,pre_monsoon,15.4907269101,74.9838358909,"FXRM+HWJ, Dharwad, Karnataka 580005, India",Eudynamys scolopaceus,research
+209404147,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-04-26,2024,4,26,117,pre_monsoon,15.4131027778,75.0046138889,"Suthgatti Village, Karnataka 580009, India",Eudynamys scolopaceus,research
+209405431,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-04-26,2024,4,26,117,pre_monsoon,15.4131027778,75.0046138889,"Suthgatti Village, Karnataka 580009, India",Eudynamys scolopaceus,research
+209422629,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-04-26,2024,4,26,117,pre_monsoon,15.4131027778,75.0046138889,"Suthgatti Village, Karnataka 580009, India",Eudynamys scolopaceus,research
+209423646,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-04-26,2024,4,26,117,pre_monsoon,15.4131027778,75.0046138889,"Suthgatti Village, Karnataka 580009, India",Eudynamys scolopaceus,research
+209740884,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-03-16,2024,3,16,76,pre_monsoon,15.3581874153,75.1036873832,"57, Laxmi Layout, Vivekanand Nagar, Hubballi, Karnataka 580030, India",Eudynamys scolopaceus,research
+211564982,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-04-29,2024,4,29,120,pre_monsoon,12.9736113997,77.5430939997,"1st main 4th cross vasavi complex vijayanagar bangalore 560040, Hoshalli Extension, Stage 1, Vijayanagar, Bengaluru, Karnataka 560040, India",Eudynamys scolopaceus,research
+211932120,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-04-30,2024,4,30,121,pre_monsoon,13.016755892,77.5639945641,"1st floor, above D mess, Devasandra Layout, Bengaluru, Karnataka 560012, India",Eudynamys scolopaceus,research
+213597242,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-04-22,2024,4,22,113,pre_monsoon,13.1130333333,77.5786666667,"Puttena Halli Lake, Bengaluru, KA, IN",Eudynamys scolopaceus,research
+213602052,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-04-22,2024,4,22,113,pre_monsoon,13.1130333333,77.5786666667,"Puttena Halli Lake, Bengaluru, KA, IN",Eudynamys scolopaceus,research
+214114588,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-05-07,2024,5,7,128,pre_monsoon,13.0694159,77.5724576,"Bangalore, IN-KA, IN",Eudynamys scolopaceus,research
+215274527,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-05-03,2023,5,3,123,pre_monsoon,12.9492700047,77.58345,"Bangalore, IN-KA, IN",Eudynamys scolopaceus,research
+215276359,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-05-03,2023,5,3,123,pre_monsoon,12.953636,77.585341,"Walk Trail 3, Bengaluru, KA, IN",Eudynamys scolopaceus,research
+216289744,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-04-19,2024,4,19,110,pre_monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+216725609,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-05-19,2024,5,19,140,pre_monsoon,12.9035762,77.6672134,"Kasavanahalli Lake, Eastwood Twp, Haralur, Karnataka 560103",Eudynamys scolopaceus scolopaceus,research
+217677658,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-05-23,2024,5,23,144,pre_monsoon,12.7746460422,77.6120835543,Nandanavana Layout,Eudynamys scolopaceus,research
+220606640,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-06-04,2024,6,4,156,monsoon,12.964016,77.50525,"XG74+M57 Rock Garden, 2 Stage, Naagarabhaavi, Bengaluru, Karnataka 560072, India",Eudynamys scolopaceus,research
+221030989,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-06-07,2024,6,7,159,monsoon,13.0192532024,77.5676410273,"2nd cross, 3rd main, B.Hanumanthaiaha layout Chikkasandra, Mathikere, Bengaluru, Karnataka 560057, India",Eudynamys scolopaceus,research
+222218306,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-01-14,2024,1,14,14,winter,13.6284486042,77.6129732193,"Chikballapura, IN-KA, IN",Eudynamys scolopaceus,research
+223024168,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-06-16,2024,6,16,168,monsoon,13.0928221121,77.6084713557,"Agrahara, Bengaluru, Karnataka 560064, India",Eudynamys scolopaceus,research
+223058931,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-06-15,2024,6,15,167,monsoon,13.094412796,77.6075453989,"Kogilu, Bengaluru, Karnataka 560064, India",Eudynamys scolopaceus,research
+223913638,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-06-20,2024,6,20,172,monsoon,13.0233737387,77.5712086914,"Devasandra Layout, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+225906809,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-06-29,2024,6,29,181,monsoon,12.7746460422,77.6120835543,"331, Nandanavana Layout, Bukkasagara, Karnataka 560105, India",Eudynamys scolopaceus,research
+226220302,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-01-23,2024,1,23,23,winter,15.3335344045,76.457423279,"Hampi, Karnataka 583239, India",Eudynamys scolopaceus,research
+227722806,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-07-07,2024,7,7,189,monsoon,13.0800718,77.5785151,"Vignana Kendra, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+227722815,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-07-07,2024,7,7,189,monsoon,13.0800718,77.5785151,"Vignana Kendra, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+228895823,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-04-14,2023,4,14,104,pre_monsoon,13.058158,77.768247,"Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+229218599,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-07-14,2024,7,14,196,monsoon,13.0273194444,77.5476483333,"69/2, Yeshwanthpur Industrial Area, Industrial Suburb, Yeswanthpur, Bengaluru, Karnataka 560022, India",Eudynamys scolopaceus,research
+230865925,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-07-21,2024,7,21,203,monsoon,13.0860712712,77.6100208123,"Agrahara, Bengaluru, Karnataka 560064, India",Eudynamys scolopaceus,research
+231187614,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-07-06,2024,7,6,188,monsoon,12.3096733333,76.60123,"Bogadi 2nd Stage North, Mysuru, Karnataka, India",Eudynamys scolopaceus,research
+231555247,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-07-21,2024,7,21,203,monsoon,12.9183126,77.680097,"Saul Kere, Kaikondrahalli, Bengaluru, Karnataka 560035",Eudynamys scolopaceus,research
+232704143,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-07-09,2024,7,9,191,monsoon,12.8402778,77.6283333,"RJRH+488, Bettadasanapura, Bengaluru, Karnataka 560100, India",Eudynamys scolopaceus,research
+233251673,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-08-01,2024,8,1,214,monsoon,12.838186,77.6324763,"RJQJ+3X3, Bettadasanapura Bypass Rd, Electronic City, Bengaluru, Karnataka 560100, India",Eudynamys scolopaceus,research
+233252029,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-08-01,2024,8,1,214,monsoon,12.838186,77.6324763,"RJQJ+3X3, Bettadasanapura Bypass Rd, Electronic City, Bengaluru, Karnataka 560100, India",Eudynamys scolopaceus,research
+234669672,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-08-09,2024,8,9,222,monsoon,12.932475,77.5763383333,"Yediyur Lake Park, Bengaluru, KA, IN",Eudynamys scolopaceus,research
+235503537,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-08-08,2024,8,8,221,monsoon,12.8323316,77.6310253,"RJHM+G82 Bingipura Lake, Dargah, S Bingipura Lake Rd, Bettadasanapura, S.Bingipura, Karnataka 560068, India",Eudynamys scolopaceus,research
+235693252,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-08-13,2024,8,13,226,monsoon,12.838186,77.6324763,"RJQJ+3X3, Bettadasanapura Bypass Rd, Electronic City, Bengaluru, Karnataka 560100, India",Eudynamys scolopaceus,research
+235925347,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-08-15,2024,8,15,228,monsoon,12.838186,77.6324763,"RJQJ+3X3, Bettadasanapura Bypass Rd, Electronic City, Bengaluru, Karnataka 560100, India",Eudynamys scolopaceus,research
+235925775,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-08-15,2024,8,15,228,monsoon,12.8381988,77.6287857,"RJRH+4F3, Bettadasanapura, Bengaluru, Karnataka 560100, India",Eudynamys scolopaceus,research
+238750735,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-07-13,2024,7,13,195,monsoon,12.9620787,77.8990441,Hulimangala Lake,Eudynamys scolopaceus,research
+238753618,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-08-13,2024,8,13,226,monsoon,12.8402778,77.6283333,Bettadasanapura Lake,Eudynamys scolopaceus,research
+238753623,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-08-13,2024,8,13,226,monsoon,12.8402778,77.6283333,Bettadasanapura Lake,Eudynamys scolopaceus,research
+239377613,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-08-17,2024,8,17,230,monsoon,12.83742,77.58723,"Kalkere State Forest, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+244286144,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-09-26,2024,9,26,270,monsoon,12.8402778,77.6283333,Bettadasanapura Lake,Eudynamys scolopaceus,research
+244313845,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-09-24,2024,9,24,268,monsoon,12.8402778,77.6283333,Bettadasanapura Lake,Eudynamys scolopaceus,research
+244341681,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-09-18,2024,9,18,262,monsoon,12.8323316,77.6310253,"Bingipura Lake, Dargah, S Bingipura Lake Rd, Bettadasanapura, S.Bingipura, Karnataka 560068, India",Eudynamys scolopaceus,research
+247639847,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-10-13,2024,10,13,287,post_monsoon,12.9715987,77.5945627,"Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+250896467,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-11-07,2024,11,7,312,post_monsoon,12.3103953,76.6304409,"Kukkarahalli Lake, Kukkarahalli, Saraswathipuram, Mysuru, Karnataka",Eudynamys scolopaceus,research
+252252831,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-03-18,2024,3,18,78,pre_monsoon,13.0311166667,77.6640277778,"Valyaplackal House, 74, CRP Layout, Horamavu Agara, Horamavu, Bengaluru, Karnataka 560113, India",Eudynamys scolopaceus,research
+252252929,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-03-22,2024,3,22,82,pre_monsoon,13.0309944444,77.6639888889,"Bangalore, IN-KA, IN",Eudynamys scolopaceus,research
+252260846,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-11-17,2024,11,17,322,post_monsoon,13.0800718,77.5785151,"Vignana Kendra, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+252360257,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-11-20,2024,11,20,325,post_monsoon,11.9760783333,76.3120583333,"Heggadadevankote, Mysuru, Karnataka, IN",Eudynamys scolopaceus,research
+252908575,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-11-24,2024,11,24,329,post_monsoon,11.9277404776,76.2414484691,"Hosahalli, Karnataka, Indien",Eudynamys scolopaceus,research
+254695110,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-12-08,2024,12,8,343,winter,12.2324546,76.6158942,"Kalalavadi, Karnataka 570008, India",Eudynamys scolopaceus,research
+254695128,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-12-08,2024,12,8,343,winter,12.2324546,76.6158942,"Kalalavadi, Karnataka 570008, India",Eudynamys scolopaceus,research
+255162394,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-12-15,2024,12,15,350,winter,13.1620028,77.4730653,"Hesaraghatta Grass Farm, Karnataka 560089, India",Eudynamys scolopaceus,research
+255869338,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-12-20,2024,12,20,355,winter,12.9714785136,77.5945626944,"67/1, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560002, India",Eudynamys scolopaceus,research
+255954835,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-12-23,2024,12,23,358,winter,13.075324,77.7677905,"Hoskote Lake, Bengaluru Rural, Karnataka, IN",Eudynamys scolopaceus,research
+256027454,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-04-13,2021,4,13,103,pre_monsoon,13.0652787,77.5626584,"Doddabommasandra Lake, Doddabommasandra, Bengaluru, Karnataka 560097",Eudynamys scolopaceus,research
+256028318,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-04-17,2021,4,17,107,pre_monsoon,13.0652787,77.5626584,"Doddabommasandra Lake, Doddabommasandra, Bengaluru, Karnataka 560097",Eudynamys scolopaceus,research
+256401157,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-10-19,2024,10,19,293,post_monsoon,13.0873671,77.609935,"Jakkur Lake, Agrahara, Bengaluru, Karnataka 560064",Eudynamys scolopaceus,research
+256484996,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-11-14,2024,11,14,319,post_monsoon,13.0462444336,77.4999407306,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India ",Eudynamys scolopaceus,research
+256485868,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-11-21,2024,11,21,326,post_monsoon,13.0462444336,77.4999407306,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India ",Eudynamys scolopaceus,research
+256486189,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-11-24,2024,11,24,329,post_monsoon,12.8543147,77.5099453,"Thatguni Post, VG35+PXG, Kanakpura Road, Bengaluru, Rachanamadu, Karnataka 560082, India",Eudynamys scolopaceus,research
+262903936,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-01-07,2024,1,7,7,winter,12.8475633333,77.4821916667,"Badamanavarthekaval, Bengaluru, KA, IN",Eudynamys scolopaceus,research
+277685121,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-08-08,2024,8,8,221,monsoon,13.034731172,77.573019101,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Eudynamys scolopaceus,research
+278411518,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-12-24,2024,12,24,359,winter,12.88255,74.8332666667,"Mukhya Prana Temple Road, Mangaluru, Karnataka, IN",Eudynamys scolopaceus,research
+281564829,eudynamys_scolopaceus,Asian Koel,bird,consumer,2023-01-02,2023,1,2,2,winter,13.0800718,77.5785151,"Vignana Kendra, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+285321497,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-10-16,2024,10,16,290,post_monsoon,13.0347047012,77.572985693,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Eudynamys scolopaceus,research
+296513699,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-08-11,2024,8,11,224,monsoon,11.9261605,76.2662842,"Beerambally, Jakkalli (N. Begur), Karnataka 571116, India",Eudynamys scolopaceus,research
+318848424,eudynamys_scolopaceus,Asian Koel,bird,consumer,2024-06-12,2024,6,12,164,monsoon,13.0911142,77.6609323,"Hobli, 8/4, Hennur Bagalur Main Rd, Mitganahalli, Kannuru, Bidarahalli, Bengaluru, Karnataka 560077, India",Eudynamys scolopaceus,research
+319093167,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-08-23,2020,8,23,236,monsoon,12.9425467101,77.5625780225,"15, Srinivasanagara, Hanumanthnagar, Banashankari 1st Stage, Banashankari, Bengaluru, Karnataka 560050, India",Eudynamys scolopaceus,research
+334835288,eudynamys_scolopaceus,Asian Koel,bird,consumer,2021-02-13,2021,2,13,44,winter,12.8729735561,77.524777634,"Adarsha Layout, Lingadeeranahalli, Bengaluru, Karnataka 560109, India",Eudynamys scolopaceus,research

@@ -1,0 +1,533 @@
+observation_id,species_key,species_common,species_type,species_role,observed_date,year,month,day,day_of_year,season,latitude,longitude,place_guess,scientific_name,quality_grade
+19801324,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-01-22,2019,1,22,22,winter,12.8011441869,74.8565717787,"Kolya, Kumpala Village, Someshwar, Karnataka 575022, India",Apis dorsata,research
+19878672,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-01-26,2019,1,26,26,winter,13.11607284,77.15618978,"Tumkur Rd, Lakkenahalli, Karnataka 561101, India",Apis dorsata,research
+19878685,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-01-26,2019,1,26,26,winter,13.11612197,77.15618973,"Tumkur Rd, Lakkenahalli, Karnataka 561101, India",Apis dorsata,research
+21560001,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-03-24,2019,3,24,83,pre_monsoon,12.8814775407,77.5261452598,"Thurahalli, Bengaluru, Karnataka 560062, India",Apis dorsata,research
+27159455,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-06-16,2019,6,16,167,monsoon,12.9205893,77.2944334,"Savandurga Hill, Karnataka",Apis dorsata,research
+28946666,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-02-17,2019,2,17,48,winter,13.37527,77.6763416667,"Nandi Hills, Karnataka, India",Apis dorsata,research
+29226154,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-06-30,2019,6,30,181,monsoon,12.8782040927,77.3042289291,"Savanadurga State Forest, Karnataka, India",Apis dorsata,research
+30183694,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-07-28,2019,7,28,209,monsoon,13.3707066,74.7849119,"End Point, Manipal, Karnataka 576104",Apis dorsata,research
+34299008,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-10-12,2019,10,12,285,post_monsoon,13.0708789825,77.5802154541,"10, Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka 560065, India",Apis dorsata,research
+34861897,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-10-14,2019,10,14,287,post_monsoon,11.7348406407,76.6010767191,"Lakkipura, Karnataka, India",Apis dorsata,research
+37084866,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-12-27,2019,12,27,361,winter,12.9068088531,77.4930648804,"SHIVASKANDA RESIDENCY 1st cross, new sunkalpalya extension concept city, uttarahalli main road, opp mahaveer lake apartment, Green View Layout, Kengeri, Bengaluru, Karnataka 560060, India",Apis dorsata,research
+37264855,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-12-07,2019,12,7,341,winter,12.4244205449,75.7381857187,Coorg,Apis dorsata,research
+38292301,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-01-23,2020,1,23,23,winter,12.3679199251,76.4808181567,"Mysuru, Karnataka, India",Apis dorsata,research
+38500748,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-02-10,2020,2,10,41,winter,12.9147777557,77.6867904663,"WIpro Corporate Office, Kaikondrahalli, Bengaluru, Karnataka 560035, India",Apis dorsata,research
+39037049,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-02-22,2020,2,22,53,winter,13.0199,77.5691305556,"Bangalore, Karnataka, India",Apis dorsata,research
+39037071,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-02-22,2020,2,22,53,winter,13.0197194444,77.5692055556,"Bangalore, Karnataka, India",Apis dorsata,research
+41855850,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-04-11,2020,4,11,102,pre_monsoon,13.0675032778,77.5784810833,"Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka 560097, India",Apis dorsata,research
+43852999,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-04-27,2020,4,27,118,pre_monsoon,13.1225299001,77.6082826795,Bengaluru,Apis dorsata,research
+43874964,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-04-25,2020,4,25,116,pre_monsoon,13.0847066,77.6453984997,"Bangalore, Karnataka, India",Apis dorsata,research
+43874967,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-04-25,2020,4,25,116,pre_monsoon,13.0847066,77.6453984997,"Bangalore, Karnataka, India",Apis dorsata,research
+46195745,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-05-17,2020,5,17,138,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Apis dorsata,research
+46641839,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-07-07,2019,7,7,188,monsoon,13.3231027778,77.1626972222,"Aralihalli, Karnataka 572104, India",Apis dorsata,research
+46980677,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-05-23,2020,5,23,144,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Apis dorsata,research
+47605089,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-05-28,2020,5,28,149,pre_monsoon,12.90199667,77.66577167,"Haralur, Bengaluru, Karnataka, IN",Apis dorsata,research
+47608985,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-05-28,2020,5,28,149,pre_monsoon,12.9715987467,77.5945626944,Bengaluru,Apis dorsata,research
+48751352,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-06-07,2020,6,7,159,monsoon,13.2368522778,77.2641016667,"Karnataka 562111, India",Apis dorsata,research
+49093633,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-06-10,2020,6,10,162,monsoon,13.0783795235,77.492385499,"Karnataka, IN",Apis dorsata,research
+49541346,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-06-14,2020,6,14,166,monsoon,13.0547609093,77.5424370422,Bengaluru,Apis dorsata,research
+50291535,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-06-20,2020,6,20,172,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Apis dorsata,research
+51543040,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-07-01,2020,7,1,183,monsoon,13.0497418026,77.551864278,"HMT Main Road, Bengaluru, KA, IN",Apis dorsata,research
+51996793,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-05-17,2020,5,17,138,pre_monsoon,13.6538464707,74.9337263811,"Heggodlu, Siddapura, Udupi, Karnataka, India",Apis dorsata,research
+52111746,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-07-06,2020,7,6,188,monsoon,12.9579395002,77.7067447454,"Munnekollal, Bengaluru, Karnataka, India",Apis dorsata,research
+52137885,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-07-06,2020,7,6,188,monsoon,13.0578095229,77.6390541717,"Ferns Residency, Kothanur, Bengaluru, Karnataka 560077, India ",Apis dorsata,research
+52329710,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-07-07,2020,7,7,189,monsoon,13.070144,77.5857480833,"383/A, 4th Main, Rajiv Gandhi Nagar Layout, NTI Housing Society 2nd phase, (Near Sahakarnagar Railway Underpass), Sahakar Nagar, Kodigehalli, Bengaluru, Karnataka 560097, India",Apis dorsata,research
+52541876,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-07-05,2020,7,5,187,monsoon,13.0690211111,77.6126333333,"Sri Ramapura Cross, Bengaluru, Karnataka 560064, India",Apis dorsata,research
+53182745,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-07-07,2019,7,7,188,monsoon,13.3231027778,77.1626972222,"Aralihalli, Karnataka 572104, India",Apis dorsata,research
+53550985,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-07-19,2020,7,19,201,monsoon,12.8655969612,77.5217172503,Nagegowdanapalya,Apis dorsata,research
+54537186,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-07-23,2020,7,23,205,monsoon,13.0578095229,77.6390541717,Ferns Residency,Apis dorsata,research
+54614209,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-07-28,2020,7,28,210,monsoon,12.8160487422,77.6793811843,Bommasandra Industrial Area,Apis dorsata,research
+55023032,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-02-09,2019,2,9,40,winter,13.370154,77.6834551,"Nandi Hills, Karnataka, India",Apis dorsata,research
+56112800,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-08-08,2020,8,8,221,monsoon,13.1231003411,77.9642582905,"Nandagudi, Uddappanahalli, Karnataka, India",Apis dorsata,research
+56114229,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-08-11,2020,8,11,224,monsoon,12.8160487422,77.6793811843,Bommasandra Industrial Area,Apis dorsata,research
+56283371,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-08-13,2020,8,13,226,monsoon,13.0689606,77.6126264,Bengaluru,Apis dorsata,research
+56823137,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-08-18,2020,8,18,231,monsoon,12.864314363,77.5212750211,Sobha Sunscape,Apis dorsata,research
+58006294,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-03-31,2020,3,31,91,pre_monsoon,13.3000716671,77.4173018709,"Karnataka 561204, India",Apis dorsata,research
+58313591,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-09-02,2020,9,2,246,monsoon,12.8898418657,74.8410085961,"Kapikad, Mangalore, Karnataka, India",Apis dorsata,research
+58386579,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-09-03,2020,9,3,247,monsoon,16.8491614843,75.712687634,"Bangaramma Sajjan Campus, Vijayapura, KA, IN",Apis dorsata,research
+58483508,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-09-04,2020,9,4,248,monsoon,12.916575,77.67873333,"Kaikondrahalli, Bengaluru, KA, IN",Apis dorsata,research
+59114738,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-09-10,2020,9,10,254,monsoon,13.0762259921,77.5761064742,"Vignana Kendra, Bengaluru, Karnataka, India",Apis dorsata,research
+59129231,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-05-26,2020,5,26,147,pre_monsoon,13.0759490236,77.5758221575,"Vignana Kendra, Bengaluru, Karnataka, India",Apis dorsata,research
+59140751,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-05-26,2020,5,26,147,pre_monsoon,13.0759666653,77.5758124811,"Vignana Kendra, Bengaluru, Karnataka, India",Apis dorsata,research
+59308389,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-08-08,2020,8,8,221,monsoon,12.9901508706,77.6624017954,Prestige Greenwoods,Apis dorsata,research
+59664486,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-09-15,2020,9,15,259,monsoon,12.8655969612,77.5217172503,Nagegowdanapalya,Apis dorsata,research
+60679396,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-09-25,2020,9,25,269,monsoon,13.0667287222,77.5774327222,"Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka, India",Apis dorsata,research
+61931342,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-10-06,2020,10,6,280,post_monsoon,12.8643516251,77.5202896446,Sobha Sunbeam 1,Apis dorsata,research
+61954063,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-10-07,2020,10,7,281,post_monsoon,12.8643516251,77.5202896446,"Shobha Hills View Apartment, Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Apis dorsata,research
+62286333,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-10-10,2020,10,10,284,post_monsoon,12.5198144081,76.8403100967,"Karnataka 571402, India",Apis dorsata,research
+62376113,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-10-12,2020,10,12,286,post_monsoon,13.1088152778,77.6067765833,"Maruthi Nagar, Yelahanka, Bengaluru, Karnataka 560064, India",Apis dorsata,research
+63155644,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-10-21,2020,10,21,295,post_monsoon,13.2266023,77.5467315,Bisuvanahalli,Apis dorsata,research
+63222046,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-08-14,2020,8,14,227,monsoon,12.8676571453,75.0388362631,Nandavara,Apis dorsata,research
+63370820,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-10-15,2020,10,15,289,post_monsoon,13.1623166,75.8679195,"Belur, Karnataka, India",Apis dorsata,research
+63941608,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-11-01,2020,11,1,306,post_monsoon,12.8643558743,77.5202896446,"Shobha Hills View Apartment, Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Apis dorsata,research
+64584668,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-11-10,2020,11,10,315,post_monsoon,14.7166245147,76.744293049,"Molakalmuru, Karnataka 577535, India",Apis dorsata,research
+64663549,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-11-11,2020,11,11,316,post_monsoon,13.0651159722,77.6480399722,"Anjanappa Layout, Narayanapura, Bengaluru, Karnataka 560077, India",Apis dorsata,research
+66038320,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-03,2020,12,3,338,winter,12.9374168727,77.7083150041,"Balagere, Bengaluru, KA, IN",Apis dorsata,research
+66760137,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-18,2020,12,18,353,winter,16.8677593924,75.6869994376," Deserted Monuments, Ittangihal Rd, Bijapur Bijapur, IN-KA",Apis dorsata,research
+66772758,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-19,2020,12,19,354,winter,13.065127,77.648424,"Narayanapura, Bengaluru, Karnataka 560077, India",Apis dorsata,research
+66816592,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-20,2020,12,20,355,winter,12.8571865,77.508911,"Rachanamadu, Karnataka, India",Apis dorsata,research
+66816601,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-20,2020,12,20,355,winter,12.8571865,77.508911,"Rachanamadu, Karnataka, India",Apis dorsata,research
+67036206,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-25,2020,12,25,360,winter,12.9160972222,77.6787861111,"21, Pushpaveni Layout, Maruti Nagar, Kaikondrahalli, Bengaluru, Karnataka 560035, India",Apis dorsata,research
+67081940,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-26,2020,12,26,361,winter,12.8788403282,77.5297049619,"Bengaluru, Karnataka, India",Apis dorsata,research
+67194546,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-26,2020,12,26,361,winter,15.1661701357,74.6325242333,"Kulgi Nature Camp, Uttara Kannada, Karnataka, India",Apis dorsata,research
+67242665,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-24,2020,12,24,359,winter,12.8789282066,77.5300911069,Sobha Forest View,Apis dorsata,research
+67456233,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-01-01,2021,1,1,1,winter,12.90630625,77.6767617222,"Kasavanahalli, Karnataka 560035, India",Apis dorsata,research
+67783071,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-01-08,2021,1,8,8,winter,13.1230895808,77.9642930316,"Nandagudi, Uddappanahalli, Karnataka, India",Apis dorsata,research
+67829948,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-01-10,2021,1,10,10,winter,12.9074207,77.6858892,"Rainbow Drive, Halanayakanahalli, Karnataka 560035, India",Apis dorsata,research
+68044258,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-01-14,2021,1,14,14,winter,13.065063,77.648097,"Anjanappa Layout, Narayanapura, Bengaluru, Karnataka 560077, India",Apis dorsata,research
+68369743,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-01-20,2021,1,20,20,winter,12.969340772,77.7205276117,Kundalahalli Lake,Apis dorsata,research
+68435270,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-01-20,2021,1,20,20,winter,14.5429335002,74.3136527762,"15, Dandebagh, Gokarna, Karnataka 581326, India",Apis dorsata,research
+68592088,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-01-23,2021,1,23,23,winter,12.447032785,76.5801938251,"Karnataka 571455, India",Apis dorsata,research
+68926732,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-04-28,2019,4,28,118,pre_monsoon,12.974405,77.59762,"NH 275, Bengaluru, KA, IN",Apis dorsata,research
+68955249,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-09-06,2020,9,6,250,monsoon,13.1570191744,77.5728267758,Nagadasanahalli Lake,Apis dorsata,research
+69081902,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-02-03,2021,2,3,34,winter,13.065137,77.648097,"Anjanappa Layout, Narayanapura, Bengaluru, Karnataka 560077, India",Apis dorsata,research
+69301592,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-04-19,2019,4,19,109,pre_monsoon,12.9813768684,77.2296452049,"Karnataka, IN",Apis dorsata,research
+69851626,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-02-13,2021,2,13,44,winter,12.8742055,77.5272426,"Adarsha Layout, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Apis dorsata,research
+70138581,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-27,2020,12,27,362,winter,13.270497,76.3780169722,"Siddapura, Karnataka, India",Apis dorsata,research
+70240439,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-02-27,2021,2,27,58,winter,12.9755305556,77.5909344444,"Nunegundlapalli, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560001, India",Apis dorsata,research
+70306421,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-02-28,2021,2,28,59,winter,12.9352667515,77.6244807243,Koramangala,Apis dorsata,research
+70482124,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-03-03,2021,3,3,62,pre_monsoon,13.0284472488,77.7101476659,"Karnataka, IN",Apis dorsata,research
+70870545,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-03-09,2021,3,9,68,pre_monsoon,13.1005076081,77.7022403042,"Chikkasandra South Taluka, Bengaluru, KA, IN",Apis dorsata,research
+71495671,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-01-26,2021,1,26,26,winter,13.1834704291,77.5971644372,"Embassy Riding School, Kuduragere, Karnataka 562157, India",Apis dorsata,research
+71611395,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-03-20,2021,3,20,79,pre_monsoon,12.878924,77.5300912,"100 Feet Road, Off, Kanakapura Rd, Banashankari 6th Stage, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Apis dorsata,research
+72273484,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-03-28,2021,3,28,87,pre_monsoon,12.894923989,77.5917272999,Doresani Palya Forest Campus,Apis dorsata,research
+74370021,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-04-18,2021,4,18,108,pre_monsoon,12.9064702988,77.5868225098,Bengaluru,Apis dorsata,research
+74507635,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-08-28,2020,8,28,241,monsoon,12.9126925,77.6732975,"Kaikondrahalli Lake, Valliyamma Layout, Haralur, Karnataka 560103",Apis dorsata,research
+74510344,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-01-10,2021,1,10,10,winter,12.9052013,77.6865383,"Rainbow Drive, Halanayakanahalli, Karnataka 560035, India",Apis dorsata,research
+74805130,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-03-21,2021,3,21,80,pre_monsoon,12.8577087479,77.5193998218,"Shobha Hills View Apartment, Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Apis dorsata,research
+75693590,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-04-29,2021,4,29,119,pre_monsoon,13.072741,77.5847009722,"Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka, India",Apis dorsata,research
+79949413,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-05-21,2021,5,21,141,pre_monsoon,12.9139991289,77.6475725323,"Vanganahalli, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",Apis dorsata,research
+80126523,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-05-24,2021,5,24,144,pre_monsoon,12.92695295,77.5436,"11th Main Road, Bengaluru, KA, IN",Apis dorsata,research
+80829351,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-05-30,2021,5,30,150,pre_monsoon,12.8991784974,77.6669907197,Haralur,Apis dorsata,research
+82261253,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-06-09,2021,6,9,160,monsoon,12.3093675,76.6026389,"Bogadi Kere, Bogadi 2nd Stage North, Mysuru, Karnataka 570026",Apis dorsata,research
+82302198,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-06-08,2021,6,8,159,monsoon,12.9690232,77.6898133,Home of,Apis dorsata,research
+83254137,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-06-16,2021,6,16,167,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Apis dorsata,research
+83857884,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-06-20,2021,6,20,171,monsoon,13.0673619722,77.572231,"187/16, Sir MV Layout, Dhanalakshmi Layout, Virupakshapura, Bengaluru, Karnataka 560097, India",Apis dorsata,research
+84665381,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-06-26,2021,6,26,177,monsoon,13.06741,77.572265,"187/16, Sir MV Layout, Dhanalakshmi Layout, Virupakshapura, Bengaluru, Karnataka 560097, India",Apis dorsata,research
+85422581,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-07-03,2021,7,3,184,monsoon,12.9690399722,77.7405609722,"34/4, Phase 1, Whitefield, Bengaluru, Karnataka 560066, India",Apis dorsata,research
+85735955,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-07-05,2021,7,5,186,monsoon,12.8789282066,77.5300911069,Sobha Forest View,Apis dorsata,research
+85936198,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-10-01,2020,10,1,275,post_monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Apis dorsata,research
+87242116,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-03-07,2021,3,7,66,pre_monsoon,12.912108281,77.5462473929,Chikkalsandra,Apis dorsata,research
+87242750,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-02-23,2021,2,23,54,winter,12.912108281,77.5462473929,Chikkalasandra,Apis dorsata,research
+87251847,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-07-15,2021,7,15,196,monsoon,13.07245675,77.63761275,"40, Police Quarters, RK Hegde Nagar, Bengaluru, Karnataka 560077, India",Apis dorsata,research
+88818249,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-07-27,2021,7,27,208,monsoon,13.0604558,77.657084,"Koel's Pizzeria Cross, Road, Hanumanthappa Layout, Kyalasanahalli, Bengaluru, Karnataka 560077, India",Apis dorsata,research
+90860927,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-08-10,2021,8,10,222,monsoon,13.4059333658,77.4396523833,halu chilume gange temple,Apis dorsata,research
+91084771,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-08-13,2021,8,13,225,monsoon,13.7361129722,75.629715,"Karnataka 577115, India",Apis dorsata,research
+91085874,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-01-31,2019,1,31,31,winter,12.2276276,76.6123884,"Kalalavadi, Karnataka, India",Apis dorsata,research
+91621958,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-02-28,2021,2,28,59,winter,12.9807748795,77.6299667358,"Bangalore, IN-KA, IN",Apis dorsata,research
+92079451,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-08-22,2021,8,22,234,monsoon,12.9866216,77.7444506,Kadugodi tree park,Apis dorsata,research
+92678846,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-08-27,2021,8,27,239,monsoon,12.84275,77.724463,"Nambiar Bellezea, Bommasandra, Karnataka 560099, India",Apis dorsata,research
+92749024,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-08-28,2021,8,28,240,monsoon,13.0724678524,77.637700662,"40, Police Quarters, RK Hegde Nagar, Bengaluru, Karnataka 560077, India",Apis dorsata,research
+93352125,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-09-02,2021,9,2,245,monsoon,13.0329246521,77.6634750366,Bengaluru,Apis dorsata,research
+94095130,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-09-08,2021,9,8,251,monsoon,12.2704249134,76.7756307185,"Varakodu Scrub Forest, Mysuru, Karnataka, India",Apis dorsata,research
+95618773,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-09-08,2021,9,8,251,monsoon,12.9943424958,77.7321019242,"Forest Training Institute, Bengaluru, KA, IN",Apis dorsata,research
+96759915,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-10-11,2020,10,11,285,post_monsoon,12.3238606106,76.9175399041,"Vadgal, Mysuru, Karnataka, India",Apis dorsata,research
+96864228,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-10-02,2021,10,2,275,post_monsoon,13.0725960833,77.6376990278,"26, Police Quarters, RK Hegde Nagar, Bengaluru, Karnataka 560077, India",Apis dorsata,research
+96886291,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-10-02,2021,10,2,275,post_monsoon,12.8787043616,77.5295869449,"100 Feet Road, Off, Kanakapura Rd, Banashankari 6th Stage, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Apis dorsata,research
+97368356,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-10-06,2021,10,6,279,post_monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Apis dorsata,research
+97757668,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-10-09,2021,10,9,282,post_monsoon,12.8543147,77.5099453,"Thatguni Post, Kanakpura Road, Bengaluru, Karnataka 560082, India",Apis dorsata,research
+98723220,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-09-26,2021,9,26,269,monsoon,12.9507432,77.5847773,"Mavalli, Bengaluru, Karnataka 560004, India",Apis dorsata,research
+99961152,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-07-26,2021,7,26,207,monsoon,12.8956207615,77.6025469601,IIM Bangalore,Apis dorsata,research
+100312118,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-11-01,2021,11,1,305,post_monsoon,13.158234023,75.8379008621,"Konerlu, Karnataka",Apis dorsata,research
+100453153,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-11-06,2021,11,6,310,post_monsoon,12.824451,77.72821495,"Muthanallur Lake, Bengaluru, KA, IN",Apis dorsata,research
+100845798,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-01-08,2021,1,8,8,winter,13.1234792852,77.963935383,"Nandagudi, Uddappanahalli, Karnataka, India",Apis dorsata,research
+101063090,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-11-14,2021,11,14,318,post_monsoon,13.1211265256,77.6133408397,Nitesh Central Park,Apis dorsata,research
+101607927,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-11-21,2021,11,21,325,post_monsoon,12.8731521089,77.5204563136,"Pavamanapura, Bengaluru, Karnataka, India",Apis dorsata,research
+102072019,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-11-27,2021,11,27,331,post_monsoon,13.086963,78.335683,"Oorakuntemittur, Karnataka, India",Apis dorsata,research
+102531647,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-12-04,2021,12,4,338,winter,13.0939806,77.5778781,"NCBS Housing Complex, 6th B Main Road, 3rd Stage, Chikka Bommasandra, Behind Yalahanka New Town Bus stand, Saradha Nagar, Udaya Layout, Yelahanka New Town, Bengalore, Karnataka 560064, India",Apis dorsata,research
+102994492,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-12-12,2021,12,12,346,winter,12.8543147,77.5099453,"Thatguni Post, Kanakpura Road, Bengaluru, Karnataka 560082, India",Apis dorsata,research
+103459895,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-12-22,2021,12,22,356,winter,12.9068031111,77.6767191667,"WM4G+PM6, Kasavanahalli, Karnataka 560035, India",Apis dorsata,research
+103571263,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-12-22,2021,12,22,356,winter,13.3800328871,74.6731075652,"St. Mary's Islands, Dakshina Kannada, Karnataka",Apis dorsata,research
+104182320,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-12-30,2021,12,30,364,winter,12.6654621921,76.4160060883,"Hemagiri Betta, Biliganahalli, Karnataka 571426, India",Apis dorsata,research
+104474921,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-01-06,2022,1,6,6,winter,13.7197882731,75.6373148784,"PJ9P+QV8, Singanamane, Thavaraghatta, Karnataka 577115, India",Apis dorsata,research
+105153474,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-03-26,2021,3,26,85,pre_monsoon,13.0348044148,77.5732240637,"Bengaluru, Karnataka 560094, India",Apis dorsata,research
+105319136,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-04-29,2021,4,29,119,pre_monsoon,13.0346638386,77.5730786708,"Bengaluru, Karnataka 560094, India",Apis dorsata,research
+105946658,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-02-01,2022,2,1,32,winter,13.05582443,77.63899524,"Bangalore, IN-KA, IN",Apis dorsata,research
+105946669,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-02-01,2022,2,1,32,winter,13.05572184,77.63894975,"Bangalore, IN-KA, IN",Apis dorsata,research
+106170120,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-02-05,2022,2,5,36,winter,12.8797293372,77.5296513209,"Bengaluru, Karnataka, India",Apis dorsata,research
+106307229,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-02-03,2022,2,3,34,winter,12.8643558743,77.5202896446,"Shobha Hills View Apartment, Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Apis dorsata,research
+107112676,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-02-19,2022,2,19,50,winter,12.8934072,77.5945238,"184,, 182, Main Rd, Arekere MICO Layout 2nd stage, Manjunatha Layout, Sahyadri Layout, Arekere, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India",Apis dorsata,research
+107546884,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-02-27,2022,2,27,58,winter,12.9979469484,77.6615767706,"2nd Cross Road, Bengaluru, KA, IN",Apis dorsata,research
+107556939,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-02-26,2022,2,26,57,winter,13.42348176,75.10549534,"Udupi, IN-KA, IN",Apis dorsata,research
+107760189,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-03-02,2022,3,2,61,pre_monsoon,12.9398361111,77.5090305556,"NSS Bhavan, Gnanabharathi, Gnana Bharathi, Bengaluru, Karnataka 560056, India",Apis dorsata,research
+108150329,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-03-08,2022,3,8,67,pre_monsoon,12.8924713135,77.6171722412,Bengaluru,Apis dorsata,research
+108292213,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-03-10,2022,3,10,69,pre_monsoon,12.8791566688,77.5293209776,"VGHJ+M23 SOBHA FOREST VIEW, Lingadeeranahalli, Hosahalli, कर्नाटक 560062, India",Apis dorsata,research
+109217307,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-03-21,2022,3,21,80,pre_monsoon,13.0097645957,77.5253959,Laggere,Apis dorsata,research
+109425604,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-03-25,2022,3,25,84,pre_monsoon,12.8648462948,77.7713217754,"Kadagrahara, Bengaluru, KA, IN",Apis dorsata,research
+109830596,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-03-29,2022,3,29,88,pre_monsoon,12.9715987,77.5945627,"Bengaluru, Karnataka, India",Apis dorsata,research
+110010167,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-03-31,2022,3,31,90,pre_monsoon,12.8935268611,77.6588411944,"Lakedew Residency- Phase 2, Haralur, Karnataka, India",Apis dorsata,research
+110077582,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-03-08,2022,3,8,67,pre_monsoon,13.034753,77.572977,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+110256670,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-04-03,2022,4,3,93,pre_monsoon,12.9220496037,77.4110948901,"Bengaluru, Karnataka, India",Apis dorsata,research
+110474629,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-03-13,2022,3,13,72,pre_monsoon,13.034774,77.572999,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+110562901,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-03-15,2022,3,15,74,pre_monsoon,13.034774,77.572999,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+110649418,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-03-15,2022,3,15,74,pre_monsoon,13.034774,77.572999,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+110927385,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-04-08,2022,4,8,98,pre_monsoon,12.9151095869,77.556765623,"Padmanabhanagar, Bengaluru, Karnataka, India",Apis dorsata,research
+111186548,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-03-21,2022,3,21,80,pre_monsoon,13.034774,77.572999,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+112152258,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-04-19,2022,4,19,109,pre_monsoon,12.4213386801,76.5730140851,"Brindavan Gardens, Mandya, KA, IN",Apis dorsata,research
+112235460,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-04-21,2022,4,21,111,pre_monsoon,12.967312792,77.4982324988,"67/7, Balagangadhara Nagar, Srigandada Kaval, Mallathahalli, Bengaluru, Karnataka 560072, India",Apis dorsata,research
+112554173,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-04-23,2022,4,23,113,pre_monsoon,12.9287813023,77.6076964661,Young India PG for Gents,Apis dorsata,research
+112825618,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-03-26,2022,3,26,85,pre_monsoon,13.0347853913,77.5730256024,"Bengaluru, Karnataka 560094, India",Apis dorsata,research
+115676448,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-05-06,2022,5,6,126,pre_monsoon,13.0339911953,77.5729019288,"Judicial Officer's Layout, Naidu Layout, Raj Mahal Vilas 2nd Stage, Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+116678555,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-05-12,2022,5,12,132,pre_monsoon,12.9068231389,77.6774444444,"TOWER-2, OCEANUS VISTA, Kasavanahalli, कर्नाटक 560035, India",Apis dorsata,research
+117553720,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-05-18,2022,5,18,138,pre_monsoon,12.2960432814,76.639380455,Mysore,Apis dorsata,research
+118525590,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-05-21,2022,5,21,141,pre_monsoon,12.8869725779,77.5625163873,"Konanakunte, Bengaluru, KA, IN",Apis dorsata,research
+118617717,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-05-25,2022,5,25,145,pre_monsoon,12.9063922787,77.7693260566,"Karnataka, IN",Apis dorsata,research
+119031669,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-05-28,2022,5,28,148,pre_monsoon,12.7584352682,77.6118099219,"Bangalore Urban, Karnataka, India",Apis dorsata,research
+119292901,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-05-29,2022,5,29,149,pre_monsoon,12.9823166667,77.6567083333,"5th Main Road, Bengaluru, KA, IN",Apis dorsata,research
+119425987,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-05-29,2022,5,29,149,pre_monsoon,12.9901560977,77.6624017954,"Prestige Greenwoods, Nagavarapalya, Bangalore",Apis dorsata,research
+119531567,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-04-04,2022,4,4,94,pre_monsoon,13.3721813875,77.6837109888,"Nandi Hills, Karnataka, India",Apis dorsata,research
+120796370,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-06-05,2022,6,5,156,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Apis dorsata,research
+121055458,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-06-09,2022,6,9,160,monsoon,11.9987747611,77.1398310363,B.R.Hills,Apis dorsata,research
+121391434,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-06-12,2022,6,12,163,monsoon,13.0715372997,77.580278,"EASTERN LAB COMPLEX, GANDHI KRISHI VIGNANA KENDRA, Sahakar Nagar, Kodigehalli, Bengaluru, कर्नाटक 560065, India",Apis dorsata,research
+121741161,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-05-15,2022,5,15,135,pre_monsoon,13.3744527778,77.2105777778,"Tumkur, Karnataka, India",Apis dorsata,research
+123381636,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-06-25,2022,6,25,176,monsoon,12.3051241696,76.6603576326,"Ittige Gudu, Mysuru, Karnataka 570010, India",Apis dorsata,research
+124350014,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-09-02,2021,9,2,245,monsoon,12.95062586,77.5895383724,"3rd Cross Road, Bengaluru, KA, IN",Apis dorsata,research
+125462294,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-07-09,2022,7,9,190,monsoon,12.9439837898,77.5046288967,Jnanabharati Campus Bangalore University,Apis dorsata,research
+126762225,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-07-18,2022,7,18,199,monsoon,13.0650022222,77.6477811111,"Bangalore, IN-KA, IN",Apis dorsata,research
+127855903,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-07-24,2022,7,24,205,monsoon,13.071768,77.5752569722,"BLOCK-10, FORTUNA CENTER PARK, Sonappa Layout, Kodigehalli, Bengaluru, Karnataka 560097, India",Apis dorsata,research
+127887830,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-08-17,2019,8,17,229,monsoon,12.9514792,77.5849064333,"Mavalli, Bengaluru, Karnataka, India",Apis dorsata,research
+127887831,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-08-17,2019,8,17,229,monsoon,12.9513335,77.5848470667,"Bangalore, Karnataka, India",Apis dorsata,research
+128439083,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-07-29,2022,7,29,210,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Apis dorsata,research
+129000222,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-07-24,2022,7,24,205,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Apis dorsata,research
+129553021,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-08-04,2022,8,4,216,monsoon,12.9569911,77.6027732,"Langford Town, Shanti Nagar, Bengaluru, Karnataka, India",Apis dorsata,research
+129667625,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-08-06,2022,8,6,218,monsoon,12.9507432,77.5847773,"Mavalli, Bengaluru, Karnataka 560004, India",Apis dorsata,research
+130345895,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-08-05,2022,8,5,217,monsoon,12.846402201,77.7768243136,"B Hosahalli, Bengaluru, KA, IN",Apis dorsata,research
+132920276,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-08-30,2022,8,30,242,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Apis dorsata,research
+133056739,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-08-25,2022,8,25,237,monsoon,12.1800913642,76.7419524863,Hadinaru PHC,Apis dorsata,research
+133063796,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-08-31,2022,8,31,243,monsoon,13.069046826,77.5724582747,"3H9F+H24, Sonappa Layout, Virupakshapura, Bengaluru, Karnataka 560097, India",Apis dorsata,research
+133172430,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-08-21,2022,8,21,233,monsoon,12.2726192222,75.6591720556,"Kodagu, IN-KA, IN",Apis dorsata,research
+133334526,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-08-28,2022,8,28,240,monsoon,15.0890885886,74.5243610814,"Gund, Karnataka, India",Apis dorsata,research
+133758820,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-09-05,2022,9,5,248,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Apis dorsata,research
+133758852,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-09-05,2022,9,5,248,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Apis dorsata,research
+135365265,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-09-17,2022,9,17,260,monsoon,13.0718861111,77.5760222222,"3HCG+G82, Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka 560097, India",Apis dorsata,research
+135367513,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-09-13,2022,9,13,256,monsoon,13.0773525713,77.5778082758,"UAS, 3HGH+W4C, Vignana Kendra, Bengaluru, Karnataka 560065, India",Apis dorsata,research
+135367571,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-09-13,2022,9,13,256,monsoon,13.0727555757,77.5780278817,"Gandhi Krishi Vignana Kendra Centre For Cellular & Molecular Platforms, GANDHI KRISHI VIGNANA KENDRA, Sahakar Nagar, Kodigehalli, Bengaluru, Karnataka 560065, India",Apis dorsata,research
+137019899,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-06-14,2022,6,14,165,monsoon,13.0610687028,77.5399437613,"Jalahalli, Bengaluru, Karnataka, India",Apis dorsata,research
+137522224,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-10-02,2022,10,2,275,post_monsoon,11.8281970859,77.0161135939,"Chamarajanagar, Karnataka, India",Apis dorsata,research
+137707174,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-01-18,2022,1,18,18,winter,12.8963304414,77.8143566368,"Bengaluru, Karnataka, India",Apis dorsata,research
+137957571,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-01-16,2022,1,16,16,winter,12.8835480709,77.4647773057,"Location: 12.884000, 77.465000",Apis dorsata,research
+138097096,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-10-05,2022,10,5,278,post_monsoon,13.0709228,77.5801971,"Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka 560065, India",Apis dorsata,research
+138113295,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-10-02,2022,10,2,275,post_monsoon,12.890235,77.5873736,"Puttenahalli Lake, Nataraja Layout, JP Nagar 7th Phase, Bengaluru, Karnataka 560076",Apis dorsata,research
+138607107,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-10-13,2022,10,13,286,post_monsoon,15.6036866,76.6585299,"JM35+9CR, J.P. Nagar, Karnataka 583229, India",Apis dorsata,research
+142723621,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-05-24,2021,5,24,144,pre_monsoon,12.9222952,77.569336,"10th Main Rd, Banashankari Stage II, Banashankari, Bengaluru, Karnataka, India",Apis dorsata,research
+143150118,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-11-24,2022,11,24,328,post_monsoon,12.8458146944,77.7769161944,"RQVG+R4, Buragunte, Karnataka 562125, India",Apis dorsata,research
+143549625,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-12-03,2022,12,3,337,winter,12.3023934393,76.6379642496,Wadiyar architecture college ,Apis dorsata,research
+144235854,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-10-30,2022,10,30,303,post_monsoon,13.3554787118,74.7044422477,Malpe,Apis dorsata,research
+144520297,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-12-17,2022,12,17,351,winter,12.8444698032,77.7205300211,"Chintalamadivala Village, Bommasandra, Karnataka 560099, India",Apis dorsata,research
+144588698,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-10-04,2022,10,4,277,post_monsoon,15.3273956794,76.4645124562,"Karnataka, India",Apis dorsata,research
+144733046,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-12-20,2022,12,20,354,winter,13.1555187279,77.7027643472,Shell Technology Centre Bangalore,Apis dorsata,research
+145494342,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-12-20,2022,12,20,354,winter,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Apis dorsata,research
+145495371,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-12-29,2022,12,29,363,winter,12.8773533333,77.6110083333,"3rd Cross Road, Bengaluru, KA, IN",Apis dorsata,research
+145735217,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-01-30,2020,1,30,30,winter,12.2227233,76.6272876,"6JFG+3WM, Dadadahalli, Karnataka 570008, India",Apis dorsata,research
+146895852,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-01-19,2023,1,19,19,winter,12.2812533333,76.674865,"Чамунди Хилл, Майсур, Карнатака, Индия",Apis dorsata,research
+147247548,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-01-24,2023,1,24,24,winter,12.8456705161,77.7757103741,"RPM7+RHP, Singena Agrahara, Bommasandra, Karnataka 560099, India",Apis dorsata,research
+147318522,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-12-16,2022,12,16,350,winter,12.5934167198,77.0780657996,"Buddaguppe, Karnataka, India",Apis dorsata,research
+147340389,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-01-25,2023,1,25,25,winter,13.976554632,75.507334514,"Karnataka, IN",Apis dorsata,research
+147381026,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-01-15,2023,1,15,15,winter,13.340507,77.664163,"Moodiganahalli, Karnataka, India",Apis dorsata,research
+147939156,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-05-08,2020,5,8,129,pre_monsoon,13.0169513,77.5670914,"IISC Bangalore, Gulmohar Marg, Mathikere, Bengaluru, Karnataka 560012, India",Apis dorsata,research
+148108579,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-02-02,2023,2,2,33,winter,12.9600541442,77.5733216995,"Tippu Sultan Palace Road, Bengaluru, KA, IN",Apis dorsata,research
+148157932,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-02-06,2023,2,6,37,winter,13.0456450814,77.6387517527,Bens Sathya Enclave,Apis dorsata,research
+148193580,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-01-30,2023,1,30,30,winter,12.8575579,77.7864057,"Sarjapura, Bengaluru, Karnataka 562125, India",Apis dorsata,research
+148310530,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-02-08,2023,2,8,39,winter,12.1913442569,76.6451569395,"Byathahalli, Karnataka 571311, India",Apis dorsata,research
+148315181,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-01-17,2023,1,17,17,winter,12.8452628902,77.7768751234,Azim Premji University,Apis dorsata,research
+148317963,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-01-16,2023,1,16,16,winter,12.189455,76.642543,"PB No. 1, Byatha Halli, Kadakola,, Mysuru, Karnataka 571311, India",Apis dorsata,research
+149396319,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-02-22,2023,2,22,53,winter,12.8469767451,77.77637925,"RQWG+8W, Buragunte, Karnataka 562125, India",Apis dorsata,research
+149482815,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-02-23,2023,2,23,54,winter,12.949205,77.58292,"Walk Trail 3, Bengaluru, KA, IN",Apis dorsata,research
+150122532,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-03-03,2023,3,3,62,pre_monsoon,12.87228,77.6660466667,"Rayasandra, Bengaluru, KA, IN",Apis dorsata,research
+151180958,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-03-15,2023,3,15,74,pre_monsoon,13.0649661111,77.6477430556,"BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Apis dorsata,research
+151193715,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-03-15,2023,3,15,74,pre_monsoon,12.8803662799,77.5941820441,"3rd Cross Road, Bengaluru, KA, IN",Apis dorsata,research
+151688292,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-03-20,2023,3,20,79,pre_monsoon,13.3740083333,77.1403027778,"94FQ+HQ6, Tumakuru, Karnataka 572106, India",Apis dorsata,research
+152056460,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-03-22,2023,3,22,81,pre_monsoon,12.992568,77.6154619722,"65, Sindhi Colony, Fraser Town, Bengaluru, Karnataka 560005, India",Apis dorsata,research
+152403488,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-03-23,2023,3,23,82,pre_monsoon,13.0677479666,77.5794243068,"Location: 13.067639, 77.579269",Apis dorsata,research
+152701484,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-03-27,2023,3,27,86,pre_monsoon,12.857558,77.786406,azim premji university,Apis dorsata,research
+153448641,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-08-10,2022,8,10,222,monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Apis dorsata,research
+153672520,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-01-16,2023,1,16,16,winter,12.9150820034,77.5567978095,"Padmanabhanagar, Bengaluru, Karnataka, India",Apis dorsata,research
+153681458,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-04-17,2020,4,17,108,pre_monsoon,12.9033333333,77.6724783333,"Haralur, Bengaluru, KA, IN",Apis dorsata,research
+154060856,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-12-13,2022,12,13,347,winter,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Apis dorsata,research
+154070770,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-12-15,2022,12,15,349,winter,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Apis dorsata,research
+154262009,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-01-19,2023,1,19,19,winter,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Apis dorsata,research
+154401213,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-03-02,2023,3,2,61,pre_monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Apis dorsata,research
+154705402,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-13,2023,4,13,103,pre_monsoon,12.8789072887,77.5298513845,Sobha Forest View,Apis dorsata,research
+155728459,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-20,2023,4,20,110,pre_monsoon,13.1122138333,77.5768966667,"Green Park Street, Bengaluru, KA, IN",Apis dorsata,research
+156850123,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-05-31,2022,5,31,151,pre_monsoon,12.8640047181,77.387367595,"Karnataka, IN",Apis dorsata,research
+156857555,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-03-22,2023,3,22,81,pre_monsoon,13.0347279074,77.5730309648,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+156910305,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-02-26,2022,2,26,57,winter,13.3424232222,77.6299035,"Melekote, Karnataka 561205, India",Apis dorsata,research
+156983477,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-28,2023,4,28,118,pre_monsoon,12.9230515371,77.484651804,Kengeri Satellite Town,Apis dorsata,research
+156991572,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-28,2023,4,28,118,pre_monsoon,12.97476695,77.59066053,"Nunegundlapalli, Ambedkar Veedhi, Sheshadri Iyer Memorial Hall, Sampangi Rama Nagar, XHFR+W88, Nunegundlapalli, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",Apis dorsata,research
+156992782,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-28,2023,4,28,118,pre_monsoon,12.97219758,77.58948998,"Bangalore, IN-KA, IN",Apis dorsata,research
+156992790,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-28,2023,4,28,118,pre_monsoon,12.9728607,77.5901207,"Sheshadri Iyer Memorial Hall, Nunegundlapalli, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",Apis dorsata,research
+156993416,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-28,2023,4,28,118,pre_monsoon,12.9746236667,77.5914688056,"Sheshadri Iyer Memorial Hall, Nunegundlapalli, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",Apis dorsata,research
+157000242,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-28,2023,4,28,118,pre_monsoon,12.972456,77.59008,"Bangalore, IN-KA, IN",Apis dorsata,research
+157009282,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-28,2023,4,28,118,pre_monsoon,12.9710184,77.5917311997,"XHCR+GRC, Nunegundlapalli, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",Apis dorsata,research
+157010841,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-28,2023,4,28,118,pre_monsoon,12.9733119997,77.5910654997,"Sheshadri Iyer Memorial Hall, Nunegundlapalli, Ambedkar Veedhi, Bengaluru, Karnataka 560001, India",Apis dorsata,research
+157018688,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-08-15,2019,8,15,227,monsoon,15.43855475,74.9861221111,"Dharwad, IN-KA, IN",Apis dorsata,research
+157028013,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-28,2023,4,28,118,pre_monsoon,13.001224,77.58598,"2H2M+VHM, Palace Guttahalli, Bengaluru, Karnataka 560003, India",Apis dorsata,research
+157053133,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-27,2023,4,27,117,pre_monsoon,12.8867722222,77.4655083333,"Bangalore, Karnataka, India",Apis dorsata,research
+157053723,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-28,2023,4,28,118,pre_monsoon,12.880655,77.5835416667,"1st Main Road, Bengaluru, KA, IN",Apis dorsata,research
+157057690,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-28,2023,4,28,118,pre_monsoon,12.9069795556,77.6776580556,"Oceanus Vista, T2 505, Kasavanahalli, Karnataka 560035, India",Apis dorsata,research
+157081157,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-28,2023,4,28,118,pre_monsoon,12.9433166667,77.5703333333,"23, Basavanagudi, Bengaluru, Karnataka 560004, India",Apis dorsata,research
+157120113,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-28,2023,4,28,118,pre_monsoon,13.0410583333,77.566925,"R.M.V. 2nd Stage, Bengaluru, Karnataka, India",Apis dorsata,research
+157143778,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-28,2023,4,28,118,pre_monsoon,13.2298833333,77.6066583333,"Dyavarahalli Gate, Doddacheemanahalli, Karnataka 562110, India",Apis dorsata,research
+157165634,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-28,2023,4,28,118,pre_monsoon,12.9433679722,77.5700429722,"Basavanagudi, Bengaluru, Karnataka, India",Apis dorsata,research
+157177356,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-28,2023,4,28,118,pre_monsoon,12.8838638889,77.4753555556,"Bluejay Ardley, Bengaluru, Karnataka 560060, India",Apis dorsata,research
+157634624,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-29,2023,4,29,119,pre_monsoon,12.8820638889,77.4644166667,"Bangalore, Karnataka, India",Apis dorsata,research
+157634676,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-29,2023,4,29,119,pre_monsoon,12.8820722222,77.4643861111,"Bangalore, Karnataka, India",Apis dorsata,research
+157636592,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-29,2023,4,29,119,pre_monsoon,12.8822472222,77.4631277778,"Bangalore, Karnataka, India",Apis dorsata,research
+157677713,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-29,2023,4,29,119,pre_monsoon,12.9839861111,77.5930333333,"Bangalore, Karnataka, India",Apis dorsata,research
+157908838,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-30,2023,4,30,120,pre_monsoon,12.9174371042,77.5440798036,"4th Cross Road, Bengaluru, KA, IN",Apis dorsata,research
+157971214,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-30,2023,4,30,120,pre_monsoon,13.0650444444,77.6481027778,"No 62 Beck n Josh, Bornmann Enclave, BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Apis dorsata,research
+157988859,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-30,2023,4,30,120,pre_monsoon,12.9356160663,77.5547768176,"Srinivasnagar, Banashankari",Apis dorsata,research
+158012595,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-30,2023,4,30,120,pre_monsoon,12.9507429852,77.5847773254,Lalbagh Botanical Garden,Apis dorsata,research
+158246140,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-01,2023,5,1,121,pre_monsoon,12.84628,77.5833383333,"Rajesh 375 #9 th cross, Weavers Colony, bangalore, Bengaluru, Karnataka 560083, India",Apis dorsata,research
+158468448,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-29,2023,4,29,119,pre_monsoon,13.129056,77.549099,"Bengaluru, Karnataka 560064, India",Apis dorsata,research
+158548327,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-01,2023,5,1,121,pre_monsoon,12.9507429852,77.5847773254,Lalbagh Botanical Garden,Apis dorsata,research
+158598408,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-20,2023,4,20,110,pre_monsoon,12.9743985079,77.6890806333,"Doddanekkundi, Bengaluru, Karnataka, India",Apis dorsata,research
+158609110,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-29,2023,4,29,119,pre_monsoon,12.282378,77.3746393,"Uyamballi Post, Kanakapura Taluk, Sangam, Bengaluru, Karnataka 562117, India",Apis dorsata,research
+158778614,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-30,2023,4,30,120,pre_monsoon,12.8826027778,77.4645083333,"Bengaluru, Karnataka, India",Apis dorsata,research
+159110898,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-01,2023,5,1,121,pre_monsoon,12.9832467084,77.6199608669,Ulsoor Lake,Apis dorsata,research
+159396100,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-29,2023,4,29,119,pre_monsoon,12.8038875,77.5687344,"RH39+HF5, Bengaluru, Karnataka, India",Apis dorsata,research
+159396136,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-29,2023,4,29,119,pre_monsoon,12.8038875,77.5687344,"RH39+HF5, Bengaluru, Karnataka, India",Apis dorsata,research
+159404073,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-30,2023,4,30,120,pre_monsoon,12.890235,77.5873736,"Puttenahalli Lake, Nataraja Layout, JP Nagar 7th Phase, Bengaluru, Karnataka 560076",Apis dorsata,research
+159480819,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-29,2023,4,29,119,pre_monsoon,13.0762055556,77.5840833333,"Sahakar Nagar, Bengaluru, Karnataka, India",Apis dorsata,research
+159632055,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-04,2023,5,4,124,pre_monsoon,13.0650355556,77.6480788889,"No 62 Beck n Josh, Bornmann Enclave, BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Apis dorsata,research
+159785154,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-05,2023,5,5,125,pre_monsoon,12.9773639694,77.6196037407,"Gangadhara Chetty Road, Bengaluru, KA, IN",Apis dorsata,research
+159786701,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-05,2023,5,5,125,pre_monsoon,12.9773455393,77.6196053066,"Gangadhara Chetty Road, Bengaluru, KA, IN",Apis dorsata,research
+159828598,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-05,2023,5,5,125,pre_monsoon,12.9132583333,77.6708666667,"BOCOMAN, WATERMARK APARTMENT, Ambalipura, Haralur, Karnataka 560103, India",Apis dorsata,research
+160008559,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-06,2023,5,6,126,pre_monsoon,13.3721083333,77.6817383333,"Nandi Hills Trail Road, Nandi, KA, IN",Apis dorsata,research
+160085745,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-01,2023,5,1,121,pre_monsoon,12.9840021011,77.6195037917,"Ulsoor Lake, Bengaluru, KA, IN",Apis dorsata,research
+160261041,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-04-30,2022,4,30,120,pre_monsoon,13.042301,77.551823,Jalahalli Bengaluru,Apis dorsata,research
+160339230,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-04-30,2023,4,30,120,pre_monsoon,12.8870515382,77.5908597982,"L&T South Ciy, Arekere MICO Layout 2nd stage, Lakshmi Layout, Arekere, Bengaluru, Karnataka 560076, India",Apis dorsata,research
+161103124,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-10,2023,5,10,130,pre_monsoon,12.9714785136,77.5945626944,Bangalore,Apis dorsata,research
+162237614,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-18,2023,5,18,138,pre_monsoon,12.8654443686,77.621971074,"Karnataka, IN",Apis dorsata,research
+162242232,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-18,2023,5,18,138,pre_monsoon,13.06505,77.648075,"No 62 Beck n Josh, Bornmann Enclave, BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Apis dorsata,research
+162321516,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-18,2023,5,18,138,pre_monsoon,12.9203590278,77.6792748866,"Kaikondrahalli, Bengaluru, Karnataka, India",Apis dorsata,research
+162694292,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-20,2023,5,20,140,pre_monsoon,13.1124257668,77.5771136495,"Bengaluru, Karnataka, India",Apis dorsata,research
+162868630,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-21,2023,5,21,141,pre_monsoon,12.377565,76.6619879722,"Mysore Division, Karnataka, Indien",Apis dorsata,research
+163770593,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-14,2023,5,14,134,pre_monsoon,12.8949004494,77.5936259329,"Bengaluru, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India",Apis dorsata,research
+163797218,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-26,2023,5,26,146,pre_monsoon,13.0650527778,77.6481016667,"No 62 Beck n Josh, Bornmann Enclave, BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Apis dorsata,research
+163800450,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-25,2023,5,25,145,pre_monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Apis dorsata,research
+163942971,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-27,2023,5,27,147,pre_monsoon,12.976366108,77.6897428508,"Doddanekkundi, Bengaluru, Karnataka, India",Apis dorsata,research
+163955616,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-27,2023,5,27,147,pre_monsoon,12.9752343,77.6886853,"Doddanekundi Lake, Doddanekkundi, Bengaluru, Karnataka 560037",Apis dorsata,research
+164201419,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-28,2023,5,28,148,pre_monsoon,13.1127555556,77.57815,"Bengaluru, Karnataka 560064, India",Apis dorsata,research
+164280815,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-14,2023,5,14,134,pre_monsoon,12.9698190945,77.7499718964,Whitefield,Apis dorsata,research
+164459336,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-28,2023,5,28,148,pre_monsoon,11.7787611,76.4646806,"Karnataka, India",Apis dorsata,research
+165670858,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-06-05,2023,6,5,156,monsoon,12.910865137,77.6127993688,"MCHS Colony, Stage 2, BTM Layout",Apis dorsata,research
+166011846,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-06-07,2023,6,7,158,monsoon,12.7981483333,77.566805,"Bengaluru, Karnataka 560083, India",Apis dorsata,research
+167170986,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-06-13,2023,6,13,164,monsoon,12.773507,77.618126,"QJF8+9QH, Nandanavana Layout, Bukkasagara, Karnataka 560105, India",Apis dorsata,research
+167477138,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-06-15,2023,6,15,166,monsoon,12.9707677988,77.5917429385,"Kasthurba Road, Bengaluru, KA, IN",Apis dorsata,research
+168946545,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-06-22,2023,6,22,173,monsoon,12.9381592365,77.6064006883,"Adugodi, Bengaluru, Karnataka, India",Apis dorsata,research
+169174948,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-06-24,2023,6,24,175,monsoon,12.8378402,77.589327,"RHQQ+4P, Basavanapura, Bengaluru, Karnataka 560083, India",Apis dorsata,research
+169336352,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-06-23,2023,6,23,174,monsoon,11.9978486556,76.2772981639,"Honnurkuppe, Karnataka 571114, India",Apis dorsata,research
+169729877,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-06-24,2023,6,24,175,monsoon,12.9387286675,77.6055934225,"Bangalore, IN-KA, IN",Apis dorsata,research
+170413863,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-07-01,2023,7,1,182,monsoon,13.1305555556,77.547525,"4GJW+7J6, Bengaluru, Karnataka 560064, India",Apis dorsata,research
+170614605,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-07-01,2023,7,1,182,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Apis dorsata,research
+170628818,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-12,2023,5,12,132,pre_monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Apis dorsata,research
+172600153,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-07-13,2023,7,13,194,monsoon,15.3084883333,76.4792333333,"Hosapete, Kamalapuram, KA, IN",Apis dorsata,research
+172660647,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-07-12,2023,7,12,193,monsoon,13.0585447137,77.6008246467,"Unique Concord Block-A/Tower-1, Unique Concord, Tatanagar, Devinagar, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+172973670,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-07-15,2023,7,15,196,monsoon,12.3151003052,76.5168847599,"Kamaravalli, Karnataka, India",Apis dorsata,research
+173148084,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-07-15,2023,7,15,196,monsoon,12.8308478445,77.5935977053,"Bengaluru, Karnataka, India",Apis dorsata,research
+173931150,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-07-17,2023,7,17,198,monsoon,12.958266,77.7255357,"Thubarahalli Lake, Brookefield, Bengaluru, Karnataka 560066",Apis dorsata,research
+174419656,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-07-23,2023,7,23,204,monsoon,13.0449888889,77.5001583333,"2GV2+X3H SOBHA ELITE PLATINUM, Block-2, Nagasandra, Bengaluru, Karnataka 560073, India",Apis dorsata,research
+174428176,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-07-22,2023,7,22,203,monsoon,12.8948177269,77.5921105246,"Panduranga Nagar, Bengaluru, Karnataka 560076, India",Apis dorsata,research
+174843569,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-07-25,2023,7,25,206,monsoon,13.0512560641,77.760214248,"Bangalore Rural, IN-KA, IN",Apis dorsata,research
+175366771,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-07-24,2023,7,24,205,monsoon,12.9582659115,77.7255356312,Thubarahalli Lake,Apis dorsata,research
+176249002,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-07-29,2023,7,29,210,monsoon,12.8400470508,77.6747288927,Veerasandra Kere,Apis dorsata,research
+176944749,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-08-02,2023,8,2,214,monsoon,12.624375,75.25465,"Paduvannur, Karnataka, India",Apis dorsata,research
+177786651,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-08-11,2023,8,11,223,monsoon,12.8722612017,77.5225856155,"Adarsha Layout, Lingadeeranahalli, Bengaluru, Karnataka 560109, India",Apis dorsata,research
+179137143,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-08-19,2023,8,19,231,monsoon,12.8575577342,77.7864056826,Sarjapura,Apis dorsata,research
+179164088,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-08-06,2023,8,6,218,monsoon,12.9511824668,77.5021117675,"Gnana Bharathi, Bengaluru, Karnataka 560056, India",Apis dorsata,research
+179615252,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-08-03,2023,8,3,215,monsoon,12.9474468866,77.5850773675,"Mavalli, Bengaluru, Karnataka, India",Apis dorsata,research
+180736529,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-08-22,2023,8,22,234,monsoon,12.9593800852,77.3083733395,"Ramanagara, IN-KA, IN",Apis dorsata,research
+181041603,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-08-31,2023,8,31,243,monsoon,12.3607166667,76.4699033333,"Hunsur, Mysuru, KA, IN",Apis dorsata,research
+182384871,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-06-04,2022,6,4,155,monsoon,12.8996674125,77.4826837331,Kengeri,Apis dorsata,research
+183207172,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-09-14,2023,9,14,257,monsoon,12.7734909722,77.6179709722,"QJF8+9QH, Nandanavana Layout, Bukkasagara, Karnataka 560105, India",Apis dorsata,research
+188006224,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-10-18,2023,10,18,291,post_monsoon,12.8789043472,77.5296813995,"Hosahalli, Karnataka 560062, India",Apis dorsata,research
+188006263,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-10-18,2023,10,18,291,post_monsoon,12.8792419744,77.5297062099,"Hosahalli, Karnataka 560062, India",Apis dorsata,research
+189183589,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-09-30,2023,9,30,273,monsoon,13.3404638889,77.6641777778,"8MR7+6MQ, Karahalli, Moodiganahalli, Karnataka 562110, India",Apis dorsata,research
+190282402,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-11-06,2023,11,6,310,post_monsoon,12.8368055658,77.7593143657,"RQP5+PPP, Bikkanahalli, Karnataka 562125, India",Apis dorsata,research
+191005480,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-11-01,2023,11,1,305,post_monsoon,12.3554754162,76.4515736532,"Sabbanahalli, Karnataka 571103, India",Apis dorsata,research
+191005483,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-11-01,2023,11,1,305,post_monsoon,12.3554754162,76.4515736532,"Sabbanahalli, Karnataka 571103, India",Apis dorsata,research
+191005484,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-11-01,2023,11,1,305,post_monsoon,12.3554754162,76.4515736532,"Sabbanahalli, Karnataka 571103, India",Apis dorsata,research
+191005516,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-11-01,2023,11,1,305,post_monsoon,12.3554754162,76.4515736532,"Sabbanahalli, Karnataka 571103, India",Apis dorsata,research
+191005558,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-11-02,2023,11,2,306,post_monsoon,12.3554754162,76.4515736532,"Sabbanahalli, Karnataka 571103, India",Apis dorsata,research
+191005567,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-11-02,2023,11,2,306,post_monsoon,12.3554754162,76.4515736532,"Sabbanahalli, Karnataka 571103, India",Apis dorsata,research
+191070130,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-11-15,2023,11,15,319,post_monsoon,13.3576995311,74.7142695263,"9P47+XQF, Uddinahithlu, Malpe, Karnataka 576108, India",Apis dorsata,research
+191246512,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-11-02,2023,11,2,306,post_monsoon,12.351191905,76.4530085009,"Bommalapura, Karnataka 571103, India",Apis dorsata,research
+191246515,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-11-02,2023,11,2,306,post_monsoon,12.351191905,76.4530085009,"Bommalapura, Karnataka 571103, India",Apis dorsata,research
+191246516,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-11-02,2023,11,2,306,post_monsoon,12.351191905,76.4530085009,"Bommalapura, Karnataka 571103, India",Apis dorsata,research
+192103638,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-11-25,2023,11,25,329,post_monsoon,12.844355,77.7244866667,"Chintalmadivala, Bengaluru, KA, IN",Apis dorsata,research
+193046726,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-10-22,2023,10,22,295,post_monsoon,13.3715090585,77.6819433644,"9MCJ+FF, Nandi Hills, Karnataka 562103, India",Apis dorsata,research
+193366789,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-09-17,2023,9,17,260,monsoon,12.5273211528,76.5467488178,"Karnataka, IN",Apis dorsata,research
+193564860,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-12-10,2023,12,10,344,winter,13.0599305556,77.6368944444,"11/730 8th cross Chikka byrathi, S R K Nagar, po, Kothnur Narayanapura, Bengaluru, Karnataka 560077, India",Apis dorsata,research
+193575510,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-12-10,2023,12,10,344,winter,12.9483381102,77.5830161199,"WHXM+G46 Bird Observatory and Sun Dial Park, Mavalli, Bengaluru, Karnataka 560004, India",Apis dorsata,research
+193764299,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-11-26,2023,11,26,330,post_monsoon,13.3405222222,77.6641277778,"8MR7+6MQ, Karahalli, Moodiganahalli, Karnataka 562110, India",Apis dorsata,research
+193861724,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-11-28,2023,11,28,332,post_monsoon,12.2687702,76.5183287,"Madalli Rd, Madahalli, Karnataka 570026, India",Apis dorsata,research
+194559159,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-12-22,2023,12,22,356,winter,12.8452628902,77.7768751234,"RQWG+8W, Buragunte, Karnataka 562125, India",Apis dorsata,research
+194633196,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-12-18,2023,12,18,352,winter,12.0005011,77.1390167,"242Q+6J2 BR Hills Temple Viewpoint, B.R.Hills, Karnataka 571117, India",Apis dorsata,research
+194809258,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-12-24,2023,12,24,358,winter,12.5256838143,76.8041261479,"Avverahalli, Karnataka 571434, India",Apis dorsata,research
+195145323,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-12-29,2023,12,29,363,winter,12.95751886,77.70598851,"Bangalore, IN-KA, IN",Apis dorsata,research
+195279039,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-12-30,2023,12,30,364,winter,12.8768735,74.9650663,"VXG7+JVH, Bantwal, Pudu, Karnataka 574143, India",Apis dorsata,research
+195763910,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-13,2023,5,13,133,pre_monsoon,12.9215055171,77.6766972989,"No 6/4, AGR Plaza, Annaiah Reddy Layout, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103, India",Apis dorsata,research
+195833535,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-01-05,2024,1,5,5,winter,12.7985882,77.567835,"Bannerghatta Rd, Bannerughatta, Bengaluru, Karnataka 560083, India",Apis dorsata,research
+195923348,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-12-05,2023,12,5,339,winter,13.1400525178,77.5927124388,"Bengaluru, Karnataka, India",Apis dorsata,research
+196337355,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-12-03,2023,12,3,337,winter,12.2063441172,75.8899968713,"Hosoor, Karnataka, India",Apis dorsata,research
+196626107,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-01-14,2024,1,14,14,winter,12.39867,76.5831666667,"Zuari Garden City, Mysuru, KA, IN",Apis dorsata,research
+197203054,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-01-21,2024,1,21,21,winter,13.084972,77.611306,13°05′05.9″N 77°36′40.7″E﻿,Apis dorsata,research
+197680409,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-01-27,2024,1,27,27,winter,12.8468909722,77.7763989722,"Bangalore, Karnataka, India",Apis dorsata,research
+197877352,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-01-10,2024,1,10,10,winter,13.370154,77.6834551,"Nandi Hills, Karnataka, India",Apis dorsata,research
+198027831,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-01-31,2024,1,31,31,winter,12.9925449722,77.6154279722,"65, Sindhi Colony, Pulikeshi Nagar, Bengaluru, Karnataka 560005, India",Apis dorsata,research
+198117386,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-01-30,2024,1,30,30,winter,12.8159875798,76.9449399782,"Yedavani, Karnataka 572111, India",Apis dorsata,research
+198403134,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-02-04,2024,2,4,35,winter,12.9940879722,77.5891349722,"Bangalore, IN-KA, IN",Apis dorsata,research
+198461248,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-01-30,2024,1,30,30,winter,12.9626045227,77.6991043091,Bengaluru,Apis dorsata,research
+198885430,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-02-10,2024,2,10,41,winter,12.8409525818,77.5879951688,"Kalkere Reserve Forest,Pillaganahalli, Bengaluru, Karnataka 560083, India",Apis dorsata,research
+199180393,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-02-13,2024,2,13,44,winter,12.8639937125,77.7727948129,"VQ7F+93X Shri Diya Viola Block-C, Sompura, Kada Agrahara, Karnataka 562125, India",Apis dorsata,research
+199207938,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-02-13,2024,2,13,44,winter,12.94673,77.5894866667,"Siddhapura Road, Bengaluru, KA, IN",Apis dorsata,research
+199645255,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-02-18,2024,2,18,49,winter,12.8389406,77.5879081,"Gaare Palya, Basavanapura, Bengaluru, Karnataka 560083, India",Apis dorsata,research
+200008595,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-02-21,2024,2,21,52,winter,11.9963916667,77.1406388333,"Biligiri Rangaswamy Wildlife Sanctuary, Chamarajanagar, KA, IN",Apis dorsata,research
+200096825,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-02-22,2024,2,22,53,winter,12.9903777778,77.7327361111,"Aloft Hotel, Sadara Mangala Industrial Area, Thigalarapalya, Krishnarajapura, Bengaluru, Karnataka 560067, India",Apis dorsata,research
+200145182,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-02-23,2024,2,23,54,winter,11.996495,77.1407,"Biligiri Rangaswamy Wildlife Sanctuary, Chamarajanagar, KA, IN",Apis dorsata,research
+200169131,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-02-23,2024,2,23,54,winter,13.0463444444,77.4995972222,"Nagasandra, Bengaluru, Karnataka 560073, India",Apis dorsata,research
+200279882,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-02-24,2024,2,24,55,winter,13.01723,77.567076,"01, Malleshwara, Bengaluru, Karnataka 560055, India",Apis dorsata,research
+200500240,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-02-25,2024,2,25,56,winter,12.8854956769,77.4664567038,"Bangalore, IN-KA, IN",Apis dorsata,research
+200573324,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-02-27,2024,2,27,58,winter,13.0661333333,77.574005,"Virupakshapura, Bengaluru, KA, IN",Apis dorsata,research
+200792600,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-12-22,2023,12,22,356,winter,12.8225173,77.7294705,"Muthanallur Lake, Bommasandra, Karnataka",Apis dorsata,research
+201559911,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-06,2024,3,6,66,pre_monsoon,12.9494158,77.5846805,"Lalbagh Botanical Garden, Mavalli, Bengaluru, Karnataka 560004, India",Apis dorsata,research
+202008959,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-11,2024,3,11,71,pre_monsoon,12.904075,77.5714633333,"Ilyas Nagar, Bengaluru, KA, IN",Apis dorsata,research
+202094690,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-11,2024,3,11,71,pre_monsoon,12.9170752972,77.4187203658,"Karnataka, IN",Apis dorsata,research
+202123854,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-12,2024,3,12,72,pre_monsoon,12.9290772,77.5806132997,"Jayanagar Metro Station, 4th Block, Jayanagar, Bengaluru, Karnataka 560041, India",Apis dorsata,research
+202400906,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-14,2024,3,14,74,pre_monsoon,12.3067917997,76.6627723,"811, Ittige Gudu, Mysuru, Karnataka 570028, India",Apis dorsata,research
+202407523,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-13,2024,3,13,73,pre_monsoon,12.8408025822,77.5878565029,"Pillaganahalli, Bengaluru, Karnataka 560083, India",Apis dorsata,research
+202766623,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-17,2024,3,17,77,pre_monsoon,13.0836211,77.6134526997,"Agrahara, Bengaluru, Karnataka 560064, India",Apis dorsata,research
+202786378,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-13,2024,3,13,73,pre_monsoon,12.9011566667,77.49118,"Kodipalya, Bengaluru, Karnataka 560060, India",Apis dorsata,research
+203200826,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-20,2024,3,20,80,pre_monsoon,13.0458222222,77.5000694444,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India",Apis dorsata,research
+203686829,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-17,2024,3,17,77,pre_monsoon,13.0836211,77.6134526997,"Agrahara, Bengaluru, Karnataka 560064, India",Apis dorsata,research
+203749602,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-03-02,2023,3,2,61,pre_monsoon,12.4306281059,75.9669536725,Namdroling Monastery Golden Temple,Apis dorsata,research
+204514735,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-27,2024,3,27,87,pre_monsoon,12.8889161465,77.7040850217,"Chikkakannalli, Bengaluru, Karnataka, India",Apis dorsata,research
+205616586,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-30,2024,3,30,90,pre_monsoon,13.0485206521,77.5501319021,"3, BEL Colony, Jalahalli, Bengaluru, Karnataka 560013, India",Apis dorsata,research
+205832330,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-04-06,2024,4,6,97,pre_monsoon,13.0170811564,77.5665872285,"Devasandra Layout, Bengaluru, Karnataka, India",Apis dorsata,research
+206011068,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-04-08,2024,4,8,99,pre_monsoon,11.9966283333,77.14045,"Biligiri Rangaswamy Wildlife Sanctuary, Chamarajanagar, KA, IN",Apis dorsata,research
+206043223,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-04-06,2024,4,6,97,pre_monsoon,12.9637050574,77.5063719973,"A213 ambedkar institute of technology, 2 Stage, Naagarabhaavi, Bengaluru, Karnataka 560056, India",Apis dorsata,research
+206043567,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-04-08,2024,4,8,99,pre_monsoon,12.9638537199,77.5063901022,"A213 ambedkar institute of technology, 2 Stage, Naagarabhaavi, Bengaluru, Karnataka 560056, India",Apis dorsata,research
+206897254,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-04-13,2024,4,13,104,pre_monsoon,12.5956821191,76.121511333,"Arkalgud, Hassan, KA, IN",Apis dorsata,research
+207103444,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-04-13,2024,4,13,104,pre_monsoon,12.9759966667,77.5935533333,"Gandhi Nagar, Bengaluru, KA, IN",Apis dorsata,research
+207190927,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-04-14,2024,4,14,105,pre_monsoon,12.948304,77.58043,"Lal Bagh, Upparahalli, Mavalli, Bengaluru, Karnataka 560004, India",Apis dorsata,research
+207191036,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-04-14,2024,4,14,105,pre_monsoon,12.9483049722,77.5804279722,"Lal Bagh, Upparahalli, Mavalli, Bengaluru, Karnataka 560004, India",Apis dorsata,research
+208072038,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-04-19,2024,4,19,110,pre_monsoon,12.9636981961,77.5063753501,"A213 ambedkar institute of technology, 2 Stage, Naagarabhaavi, Bengaluru, Karnataka 560056, India",Apis dorsata,research
+209055692,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-04-15,2024,4,15,106,pre_monsoon,12.2453805556,75.6519,"6MW3+M55, Yevakapadi, Karnataka 571214, India",Apis dorsata,research
+211056576,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-03-17,2023,3,17,76,pre_monsoon,12.8446,77.5886266667,"SH 87, Bengaluru, KA, IN",Apis dorsata,research
+211538245,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-04-27,2024,4,27,118,pre_monsoon,12.9509322772,77.5850207034,"Mavalli, Bengaluru, Karnataka, India",Apis dorsata,research
+212180283,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-04-28,2024,4,28,119,pre_monsoon,15.4400633333,74.9855116667,"Karnatak College Area, Dharwad, KA, IN",Apis dorsata,research
+212463704,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-04-28,2024,4,28,119,pre_monsoon,15.4401527778,74.9852944444,"Karnatak University. Pavate Nagar, CXRP+343, Karnatak University Campus, Dharwad, Karnataka 580003, India",Apis dorsata,research
+212808694,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-05-01,2024,5,1,122,pre_monsoon,13.0443333997,77.7444011997,"2PVV+JPJ Brigade Exotica- Children Play area, Virgonagar, Aavalahalli, Bengaluru, Karnataka 560049, India",Apis dorsata,research
+213368907,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-06-29,2022,6,29,180,monsoon,15.8209703889,74.4842506944,"RFCM+4JH, Udyambag Industrial Area, Udyambag, Belagavi, Karnataka 590008, India",Apis dorsata,research
+213624592,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-05-03,2024,5,3,124,pre_monsoon,13.0718972222,77.5759361111,"Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka, India",Apis dorsata,research
+213934311,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-05-01,2024,5,1,122,pre_monsoon,15.7518699745,76.1928640679,"Kushtagi, Karnataka, India",Apis dorsata,research
+214323528,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-05-08,2024,5,8,129,pre_monsoon,12.9891358241,75.6306971982,"Muthigepura, Karnataka 577132, India",Apis dorsata,research
+214359605,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-04-04,2024,4,4,95,pre_monsoon,12.2687702,76.5183287,"Madalli Rd, Madahalli, Karnataka 570026, India",Apis dorsata,research
+214501940,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-05-08,2024,5,8,129,pre_monsoon,12.9067048889,77.6778869444,"TOWER-3, OCEANUS VISTA, Bengaluru, Kasavanahalli, Karnataka 560035, India",Apis dorsata,research
+215000386,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-05-11,2024,5,11,132,pre_monsoon,12.8346933333,77.5812216667,"Bengaluru, Karnataka, India",Apis dorsata,research
+215164854,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-05-12,2024,5,12,133,pre_monsoon,13.0031677307,77.6228251308,"25/4, Thomas Town, Cooke Town, Bengaluru, Karnataka 560084, India",Apis dorsata,research
+217044518,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-05-20,2024,5,20,141,pre_monsoon,12.8452628902,77.7768751234,"RQWG+8W, Buragunte, Karnataka 562125, India",Apis dorsata,research
+217520181,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-05-22,2024,5,22,143,pre_monsoon,12.9740942286,77.592536124,"Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka, India",Apis dorsata,research
+218282136,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-05-26,2024,5,26,147,pre_monsoon,12.377492,76.6619799722,"Mysore Division, Karnataka, India",Apis dorsata,research
+218559152,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-05-27,2024,5,27,148,pre_monsoon,12.910865137,77.6127993688,"MCHS Colony, Stage 2, BTM Layout",Apis dorsata,research
+219716255,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-06-01,2024,6,1,153,monsoon,12.398705,76.5830666667,"Zuari Garden City, Mysuru, KA, IN",Apis dorsata,research
+220205372,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-06-03,2024,6,3,155,monsoon,12.9519033333,77.5858833333,"Mavalli, Bengaluru, KA, IN",Apis dorsata,research
+220244286,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-06-03,2024,6,3,155,monsoon,12.8978457371,77.6319307601,"Garvebhavi Palya, Bengaluru, Karnataka 560068, India",Apis dorsata,research
+221517050,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-06-09,2024,6,9,161,monsoon,12.9483666667,77.5828383333,"Mavalli, Bengaluru, KA, IN",Apis dorsata,research
+222630518,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-06-10,2024,6,10,162,monsoon,13.0259528333,77.6718666667,"1st Main Road, Bengaluru, KA, IN",Apis dorsata,research
+223289996,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-06-17,2024,6,17,169,monsoon,13.0853619722,77.564987,"Vignana Kendra, Bengaluru, Karnataka, India",Apis dorsata,research
+224268733,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-05-29,2024,5,29,150,pre_monsoon,12.4641821866,75.6923672184,"Kodagu, IN-KA, IN",Apis dorsata,research
+224369548,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-06-18,2024,6,18,170,monsoon,12.0460250744,77.6021365615,"Mahadeshwarabetta, Karnataka, India",Apis dorsata,research
+224369552,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-06-18,2024,6,18,170,monsoon,12.0460250744,77.6021365615,"Mahadeshwarabetta, Karnataka, India",Apis dorsata,research
+224369563,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-06-18,2024,6,18,170,monsoon,12.0460250744,77.6021365615,"Mahadeshwarabetta, Karnataka, India",Apis dorsata,research
+224369587,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-06-18,2024,6,18,170,monsoon,12.0460250744,77.6021365615,"Mahadeshwarabetta, Karnataka, India",Apis dorsata,research
+224399002,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-06-22,2024,6,22,174,monsoon,12.8318119,77.7350006,"Muthanallur, Bommasandra, Karnataka 560099, India",Apis dorsata,research
+225120637,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-06-21,2024,6,21,173,monsoon,12.045328,77.602158,"Mahadeshwarabetta, Karnataka, India",Apis dorsata,research
+225132650,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-06-21,2024,6,21,173,monsoon,12.045328,77.602158,"Mahadeshwarabetta, Karnataka, India",Apis dorsata,research
+225137053,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-06-21,2024,6,21,173,monsoon,12.045328,77.602158,"Mahadeshwarabetta, Karnataka, India",Apis dorsata,research
+225462936,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-06-25,2024,6,25,177,monsoon,13.0708833333,77.5802,"Gandhi Krishi Vignana Kendra Southern Laboratory Complex, GANDHI KRISHI VIGNANA KENDRA, Sahakar Nagar, Kodigehalli, Bengaluru, Karnataka 560065, India",Apis dorsata,research
+227089769,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-07-04,2024,7,4,186,monsoon,12.9715987,77.5945627,"Bengaluru, Karnataka, India",Apis dorsata,research
+227748152,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-07-07,2024,7,7,189,monsoon,12.9494154056,77.5846804306,"OFFICE OF THE DEPUTY DIRECTOR OF HORTICULTURE, LALBAGH PARK, Mavalli, Bengaluru, Karnataka 560004, India",Apis dorsata,research
+227828195,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-07-06,2024,7,6,188,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Apis dorsata,research
+228259666,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-02-20,2021,2,20,51,winter,12.9376835963,77.5075614342,"Gnana Bharathi, Bengaluru, Karnataka 560056, India",Apis dorsata,research
+228581909,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-01-20,2024,1,20,20,winter,12.8807764914,77.5232863417,"Bengaluru, Karnataka, India",Apis dorsata,research
+229199002,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-22,2024,3,22,82,pre_monsoon,12.8454216667,77.77565,"B Hosahalli, Bengaluru, KA, IN",Apis dorsata,research
+229501173,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-06-18,2024,6,18,170,monsoon,12.0465779946,77.5946159956,"Mahadeshwarabetta, Karnataka, India",Apis dorsata,research
+230676442,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-07-12,2024,7,12,194,monsoon,12.8418305997,77.7236386997,"Narayanaghatta Village, Chandapura Dommasandra Road Circle, near Muthanallur, Chintalamadivala Village, Bengaluru, Bommasandra, Karnataka 560099, India",Apis dorsata,research
+231584883,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-07-24,2024,7,24,206,monsoon,12.8141902,77.5757145,"RH7G+M7G, Bannerghatta Rd, Bengaluru, Karnataka 560083, India",Apis dorsata,research
+232073034,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-05-30,2024,5,30,151,pre_monsoon,12.8085789194,77.5712247569,"Bengaluru, Karnataka, India",Apis dorsata,research
+232534937,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-05-26,2024,5,26,147,pre_monsoon,12.2982956,76.6926105,"Lalitha Mahal Palace Road, Lalithmahal Nagar, Siddhartha Layout, Mysuru, Karnataka 570028, India",Apis dorsata,research
+232676059,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-03,2024,3,3,63,pre_monsoon,13.034722,77.572993,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+232676073,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-03,2024,3,3,63,pre_monsoon,13.034722,77.572993,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+233056675,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-05,2024,3,5,65,pre_monsoon,13.034722,77.572993,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+233056685,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-05,2024,3,5,65,pre_monsoon,13.034795,77.572956,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+233056709,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-05,2024,3,5,65,pre_monsoon,13.034795,77.572956,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+233056713,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-05,2024,3,5,65,pre_monsoon,13.034795,77.572956,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+233056719,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-05,2024,3,5,65,pre_monsoon,13.034795,77.572956,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+233056721,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-05,2024,3,5,65,pre_monsoon,13.034795,77.572956,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+233066524,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-06,2024,3,6,66,pre_monsoon,13.034795,77.572956,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+233066537,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-06,2024,3,6,66,pre_monsoon,13.034795,77.572956,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+233066539,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-06,2024,3,6,66,pre_monsoon,13.034795,77.572956,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+233066546,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-06,2024,3,6,66,pre_monsoon,13.034795,77.572956,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+233906662,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-08-04,2024,8,4,217,monsoon,12.8915028,77.5923063,"181, Main Rd, Arekere MICO Layout 2nd stage, Manjunatha Layout, Sahyadri Layout, Garvebhavi Palya, Bengaluru, Karnataka 560076, India",Apis dorsata,research
+234102363,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-08-06,2024,8,6,219,monsoon,12.8273999797,77.4869334038,"Karnataka, IN",Apis dorsata,research
+235694355,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-07,2024,3,7,67,pre_monsoon,13.034795,77.572956,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+235694367,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-07,2024,3,7,67,pre_monsoon,13.034795,77.572956,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+236062950,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-08-16,2024,8,16,229,monsoon,13.0643923086,77.7449348599,"Budigere Cross, Bengaluru, Karnataka 562129, India",Apis dorsata,research
+236062953,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-08-16,2024,8,16,229,monsoon,13.0643714063,77.7444198758,"Budigere Cross, Bengaluru, Karnataka 562129, India",Apis dorsata,research
+236062961,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-08-16,2024,8,16,229,monsoon,13.06449682,77.7458360821,"Bangalore, IN-KA, IN",Apis dorsata,research
+236451878,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-08-18,2024,8,18,231,monsoon,12.7959101051,77.5845295563,"Bengaluru, Karnataka 560083, India",Apis dorsata,research
+236451892,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-06-30,2024,6,30,182,monsoon,13.0679239722,77.6088929722,"3J95+6PC, Near Mahatma Gandhi Institute of Rural Energy and Development, Jakkur, Bengaluru, Karnataka 560064, India",Apis dorsata,research
+236690528,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-08-18,2024,8,18,231,monsoon,12.35825019,77.5836506026,"Kanakapura, Ramanagara, KA, IN",Apis dorsata,research
+236854354,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-08-20,2024,8,20,233,monsoon,12.797291342,77.5611608219,"Bannerughatta Kaval, Bengaluru, KA, IN",Apis dorsata,research
+236888510,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-11,2024,3,11,71,pre_monsoon,13.034795,77.572956,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+236888516,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-10,2024,3,10,70,pre_monsoon,13.034795,77.572956,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+236888524,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-08,2024,3,8,68,pre_monsoon,13.034795,77.572956,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+237449912,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-17,2024,3,17,77,pre_monsoon,13.0347221154,77.5730208307,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+237449924,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-16,2024,3,16,76,pre_monsoon,13.0347221154,77.5730208307,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+237449932,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-14,2024,3,14,74,pre_monsoon,13.0347221154,77.5730208307,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+237449935,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-03-14,2024,3,14,74,pre_monsoon,13.0347221154,77.5730208307,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis dorsata,research
+238390866,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-08-28,2024,8,28,241,monsoon,13.0456450814,77.6387517527,Bens Sathya Enclave,Apis dorsata,research
+240200682,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-07-21,2024,7,21,203,monsoon,12.797867,77.576564,"Bannerghatta, IN-KA-BN, IN-KA, IN",Apis dorsata,research
+241609423,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-09-14,2024,9,14,258,monsoon,12.951825,77.58497,"Mavalli, Bengaluru, KA, IN",Apis dorsata,research
+242135839,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-09-15,2024,9,15,259,monsoon,12.6399624112,77.3267608881,"J8QG+VMP, Gaṇa sangha, Karnataka 562138, India",Apis dorsata,research
+242429305,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-09-18,2024,9,18,262,monsoon,12.8461055556,77.7769944444,"RQWG+8W, Buragunte, Karnataka 562125, India",Apis dorsata,research
+242712683,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-09-14,2024,9,14,258,monsoon,12.9620787,77.8990441,Hulimangala Lake,Apis dorsata,research
+243936334,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-09-25,2024,9,25,269,monsoon,12.8141902,77.5757145,"RH7G+M7G, Bannerghatta Rd, Bengaluru, Karnataka 560083, India",Apis dorsata,research
+245414130,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-09-21,2024,9,21,265,monsoon,12.83742,77.58723,"Kalkere State Forest, Bengaluru, Karnataka, India",Apis dorsata,research
+245534216,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-06-25,2024,6,25,177,monsoon,12.2227233,76.6272876,"6JFG+3WM, Dadadahalli, Karnataka 570008, India",Apis dorsata,research
+245590458,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-09-21,2024,9,21,265,monsoon,12.83742,77.58723,"Kalkere State Forest, Bengaluru, Karnataka, India",Apis dorsata,research
+245590518,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-09-21,2024,9,21,265,monsoon,12.83742,77.58723,"Kalkere State Forest, Bengaluru, Karnataka, India",Apis dorsata,research
+245618334,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-14,2023,5,14,134,pre_monsoon,12.987141329,77.7460059151,"Kadugodi, Bengaluru, Karnataka, India",Apis dorsata,research
+247880949,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-10-18,2024,10,18,292,post_monsoon,12.3342275204,76.6244757409,"4th Main Road, Mysuru, KA, IN",Apis dorsata,research
+249315627,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-05-16,2024,5,16,137,pre_monsoon,12.9503805556,77.5844333333,"Mavalli, Bengaluru, Karnataka, India",Apis dorsata,research
+249456634,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-10-28,2024,10,28,302,post_monsoon,12.9648339722,77.5055059722,"XG74+V6H Ambedkar Institue Of Technology Ait Library, AMBEDKAR INSTITUTE OF TECHNOLOGY, BDA Layout, 2nd Stage, Naagarabhaavi, Bengaluru, Karnataka 560072, India",Apis dorsata,research
+249904130,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-10-31,2024,10,31,305,post_monsoon,12.8455533333,77.5873866667,"Weavers Colony, Bengaluru, Karnataka, IN",Apis dorsata,research
+250481165,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-10-25,2024,10,25,299,post_monsoon,12.8452628902,77.7768751234,"RQWG+8W, Buragunte, Karnataka 562125, India",Apis dorsata,research
+250511426,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-11-05,2024,11,5,310,post_monsoon,14.5291042328,74.3158569336,Uttara Kannada,Apis dorsata,research
+252021991,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-11-17,2024,11,17,322,post_monsoon,12.8454966667,77.5878216667,"Weavers Colony, Bengaluru, Karnataka, IN",Apis dorsata,research
+252410789,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-06-08,2024,6,8,160,monsoon,12.7493383333,77.5217583333,"Bangalore Division, Karnataka, India",Apis dorsata,research
+253281149,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-11-27,2024,11,27,332,post_monsoon,13.1820016667,77.5937333333,"Papanahalli, Karnataka 562157, India",Apis dorsata,research
+253292900,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-11-23,2024,11,23,328,post_monsoon,11.9723972956,76.3575413494,"Mysore Division, Karnataka, Indien",Apis dorsata,research
+253886844,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-11-30,2024,11,30,335,post_monsoon,11.7269716667,76.6459116667,"Ooty Mysore Road, Chamarajanagar, Karnataka, IN",Apis dorsata,research
+254710761,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-12-03,2024,12,3,338,winter,13.0813333333,77.638755,"5th Cross Road, Bengaluru, Karnataka, IN",Apis dorsata,research
+255262776,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-12-15,2024,12,15,350,winter,13.08125,77.639525,"Kannur, Bengaluru, Karnataka, IN",Apis dorsata,research
+255478827,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-12-18,2024,12,18,353,winter,13.0279528333,77.5705333333,"MSR Nagar, Bengaluru, Karnataka, IN",Apis dorsata,research
+255478963,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-09-01,2024,9,1,245,monsoon,12.2227233,76.6272876,"6JFG+3WM, Dadadahalli, Karnataka 570008, India",Apis dorsata,research
+256401956,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-10-22,2024,10,22,296,post_monsoon,13.0462506393,77.5007075071,"Nagasandra, Bengaluru, Karnataka 560073, India",Apis dorsata,research
+256615582,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-12-27,2024,12,27,362,winter,17.9703386343,77.3834576785,"Kalaburagi Division, Karnataka, India",Apis dorsata,research
+257240546,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-08-20,2024,8,20,233,monsoon,12.7962494785,77.5646533817,"Bannerughatta Kaval, Karnataka 560083, India",Apis dorsata,research
+257941389,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-05-13,2024,5,13,134,pre_monsoon,13.0167369931,77.5629070538,"Devasandra Layout, Bengaluru, Karnataka, India",Apis dorsata,research
+258744370,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-01-21,2023,1,21,21,winter,12.9115171021,77.6802428439,"WM6J+H46, Kasavanahalli, Bengaluru, Karnataka 560035, India",Apis dorsata,research
+293691490,apis_dorsata,Giant Honey Bee,bee,pollinator,2022-10-02,2022,10,2,275,post_monsoon,12.7796761715,77.5611489446,"Bengaluru, Karnataka, India",Apis dorsata,research
+295775323,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-09-22,2024,9,22,266,monsoon,12.4237897997,76.6549416,"Mysore Division, Karnataka, India",Apis dorsata,research
+305603522,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-11-26,2023,11,26,330,post_monsoon,13.3389566924,77.6668896888,"Bangalore Division, Karnataka, India",Apis dorsata,research
+309447757,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-11-06,2021,11,6,310,post_monsoon,12.9094338246,77.3957401379,"Bengaluru, Karnataka, India",Apis dorsata,research
+309447916,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-11-01,2021,11,1,305,post_monsoon,13.4066893216,77.529794245,"New Extension Area Ghati, Ghati Subramanya, Karnataka 561203, India",Apis dorsata,research
+322070676,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-11-20,2019,11,20,324,post_monsoon,12.8575579,77.7864057,"Sarjapura, Bengaluru, Karnataka 562125, India",Apis dorsata,research
+333324709,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-03-22,2023,3,22,81,pre_monsoon,12.9248028032,77.5878591166,"Jayanagar, Bengaluru, Karnataka, India",Apis dorsata,research
+333985545,apis_dorsata,Giant Honey Bee,bee,pollinator,2023-05-02,2023,5,2,122,pre_monsoon,12.8715330043,74.9168013388,"Adyar, Karnataka, IN",Apis dorsata,research
+334048938,apis_dorsata,Giant Honey Bee,bee,pollinator,2024-07-09,2024,7,9,191,monsoon,12.9755861111,77.6058972222,"Bangalore, Karnataka, India",Apis dorsata,research
+334835287,apis_dorsata,Giant Honey Bee,bee,pollinator,2021-02-13,2021,2,13,44,winter,12.8722414123,77.5247588179,"Adarsha Layout, Lingadeeranahalli, Bengaluru, Karnataka 560109, India",Apis dorsata,research

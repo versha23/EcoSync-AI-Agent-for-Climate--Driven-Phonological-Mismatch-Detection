@@ -1,0 +1,26 @@
+# Core dependencies
+qdrant-client==1.7.1
+pandas==2.1.4
+numpy==1.26.2
+
+# Embeddings
+sentence-transformers==2.2.2
+
+# API requests
+requests==2.31.0
+
+# LLM (choose one or both)
+anthropic==0.18.1
+openai==1.12.0
+
+# Visualization 
+matplotlib==3.8.2
+seaborn==0.13.0
+
+# Jupyter 
+jupyter==1.0.0
+ipykernel==6.27.1
+
+# Utilities
+python-dotenv==1.0.0
+tqdm==4.66.1

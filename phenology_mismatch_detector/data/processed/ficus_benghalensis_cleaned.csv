@@ -1,0 +1,67 @@
+observation_id,species_key,species_common,species_type,species_role,observed_date,year,month,day,day_of_year,season,latitude,longitude,place_guess,scientific_name,quality_grade
+19571193,ficus_benghalensis,Banyan,plant,resource,2019-01-05,2019,1,5,5,winter,12.1387309528,76.6882524516,Basavanapura,Ficus benghalensis,research
+21070370,ficus_benghalensis,Banyan,plant,resource,2019-03-03,2019,3,3,62,pre_monsoon,15.55349787,76.64196212,"Raichur Rd, Marlanahalli, Karnataka 583229, India",Ficus benghalensis,research
+21985457,ficus_benghalensis,Banyan,plant,resource,2019-03-27,2019,3,27,86,pre_monsoon,12.960354085,77.7375914201,"4th Cross Road, Bengaluru, Karnataka, IN",Ficus benghalensis,research
+24978051,ficus_benghalensis,Banyan,plant,resource,2019-05-12,2019,5,12,132,pre_monsoon,12.99208535,77.7162807,"1, Gopalan gradeur, Hoodi, Bengaluru, Karnataka 560067, India",Ficus benghalensis,research
+26226605,ficus_benghalensis,Banyan,plant,resource,2019-06-02,2019,6,2,153,monsoon,12.956619272,77.7345844825,"Vartur Road, Bengaluru, Karnataka, IN",Ficus benghalensis,research
+28773729,ficus_benghalensis,Banyan,plant,resource,2019-07-14,2019,7,14,195,monsoon,12.9677805305,77.7345904336,"Nallurahalli Road, Bengaluru, Karnataka, IN",Ficus benghalensis,research
+30476870,ficus_benghalensis,Banyan,plant,resource,2019-08-03,2019,8,3,215,monsoon,13.0609827042,77.5640563965,"Bangalore, IN-KA, IN",Ficus benghalensis,research
+37867336,ficus_benghalensis,Banyan,plant,resource,2020-01-23,2020,1,23,23,winter,12.909521052,77.3955402659,"Dodd Aladmara Road, Bengaluru, Karnataka, IN",Ficus benghalensis,research
+37869596,ficus_benghalensis,Banyan,plant,resource,2020-01-23,2020,1,23,23,winter,12.909101681,77.3960452985,"Dodd Aladmara Road, Bengaluru, Karnataka, IN",Ficus benghalensis,research
+38142819,ficus_benghalensis,Banyan,plant,resource,2020-01-31,2020,1,31,31,winter,13.2313877,75.6522987,Yelagudige,Ficus benghalensis,research
+39400745,ficus_benghalensis,Banyan,plant,resource,2020-02-23,2020,2,23,54,winter,12.0762116721,76.8550416467,"Mysore, IN-KA, IN",Ficus benghalensis,research
+45668505,ficus_benghalensis,Banyan,plant,resource,2020-05-12,2020,5,12,133,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Ficus benghalensis,research
+49014790,ficus_benghalensis,Banyan,plant,resource,2020-06-09,2020,6,9,161,monsoon,17.0461581354,75.7528781891,"Dawal Malik Darga, Domnal, Bijapur, Karnataka, India",Ficus benghalensis,research
+60158250,ficus_benghalensis,Banyan,plant,resource,2020-09-20,2020,9,20,264,monsoon,12.9598541,77.73513781,"249/11, Laughing Waters, Ramagondanahalli, Varthur Road, Whitefield, Palm Meadows, Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",Ficus benghalensis,research
+66292145,ficus_benghalensis,Banyan,plant,resource,2020-11-18,2020,11,18,323,post_monsoon,13.0578095229,77.6390541717,Ferns Residency,Ficus benghalensis,research
+67389486,ficus_benghalensis,Banyan,plant,resource,2020-12-31,2020,12,31,366,winter,12.9192778067,77.4820175394,"Stage I, Kengeri Satellite Town, Bengaluru, Karnataka 560060, India",Ficus benghalensis,research
+67455680,ficus_benghalensis,Banyan,plant,resource,2021-01-02,2021,1,2,2,winter,12.7487988011,77.5027781807,"Ravugodlu, Karnataka 560082, India",Ficus benghalensis,research
+70743689,ficus_benghalensis,Banyan,plant,resource,2021-03-07,2021,3,7,66,pre_monsoon,12.8571865,77.508911,"Rachanamadu, Karnataka, India",Ficus benghalensis,research
+71202002,ficus_benghalensis,Banyan,plant,resource,2021-03-14,2021,3,14,73,pre_monsoon,12.8064887,77.5272654,"Bengaluru, Karnataka 560083, India",Ficus benghalensis,research
+93830036,ficus_benghalensis,Banyan,plant,resource,2021-09-06,2021,9,6,249,monsoon,12.8531935951,77.5033680169,"Badamanavarathekaval, Karnataka, India",Ficus benghalensis,research
+95238154,ficus_benghalensis,Banyan,plant,resource,2021-09-18,2021,9,18,261,monsoon,12.9330233333,77.60609,"Bengaluru, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka 560029, India",Ficus benghalensis,research
+99775434,ficus_benghalensis,Banyan,plant,resource,2021-10-30,2021,10,30,303,post_monsoon,13.0546820185,77.5419940009,"Prestige Wellington Park Road, Bengaluru, KA, IN",Ficus benghalensis,research
+122117180,ficus_benghalensis,Banyan,plant,resource,2022-06-16,2022,6,16,167,monsoon,12.9715987,77.5945627,"Bengaluru, Karnataka, India",Ficus benghalensis,research
+123805257,ficus_benghalensis,Banyan,plant,resource,2022-04-21,2022,4,21,111,pre_monsoon,12.9715987,77.5945627,"Bengaluru, Karnataka, India",Ficus benghalensis,research
+126798080,ficus_benghalensis,Banyan,plant,resource,2022-07-18,2022,7,18,199,monsoon,12.850055,77.77877,"Bikkanahalli Main Road, Bengaluru, KA, IN",Ficus benghalensis,research
+130604624,ficus_benghalensis,Banyan,plant,resource,2022-08-12,2022,8,12,224,monsoon,12.8791628788,77.530563511,Sobha Forest View,Ficus benghalensis,research
+133435611,ficus_benghalensis,Banyan,plant,resource,2022-08-14,2022,8,14,226,monsoon,12.8424027,77.726986,"Narayanaghatta Village, Chandapura Dommasandra Road Circle, near Muthanallur, Chintalamadivala Village, Bengaluru, Karnataka 560099, India",Ficus benghalensis,research
+137942817,ficus_benghalensis,Banyan,plant,resource,2022-10-08,2022,10,8,281,post_monsoon,12.7519044137,77.5996250287,"QH2X+RHG Jaguars falls, Karnataka 562112, India",Ficus benghalensis,research
+139652597,ficus_benghalensis,Banyan,plant,resource,2022-10-22,2022,10,22,295,post_monsoon,12.9289321667,77.5848006944,"#17, East wing, Jayanagar Shopping Complex, 4th T Block East, 4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",Ficus benghalensis,research
+142128997,ficus_benghalensis,Banyan,plant,resource,2022-11-13,2022,11,13,317,post_monsoon,12.988474588,77.6727396885,"4th Cross Road, Bengaluru, KA, IN",Ficus benghalensis,research
+147240706,ficus_benghalensis,Banyan,plant,resource,2023-01-24,2023,1,24,24,winter,12.8448755306,77.7772536501,"RQWG+8W, Buragunte, Karnataka, India",Ficus benghalensis,research
+148965537,ficus_benghalensis,Banyan,plant,resource,2023-02-10,2023,2,10,41,winter,12.2704783,76.6058961,"Mysore, 7JC4+59R, Karle Habitat, Dattagalli 3rd Stage, Mysuru, Karnataka 570022, India",Ficus benghalensis,research
+150196278,ficus_benghalensis,Banyan,plant,resource,2023-03-04,2023,3,4,63,pre_monsoon,12.8719821,77.6012968,"258, Muthurayya Swamy Layout, Garvebhavi Palya, Bengaluru, Karnataka 560076, India",Ficus benghalensis,research
+151808665,ficus_benghalensis,Banyan,plant,resource,2023-03-21,2023,3,21,80,pre_monsoon,15.873772226,74.4671610669,"Hindalga Village, Belagavi, KA, IN",Ficus benghalensis,research
+152221203,ficus_benghalensis,Banyan,plant,resource,2023-03-12,2023,3,12,71,pre_monsoon,12.7974083333,77.5649472222,"Bengaluru, Karnataka, India",Ficus benghalensis,research
+152741013,ficus_benghalensis,Banyan,plant,resource,2023-03-24,2023,3,24,83,pre_monsoon,13.2184174032,75.0986183986,"Mudar, Karnataka, India",Ficus benghalensis,research
+157010784,ficus_benghalensis,Banyan,plant,resource,2023-04-28,2023,4,28,118,pre_monsoon,12.9767071411,77.6009938262,"Mahatma Gandhi Road, Bengaluru, KA, IN",Ficus benghalensis,research
+157012823,ficus_benghalensis,Banyan,plant,resource,2023-04-28,2023,4,28,118,pre_monsoon,12.9782288242,77.5959124324,"Gandhi Nagar, Bengaluru, KA, IN",Ficus benghalensis,research
+157208073,ficus_benghalensis,Banyan,plant,resource,2023-04-28,2023,4,28,118,pre_monsoon,12.9420439722,77.5698809722,"WHR9+VWC Dr. D.V.G's Memorial, Basavanagudi, Bengaluru, Karnataka 560004, India",Ficus benghalensis,research
+157610572,ficus_benghalensis,Banyan,plant,resource,2023-04-29,2023,4,29,119,pre_monsoon,12.9847166667,77.5914083333,"Vasanth Nagar, Bengaluru, Karnataka, India",Ficus benghalensis,research
+158474632,ficus_benghalensis,Banyan,plant,resource,2023-04-29,2023,4,29,119,pre_monsoon,13.126815,77.547739,"4GGW+7X7, Ramagondanahalli, Karnataka 560064, India",Ficus benghalensis,research
+166016557,ficus_benghalensis,Banyan,plant,resource,2023-06-07,2023,6,7,158,monsoon,12.7789526213,77.5726534054,Bannerghatta National Park,Ficus benghalensis,research
+174677948,ficus_benghalensis,Banyan,plant,resource,2023-07-24,2023,7,24,205,monsoon,13.0512400337,77.7573094916,"Bangalore Rural, IN-KA, IN",Ficus benghalensis,research
+176575898,ficus_benghalensis,Banyan,plant,resource,2023-07-24,2023,7,24,205,monsoon,12.9704668742,77.6074265094,"Brigade Road, Bengaluru, KA, IN",Ficus benghalensis,research
+177909531,ficus_benghalensis,Banyan,plant,resource,2023-08-02,2023,8,2,214,monsoon,11.880755,76.832379,"VRHM+JQG, Udigala, Karnataka 571128, India",Ficus benghalensis,research
+205372640,ficus_benghalensis,Banyan,plant,resource,2024-02-04,2024,2,4,35,winter,12.9443527778,77.5832055556,"Mavalli, Bengaluru, Karnataka, India",Ficus benghalensis,research
+210667830,ficus_benghalensis,Banyan,plant,resource,2024-04-27,2024,4,27,118,pre_monsoon,15.4644555556,74.9882694444,"FX7Q+VCC, Sadhankeri, Police Head Quarter's, Dharwad, Karnataka 580008, India",Ficus benghalensis,research
+211710393,ficus_benghalensis,Banyan,plant,resource,2024-04-27,2024,4,27,118,pre_monsoon,15.4622361111,74.9706722222,"FX6C+V5P, Kelgeri, Dharwad, Karnataka 580007, India",Ficus benghalensis,research
+213636721,ficus_benghalensis,Banyan,plant,resource,2024-05-05,2024,5,5,126,pre_monsoon,12.825625,77.7298,"Muthanallur, Bommasandra, Karnataka 560099, India",Ficus benghalensis,research
+213701311,ficus_benghalensis,Banyan,plant,resource,2024-04-29,2024,4,29,120,pre_monsoon,12.8884407379,77.4359964883,"Karnataka, IN",Ficus benghalensis,research
+213918951,ficus_benghalensis,Banyan,plant,resource,2024-05-06,2024,5,6,127,pre_monsoon,13.066238,77.6115984,"3J86+JC, Rachenahalli, Thanisandra, Bengaluru, Karnataka 560064, India",Ficus benghalensis,research
+216505737,ficus_benghalensis,Banyan,plant,resource,2024-05-18,2024,5,18,139,pre_monsoon,12.42475116,76.6891007,"CMFQ+MPQ, Srirangapatna, Karnataka 571438, Inde",Ficus benghalensis,research
+225674405,ficus_benghalensis,Banyan,plant,resource,2024-06-26,2024,6,26,178,monsoon,13.5774049,77.6744929,"HMGF+XQ9, Avalabetta Rd, Yerramaranahalli, Karnataka 561211, India",Ficus benghalensis,research
+228246102,ficus_benghalensis,Banyan,plant,resource,2019-10-13,2019,10,13,286,post_monsoon,12.3038555556,76.6538777778,"Agrahara, Chamrajpura, Mysuru, Karnataka, India",Ficus benghalensis,research
+229434778,ficus_benghalensis,Banyan,plant,resource,2024-07-14,2024,7,14,196,monsoon,12.5848417569,77.3730293289,"Doddanahalli, Karnataka 562138, India",Ficus benghalensis,research
+236246791,ficus_benghalensis,Banyan,plant,resource,2024-08-17,2024,8,17,230,monsoon,12.9910430833,77.5718688889,"Bhashyam Park, 43, Jai Bheema Nagar, Malleshwaram, Bengaluru, Karnataka 560003, India",Ficus benghalensis,research
+248071208,ficus_benghalensis,Banyan,plant,resource,2024-02-18,2024,2,18,49,winter,12.8560107959,77.4122735854,"Bangalore Division, Karnataka, India",Ficus benghalensis,research
+251859588,ficus_benghalensis,Banyan,plant,resource,2024-11-12,2024,11,12,317,post_monsoon,13.1339986986,77.4788012356,"4FMH+HGV, Aivarkhandpur, Hesaraghatta, Bengaluru, Karnataka 560088, India",Ficus benghalensis,research
+252410792,ficus_benghalensis,Banyan,plant,resource,2024-06-08,2024,6,8,160,monsoon,12.7495416667,77.5227433333,"Bangalore Division, Karnataka, India",Ficus benghalensis,research
+252518963,ficus_benghalensis,Banyan,plant,resource,2024-11-17,2024,11,17,322,post_monsoon,12.4254364997,76.7215771,"CPGC+37M KARIGHATTA SRINIVASA FOREST CHECK POST & CHILDREN's PARK, Kallikoppalu, Karnataka 571807, India",Ficus benghalensis,research
+256599913,ficus_benghalensis,Banyan,plant,resource,2024-12-29,2024,12,29,364,winter,12.8141902,77.5757145,"RH7G+M7G, Bannerghatta Rd, Bengaluru, Karnataka 560083, India",Ficus benghalensis,research
+256730293,ficus_benghalensis,Banyan,plant,resource,2024-12-28,2024,12,28,363,winter,13.0019545188,77.2737366809,"Thorechannohalli, Karnataka 562127, India",Ficus benghalensis,research
+257003825,ficus_benghalensis,Banyan,plant,resource,2024-10-30,2024,10,30,304,post_monsoon,12.3776487,76.5652499,"9HH8+335, Mydanahalli, Karnataka 571606, India",Ficus benghalensis,research
+295775306,ficus_benghalensis,Banyan,plant,resource,2024-09-22,2024,9,22,266,monsoon,12.4212194,76.6575519997,"Karimanti, Karnataka, India",Ficus benghalensis,research
+295775337,ficus_benghalensis,Banyan,plant,resource,2024-09-22,2024,9,22,266,monsoon,12.3085509997,76.6274626997,"Kajjihundi, Mysuru, Karnataka, India",Ficus benghalensis,research
+308959376,ficus_benghalensis,Banyan,plant,resource,2024-04-11,2024,4,11,102,pre_monsoon,13.30741111,75.78128889,"Kote, Chikkamagaluru, Karnataka 577101, India",Ficus benghalensis,research

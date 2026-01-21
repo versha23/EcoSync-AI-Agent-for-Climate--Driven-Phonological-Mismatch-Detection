@@ -1,0 +1,723 @@
+observation_id,species_key,species_common,species_type,species_role,observed_date,year,month,day,day_of_year,season,latitude,longitude,place_guess,scientific_name,quality_grade
+19840168,papilio_polytes,Common Mormon,butterfly,consumer,2019-01-24,2019,1,24,24,winter,12.9795578542,77.5965968147,"Queens Rd, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560001, India",Papilio polytes,research
+20253202,papilio_polytes,Common Mormon,butterfly,consumer,2019-02-10,2019,2,10,41,winter,12.8991707047,77.3081684602,"Savanadurga State Forest, Karnataka, India",Papilio polytes,research
+20253264,papilio_polytes,Common Mormon,butterfly,consumer,2019-02-05,2019,2,5,36,winter,12.9427705931,77.5966962942,"Hombegowda Nagar, Bengaluru, Karnataka, India",Papilio polytes,research
+20626643,papilio_polytes,Common Mormon,butterfly,consumer,2019-02-09,2019,2,9,40,winter,12.9887986722,77.6625235006,"C 14/15, DRDO Phase 1 Township, Viswa Vihar, C V Raman Nagar, Bengaluru, Karnataka 560093, India",Papilio polytes,research
+21442483,papilio_polytes,Common Mormon,butterfly,consumer,2019-03-21,2019,3,21,80,pre_monsoon,12.9610734409,77.5733748214,"560018, Bengaluru, Karnataka, IN",Papilio polytes,research
+26100295,papilio_polytes,Common Mormon,butterfly,consumer,2019-03-26,2019,3,26,85,pre_monsoon,12.9821295919,77.6328575672,"Karnataka, IN",Papilio polytes,research
+27161484,papilio_polytes,Common Mormon,butterfly,consumer,2019-06-16,2019,6,16,167,monsoon,12.9205893,77.2944334,"Savandurga Hill, Karnataka",Papilio polytes,research
+28562533,papilio_polytes,Common Mormon,butterfly,consumer,2019-07-09,2019,7,9,190,monsoon,12.4932005684,77.2663961453,"Kanakapura, Ramanagara, Karnataka, IN",Papilio polytes,research
+28596842,papilio_polytes,Common Mormon,butterfly,consumer,2019-07-11,2019,7,11,192,monsoon,12.8381109238,77.6569442749,"EC4 Tower 11, Wipro Technologies, Shikaripalya, Electronic City, Bengaluru, Karnataka 560100, India",Papilio polytes,research
+28597839,papilio_polytes,Common Mormon,butterfly,consumer,2019-07-04,2019,7,4,185,monsoon,14.2830133438,74.4450531006,"Honnavar, Karnataka, India",Papilio polytes,research
+28598077,papilio_polytes,Common Mormon,butterfly,consumer,2019-07-08,2019,7,8,189,monsoon,14.2840089798,74.4431991577,"Honnavar, Karnataka, India",Papilio polytes,research
+29226166,papilio_polytes,Common Mormon,butterfly,consumer,2019-06-30,2019,6,30,181,monsoon,12.8782040927,77.3042289291,"Savanadurga State Forest, Karnataka, India",Papilio polytes,research
+29853207,papilio_polytes,Common Mormon,butterfly,consumer,2019-07-28,2019,7,28,209,monsoon,12.8934072,77.5945238,"184,, 182, Main Rd, Arekere MICO Layout 2nd stage, Manjunatha Layout, Sahyadri Layout, Arekere, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India",Papilio polytes,research
+29853216,papilio_polytes,Common Mormon,butterfly,consumer,2019-07-28,2019,7,28,209,monsoon,12.8934072,77.5945238,"184,, 182, Main Rd, Arekere MICO Layout 2nd stage, Manjunatha Layout, Sahyadri Layout, Arekere, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India",Papilio polytes,research
+30090190,papilio_polytes,Common Mormon,butterfly,consumer,2019-08-03,2019,8,3,215,monsoon,13.3539650982,74.7847834602,"Tiger Circle Road, Madhav Nagar, Manipal, Karnataka 576104, India",Papilio polytes,research
+31843788,papilio_polytes,Common Mormon,butterfly,consumer,2019-07-13,2019,7,13,194,monsoon,12.8799397966,77.5295325368,"Thurahalli, Bengaluru, Karnataka 560062, India",Papilio polytes,research
+34578948,papilio_polytes,Common Mormon,butterfly,consumer,2019-10-04,2019,10,4,277,post_monsoon,12.8755740269,77.4835435085,"Karnataka, IN",Papilio polytes,research
+34947050,papilio_polytes,Common Mormon,butterfly,consumer,2019-10-27,2019,10,27,300,post_monsoon,12.97777167,77.68457,"12th Cross Road, Bengaluru, Karnataka, IN",Papilio polytes,research
+35080242,papilio_polytes,Common Mormon,butterfly,consumer,2019-10-30,2019,10,30,303,post_monsoon,13.0816669464,77.566947937,"Vignana Kendra, Bengaluru, Karnataka, India",Papilio polytes,research
+35516731,papilio_polytes,Common Mormon,butterfly,consumer,2019-11-10,2019,11,10,314,post_monsoon,12.97333667,77.69142167,"12th Cross Road, Bengaluru, Karnataka, IN",Papilio polytes,research
+35677066,papilio_polytes,Common Mormon,butterfly,consumer,2019-09-21,2019,9,21,264,monsoon,13.4708025983,75.0448323334,"Udupi, Karnataka, India",Papilio polytes,research
+35909511,papilio_polytes,Common Mormon,butterfly,consumer,2019-09-22,2019,9,22,265,monsoon,13.1227761135,74.9933188409,Sammilan Shetty's Butterfly Park,Papilio polytes,research
+36429746,papilio_polytes,Common Mormon,butterfly,consumer,2019-12-07,2019,12,7,341,winter,12.939362363,77.5065120461,"Karnataka, IN",Papilio polytes,research
+36591541,papilio_polytes,Common Mormon,butterfly,consumer,2019-12-12,2019,12,12,346,winter,12.971599,77.594563,Bengaluru,Papilio polytes,research
+36613671,papilio_polytes,Common Mormon,butterfly,consumer,2019-12-13,2019,12,13,347,winter,12.8220953563,77.5167562656,"Karnataka, IN",Papilio polytes,research
+36729893,papilio_polytes,Common Mormon,butterfly,consumer,2019-12-17,2019,12,17,351,winter,12.9315378208,77.5412637328,"Karnataka, IN",Papilio polytes,research
+36883878,papilio_polytes,Common Mormon,butterfly,consumer,2019-10-08,2019,10,8,281,post_monsoon,13.0199305556,77.5682916667,"Devasandra Layout, Bengaluru, Karnataka, India",Papilio polytes,research
+36883879,papilio_polytes,Common Mormon,butterfly,consumer,2019-10-08,2019,10,8,281,post_monsoon,13.0196416667,77.5685111111,"Devasandra Layout, Bengaluru, Karnataka, India",Papilio polytes,research
+39947838,papilio_polytes,Common Mormon,butterfly,consumer,2020-03-12,2020,3,12,72,pre_monsoon,12.92864667,77.679305,"Bellandur, Bengaluru, Karnataka, IN",Papilio polytes,research
+40068084,papilio_polytes,Common Mormon,butterfly,consumer,2020-03-15,2020,3,15,75,pre_monsoon,13.3128345644,77.5425871834,"Bangalore Rural, IN-KA, IN",Papilio polytes,research
+42940764,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-22,2020,4,22,113,pre_monsoon,12.989518708,77.6630120007,"CV Raman Nagar, Bengaluru, Karnataka, IN",Papilio polytes,research
+44091767,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-26,2020,4,26,117,pre_monsoon,12.8843797,77.4637183,"Bengaluru, Karnataka 560060, India",Papilio polytes,research
+44458880,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-01,2020,5,1,122,pre_monsoon,13.06430405,77.61938059,"Near ATREE Office, Royal Enclave, Phase II, Rachenahalli, Royal Enclave, Phase II, Srirampura, Jakkur, Bengaluru, Karnataka 560064, India",Papilio polytes,research
+44459330,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-01,2020,5,1,122,pre_monsoon,13.0642487222,77.6194034167,"Near ATREE Office, Royal Enclave, Phase II, Rachenahalli, Royal Enclave, Phase II, Srirampura, Jakkur, Bengaluru, Karnataka 560064, India",Papilio polytes,research
+45235175,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-06,2020,5,6,127,pre_monsoon,14.2853127525,74.4465833902,"Kasaba Gundibail, Honnavar, Karnataka 581334, India",Papilio polytes,research
+46202924,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-15,2020,5,15,136,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Papilio polytes,research
+46333666,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-16,2020,5,16,137,pre_monsoon,14.2838172778,74.4429092222,"Honnavar, Karnataka, India",Papilio polytes,research
+46687126,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-21,2020,5,21,142,pre_monsoon,13.095485,74.8530183333,"Dakshina Kannada, IN-KA, IN",Papilio polytes,research
+46691801,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-21,2020,5,21,142,pre_monsoon,12.9686487778,77.7609110833,"Immadihalli, Whitefield, Bengaluru, Karnataka 560066, India",Papilio polytes,research
+47126419,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-24,2020,5,24,145,pre_monsoon,12.9901508706,77.6624017954,Prestige Greenwoods,Papilio polytes,research
+47472938,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-25,2020,5,25,146,pre_monsoon,14.4111605373,74.4320203364,"Karnataka 581362, India",Papilio polytes,research
+47522639,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-27,2020,5,27,148,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Papilio polytes,research
+47807949,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-30,2020,5,30,151,pre_monsoon,12.90109929,77.57469771,"28, Jarganahalli, JP Nagar Phase 6, J. P. Nagar, Bengaluru, Karnataka 560078, India",Papilio polytes,research
+49150819,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-03,2020,4,3,94,pre_monsoon,15.262445,74.61850833,"Haliyal, Dandeli, Karnataka, IN",Papilio polytes,research
+49911943,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-01,2020,6,1,153,monsoon,14.2825802507,74.4441492856,"Honnavar, Karnataka, India",Papilio polytes,research
+49912026,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-26,2020,5,26,147,pre_monsoon,14.413529405,74.4264695048,"Karnataka 581362, India",Papilio polytes,research
+49912307,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-26,2020,5,26,147,pre_monsoon,14.4142957503,74.4258629903,"Karnataka 581362, India",Papilio polytes,research
+50029844,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-18,2020,6,18,170,monsoon,12.354824,76.513957,"Mysore, IN-KA, IN",Papilio polytes,research
+50055328,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-17,2020,6,17,169,monsoon,13.0578095229,77.6390541717,"Ferns Residency, Kothanur, Bengaluru, Karnataka 560077, India ",Papilio polytes,research
+50974021,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-26,2020,6,26,178,monsoon,16.8490201972,75.7194361327,"Sri Nagalingeshwara Waterbody, Vijayapura",Papilio polytes,research
+51080206,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-21,2020,6,21,173,monsoon,13.06502626,77.64800307,"BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes romulus,research
+51080330,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-27,2020,6,27,179,monsoon,13.06502018,77.64803265,"BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+51541553,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-01,2020,7,1,183,monsoon,16.8483865354,75.7202077937,"Neela Nagar, Vijayapura, KA, IN",Papilio polytes,research
+51778421,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-03,2020,7,3,185,monsoon,12.92860333,77.679145,"Bellandur, Bengaluru, KA, IN",Papilio polytes,research
+51894001,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-04,2020,7,4,186,monsoon,16.8490201972,75.7194361327,"Sri Nagalingeshwara Waterbody, Vijayapura",Papilio polytes,research
+52356796,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-08,2020,7,8,190,monsoon,16.8660398262,75.7365918576," Hanchinal Lake Bijapur County, Karnataka, IN",Papilio polytes,research
+52367788,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-09,2020,4,9,100,pre_monsoon,12.864314363,77.5212750211,Sobha Sunscape,Papilio polytes,research
+52543006,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-10,2020,7,10,192,monsoon,12.9745938516,77.650387955,"2nd Cross Road, Bengaluru, KA, IN",Papilio polytes,research
+52654010,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-06,2020,6,6,158,monsoon,12.9901508706,77.6624017954,Prestige Greenwoods,Papilio polytes,research
+52783152,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-05,2020,6,5,157,monsoon,12.8746141863,74.8400963098,Kodialbail,Papilio polytes,research
+52783634,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-25,2020,5,25,146,pre_monsoon,12.8722752562,74.8396051303,"Kodailbail, Mangalore, Karnataka, India",Papilio polytes,research
+52792706,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-24,2020,6,24,176,monsoon,12.8742464829,77.6194713637,DLF Westend Heights Apartments,Papilio polytes,research
+52917044,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-13,2020,7,13,195,monsoon,12.8746141863,74.8400963098,"Kodailbail, Mangalore, Karnataka, India",Papilio polytes,research
+53241942,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-16,2020,7,16,198,monsoon,16.8490201972,75.7194361327,"Sri Nagalingeshwara Waterbody, Vijayapura",Papilio polytes,research
+53572042,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-18,2020,7,18,200,monsoon,12.8747525285,74.819578109,"Karnataka, IN",Papilio polytes,research
+53589361,papilio_polytes,Common Mormon,butterfly,consumer,2019-07-31,2019,7,31,212,monsoon,12.9366931,77.6176335,"Koramangala 80 Feet Rd, KHB Colony, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560095, India",Papilio polytes,research
+53825924,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-14,2020,7,14,196,monsoon,12.92866333,77.67928333,"Bellandur, Bengaluru, KA, IN",Papilio polytes,research
+53858934,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-14,2020,5,14,135,pre_monsoon,13.1063249006,77.7661667317,"Karnataka, IN",Papilio polytes,research
+54239096,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-23,2020,7,23,205,monsoon,12.4400123444,76.3810921088,Krishnarajanagara,Papilio polytes,research
+54247771,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-18,2020,7,18,200,monsoon,13.0655623925,77.6477063075,"115, Anjanappa Layout, Kothanur, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+54607223,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-24,2020,6,24,176,monsoon,12.8742464829,77.6194713637,DLF Westend Heights Apartments,Papilio polytes,research
+54909544,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-31,2020,7,31,213,monsoon,12.9901508706,77.6624017954,Prestige Greenwoods,Papilio polytes,research
+54950159,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-31,2020,7,31,213,monsoon,13.067517718,77.5723100826,"Fortuna Classic Apartment, Sir MV Layout, Dhanalakshmi Layout, Virupakshapura, Bengaluru, Karnataka 560097, India ",Papilio polytes,research
+55026659,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-01,2020,8,1,214,monsoon,12.9551859,77.5209856997,"Vidyagiri Layout Chandra Layout, Vidyagiri Layout, Jyothi Nagar, Stage 2, Chandra Layout, Bengaluru, Karnataka 560072, India",Papilio polytes,research
+55353843,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-22,2020,7,22,204,monsoon,14.2840471111,74.4432067778,"Honnavar, Karnataka, India",Papilio polytes,research
+55405198,papilio_polytes,Common Mormon,butterfly,consumer,2019-10-10,2019,10,10,283,post_monsoon,12.9715987,77.5945627,"Bengaluru, Karnataka, India",Papilio polytes,research
+55607995,papilio_polytes,Common Mormon,butterfly,consumer,2019-11-02,2019,11,2,306,post_monsoon,13.0159287851,77.6378619298,Kammanahalli,Papilio polytes,research
+56223779,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-05,2020,8,5,218,monsoon,12.884681,77.468225,"5B, Kengeri, Venkatapura, Karnataka 560060, India",Papilio polytes,research
+56298585,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-13,2020,8,13,226,monsoon,12.8655969612,77.5217172503,Nagegowdanapalya,Papilio polytes,research
+56483260,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-15,2020,8,15,228,monsoon,13.0655222211,77.6477881148,"115, Anjanappa Layout, Kothanur, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+56604571,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-11,2020,8,11,224,monsoon,14.9533333333,74.6988888889,"Yellapur, Karnataka, India",Papilio polytes,research
+56614486,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-04,2020,8,4,217,monsoon,14.9522222222,74.6966666667,"Yellapur, Karnataka, India",Papilio polytes,research
+56725197,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-31,2020,7,31,213,monsoon,12.928625,77.67928333,"Bellandur, Bengaluru, KA, IN",Papilio polytes,research
+56746718,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-04,2020,7,4,186,monsoon,13.1810027778,76.438275,"Dasarighatta, Karnataka 572201, India",Papilio polytes,research
+57200032,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-22,2020,8,22,235,monsoon,12.90646525,77.6765821944,"Bengaluru, Karnataka, India",Papilio polytes,research
+57206182,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-22,2020,8,22,235,monsoon,13.0312195833,77.6406667778,"Hennur Bande, Hennur Gardens, Bengaluru, Karnataka 560043, India",Papilio polytes,research
+57523662,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-25,2020,8,25,238,monsoon,13.0655163424,77.6478803158,"115, Anjanappa Layout, Kothanur, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+57626927,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-22,2020,8,22,235,monsoon,13.0690236944,77.5779117778,"Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka, India",Papilio polytes,research
+58398972,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-02,2020,9,2,246,monsoon,12.8862660366,77.5787050776,"J. P. Nagar, Bengaluru, Karnataka 560078, India",Papilio polytes,research
+58700658,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-03,2020,9,3,247,monsoon,12.9229155949,77.5827596337,"4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",Papilio polytes,research
+58845593,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-06,2020,9,6,250,monsoon,13.0246662532,77.5686958311,"Indian Institute of Science, ಬೆಂಗಳೂರು, KA, IN",Papilio polytes,research
+58853356,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-09,2020,4,9,100,pre_monsoon,12.9891665336,77.6624426991,Prestige Greenwoods,Papilio polytes,research
+59472722,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-25,2020,4,25,116,pre_monsoon,12.8406045,75.3822567,"Konalu, Karnataka 574229, India",Papilio polytes,research
+59564116,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-02,2020,9,2,246,monsoon,14.9533333333,74.6983333333,"Yellapur, Karnataka, India",Papilio polytes,research
+59564151,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-14,2020,9,14,258,monsoon,12.2908801944,76.6104431111,"Mysore, IN-KA, IN",Papilio polytes,research
+59587391,papilio_polytes,Common Mormon,butterfly,consumer,2020-03-31,2020,3,31,91,pre_monsoon,12.8406045,75.3822567,"Konalu, Karnataka 574229, India",Papilio polytes,research
+59946496,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-12,2020,9,12,256,monsoon,13.3114083333,74.7342075,"Ayurlifeclinics, Sampigenagara Road, Kampanabettu, GuddeAngadi Cross,, Udyavara, Udupi, Karnataka 574118, India",Papilio polytes,research
+60061581,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-18,2020,9,18,262,monsoon,13.0763754138,77.5762407564,"Vignana Kendra, Bengaluru, Karnataka, India",Papilio polytes romulus,research
+60086053,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-18,2020,9,18,262,monsoon,13.3206958247,74.7573313862,"Vasuki Nagar, Bima Nagar, Bailoor, Karnataka 576101, India",Papilio polytes,research
+60277176,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-21,2020,9,21,265,monsoon,12.88789667,77.58982167,"JP Nagar Phase 7, Bengaluru, KA, IN",Papilio polytes,research
+60304962,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-21,2020,9,21,265,monsoon,12.663784,75.047439,"Siriya Dam, Kerala, India",Papilio polytes,research
+60305778,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-21,2020,9,21,265,monsoon,13.023899959,77.5692117361,"Indian Institute of Science, ಬೆಂಗಳೂರು, KA, IN",Papilio polytes,research
+60590802,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-24,2020,9,24,268,monsoon,12.92295775,77.582732141,"4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",Papilio polytes,research
+60591823,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-24,2020,9,24,268,monsoon,12.9079567,77.640957,"Sector 3, HSR Layout, Bengaluru, Karnataka 560102, India",Papilio polytes,research
+60916317,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-01,2020,9,1,245,monsoon,13.0673704039,77.5723261759,Tube House 4,Papilio polytes,research
+60946794,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-10,2020,9,10,254,monsoon,13.0673704039,77.5723261759,Tube House 4,Papilio polytes,research
+61109343,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-28,2020,9,28,272,monsoon,12.922945659,77.5827740505,"4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",Papilio polytes,research
+61172852,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-29,2020,9,29,273,monsoon,12.92868333,77.679305,"Bellandur, Bengaluru, KA, IN",Papilio polytes,research
+61360358,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-29,2020,9,29,273,monsoon,12.9065201486,77.6774941407,"Bengaluru, Karnataka, India",Papilio polytes,research
+61484012,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-01,2020,10,1,275,post_monsoon,13.0578095229,77.6390541717,Ferns Residency,Papilio polytes,research
+61549839,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-03,2020,10,3,277,post_monsoon,12.9901508706,77.6624017954,Prestige Greenwoods,Papilio polytes,research
+61567735,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-03,2020,10,3,277,post_monsoon,13.0578095229,77.6390541717,Ferns Residency,Papilio polytes,research
+61567739,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-03,2020,10,3,277,post_monsoon,13.0578095229,77.6390541717,Ferns Residency,Papilio polytes,research
+61772730,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-05,2020,10,5,279,post_monsoon,16.8660398262,75.7365918576," Hanchinal Lake Bijapur County, Karnataka, IN",Papilio polytes,research
+61830800,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-05,2020,10,5,279,post_monsoon,12.9229342216,77.582779415,"4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",Papilio polytes,research
+61852982,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-16,2020,9,16,260,monsoon,13.0766723023,77.5776268914,GKVK,Papilio polytes,research
+62088622,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-08,2020,10,8,282,post_monsoon,12.9067956,77.677293,"Kasavanhalli Rd, Kasavanahalli, Karnataka 560035, India",Papilio polytes,research
+62088778,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-06,2020,10,6,280,post_monsoon,12.787330569,74.8605772523,"Ullal, Karnataka, India",Papilio polytes,research
+62180810,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-02,2020,10,2,276,post_monsoon,12.9250283806,77.5765432778,"7th Block, Jayanagar, Bengaluru, Karnataka 560070, India",Papilio polytes,research
+62322530,papilio_polytes,Common Mormon,butterfly,consumer,2019-04-15,2019,4,15,105,pre_monsoon,12.9246855778,77.5879336941,"Jayanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+62323316,papilio_polytes,Common Mormon,butterfly,consumer,2019-01-21,2019,1,21,21,winter,12.924707936,77.5877731604,"Jayanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+62391665,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-16,2020,9,16,260,monsoon,12.9170863504,77.5759525225,"8th Block, Jayanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+63322206,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-18,2020,10,18,292,post_monsoon,13.1424411,78.1004128,"Antharagange to Village Trail, Paparajanahalli, Karnataka 563101, India",Papilio polytes,research
+63564789,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-21,2020,10,21,295,post_monsoon,12.9251976542,77.5873441642,"Jayanagar, Bengaluru, Karnataka, India",Papilio polytes stichius,research
+63887815,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-31,2020,10,31,305,post_monsoon,12.803715,77.5630016667,"Bengaluru, Karnataka, India",Papilio polytes,research
+64011943,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-02,2020,11,2,307,post_monsoon,12.937071158,77.5859859958,"377, 8th Cross Road",Papilio polytes,research
+64164525,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-04,2020,11,4,309,post_monsoon,13.0649739722,77.648008,"BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+64663488,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-11,2020,11,11,316,post_monsoon,13.065127,77.647947,"Anjanappa Layout, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+64716680,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-01,2020,11,1,306,post_monsoon,12.9249063562,77.5878162682,"Jayanagar, Bengaluru, Karnataka, India",Papilio polytes romulus,research
+65325197,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-21,2020,11,21,326,post_monsoon,12.8406045,75.3822567,"Konalu, Karnataka 574229, India",Papilio polytes,research
+65389435,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-19,2020,10,19,293,post_monsoon,13.7663456533,74.788646573,"Udupi, Karnataka, India",Papilio polytes,research
+65415474,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-22,2020,11,22,327,post_monsoon,12.8406478781,75.3822565824,Konalu,Papilio polytes,research
+66292146,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-18,2020,11,18,323,post_monsoon,13.0578095229,77.6390541717,Ferns Residency,Papilio polytes,research
+67075595,papilio_polytes,Common Mormon,butterfly,consumer,2020-12-26,2020,12,26,361,winter,15.9757415,77.3757529,Gillesugur,Papilio polytes,research
+69363012,papilio_polytes,Common Mormon,butterfly,consumer,2020-12-14,2020,12,14,349,winter,12.4929418333,76.4032821389,"Bherya, Karnataka 571601, India",Papilio polytes,research
+81061244,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-02,2020,10,2,276,post_monsoon,12.9690232,77.6898133,Home of,Papilio polytes,research
+81812873,papilio_polytes,Common Mormon,butterfly,consumer,2019-11-12,2019,11,12,316,post_monsoon,12.9507432,77.5847773,"Mavalli, Bengaluru, Karnataka 560004, India",Papilio polytes,research
+82519885,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-06,2020,11,6,311,post_monsoon,12.9704862614,77.5647988915,"D-2, Keshava Nagar, Binnipete, Bengaluru, Karnataka 560023, India",Papilio polytes,research
+82843008,papilio_polytes,Common Mormon,butterfly,consumer,2019-05-27,2019,5,27,147,pre_monsoon,12.7985882,77.567835,"Bannerghatta Main Rd, Bannerughatta, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+85313295,papilio_polytes,Common Mormon,butterfly,consumer,2020-01-01,2020,1,1,1,winter,12.9238544,77.8254016,"Despandeguttahalli, Tattanur, kalkunte post, Bengaluru, Karnataka 560117, India",Papilio polytes,research
+85313976,papilio_polytes,Common Mormon,butterfly,consumer,2020-01-01,2020,1,1,1,winter,12.9240248938,77.8253920785,"Bengaluru, Karnataka, India",Papilio polytes,research
+86373465,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-15,2020,9,15,259,monsoon,12.890235,77.5873736,"Puttenahalli Lake, Nataraja Layout, JP Nagar 7th Phase, Bengaluru, Karnataka 560076",Papilio polytes,research
+89485388,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-18,2020,7,18,200,monsoon,13.0556235128,77.5367076947,"Jalahalli, Bengaluru, Karnataka, India",Papilio polytes romulus,research
+92211677,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-01,2020,4,1,92,pre_monsoon,12.2762440323,76.6163660914,"Bidadi, H Block, Ramakrishnanagar, Mysuru, Karnataka 570023, India",Papilio polytes,research
+93255189,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-18,2020,9,18,262,monsoon,12.4440489281,76.4592854451,"KRS Backwaters, Mandya",Papilio polytes,research
+95058085,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-10,2020,9,10,254,monsoon,13.0556235128,77.5367076947,"Jalahalli, Bengaluru, Karnataka, India",Papilio polytes,research
+95850530,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-26,2020,8,26,239,monsoon,12.9389775016,77.553387098,"Phase 1, Banashankari Stage I, Banashankari, Bengaluru, Karnataka 560050, India",Papilio polytes,research
+95988581,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-21,2020,5,21,142,pre_monsoon,13.0556235128,77.5367076947,"Jalahalli, Bengaluru, Karnataka, India",Papilio polytes romulus,research
+96066498,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-17,2020,8,17,230,monsoon,12.289668799,76.6073213461,"Ramakrishnanagar I Block,  Mysuru, Karnataka, India",Papilio polytes,research
+96330028,papilio_polytes,Common Mormon,butterfly,consumer,2020-02-18,2020,2,18,49,winter,12.9072694722,77.5591583056,"Kumaraswamy Layout, Bengaluru, Karnataka 560078, India",Papilio polytes,research
+97534843,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-07,2020,8,7,220,monsoon,12.9052013,77.6865383,"Rainbow Drive, Halanayakanahalli, Karnataka 560035, India",Papilio polytes,research
+97540490,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-21,2020,11,21,326,post_monsoon,12.9052013,77.6865383,"Rainbow Drive, Halanayakanahalli, Karnataka 560035, India",Papilio polytes,research
+97540492,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-21,2020,11,21,326,post_monsoon,12.9052013,77.6865383,"Rainbow Drive, Halanayakanahalli, Karnataka 560035, India",Papilio polytes,research
+99184291,papilio_polytes,Common Mormon,butterfly,consumer,2020-12-01,2020,12,1,336,winter,12.3275888,76.6642106,"N R Mohalla, Rajendra Nagar, Mysuru, Karnataka 570007, India",Papilio polytes,research
+102610057,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-13,2020,11,13,318,post_monsoon,12.9901554443,77.6624017954,"Prestige Greenwoods, Nagavarapalya, Bengaluru",Papilio polytes,research
+103518226,papilio_polytes,Common Mormon,butterfly,consumer,2019-01-15,2019,1,15,15,winter,13.035692,77.577666,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+104338538,papilio_polytes,Common Mormon,butterfly,consumer,2020-12-26,2020,12,26,361,winter,13.020944,77.569946,"Indian Institute of Science, Bangalore, Karnataka",Papilio polytes,research
+104570697,papilio_polytes,Common Mormon,butterfly,consumer,2019-08-02,2019,8,2,214,monsoon,12.9956868157,77.575333634,"Bengaluru, Karnataka, India",Papilio polytes,research
+104634249,papilio_polytes,Common Mormon,butterfly,consumer,2019-08-07,2019,8,7,219,monsoon,12.995688709,77.5712114997,"Bengaluru, Karnataka, India",Papilio polytes,research
+104862279,papilio_polytes,Common Mormon,butterfly,consumer,2019-11-24,2019,11,24,328,post_monsoon,13.0316204615,77.5741261448,"Bengaluru, Karnataka 560094, India",Papilio polytes,research
+104862322,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-10,2020,4,10,101,pre_monsoon,13.035711,77.57771,"Bengaluru, Karnataka 560094, India",Papilio polytes,research
+104915108,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-03,2020,8,3,216,monsoon,13.03473,77.57302,"Bengaluru, Karnataka, India",Papilio polytes,research
+107029502,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-28,2020,7,28,210,monsoon,15.1395506476,76.9214428961,Bellary,Papilio polytes,research
+107050436,papilio_polytes,Common Mormon,butterfly,consumer,2019-12-02,2019,12,2,336,winter,15.1395506476,76.9214428961,Bellary,Papilio polytes,research
+120720759,papilio_polytes,Common Mormon,butterfly,consumer,2019-11-28,2019,11,28,332,post_monsoon,13.1101768611,77.5365659167,"Bengaluru, Karnataka, India",Papilio polytes,research
+130383038,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-19,2020,4,19,110,pre_monsoon,14.6439710719,75.5165304298,"Kadaramandalagi, Karnataka, India",Aegle marmelos,research
+130383048,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-19,2020,4,19,110,pre_monsoon,14.6440125931,75.5165089722,"Kadaramandalagi, Karnataka, India",Aegle marmelos,research
+136078539,papilio_polytes,Common Mormon,butterfly,consumer,2020-02-22,2020,2,22,53,winter,12.8285957528,77.5123841688,The Art Of Living–Bangalore Ashram,Papilio polytes,research
+153412205,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-29,2020,6,29,181,monsoon,12.90415,77.6717,"Haralur, Bengaluru, KA, IN",Papilio polytes,research
+160020073,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-31,2020,8,31,244,monsoon,12.958951,77.308355,"Centre for Learning (CFL), Varadenahalli",Papilio polytes,research
+169715951,papilio_polytes,Common Mormon,butterfly,consumer,2020-01-23,2020,1,23,23,winter,12.971999959,77.5416792557,"SBI Staff Colony, Hoshalli Extension, Stage 1, Vijayanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+184367365,papilio_polytes,Common Mormon,butterfly,consumer,2020-12-22,2020,12,22,357,winter,12.9121174313,77.6445547119,HSR Layout,Papilio polytes,research
+278400897,papilio_polytes,Common Mormon,butterfly,consumer,2019-05-26,2019,5,26,146,pre_monsoon,12.8915028,77.5923063,"181, Main Rd, Arekere MICO Layout 2nd stage, Manjunatha Layout, Sahyadri Layout, Garvebhavi Palya, Bengaluru, Karnataka 560076, India",Papilio polytes,research
+278737563,papilio_polytes,Common Mormon,butterfly,consumer,2020-01-06,2020,1,6,6,winter,12.8608396,77.5991544,"Ramanshree Nagar, Phase 2, Gottigere, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+279210107,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-20,2020,6,20,172,monsoon,12.8543147,77.5099453,"Thatguni Post, VG35+PXG, Kanakpura Road, Bengaluru, Rachanamadu, Karnataka 560082, India",Papilio polytes,research
+19570849,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-01-05,2019,1,5,5,winter,12.1724499419,76.7534826221,Hadinaru Mole,Danaus chrysippus,research
+19649091,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-01-13,2019,1,13,13,winter,12.9983329773,77.5924987793,"Unnamed Road, Jayamahal, Bengaluru, Karnataka 560006, India",Danaus chrysippus,research
+19753247,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-01-20,2019,1,20,20,winter,12.301505961,76.6744291247,"Aviary Karanji Nature Park, Mysuru, Karnataka, IN",Danaus chrysippus,research
+20420916,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-02-17,2019,2,17,48,winter,12.9814106,77.6700766,"Kaggadasapura Lake, Bengaluru, Karnataka",Danaus chrysippus,research
+20998718,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-02-25,2019,2,25,56,winter,12.2726804183,76.6129343704,"Ramakrishnanagar, Mysuru, Karnataka, India",Danaus chrysippus,research
+21108693,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-03-10,2019,3,10,69,pre_monsoon,13.15,77.49,"Hesaraghatta Lake, Hesaraghatta Grass Farm, Karnataka 560089",Danaus chrysippus,research
+22740606,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-04-12,2019,4,12,102,pre_monsoon,12.9332611859,77.6349231528,"Cauvery Colony, Ejipura, Bengaluru, Karnataka, India",Danaus chrysippus,research
+25612422,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-05-18,2019,5,18,138,pre_monsoon,12.9727116667,77.68692,"Doddanekundi, Bengaluru, Karnataka, IN",Danaus chrysippus,research
+26109130,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-03-25,2019,3,25,84,pre_monsoon,12.9925010461,77.6722207357,"Karnataka, IN",Danaus chrysippus chrysippus,research
+27153779,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-16,2019,6,16,167,monsoon,12.9205893,77.2944334,"Savandurga Hill, Karnataka",Danaus chrysippus,research
+27153808,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-16,2019,6,16,167,monsoon,12.9205893,77.2944334,"Savandurga Hill, Karnataka",Danaus chrysippus,research
+27159482,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-16,2019,6,16,167,monsoon,12.9205893,77.2944334,"Savandurga Hill, Karnataka",Danaus chrysippus,research
+27159489,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-16,2019,6,16,167,monsoon,12.9205893,77.2944334,"Savandurga Hill, Karnataka",Danaus chrysippus,research
+27256704,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-19,2019,6,19,170,monsoon,12.97308,77.686905,"Doddanekundi, Bengaluru, Karnataka, IN",Danaus chrysippus,research
+28001678,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-27,2019,6,27,178,monsoon,13.1362143,78.1290986,"Kolar, Karnataka, India",Danaus chrysippus,research
+29226159,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-30,2019,6,30,181,monsoon,12.8782040927,77.3042289291,"Savanadurga State Forest, Karnataka, India",Danaus chrysippus,research
+29859931,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-01,2019,6,1,152,monsoon,12.8018567,77.6244363,"Bengaluru, Karnataka 560083, India",Danaus chrysippus chrysippus,research
+30976698,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-08-11,2019,8,11,223,monsoon,12.8949004,77.5936259,"Bengaluru, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India",Danaus chrysippus,research
+30980022,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-08-04,2019,8,4,216,monsoon,12.2681341171,76.6186065674,"#6, Block 25, Block Number 27, Sriramapura 2nd Stage, Sriramapura, Madhuvana Layout, Mysuru, Karnataka 570023, India",Danaus chrysippus chrysippus,research
+31900282,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-07-05,2019,7,5,186,monsoon,12.8480453491,77.6647415161,"Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",Danaus chrysippus,research
+33516983,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-09-28,2019,9,28,271,monsoon,12.97327833,77.691405,"2nd Cross Road, Bengaluru, Karnataka, IN",Danaus chrysippus,research
+33591884,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-09-29,2019,9,29,272,monsoon,12.8948398062,77.5923425618,"Panduranga Nagar, Bengaluru, Karnataka 560076, India",Danaus chrysippus,research
+33794690,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-10-03,2019,10,3,276,post_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Danaus chrysippus,research
+34393829,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-10-15,2019,10,15,288,post_monsoon,13.0677471161,77.5791854858,"Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka, India",Danaus chrysippus chrysippus,research
+35035842,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-10-29,2019,10,29,302,post_monsoon,12.97607833,77.69103333,"Doddanekundi, Bengaluru, Karnataka, IN",Danaus chrysippus,research
+35233756,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-11-03,2019,11,3,307,post_monsoon,13.1501560211,77.4931030273,"Hesaraghatta Grass Farm, Karnataka 560089, India",Danaus chrysippus chrysippus,research
+35457202,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-10-07,2019,10,7,280,post_monsoon,12.8843815,77.4637208,"Bengaluru, Karnataka 560060, India",Danaus chrysippus,research
+35912869,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-11-09,2019,11,9,313,post_monsoon,12.7590231742,78.2079218137,"Konganepalli, Tamil Nadu, India",Danaus chrysippus chrysippus,research
+35912873,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-11-09,2019,11,9,313,post_monsoon,12.7591487412,78.2081578481,"Konganepalli, Tamil Nadu, India",Danaus chrysippus chrysippus,research
+37026115,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-12-28,2019,12,28,362,winter,13.0292416667,77.5634777778,"Bangalore, Karnataka, India",Danaus chrysippus,research
+37026119,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-12-28,2019,12,28,362,winter,13.0292,77.5634694444,"Bangalore, Karnataka, India",Danaus chrysippus,research
+40352937,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-03-21,2020,3,21,81,pre_monsoon,12.8718526384,77.6143299043,"Akshayanagara West, Akshaya Vana, Akshayanagar, Bengaluru, Karnataka, India",Danaus chrysippus,research
+40738913,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-03-26,2020,3,26,86,pre_monsoon,12.8730688,77.6202659,"A4-171, DLF Westend Heights, DLF Newtown, Akshayanagar, Bengaluru, Karnataka 560068, India",Danaus chrysippus,research
+41295097,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-02-16,2020,2,16,47,winter,13.4470662592,77.3321585376,"Madya Venkatapura, Karnataka 572129, India",Danaus chrysippus,research
+44588473,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-04-26,2020,4,26,117,pre_monsoon,12.9901508706,77.6624017954,Prestige Greenwoods,Danaus chrysippus,research
+45745102,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-12,2020,5,12,133,pre_monsoon,14.2837171185,74.4429660961,"Honnavar, Karnataka, India",Danaus chrysippus,research
+46202890,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-15,2020,5,15,136,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Danaus chrysippus,research
+46382994,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-18,2020,5,18,139,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Danaus chrysippus,research
+46607939,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-20,2020,5,20,141,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Danaus chrysippus,research
+47388984,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-26,2020,5,26,147,pre_monsoon,12.3574149722,76.505193,"RMP Factory, Doddakadanahalli, Karnataka 571130, India",Danaus chrysippus,research
+47522640,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-27,2020,5,27,148,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Danaus chrysippus,research
+47609604,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-28,2020,5,28,149,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Danaus chrysippus,research
+47817561,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-05,2020,5,5,126,pre_monsoon,12.9686164254,77.7608368546,"Immadihalli, Whitefield, Bengaluru, Karnataka 560066, India",Danaus chrysippus,research
+47861275,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-29,2020,5,29,150,pre_monsoon,12.8840303175,74.9809760694,"Karnataka, IN",Danaus chrysippus,research
+48105601,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-05-03,2019,5,3,123,pre_monsoon,13.0228530556,77.5631063889,"Devasandra Layout, Bengaluru, Karnataka, India",Danaus chrysippus,research
+48456241,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-04,2020,6,4,156,monsoon,16.8851692,75.7095266,"Bhutnal Lake, Karnataka",Danaus chrysippus,research
+48616647,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-06,2020,6,6,158,monsoon,12.8913197507,74.8791526639,"Karnataka, IN",Danaus chrysippus,research
+48670611,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-11,2020,5,11,132,pre_monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+48745956,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-07,2020,6,7,159,monsoon,13.0820782716,77.5771418105,"Vignana Kendra, Bengaluru, Karnataka, India",Danaus chrysippus,research
+48778810,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-07,2020,6,7,159,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Danaus chrysippus,research
+48985607,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-09,2020,6,9,161,monsoon,12.9457833226,74.9268641814,"Karnataka, IN",Danaus chrysippus,research
+49030877,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-09,2020,6,9,161,monsoon,13.0578095229,77.6390541717,"Ferns Residency, Kothanur, Bengaluru, Karnataka 560077, India ",Danaus chrysippus,research
+49094242,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-10,2020,6,10,162,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Danaus chrysippus,research
+49126740,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-10,2020,6,10,162,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Danaus chrysippus,research
+49338745,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-04,2020,6,4,156,monsoon,12.8945896427,77.5567559525,"Prasanti Nagar, ISRO Layout, Bengaluru, Karnataka, India",Danaus chrysippus,research
+49415960,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-12,2020,6,12,164,monsoon,12.8865786429,74.8353267076,"Karnataka, IN",Danaus chrysippus,research
+49416092,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-12,2020,6,12,164,monsoon,12.8014294866,74.9483566398,"Karnataka, IN",Danaus chrysippus,research
+49447980,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-13,2020,6,13,165,monsoon,12.8846206,77.4648672,"Bangalore, IN-KA, IN",Danaus chrysippus,research
+50058947,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-14,2020,5,14,135,pre_monsoon,13.0578095229,77.6390541717,"Ferns Residency, Kothanur, Bengaluru, Karnataka 560077, India ",Danaus chrysippus,research
+50122802,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-19,2020,6,19,171,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Danaus chrysippus,research
+50634331,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-04,2020,6,4,156,monsoon,12.8887636014,74.8937786241,"Karnataka, IN",Danaus chrysippus,research
+51209536,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-28,2020,6,28,180,monsoon,13.032544136,77.7232131958,"KV Nivas, Site #1, Kanagappa Layout, 2nd Cross, Medahalli, Bengaluru, Karnataka 560049, India",Danaus chrysippus,research
+51328822,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-18,2020,6,18,170,monsoon,13.0653670877,77.6477002725,"115, Anjanappa Layout, Kothanur, Bengaluru, Karnataka 560077, India",Danaus chrysippus,research
+51548103,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-01,2020,7,1,183,monsoon,16.8486524932,75.7215824258,"Bijapur, IN-KA, IN",Danaus chrysippus,research
+52345951,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-08,2020,7,8,190,monsoon,16.86524,75.737386,"Hanchinal Lake, Vijayapura",Danaus chrysippus,research
+52383384,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-08,2020,7,8,190,monsoon,13.121,77.5835555556,"Vasudevapura, Karnataka 560064, India",Danaus chrysippus,research
+52478033,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-07-09,2019,7,9,190,monsoon,12.9736378002,77.5945626944,Bangalore,Danaus chrysippus,research
+53018282,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-14,2020,7,14,196,monsoon,12.8655969612,77.5217172503,Nagegowdanapalya,Danaus chrysippus,research
+53485073,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-18,2020,7,18,200,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Danaus chrysippus,research
+53569537,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-18,2020,7,18,200,monsoon,12.8503909491,74.8553501171,"Karnataka, IN",Danaus chrysippus,research
+53574743,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-02,2020,7,2,184,monsoon,12.8678822715,74.9594972943,"Karnataka, IN",Danaus chrysippus,research
+53581978,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-08,2020,7,8,190,monsoon,12.9966918304,74.8341696579,"Karnataka, IN",Danaus chrysippus,research
+53583362,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-12,2020,7,12,194,monsoon,12.8375330283,74.8135363072,"Karnataka, IN",Danaus chrysippus,research
+53840244,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-21,2020,7,21,203,monsoon,12.8655969612,77.5217172503,Nagegowdanapalya,Danaus chrysippus,research
+53940447,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-12,2020,6,12,164,monsoon,12.8849509722,77.4662229722,"Kambipura, Karnataka 560060, India",Danaus chrysippus,research
+54616716,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-28,2020,7,28,210,monsoon,13.251023031,77.5044371188,"Ekasipura, Karnataka 561203, India",Danaus chrysippus,research
+55893574,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-26,2020,7,26,208,monsoon,13.0809121901,77.6018760028,"Jakkuru, Bengaluru, Karnataka 560064, India",Danaus chrysippus,research
+55894609,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-31,2020,7,31,213,monsoon,13.0809121901,77.6018760028,"Jakkuru, Bengaluru, Karnataka 560064, India",Danaus chrysippus,research
+56112786,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-08,2020,8,8,221,monsoon,13.1231003411,77.9642582905,"Nandagudi, Uddappanahalli, Karnataka, India",Danaus chrysippus,research
+56715029,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-11,2020,7,11,193,monsoon,13.2603381944,76.4774553889,"Krishna Raja Extension, Tiptur, Karnataka 572201, India",Danaus chrysippus,research
+56802976,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-03,2020,5,3,124,pre_monsoon,12.774676778,77.6120835543,Nandanavana Layout,Danaus chrysippus,research
+56845262,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-16,2020,8,16,229,monsoon,13.1165192105,78.2790868493,"Holali, Karnataka, India",Danaus chrysippus,research
+56999160,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-16,2020,8,16,229,monsoon,13.1161619919,78.2770252701,"Holali, Karnataka, India",Danaus chrysippus,research
+57014285,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-19,2020,8,19,232,monsoon,13.0673704039,77.5723261759,Tube House 4,Danaus chrysippus,research
+57622334,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-26,2020,8,26,239,monsoon,12.2718287226,76.6455636173,Visveshwara Nagar,Danaus chrysippus,research
+57909399,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-29,2020,8,29,242,monsoon,12.9186438504,77.6780659727,"Kaikondrahalli, Bengaluru, KA, IN",Danaus chrysippus,research
+58152365,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-30,2020,8,30,243,monsoon,13.0204505821,77.5703585334,"Indian Institute of Science, ಬೆಂಗಳೂರು, KA, IN",Danaus chrysippus,research
+58177073,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-23,2020,8,23,236,monsoon,13.0673704039,77.5723261759,Tube House 4,Danaus chrysippus,research
+58177075,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-23,2020,8,23,236,monsoon,13.0673704039,77.5723261759,Tube House 4,Danaus chrysippus,research
+58236809,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-25,2020,5,25,146,pre_monsoon,12.9098978114,77.5081044905,"RR Nagar, Bengaluru, Karnataka, India",Danaus chrysippus,research
+59129764,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-27,2020,5,27,148,pre_monsoon,13.0759586942,77.5758381571,"Vignana Kendra, Bengaluru, Karnataka, India",Danaus chrysippus,research
+59464003,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-19,2020,5,19,140,pre_monsoon,12.8406045,75.3822567,"Konalu, Karnataka 574229, India",Danaus chrysippus,research
+60450179,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-06,2019,6,6,157,monsoon,12.9252649722,77.664749,"Bellandur, Bengaluru, Karnataka, India",Danaus chrysippus,research
+60946829,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-09-14,2020,9,14,258,monsoon,13.0673704039,77.5723261759,Tube House 4,Danaus chrysippus,research
+61073037,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-25,2020,6,25,177,monsoon,12.8366030482,74.9985386205,"Karnataka, IN",Danaus chrysippus,research
+61079663,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-09-28,2020,9,28,272,monsoon,16.8442158681,75.7105214149,"Rama Mandir Road, Vijayapura, KA, IN",Danaus chrysippus,research
+61100954,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-09-28,2020,9,28,272,monsoon,12.9196722222,77.6387638889,"HSR Layout, Bengaluru, Karnataka, India",Danaus chrysippus,research
+61658001,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-10-04,2020,10,4,278,post_monsoon,12.4187891154,76.7106454074,"Ganjam, Karnataka, India",Danaus chrysippus,research
+62774518,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-10-17,2020,10,17,291,post_monsoon,12.7688531,77.5791358,"Ragihalli State Forest, Karnataka, India",Danaus chrysippus,research
+63315741,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-10-18,2020,10,18,292,post_monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Danaus chrysippus,research
+63558336,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-10-25,2020,10,25,299,post_monsoon,12.8730483333,77.579965,"J. P. Nagar, Bengaluru, Karnataka 560078, India",Danaus chrysippus,research
+64427521,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-11-08,2020,11,8,313,post_monsoon,16.2523703144,75.7233575242,"Herkal Bridge cum Barrage, Bagalkot, Karnataka, India",Danaus chrysippus,research
+64942954,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-11-15,2020,11,15,320,post_monsoon,16.522093942,76.6603660583,"Bonal Lake Bird Sanctuary Bonal, Yadgir, Karnataka 585290 India",Danaus chrysippus,research
+65258751,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-11-20,2020,11,20,325,post_monsoon,12.9067787969,77.6771757379,"Kasavanahalli, Karnataka 560035, India",Danaus chrysippus,research
+65757378,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-11-19,2020,11,19,324,post_monsoon,15.3812598879,75.1002656786,"Bairidevarkoppa, Hubli, Karnataka 580025, India",Danaus chrysippus,research
+65883750,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-11-30,2020,11,30,335,post_monsoon,12.9645638889,77.4967694444,"11/E, next to KLE Law College, 5th Block, Vishweshwaraiah Layout, Annapurneshwari Nagar, Bengaluru, Karnataka 560056, India",Danaus chrysippus,research
+66082746,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-11-30,2020,11,30,335,post_monsoon,12.9245067,77.5325717997,"Durga Parameshwari Nagar, Bangarappanagar, Hosakerehalli, Bengaluru, Karnataka, India",Danaus chrysippus,research
+66456686,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-12-12,2020,12,12,347,winter,12.8740759,77.5271092,"Adarsha Layout, Lingadeeranahalli, Bengaluru, Karnataka 560109, India",Danaus chrysippus,research
+66464196,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-12-12,2020,12,12,347,winter,12.878354,77.5294781,"Hosahalli, Karnataka 560062, India",Danaus chrysippus,research
+67082863,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-12-26,2020,12,26,361,winter,12.9681638889,77.4962777778,"#5 Madhu, MPM Layout, ITI Employees Layout, Annapurneshwari Nagar, Bengaluru, Karnataka 560091, India",Danaus chrysippus,research
+67378234,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-12-31,2020,12,31,366,winter,12.7532016453,77.3013674095,Ramanagara Ramdevara Betta Vulture Sanctuary,Danaus chrysippus,research
+68955246,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-09-06,2020,9,6,250,monsoon,13.1570191744,77.5728267758,Nagadasanahalli Lake,Danaus chrysippus,research
+69449444,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-02,2019,6,2,153,monsoon,12.8235245332,77.740393513,"Karnataka, IN",Danaus chrysippus,research
+71650064,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-09-28,2019,9,28,271,monsoon,13.1486694336,77.6276685147,"Karnataka, IN",Danaus chrysippus,research
+71650181,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-09-28,2019,9,28,271,monsoon,13.0890123759,77.7450748245,"Karnataka, IN",Danaus chrysippus,research
+75154833,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-15,2020,5,15,136,pre_monsoon,13.0809121901,77.6018760028,"Jakkuru, Bengaluru, Karnataka 560064, India",Danaus chrysippus,research
+77601852,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-21,2020,5,21,142,pre_monsoon,15.7702905969,76.7560495064,Sindhanur,Danaus chrysippus,research
+81062679,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-24,2020,5,24,145,pre_monsoon,12.9183126,77.680097,"Saul Kere, Kaikondrahalli, Bengaluru, Karnataka 560035",Danaus chrysippus,research
+83617978,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-02,2020,6,2,154,monsoon,12.9854542447,77.7236265689,"The Five Summits Address A Block Road No 10, Phase I, Behind Mercedes Benz Corporate Office, EPIP Zone, Krishnarajapura, Bengaluru, Karnataka 560066, India",Danaus chrysippus,research
+85301442,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-19,2020,7,19,201,monsoon,12.8386071561,77.6519085726,"Concorde Silicon Valley, Electronics City Phase 1, Electronic City, Karnataka 560100, India",Danaus chrysippus,research
+86138615,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-23,2020,5,23,144,pre_monsoon,12.8904193691,77.5871872902,"Nataraja Layout, JP Nagar 7th Phase, Bengaluru, Karnataka, India",Danaus chrysippus,research
+86269544,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-03-23,2020,3,23,83,pre_monsoon,12.3483642708,76.5081317532,"Mysore, IN-KA, IN",Danaus chrysippus,research
+86373467,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-25,2020,5,25,146,pre_monsoon,12.890235,77.5873736,"Puttenahalli Lake, Nataraja Layout, JP Nagar 7th Phase, Bengaluru, Karnataka 560076",Danaus chrysippus,research
+88663096,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-02,2019,6,2,153,monsoon,12.2752546,76.6701475,"Chamundi Hill, Mysuru, Karnataka, India",Danaus chrysippus chrysippus,research
+88942430,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-21,2020,6,21,173,monsoon,12.2124735266,76.6334253714,"Dadadahalli kere and surroundings, Mysuru, Karnataka, India",Danaus chrysippus,research
+93691156,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-07-02,2019,7,2,183,monsoon,13.0303472,77.0283735,"Kunigal Dodda Kere, Karnataka 572130, India",Danaus chrysippus,research
+93859794,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-04,2019,6,4,155,monsoon,12.2992719635,76.6908878864,"Lalith Mahal, Mysuru, Karnataka, India",Danaus chrysippus,research
+94109656,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-09-10,2020,9,10,254,monsoon,12.269372,76.611978,"Lingambudhi Lake, Lingambudhi Kere, Ramakrishnanagar, Mysuru, Karnataka 570023",Danaus chrysippus,research
+94215536,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-10-16,2020,10,16,290,post_monsoon,12.269372,76.611978,"Lingambudhi Lake, Lingambudhi Kere, Ramakrishnanagar, Mysuru, Karnataka 570023",Danaus chrysippus,research
+95988601,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-04-16,2020,4,16,107,pre_monsoon,13.0556235128,77.5367076947,"Jalahalli, Bengaluru, Karnataka, India",Danaus chrysippus,research
+96551169,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-23,2019,6,23,174,monsoon,12.2132993036,76.6253000651,"Shanubhoganahalli Kere, Sindhuvalli, Karnataka, India",Danaus chrysippus,research
+96557344,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-08-22,2019,8,22,234,monsoon,12.2132993036,76.6253000651,"Shanubhoganahalli Kere, Sindhuvalli, Karnataka, India",Danaus chrysippus,research
+96558117,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-09-29,2020,9,29,273,monsoon,12.2132993036,76.6253000651,"Shanubhoganahalli Kere, Sindhuvalli, Karnataka, India",Danaus chrysippus,research
+97534094,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-12-29,2020,12,29,364,winter,12.8543147,77.5099453,"Thatguni Post, Kanakpura Road, Bengaluru, Karnataka 560082, India",Danaus chrysippus,research
+97534844,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-08,2020,8,8,221,monsoon,12.8225173,77.7294705,"Muthanallur Lake, Bommasandra, Karnataka",Danaus chrysippus,research
+97535918,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-21,2020,8,21,234,monsoon,12.9126925,77.6732975,"Kaikondrahalli Lake, Valliyamma Layout, Haralur, Karnataka 560103",Danaus chrysippus,research
+97539813,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-09-27,2020,9,27,271,monsoon,12.8225173,77.7294705,"Muthanallur Lake, Bommasandra, Karnataka",Danaus chrysippus,research
+97540735,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-12-28,2020,12,28,363,winter,12.8225173,77.7294705,"Muthanallur Lake, Bommasandra, Karnataka",Danaus chrysippus,research
+103573776,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-03-29,2019,3,29,88,pre_monsoon,13.035692,77.577666,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Danaus chrysippus,research
+104862326,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-16,2020,5,16,137,pre_monsoon,13.034722,77.572989,"Bengaluru, Karnataka 560094, India",Danaus chrysippus,research
+122646009,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-23,2020,8,23,236,monsoon,13.0086620815,76.1136118323,"Sh 48, Kuvempu Nagar, Krishnaraja Pura, Hassan, Karnataka 573201, India",Danaus chrysippus,research
+159065521,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-02,2020,5,2,123,pre_monsoon,12.959045,77.308366,"Centre for Learning (CFL), Varadenahalli",Danaus chrysippus,research
+186292201,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-04-05,2020,4,5,96,pre_monsoon,15.268852301,76.3909240812,"799R+G9V, Hosapete, Karnataka 583201, India",Danaus chrysippus,research
+320610738,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-24,2020,7,24,206,monsoon,13.4593456465,74.9747857824,"FX5F+FX8, Huthorke, Karnataka 576112, India",Danaus chrysippus,research
+48662464,apis_cerana,Asian Honey Bee,bee,pollinator,2020-06-06,2020,6,6,158,monsoon,12.9877634,77.6625607,"DRDO Township, C V Raman Nagar, Bengaluru, Karnataka 560093, India",Apis cerana,research
+204004708,apis_cerana,Asian Honey Bee,bee,pollinator,2019-03-28,2019,3,28,87,pre_monsoon,13.1152305,75.6310404,"College of horticulture mudigere, Mudigere, Karnataka 577132, India",Apis cerana,research
+206937803,apis_cerana,Asian Honey Bee,bee,pollinator,2019-12-14,2019,12,14,348,winter,13.0454314,77.5478699,"Jalahalli, Bengaluru, Karnataka, India",Apis cerana,research
+19801324,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-01-22,2019,1,22,22,winter,12.8011441869,74.8565717787,"Kolya, Kumpala Village, Someshwar, Karnataka 575022, India",Apis dorsata,research
+19878672,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-01-26,2019,1,26,26,winter,13.11607284,77.15618978,"Tumkur Rd, Lakkenahalli, Karnataka 561101, India",Apis dorsata,research
+19878685,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-01-26,2019,1,26,26,winter,13.11612197,77.15618973,"Tumkur Rd, Lakkenahalli, Karnataka 561101, India",Apis dorsata,research
+21560001,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-03-24,2019,3,24,83,pre_monsoon,12.8814775407,77.5261452598,"Thurahalli, Bengaluru, Karnataka 560062, India",Apis dorsata,research
+27159455,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-06-16,2019,6,16,167,monsoon,12.9205893,77.2944334,"Savandurga Hill, Karnataka",Apis dorsata,research
+28946666,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-02-17,2019,2,17,48,winter,13.37527,77.6763416667,"Nandi Hills, Karnataka, India",Apis dorsata,research
+29226154,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-06-30,2019,6,30,181,monsoon,12.8782040927,77.3042289291,"Savanadurga State Forest, Karnataka, India",Apis dorsata,research
+30183694,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-07-28,2019,7,28,209,monsoon,13.3707066,74.7849119,"End Point, Manipal, Karnataka 576104",Apis dorsata,research
+34299008,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-10-12,2019,10,12,285,post_monsoon,13.0708789825,77.5802154541,"10, Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka 560065, India",Apis dorsata,research
+34861897,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-10-14,2019,10,14,287,post_monsoon,11.7348406407,76.6010767191,"Lakkipura, Karnataka, India",Apis dorsata,research
+37084866,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-12-27,2019,12,27,361,winter,12.9068088531,77.4930648804,"SHIVASKANDA RESIDENCY 1st cross, new sunkalpalya extension concept city, uttarahalli main road, opp mahaveer lake apartment, Green View Layout, Kengeri, Bengaluru, Karnataka 560060, India",Apis dorsata,research
+37264855,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-12-07,2019,12,7,341,winter,12.4244205449,75.7381857187,Coorg,Apis dorsata,research
+38292301,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-01-23,2020,1,23,23,winter,12.3679199251,76.4808181567,"Mysuru, Karnataka, India",Apis dorsata,research
+38500748,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-02-10,2020,2,10,41,winter,12.9147777557,77.6867904663,"WIpro Corporate Office, Kaikondrahalli, Bengaluru, Karnataka 560035, India",Apis dorsata,research
+39037049,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-02-22,2020,2,22,53,winter,13.0199,77.5691305556,"Bangalore, Karnataka, India",Apis dorsata,research
+39037071,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-02-22,2020,2,22,53,winter,13.0197194444,77.5692055556,"Bangalore, Karnataka, India",Apis dorsata,research
+41855850,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-04-11,2020,4,11,102,pre_monsoon,13.0675032778,77.5784810833,"Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka 560097, India",Apis dorsata,research
+43852999,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-04-27,2020,4,27,118,pre_monsoon,13.1225299001,77.6082826795,Bengaluru,Apis dorsata,research
+43874964,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-04-25,2020,4,25,116,pre_monsoon,13.0847066,77.6453984997,"Bangalore, Karnataka, India",Apis dorsata,research
+43874967,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-04-25,2020,4,25,116,pre_monsoon,13.0847066,77.6453984997,"Bangalore, Karnataka, India",Apis dorsata,research
+46195745,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-05-17,2020,5,17,138,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Apis dorsata,research
+46641839,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-07-07,2019,7,7,188,monsoon,13.3231027778,77.1626972222,"Aralihalli, Karnataka 572104, India",Apis dorsata,research
+46980677,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-05-23,2020,5,23,144,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Apis dorsata,research
+47605089,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-05-28,2020,5,28,149,pre_monsoon,12.90199667,77.66577167,"Haralur, Bengaluru, Karnataka, IN",Apis dorsata,research
+47608985,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-05-28,2020,5,28,149,pre_monsoon,12.9715987467,77.5945626944,Bengaluru,Apis dorsata,research
+48751352,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-06-07,2020,6,7,159,monsoon,13.2368522778,77.2641016667,"Karnataka 562111, India",Apis dorsata,research
+49093633,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-06-10,2020,6,10,162,monsoon,13.0783795235,77.492385499,"Karnataka, IN",Apis dorsata,research
+49541346,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-06-14,2020,6,14,166,monsoon,13.0547609093,77.5424370422,Bengaluru,Apis dorsata,research
+50291535,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-06-20,2020,6,20,172,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Apis dorsata,research
+51543040,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-07-01,2020,7,1,183,monsoon,13.0497418026,77.551864278,"HMT Main Road, Bengaluru, KA, IN",Apis dorsata,research
+51996793,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-05-17,2020,5,17,138,pre_monsoon,13.6538464707,74.9337263811,"Heggodlu, Siddapura, Udupi, Karnataka, India",Apis dorsata,research
+52111746,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-07-06,2020,7,6,188,monsoon,12.9579395002,77.7067447454,"Munnekollal, Bengaluru, Karnataka, India",Apis dorsata,research
+52137885,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-07-06,2020,7,6,188,monsoon,13.0578095229,77.6390541717,"Ferns Residency, Kothanur, Bengaluru, Karnataka 560077, India ",Apis dorsata,research
+52329710,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-07-07,2020,7,7,189,monsoon,13.070144,77.5857480833,"383/A, 4th Main, Rajiv Gandhi Nagar Layout, NTI Housing Society 2nd phase, (Near Sahakarnagar Railway Underpass), Sahakar Nagar, Kodigehalli, Bengaluru, Karnataka 560097, India",Apis dorsata,research
+52541876,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-07-05,2020,7,5,187,monsoon,13.0690211111,77.6126333333,"Sri Ramapura Cross, Bengaluru, Karnataka 560064, India",Apis dorsata,research
+53182745,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-07-07,2019,7,7,188,monsoon,13.3231027778,77.1626972222,"Aralihalli, Karnataka 572104, India",Apis dorsata,research
+53550985,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-07-19,2020,7,19,201,monsoon,12.8655969612,77.5217172503,Nagegowdanapalya,Apis dorsata,research
+54537186,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-07-23,2020,7,23,205,monsoon,13.0578095229,77.6390541717,Ferns Residency,Apis dorsata,research
+54614209,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-07-28,2020,7,28,210,monsoon,12.8160487422,77.6793811843,Bommasandra Industrial Area,Apis dorsata,research
+55023032,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-02-09,2019,2,9,40,winter,13.370154,77.6834551,"Nandi Hills, Karnataka, India",Apis dorsata,research
+56112800,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-08-08,2020,8,8,221,monsoon,13.1231003411,77.9642582905,"Nandagudi, Uddappanahalli, Karnataka, India",Apis dorsata,research
+56114229,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-08-11,2020,8,11,224,monsoon,12.8160487422,77.6793811843,Bommasandra Industrial Area,Apis dorsata,research
+56283371,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-08-13,2020,8,13,226,monsoon,13.0689606,77.6126264,Bengaluru,Apis dorsata,research
+56823137,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-08-18,2020,8,18,231,monsoon,12.864314363,77.5212750211,Sobha Sunscape,Apis dorsata,research
+58006294,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-03-31,2020,3,31,91,pre_monsoon,13.3000716671,77.4173018709,"Karnataka 561204, India",Apis dorsata,research
+58313591,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-09-02,2020,9,2,246,monsoon,12.8898418657,74.8410085961,"Kapikad, Mangalore, Karnataka, India",Apis dorsata,research
+58386579,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-09-03,2020,9,3,247,monsoon,16.8491614843,75.712687634,"Bangaramma Sajjan Campus, Vijayapura, KA, IN",Apis dorsata,research
+58483508,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-09-04,2020,9,4,248,monsoon,12.916575,77.67873333,"Kaikondrahalli, Bengaluru, KA, IN",Apis dorsata,research
+59114738,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-09-10,2020,9,10,254,monsoon,13.0762259921,77.5761064742,"Vignana Kendra, Bengaluru, Karnataka, India",Apis dorsata,research
+59129231,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-05-26,2020,5,26,147,pre_monsoon,13.0759490236,77.5758221575,"Vignana Kendra, Bengaluru, Karnataka, India",Apis dorsata,research
+59140751,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-05-26,2020,5,26,147,pre_monsoon,13.0759666653,77.5758124811,"Vignana Kendra, Bengaluru, Karnataka, India",Apis dorsata,research
+59308389,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-08-08,2020,8,8,221,monsoon,12.9901508706,77.6624017954,Prestige Greenwoods,Apis dorsata,research
+59664486,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-09-15,2020,9,15,259,monsoon,12.8655969612,77.5217172503,Nagegowdanapalya,Apis dorsata,research
+60679396,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-09-25,2020,9,25,269,monsoon,13.0667287222,77.5774327222,"Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka, India",Apis dorsata,research
+61931342,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-10-06,2020,10,6,280,post_monsoon,12.8643516251,77.5202896446,Sobha Sunbeam 1,Apis dorsata,research
+61954063,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-10-07,2020,10,7,281,post_monsoon,12.8643516251,77.5202896446,"Shobha Hills View Apartment, Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Apis dorsata,research
+62286333,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-10-10,2020,10,10,284,post_monsoon,12.5198144081,76.8403100967,"Karnataka 571402, India",Apis dorsata,research
+62376113,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-10-12,2020,10,12,286,post_monsoon,13.1088152778,77.6067765833,"Maruthi Nagar, Yelahanka, Bengaluru, Karnataka 560064, India",Apis dorsata,research
+63155644,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-10-21,2020,10,21,295,post_monsoon,13.2266023,77.5467315,Bisuvanahalli,Apis dorsata,research
+63222046,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-08-14,2020,8,14,227,monsoon,12.8676571453,75.0388362631,Nandavara,Apis dorsata,research
+63370820,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-10-15,2020,10,15,289,post_monsoon,13.1623166,75.8679195,"Belur, Karnataka, India",Apis dorsata,research
+63941608,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-11-01,2020,11,1,306,post_monsoon,12.8643558743,77.5202896446,"Shobha Hills View Apartment, Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Apis dorsata,research
+64584668,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-11-10,2020,11,10,315,post_monsoon,14.7166245147,76.744293049,"Molakalmuru, Karnataka 577535, India",Apis dorsata,research
+64663549,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-11-11,2020,11,11,316,post_monsoon,13.0651159722,77.6480399722,"Anjanappa Layout, Narayanapura, Bengaluru, Karnataka 560077, India",Apis dorsata,research
+66038320,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-03,2020,12,3,338,winter,12.9374168727,77.7083150041,"Balagere, Bengaluru, KA, IN",Apis dorsata,research
+66760137,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-18,2020,12,18,353,winter,16.8677593924,75.6869994376," Deserted Monuments, Ittangihal Rd, Bijapur Bijapur, IN-KA",Apis dorsata,research
+66772758,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-19,2020,12,19,354,winter,13.065127,77.648424,"Narayanapura, Bengaluru, Karnataka 560077, India",Apis dorsata,research
+66816592,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-20,2020,12,20,355,winter,12.8571865,77.508911,"Rachanamadu, Karnataka, India",Apis dorsata,research
+66816601,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-20,2020,12,20,355,winter,12.8571865,77.508911,"Rachanamadu, Karnataka, India",Apis dorsata,research
+67036206,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-25,2020,12,25,360,winter,12.9160972222,77.6787861111,"21, Pushpaveni Layout, Maruti Nagar, Kaikondrahalli, Bengaluru, Karnataka 560035, India",Apis dorsata,research
+67081940,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-26,2020,12,26,361,winter,12.8788403282,77.5297049619,"Bengaluru, Karnataka, India",Apis dorsata,research
+67194546,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-26,2020,12,26,361,winter,15.1661701357,74.6325242333,"Kulgi Nature Camp, Uttara Kannada, Karnataka, India",Apis dorsata,research
+67242665,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-24,2020,12,24,359,winter,12.8789282066,77.5300911069,Sobha Forest View,Apis dorsata,research
+68926732,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-04-28,2019,4,28,118,pre_monsoon,12.974405,77.59762,"NH 275, Bengaluru, KA, IN",Apis dorsata,research
+68955249,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-09-06,2020,9,6,250,monsoon,13.1570191744,77.5728267758,Nagadasanahalli Lake,Apis dorsata,research
+69301592,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-04-19,2019,4,19,109,pre_monsoon,12.9813768684,77.2296452049,"Karnataka, IN",Apis dorsata,research
+70138581,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-12-27,2020,12,27,362,winter,13.270497,76.3780169722,"Siddapura, Karnataka, India",Apis dorsata,research
+74507635,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-08-28,2020,8,28,241,monsoon,12.9126925,77.6732975,"Kaikondrahalli Lake, Valliyamma Layout, Haralur, Karnataka 560103",Apis dorsata,research
+85936198,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-10-01,2020,10,1,275,post_monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Apis dorsata,research
+91085874,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-01-31,2019,1,31,31,winter,12.2276276,76.6123884,"Kalalavadi, Karnataka, India",Apis dorsata,research
+96759915,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-10-11,2020,10,11,285,post_monsoon,12.3238606106,76.9175399041,"Vadgal, Mysuru, Karnataka, India",Apis dorsata,research
+127887830,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-08-17,2019,8,17,229,monsoon,12.9514792,77.5849064333,"Mavalli, Bengaluru, Karnataka, India",Apis dorsata,research
+127887831,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-08-17,2019,8,17,229,monsoon,12.9513335,77.5848470667,"Bangalore, Karnataka, India",Apis dorsata,research
+145735217,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-01-30,2020,1,30,30,winter,12.2227233,76.6272876,"6JFG+3WM, Dadadahalli, Karnataka 570008, India",Apis dorsata,research
+147939156,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-05-08,2020,5,8,129,pre_monsoon,13.0169513,77.5670914,"IISC Bangalore, Gulmohar Marg, Mathikere, Bengaluru, Karnataka 560012, India",Apis dorsata,research
+153681458,apis_dorsata,Giant Honey Bee,bee,pollinator,2020-04-17,2020,4,17,108,pre_monsoon,12.9033333333,77.6724783333,"Haralur, Bengaluru, KA, IN",Apis dorsata,research
+157018688,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-08-15,2019,8,15,227,monsoon,15.43855475,74.9861221111,"Dharwad, IN-KA, IN",Apis dorsata,research
+322070676,apis_dorsata,Giant Honey Bee,bee,pollinator,2019-11-20,2019,11,20,324,post_monsoon,12.8575579,77.7864057,"Sarjapura, Bengaluru, Karnataka 562125, India",Apis dorsata,research
+19465639,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-01-05,2019,1,5,5,winter,12.27611,76.61607,"Ramakrishnanagar, Mysuru, Karnataka, India",Leptocoma zeylonica,research
+19465641,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-01-05,2019,1,5,5,winter,12.276075,76.6160716667,"Mysore, Karnataka, India",Leptocoma zeylonica,research
+19487034,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-01-06,2019,1,6,6,winter,12.9172118384,75.8614975959,"Belur - Somvarpet Rd, Jammanahalli, Karnataka 573214, India",Leptocoma zeylonica,research
+19757957,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-01-20,2019,1,20,20,winter,13.0051516435,77.6162594184,"5, Davis Rd, Sagayapura, Richards Town, Bengaluru, Karnataka 560084, India",Leptocoma zeylonica,research
+19799677,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-01-22,2019,1,22,22,winter,12.4234228815,76.6554170474,"Rd to Car parking, Karnataka 571427, India",Leptocoma zeylonica,research
+19799891,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-01-21,2019,1,21,21,winter,12.4237532536,76.6549486667,"Rd to Car parking, Karnataka 571427, India",Leptocoma zeylonica,research
+19820738,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-01-22,2019,1,22,22,winter,12.4232411604,76.6542626917,"Rd to Car parking, Karnataka 571427, India",Leptocoma zeylonica,research
+22658581,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-04-13,2019,4,13,103,pre_monsoon,13.3713625243,77.6825461766,"Nandi Hills, Karnataka, India",Leptocoma zeylonica,research
+32399206,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-08-31,2019,8,31,243,monsoon,12.959906457,77.5873277709,"Vinobha Nagar, Sudhama Nagar, Bengaluru, Karnataka 560002, India",Leptocoma zeylonica,research
+34256738,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-10-12,2019,10,12,285,post_monsoon,12.8798875026,77.5295218075,"Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+34311015,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-10-12,2019,10,12,285,post_monsoon,12.6208708308,75.2479915693,"hanumagiri, Ishwaramangala, Karnataka, India",Leptocoma zeylonica,research
+34778273,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-05-05,2019,5,5,125,pre_monsoon,12.2811980066,77.3911623634,"Ramanagara, Karnataka, India",Leptocoma zeylonica,research
+38260715,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-02-03,2020,2,3,34,winter,12.1445451581,75.9382044151,"College of Forestry, Ponnampet",Leptocoma zeylonica,research
+38945321,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-02-12,2020,2,12,43,winter,12.9554533333,77.5176416667,"Naagarabhaavi, Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+38945501,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-02-12,2020,2,12,43,winter,12.9555112037,77.5175998325,"Naagarabhaavi, Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+42660767,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-04-20,2020,4,20,111,pre_monsoon,13.0797620734,77.5886799395,"7th Main, 5th Cross, Judicial Layout, Yelahanka, MR Residency, Allalasandra, Judicial Layout, Bengaluru, Karnataka 560065, India",Leptocoma zeylonica,research
+44095757,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-04-26,2020,4,26,117,pre_monsoon,12.8843797,77.4637183,"Bengaluru, Karnataka 560060, India",Leptocoma zeylonica,research
+45060042,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-05-06,2020,5,6,127,pre_monsoon,12.2986192778,76.6860125,"KC Layout, Mysuru, Karnataka 570010, India",Leptocoma zeylonica,research
+45650011,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-05-10,2020,5,10,131,pre_monsoon,14.2852740883,74.446859993,"Kasaba Gundibail, Honnavar, Karnataka 581334, India",Leptocoma zeylonica,research
+45745571,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-05-12,2020,5,12,133,pre_monsoon,14.283663833,74.4429922476,"Honnavar, Karnataka, India",Leptocoma zeylonica,research
+45950733,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-12-20,2019,12,20,354,winter,13.0873671,77.609935,"Jakkur Lake, Agrahara, Bengaluru, Karnataka 560064",Leptocoma zeylonica,research
+45950736,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-12-20,2019,12,20,354,winter,13.0873671,77.609935,"Jakkur Lake, Agrahara, Bengaluru, Karnataka 560064",Leptocoma zeylonica,research
+46075482,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-02-23,2020,2,23,54,winter,12.4449672,75.9345949,"No 21, Bollur Village, Guddehosur, Near, Mysore - Madikeri Rd, Kushalnagar, Karnataka 571234, India",Leptocoma zeylonica,research
+46466602,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-03-11,2020,3,11,71,pre_monsoon,13.2092816667,74.7436166667,"Padu, Karnataka 574106, India",Leptocoma zeylonica,research
+46965799,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-03-12,2020,3,12,72,pre_monsoon,13.20677,74.7463066667,"Padu, Karnataka 574106, India",Leptocoma zeylonica,research
+47804072,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-05-30,2020,5,30,151,pre_monsoon,12.9731483333,74.88834,"Karnataka 574142, India",Leptocoma zeylonica,research
+48151285,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-05-29,2019,5,29,149,pre_monsoon,13.0578433422,77.6737005254,"Karnataka, IN",Leptocoma zeylonica,research
+48316307,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-06-03,2020,6,3,155,monsoon,12.9067583333,77.6781027778,"Kasavanahalli, Karnataka 560035, India",Leptocoma zeylonica,research
+48424902,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-06-04,2020,6,4,156,monsoon,12.96901667,77.538475,"16th Main Road, Bengaluru, Karnataka, IN",Leptocoma zeylonica,research
+48670587,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-05-07,2020,5,7,128,pre_monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+51701788,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-03-22,2020,3,22,82,pre_monsoon,12.9228842236,77.5827901438,"4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",Leptocoma zeylonica,research
+52011165,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-03-29,2020,3,29,89,pre_monsoon,13.6538464707,74.9337263811,"Heggodlu, Siddapura, Udupi, Karnataka, India",Leptocoma zeylonica,research
+52766152,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-01-22,2020,1,22,22,winter,12.9150968338,77.6631417498,"Amblipura, Eastwood Twp, HSR Layout, Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+52766851,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-02-04,2020,2,4,35,winter,12.9151494477,77.6631008461,"PWD Quarters, 1st Sector, HSR Layout, Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+52767876,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-01-22,2020,1,22,22,winter,12.9152634989,77.6632896066,"Amblipura, Eastwood Twp, HSR Layout, Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+53164415,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-02-28,2020,2,28,59,winter,12.905984332,77.6672103256,"Amblipura, Eastwood Twp, HSR Layout, Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+53231455,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-07-02,2020,7,2,184,monsoon,12.9103530035,77.4702477901,"Karnataka, IN",Leptocoma zeylonica,research
+53759974,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-06-26,2020,6,26,178,monsoon,13.3129804054,77.5419950858,"Pindakuru Thimmanahalli, Karnataka, India",Leptocoma zeylonica,research
+54235356,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-07-25,2020,7,25,207,monsoon,12.9068694444,77.6781305556,"Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+55050273,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-07-31,2020,7,31,213,monsoon,12.9782653865,74.8022272065,Regent Park,Leptocoma zeylonica,research
+55688957,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-08-07,2020,8,7,220,monsoon,12.9579123809,77.7066907659,"Lakshminarayana Pura, AECS Layout, Marathahalli, Bengaluru, Karnataka 560037, India",Leptocoma zeylonica,research
+55790788,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-08-25,2019,8,25,237,monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+55790791,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-08-25,2019,8,25,237,monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+55790798,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-10-06,2019,10,6,279,post_monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+55790804,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-03-15,2020,3,15,75,pre_monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+55790806,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-03-15,2020,3,15,75,pre_monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+55790812,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-03-15,2020,3,15,75,pre_monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+55790821,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-03-19,2020,3,19,79,pre_monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+55790822,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-03-19,2020,3,19,79,pre_monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+55790824,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-03-23,2020,3,23,83,pre_monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+55790827,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-03-23,2020,3,23,83,pre_monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+55790829,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-03-24,2020,3,24,84,pre_monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+55790832,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-03-18,2019,3,18,77,pre_monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+55790833,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-04-03,2020,4,3,94,pre_monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+55790834,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-04-03,2020,4,3,94,pre_monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+55790840,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-04-07,2019,4,7,97,pre_monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+55790841,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-05-09,2020,5,9,130,pre_monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+55790845,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-08-09,2019,8,9,221,monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+55790848,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-08-20,2019,8,20,232,monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+55790849,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-08-20,2019,8,20,232,monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+55790850,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-08-25,2019,8,25,237,monsoon,12.8655653,77.5217171,"Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+56324800,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-05-04,2020,5,4,125,pre_monsoon,15.2897227408,74.5322792693,"Uttara Kannada, Karnataka, India",Leptocoma zeylonica,research
+56496576,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-08-15,2020,8,15,228,monsoon,12.9579123809,77.7066907659,"Lakshminarayana Pura, AECS Layout, Marathahalli, Bengaluru, Karnataka 560037, India",Leptocoma zeylonica,research
+57332311,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-08-23,2020,8,23,236,monsoon,12.8649063071,77.5194253027,"Shobha Hills View Apartment, Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Leptocoma zeylonica,research
+57519688,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-08-25,2020,8,25,238,monsoon,12.9147109777,77.6639764006,"Amblipura, Eastwood Twp, HSR Layout, Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+59129351,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-09-10,2020,9,10,254,monsoon,13.0827989994,77.6081909071,"Nehru Nagar Yelahanka, Bengaluru, KA, IN",Leptocoma zeylonica,research
+60488038,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-09-23,2020,9,23,267,monsoon,12.4244205449,75.7381857187,"35, opposite Club Mahindra Holidays, K. Nidugane, Madikeri, Karnataka 571201, India",Leptocoma zeylonica,research
+60499280,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-09-22,2020,9,22,266,monsoon,13.0220657864,77.5696670792,"Indian Institute of Science, ಬೆಂಗಳೂರು, KA, IN",Leptocoma zeylonica,research
+60988305,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-09-26,2020,9,26,270,monsoon,12.868771723,77.6441265643,"Aishwarya Crystal Layout, Begur, Bengaluru, Karnataka 560068, India",Leptocoma zeylonica,research
+61189776,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-04-16,2020,4,16,107,pre_monsoon,13.3002573223,77.4173571914,"Karnataka 561204, India",Leptocoma zeylonica,research
+61325299,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-08-18,2020,8,18,231,monsoon,13.3130055279,77.5419511646,"Pindakuru Thimmanahalli, Karnataka, India",Leptocoma zeylonica,research
+61374518,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-09-28,2020,9,28,272,monsoon,15.8496951932,74.4976741076,Belgaum,Leptocoma zeylonica,research
+61472015,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-10-02,2020,10,2,276,post_monsoon,12.8789462,77.5297793,"100 Feet Road, Off, Kanakapura Rd, Banashankari 6th Stage, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Leptocoma zeylonica,research
+61545448,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-10-03,2020,10,3,277,post_monsoon,12.8041333333,77.5601483333,"Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+62266939,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-09-16,2020,9,16,260,monsoon,13.2242015027,77.1898129955,"Karnataka 572122, India",Leptocoma zeylonica,research
+62289238,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-10-07,2020,10,7,281,post_monsoon,15.8496951932,74.4976741076,Belgaum,Leptocoma zeylonica,research
+62615914,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-09-09,2020,9,9,253,monsoon,12.8804362,77.6520016997,"AECS Layout - A Block, Singasandra, Bengaluru, Karnataka 560068, India",Leptocoma zeylonica,research
+63565927,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-10-26,2020,10,26,300,post_monsoon,12.8789462,77.5297793,"100 Feet Road, Off, Kanakapura Rd, Banashankari 6th Stage, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Leptocoma zeylonica,research
+63620789,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-10-27,2020,10,27,301,post_monsoon,12.9952198687,77.4867658337,"5th Cross Road, Bengaluru, KA, IN",Leptocoma zeylonica,research
+63620833,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-10-27,2020,10,27,301,post_monsoon,12.9966554703,77.4874258439,"3rd A Main Road, Bengaluru, KA, IN",Leptocoma zeylonica,research
+64536443,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-11-08,2020,11,8,313,post_monsoon,12.865985,77.5679233333,"J. P. Nagar, Bengaluru, Karnataka 560078, India",Leptocoma zeylonica,research
+64728711,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-11-12,2020,11,12,317,post_monsoon,12.9210012857,77.6414886117,"Depot-25, Agara Village, 1st Sector, HSR Layout, Bengaluru, Karnataka 560034, India",Leptocoma zeylonica,research
+64839868,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-05-04,2020,5,4,125,pre_monsoon,13.1083055,74.9739133333,"Mangalore, Dakshina Kannada, KA, IN",Leptocoma zeylonica,research
+66244284,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-12-07,2020,12,7,342,winter,12.906684,77.675701,kasavanahalli,Leptocoma zeylonica,research
+67130830,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-01-20,2019,1,20,20,winter,12.8494418,77.4884542,"Aagara Lake Rd, Bengaluru, Karnataka 560062, India",Leptocoma zeylonica,research
+67292343,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-12-30,2020,12,30,365,winter,12.9067268889,77.6761772778,"72/1e, IAS Layout, Srinivasa Reddy Layout, villaymma layouts, Kasavanahalli, Karnataka 560035, India",Leptocoma zeylonica,research
+69301613,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-06-30,2019,6,30,181,monsoon,12.9089657804,77.317080454,"Karnataka, IN",Leptocoma zeylonica,research
+69728268,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-02-25,2019,2,25,56,winter,12.2772318082,76.6118496506,"Kanakadasa Nagar, Rajarajeshwari Nagar, Mysuru, Karnataka, India",Leptocoma zeylonica,research
+69743227,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-12-24,2020,12,24,359,winter,12.4241926576,76.6562891006,"Karnataka 571427, India",Leptocoma zeylonica,research
+70194377,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-08-04,2019,8,4,216,monsoon,13.1556090117,77.4721430983,"Karnataka, IN",Leptocoma zeylonica,research
+71493424,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-09-12,2019,9,12,255,monsoon,12.3911934387,76.6074676361,"Mysore, IN-KA, IN",Leptocoma zeylonica,research
+71650032,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-09-28,2019,9,28,271,monsoon,13.0635592584,77.696953574,"Karnataka, IN",Leptocoma zeylonica,research
+81826406,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-10-20,2019,10,20,293,post_monsoon,13.5090943432,75.0889421037,"Agumbe, Karnataka, India",Leptocoma zeylonica,research
+84538569,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-09-09,2020,9,9,253,monsoon,12.8386948858,77.6519652924,"Concorde Silicon Valley, Electronics City Phase 1, Electronic City, Karnataka 560100, India",Leptocoma zeylonica,research
+85938374,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-10-01,2020,10,1,275,post_monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+85941913,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-10-21,2020,10,21,295,post_monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+86172430,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-07-02,2020,7,2,184,monsoon,11.998775,77.1398311,"Tiger Reserve, B.R.Hills, Karnataka 571117, India",Leptocoma zeylonica,research
+90124342,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-12-06,2020,12,6,341,winter,15.0784991,75.0418306,"Attiveri Bird Sanctuary, Uttara Kannada",Leptocoma zeylonica,research
+92211688,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-04-08,2020,4,8,99,pre_monsoon,12.2762440323,76.6163660914,"Bidadi, H Block, Ramakrishnanagar, Mysuru, Karnataka 570023, India",Leptocoma zeylonica,research
+92211696,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-03-27,2020,3,27,87,pre_monsoon,12.2762440323,76.6163660914,"Bidadi, H Block, Ramakrishnanagar, Mysuru, Karnataka 570023, India",Leptocoma zeylonica,research
+92437274,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-07-30,2019,7,30,211,monsoon,12.9624862044,77.1219604451,"Huthridurga Fort, Tumkur, Karnataka, India",Leptocoma zeylonica,research
+93823291,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-06-25,2020,6,25,177,monsoon,14.1670392352,75.0402997434,"Sagar, Karnataka, India",Leptocoma zeylonica,research
+94934569,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-06-28,2020,6,28,180,monsoon,12.1577198315,76.4722144766,"Maddur Kere, Karnataka, India",Leptocoma zeylonica,research
+96483640,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-08-25,2020,8,25,238,monsoon,12.2132993036,76.6253000651,"Shanubhoganahalli Kere, Sindhuvalli, Karnataka, India",Leptocoma zeylonica,research
+96775267,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-08-01,2019,8,1,213,monsoon,12.8138533116,76.9460964403,"Yadavanne, Tumkur, Karnataka, India",Leptocoma zeylonica,research
+104915090,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-06-07,2020,6,7,159,monsoon,13.0294649057,77.5725796845,"Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+104915093,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-07-15,2020,7,15,197,monsoon,13.0294649057,77.5725796845,"Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+104915094,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-07-15,2020,7,15,197,monsoon,13.0294649057,77.5725796845,"Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+104915096,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-07-19,2020,7,19,201,monsoon,13.0294649057,77.5725796845,"Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+104915097,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-07-19,2020,7,19,201,monsoon,13.0294649057,77.5725796845,"Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+104915098,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-07-26,2020,7,26,208,monsoon,13.0294649057,77.5725796845,"Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+104915099,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-07-20,2020,7,20,202,monsoon,13.0294649057,77.5725796845,"Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+104915104,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-07-29,2020,7,29,211,monsoon,13.0294649057,77.5725796845,"Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+104915114,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-08-06,2020,8,6,219,monsoon,13.034751,77.573009,"Bengaluru, Karnataka, India",Leptocoma zeylonica,research
+105022948,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-08-15,2020,8,15,228,monsoon,13.034732,77.57302,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Leptocoma zeylonica,research
+105148457,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-07-11,2020,7,11,193,monsoon,13.0195436652,77.5671343212,"IISC Bangalore, Gulmohar Marg, Mathikere, Bengaluru, Karnataka 560012, India",Leptocoma zeylonica,research
+108953171,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-08-03,2020,8,3,216,monsoon,13.034693,77.573015,"Bengaluru, Karnataka 560094, India",Leptocoma zeylonica,research
+108953173,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-08-03,2020,8,3,216,monsoon,13.034772,77.573036,"Bengaluru, Karnataka 560094, India",Leptocoma zeylonica,research
+124863420,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-04-06,2019,4,6,96,pre_monsoon,12.7764653364,77.6130984351,"Nandanavana Layout, Bukkasagara, Karnataka 560105, India",Leptocoma zeylonica,research
+143783656,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-12-06,2020,12,6,341,winter,13.0873671,77.609935,"Jakkur Lake, Agrahara, Bengaluru, Karnataka 560064",Leptocoma zeylonica,research
+149032455,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-07-12,2020,7,12,194,monsoon,14.8147416844,74.1301262504,"Kodibag, Karwar, Karnataka, India",Leptocoma zeylonica,research
+153894937,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-10-31,2020,10,31,305,post_monsoon,12.6233180876,75.2546957508,"Paduvannur, Karnataka, India",Leptocoma zeylonica,research
+202008579,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-03-10,2019,3,10,69,pre_monsoon,11.6550747222,76.655315,"Kaligowdanahalli, 571126, India",Leptocoma zeylonica,research
+284268870,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-07-27,2020,7,27,209,monsoon,12.8608396,77.5991544,"Ramanshree Nagar, Phase 2, Gottigere, Bengaluru, Karnataka 560083, India",Leptocoma zeylonica,research
+303197230,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2020-12-06,2020,12,6,341,winter,13.6538464707,74.9337263811,"Heggodlu, Siddapura, Udupi, Karnataka, India",Leptocoma zeylonica,research
+313081022,leptocoma_zeylonica,Purple-rumped Sunbird,bird,consumer,2019-06-23,2019,6,23,174,monsoon,12.8738222,77.6204007,"Bangalore, IN-KA, IN",Leptocoma zeylonica,research
+19512072,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-01-06,2019,1,6,6,winter,12.3197375,76.6973477,"Parashakthi Rd, Sathagalli Layout, Mysuru, Karnataka 570019, India",Eudynamys scolopaceus,research
+19677580,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-01-12,2019,1,12,12,winter,12.9480165871,77.5868711248,"Lal Bagh Rd, Mavalli, Bengaluru, Karnataka 560004, India",Eudynamys scolopaceus,research
+19780223,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-01-20,2019,1,20,20,winter,12.3079205895,76.6361986846,"Pump House, Ramavilas Road, Kukkarahalli, Saraswathipuram, Mysuru, Karnataka 570009, India",Eudynamys scolopaceus,research
+19799906,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-01-21,2019,1,21,21,winter,12.4238351098,76.6549191624,"Rd to Car parking, Karnataka 571427, India",Eudynamys scolopaceus,research
+19799916,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-01-21,2019,1,21,21,winter,12.4233773694,76.6557992622,"Rd to Car parking, Karnataka 571427, India",Eudynamys scolopaceus,research
+21112909,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-03-02,2019,3,2,61,pre_monsoon,12.9854542,77.6639248,"C V Raman Nagar, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+21558220,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-02-16,2019,2,16,47,winter,12.8823304767,77.5260379763,"Thurahalli, Bengaluru, Karnataka 560062, India",Eudynamys scolopaceus,research
+27252803,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-06-19,2019,6,19,170,monsoon,13.0314366026,77.5880112174,"University of Agricultural Sciences, Bengaluru, Karnataka, IN",Eudynamys scolopaceus,research
+35524488,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-11-10,2019,11,10,314,post_monsoon,12.93898,77.54351667,Bengaluru,Eudynamys scolopaceus,research
+36157145,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-11-24,2019,11,24,328,post_monsoon,12.9177601942,77.6658212766,"Bangalore, IN-KA, IN",Eudynamys scolopaceus,research
+37742677,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-01-19,2020,1,19,19,winter,13.9347566667,75.5502616667,"E Block, Shivamogga, Karnataka 577205, India",Eudynamys scolopaceus,research
+37817939,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-01-08,2020,1,8,8,winter,12.2960723571,76.6256088408," Mysuru, Karnataka, India",Eudynamys scolopaceus,research
+38212286,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-01-30,2020,1,30,30,winter,12.145031929,75.9390258789,"Extension Education Unit, Bizarre Nagara, Ponampet, Karnataka 571216, India",Eudynamys scolopaceus,research
+38319694,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-01-22,2020,1,22,22,winter,12.3679148814,76.4807923015,"Mysuru, Karnataka, India",Eudynamys scolopaceus,research
+38319722,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-01-24,2020,1,24,24,winter,12.3679148814,76.4807923015,"Mysuru, Karnataka, India",Eudynamys scolopaceus,research
+38873866,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-02-11,2020,2,11,42,winter,12.9558816667,77.5174466667,"Naagarabhaavi, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+38945718,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-02-12,2020,2,12,43,winter,12.952245,77.51598,"Naagarabhaavi, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+39083806,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-02-16,2020,2,16,47,winter,12.8954833333,77.590195,"Panduranga Nagar, Bengaluru, Karnataka 560076, India",Eudynamys scolopaceus,research
+39159279,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-02-24,2020,2,24,55,winter,12.1446428299,75.9392471313,"Extension Education Unit, Bizarre Nagara, Ponampet, Karnataka 571216, India",Eudynamys scolopaceus,research
+41882557,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-02-22,2020,2,22,53,winter,15.3849411757,75.0954340079,"Bairidevarkoppa, Hubli, Karnataka 580025, India",Eudynamys scolopaceus,research
+42403137,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-03-11,2020,3,11,71,pre_monsoon,12.9703947793,77.5645863265,Binny Mill Road,Eudynamys scolopaceus,research
+42403276,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-03-22,2020,3,22,82,pre_monsoon,12.9702078942,77.5644756854,"#11 9th cross 3rd main cholurapalya magadi main, Keshava Nagar, Binnipete, Bengaluru, Karnataka 560023, India",Eudynamys scolopaceus,research
+43023035,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-04-24,2020,4,24,115,pre_monsoon,13.07740722,77.63500684,"4061 Mykonos sobha city, Devin Paradise Enclave, N. Nagenahalli AKC, Bengaluru, Karnataka 560077, India",Eudynamys scolopaceus,research
+43836014,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-04-26,2020,4,26,117,pre_monsoon,12.9397684467,77.560467687,"Banashankari, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+44093260,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-04-25,2020,4,25,116,pre_monsoon,12.8843797,77.4637183,"Bengaluru, Karnataka 560060, India",Eudynamys scolopaceus,research
+45235191,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-04-14,2020,4,14,105,pre_monsoon,14.2849072656,74.4455745444,"Honnavar, Karnataka, India",Eudynamys scolopaceus,research
+45945935,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-12-20,2019,12,20,354,winter,13.0873671,77.609935,"Jakkur Lake, Agrahara, Bengaluru, Karnataka 560064",Eudynamys scolopaceus,research
+47804410,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-05-30,2020,5,30,151,pre_monsoon,12.9696527,74.8870779,"Karnataka 574142, India",Eudynamys scolopaceus,research
+48011627,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-05-31,2020,5,31,152,pre_monsoon,12.9428318458,77.5810431147,"2nd Cross Road, Bengaluru, Karnataka, IN",Eudynamys scolopaceus,research
+48142156,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-06-01,2020,6,1,153,monsoon,12.8991793,77.6669909,"Haralur, Karnataka, India",Eudynamys scolopaceus,research
+48142401,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-06-01,2020,6,1,153,monsoon,12.8991793,77.6669909,"Haralur, Karnataka, India",Eudynamys scolopaceus,research
+48741586,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-06-06,2020,6,6,158,monsoon,12.8991793,77.6669909,"Haralur, Karnataka, India",Eudynamys scolopaceus,research
+50361852,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-06-20,2020,6,20,172,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Eudynamys scolopaceus,research
+50447927,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-05-10,2019,5,10,130,pre_monsoon,16.8490201972,75.7194361327,"Sri Nagalingeshwara Waterbody, Vijayapura",Eudynamys scolopaceus,research
+51912730,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-07-04,2020,7,4,186,monsoon,12.9067956,77.677293,"Kasavanhalli Rd, Kasavanahalli, Karnataka 560035, India",Eudynamys scolopaceus,research
+52332917,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-07-08,2020,7,8,190,monsoon,12.9579395002,77.7067447454,"Munnekollal, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+52333889,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-07-08,2020,7,8,190,monsoon,12.9579395002,77.7067447454,"Munnekollal, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+52460005,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-07-09,2020,7,9,191,monsoon,13.0655280998,77.6477458701,"115, Anjanappa Layout, Kothanur, Bengaluru, Karnataka 560077, India",Eudynamys scolopaceus,research
+52766967,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-12-22,2019,12,22,356,winter,12.9151072913,77.6630518958,"Amblipura, Eastwood Twp, HSR Layout, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+54722633,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-07-29,2020,7,29,211,monsoon,12.2736060115,76.6097998538,"Somanath Nagar, Ayyajayyanahundi, Karnataka, India",Eudynamys scolopaceus,research
+54722634,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-07-29,2020,7,29,211,monsoon,12.274057,76.610342,"Somanath Nagar, Ayyajayyanahundi, Karnataka, India",Eudynamys scolopaceus,research
+54837297,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-03-23,2020,3,23,83,pre_monsoon,12.8643066,77.5212751,"Off, Kanakapura Rd, Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Eudynamys scolopaceus,research
+54837299,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-03-18,2020,3,18,78,pre_monsoon,12.8643066,77.5212751,"Off, Kanakapura Rd, Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Eudynamys scolopaceus,research
+55551071,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-08-06,2020,8,6,219,monsoon,12.8090335,74.8928618,"Karnataka 575022, India",Eudynamys scolopaceus,research
+56497471,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-03-09,2019,3,9,68,pre_monsoon,15.2361191,74.6172819,"Old Dandeli, Dandeli, Karnataka 581325, India",Eudynamys scolopaceus,research
+56499884,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-08-15,2020,8,15,228,monsoon,12.9128792156,77.6743256048,"Valliyamma Layout, Haralur, Karnataka, India",Eudynamys scolopaceus,research
+60035741,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-09-19,2020,9,19,263,monsoon,12.960308995,77.6582296193,"BDA Colony, Jeevan Bima Nagar, Bengaluru, Karnataka 560017, India",Eudynamys scolopaceus,research
+61773023,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-02-01,2020,2,1,32,winter,12.8540009008,77.5087114832,"Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+62115962,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-09-09,2020,9,9,253,monsoon,12.7791030282,77.6435978338,"94, Kyalasanahalli, Bengaluru, Karnataka 560105, India",Eudynamys scolopaceus,research
+63621704,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-10-27,2020,10,27,301,post_monsoon,12.8742055,77.5272426,"Adarsha Layout, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Eudynamys scolopaceus,research
+63871120,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-10-31,2020,10,31,305,post_monsoon,12.8789462,77.5297793,"100 Feet Road, Off, Kanakapura Rd, Banashankari 6th Stage, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Eudynamys scolopaceus,research
+64167466,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-04,2020,11,4,309,post_monsoon,12.8733009105,77.522659041,"Adarsha Layout, Lingadeeranahalli, Bengaluru, Karnataka 560109, India",Eudynamys scolopaceus,research
+64168776,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-04,2020,11,4,309,post_monsoon,12.8758483587,77.5185384974,"No 86, 4th main, 1st cross, 1st block, Pavamanapura, Bengaluru, Karnataka 560109, India",Eudynamys scolopaceus,research
+64169141,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-04,2020,11,4,309,post_monsoon,12.8733914477,77.522264421,"Pavamanapura, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+64232509,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-05,2020,11,5,310,post_monsoon,12.8734630276,77.5192610174,"Pavamanapura, Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+64509949,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-07,2020,11,7,312,post_monsoon,14.2212684863,74.9536691473,"Sagar, Shivamogga, KA, IN",Eudynamys scolopaceus,research
+65328977,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-21,2020,11,21,326,post_monsoon,12.8794063927,77.5296398248,"Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+65560668,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-22,2020,11,22,327,post_monsoon,16.6181620277,75.5178210939,"Yakkundi Kere, Bijapur, Karnataka, India",Eudynamys scolopaceus,research
+67124353,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-12-25,2020,12,25,360,winter,16.2168150891,77.3580376245,Raichur,Eudynamys scolopaceus,research
+67199659,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-12-28,2020,12,28,363,winter,12.8791018022,77.5297156908,"Bengaluru, Karnataka, India",Eudynamys scolopaceus,research
+67998211,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-12-25,2020,12,25,360,winter,13.5026635,75.0903154,"Agumbe, Karnataka, India",Eudynamys scolopaceus,research
+68153677,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-02-04,2020,2,4,35,winter,15.3374346474,76.4702199029,"Nimbapura, Karnataka, Indie",Eudynamys scolopaceus,research
+68153682,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-02-04,2020,2,4,35,winter,15.3399810554,76.4739675256,"Nimbapura, Karnataka, Indie",Eudynamys scolopaceus,research
+69430422,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-02-25,2019,2,25,56,winter,12.2752284936,76.6128872567,"Somanath Nagar, Ayyajayyanahundi, Karnataka, India",Eudynamys scolopaceus,research
+71493261,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-09-12,2019,9,12,255,monsoon,12.3158633779,76.6913791671,"Mysore, IN-KA, IN",Eudynamys scolopaceus,research
+79902576,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-05-17,2020,5,17,138,pre_monsoon,15.832493,74.492834,vaccine depot belgaum,Eudynamys scolopaceus,research
+79939685,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-05-17,2020,5,17,138,pre_monsoon,15.8321178647,74.4928585365,"ಲಸಿಕೆ ಕೆಂದ್ರ Vaccine Depot,",Eudynamys scolopaceus,research
+80872873,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-09-01,2020,9,1,245,monsoon,12.9200451334,77.6476407414,"6th Cross Road, Bengaluru, KA, IN",Eudynamys scolopaceus,research
+84538551,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-07-01,2020,7,1,183,monsoon,12.8385833549,77.6521691403,"Concorde Silicon Valley, Electronics City Phase 1, Electronic City, Karnataka 560100, India",Eudynamys scolopaceus,research
+88663090,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-11-10,2019,11,10,314,post_monsoon,12.2752546,76.6701475,"Chamundi Hill, Mysuru, Karnataka, India",Eudynamys scolopaceus,research
+95033199,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-12-12,2020,12,12,347,winter,11.9671112,76.6372531,Thanglittina Mallappana Betta,Eudynamys scolopaceus,research
+95042471,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-14,2020,11,14,319,post_monsoon,12.2626994217,76.5676205815,"Muganahundi, Mysore Dt",Eudynamys scolopaceus,research
+106853659,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-09,2020,11,9,314,post_monsoon,14.2342494572,75.6469932944,Honnali,Eudynamys scolopaceus scolopaceus,research
+116088876,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-03-19,2019,3,19,78,pre_monsoon,15.3350132,76.460024,"Hampi, Karnataka 583239, India",Eudynamys scolopaceus,research
+116089013,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-03-19,2019,3,19,78,pre_monsoon,15.3350132,76.460024,"Hampi, Karnataka 583239, India",Eudynamys scolopaceus,research
+132912084,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-08-20,2020,8,20,233,monsoon,13.0339131643,77.5500088558,J.P park,Eudynamys scolopaceus,research
+137444616,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-06-14,2020,6,14,166,monsoon,13.070291138,77.7695255354,Hoskote Lake,Eudynamys scolopaceus,research
+143260447,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-11-16,2020,11,16,321,post_monsoon,12.8878694544,77.4680623412,"Kambipura, Karnataka 560060, India",Eudynamys scolopaceus,research
+196128922,eudynamys_scolopaceus,Asian Koel,bird,consumer,2019-04-07,2019,4,7,97,pre_monsoon,12.4406642,75.7165956,CM Madikeri,Eudynamys scolopaceus,research
+319093167,eudynamys_scolopaceus,Asian Koel,bird,consumer,2020-08-23,2020,8,23,236,monsoon,12.9425467101,77.5625780225,"15, Srinivasanagara, Hanumanthnagar, Banashankari 1st Stage, Banashankari, Bengaluru, Karnataka 560050, India",Eudynamys scolopaceus,research
+28786301,murraya_koenigii,Curry Leaf,plant,resource,2019-07-08,2019,7,8,189,monsoon,12.8279731531,74.9723523834,"Karnataka, IN",Bergera koenigii,research
+31163957,murraya_koenigii,Curry Leaf,plant,resource,2019-08-20,2019,8,20,232,monsoon,15.8347937046,74.5005746652,"NH 748, Belagavi, Karnataka, IN",Bergera koenigii,research
+46218804,murraya_koenigii,Curry Leaf,plant,resource,2020-05-17,2020,5,17,138,pre_monsoon,15.353443,75.098055,"Central Excise Colony, Gandhi Nagar, Hubli, Karnataka 580030, India",Bergera koenigii,research
+51701597,murraya_koenigii,Curry Leaf,plant,resource,2020-03-18,2020,3,18,78,pre_monsoon,12.9227270403,77.5828059018,"4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",Bergera koenigii,research
+52820495,murraya_koenigii,Curry Leaf,plant,resource,2020-07-05,2020,7,5,187,monsoon,13.0578095229,77.6390541717,"Ferns Residency, Kothanur, Bengaluru, Karnataka 560077, India ",Bergera koenigii,research
+58317077,murraya_koenigii,Curry Leaf,plant,resource,2020-09-02,2020,9,2,246,monsoon,12.8531109,74.85057,Mangalore,Bergera koenigii,research
+63084593,murraya_koenigii,Curry Leaf,plant,resource,2020-10-20,2020,10,20,294,post_monsoon,12.9976725765,75.4298662115,"Karnataka 574228, India",Bergera koenigii,research
+39341230,mangifera_indica,Mango,plant,resource,2020-02-03,2020,2,3,34,winter,13.3701493233,77.2103101407,"Tumkur, Karnataka, India",Mangifera indica,research
+43062008,mangifera_indica,Mango,plant,resource,2020-04-24,2020,4,24,115,pre_monsoon,13.1226645224,77.6082760748,Bengaluru,Mangifera indica,research
+44455516,mangifera_indica,Mango,plant,resource,2020-04-12,2020,4,12,103,pre_monsoon,13.06562925,77.6006073333,"Amruthahalli, Hoodi Layout, Sneha Nagar, Byatarayanapura, Bengaluru, Karnataka 560092, India",Mangifera indica,research
+45048575,mangifera_indica,Mango,plant,resource,2020-05-06,2020,5,6,127,pre_monsoon,12.9198391,77.6507521,"1st Sector, HSR Layout, Bengaluru, Karnataka, India",Mangifera indica,research
+46707388,mangifera_indica,Mango,plant,resource,2020-05-21,2020,5,21,142,pre_monsoon,12.9715987467,77.5945626944,Bengaluru,Mangifera indica,research
+51986557,mangifera_indica,Mango,plant,resource,2020-07-05,2020,7,5,187,monsoon,11.9171372957,76.9409449156,"Chamarajanagar, Karnataka 571313, India",Mangifera indica,research
+52645656,mangifera_indica,Mango,plant,resource,2020-07-11,2020,7,11,193,monsoon,12.95910863,77.73545846,"Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",Mangifera indica,research
+52824360,mangifera_indica,Mango,plant,resource,2020-07-01,2020,7,1,183,monsoon,13.0578095229,77.6390541717,"Ferns Residency, Kothanur, Bengaluru, Karnataka 560077, India ",Mangifera indica,research
+53589969,mangifera_indica,Mango,plant,resource,2019-08-26,2019,8,26,238,monsoon,12.9921461,77.5718825,"Sampige Rd, Jai Bheema Nagar, Seshadripuram, Bengaluru, Karnataka 560020, India",Mangifera indica,research
+55766614,mangifera_indica,Mango,plant,resource,2020-08-08,2020,8,8,221,monsoon,12.95965399,77.73553997,"Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",Mangifera indica,research
+55767272,mangifera_indica,Mango,plant,resource,2020-08-08,2020,8,8,221,monsoon,12.95944619,77.73539085,"Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",Mangifera indica,research
+55767568,mangifera_indica,Mango,plant,resource,2020-08-08,2020,8,8,221,monsoon,12.95936708,77.73545968,"Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",Mangifera indica,research
+55879165,mangifera_indica,Mango,plant,resource,2020-08-09,2020,8,9,222,monsoon,12.95930784,77.73510573,"241, Phase 1, Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",Mangifera indica,research
+59411986,mangifera_indica,Mango,plant,resource,2020-09-13,2020,9,13,257,monsoon,12.9591928,77.7357579,"Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",Mangifera indica,research
+60045941,mangifera_indica,Mango,plant,resource,2020-09-19,2020,9,19,263,monsoon,12.95937467,77.73521477,"241, Phase 1, Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",Mangifera indica,research
+60158338,mangifera_indica,Mango,plant,resource,2020-09-20,2020,9,20,264,monsoon,12.95988482,77.73529383,"249/11, Laughing Waters, Ramagondanahalli, Varthur Road, Whitefield, Palm Meadows, Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",Mangifera indica,research
+63624128,mangifera_indica,Mango,plant,resource,2020-10-17,2020,10,17,291,post_monsoon,13.4788845377,75.0175156233,"Udupi, Karnataka, India",Mangifera indica,research
+64585472,mangifera_indica,Mango,plant,resource,2020-10-23,2020,10,23,297,post_monsoon,13.0677678889,77.5783300833,"Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka, India",Mangifera indica,research
+64724616,mangifera_indica,Mango,plant,resource,2020-11-12,2020,11,12,317,post_monsoon,13.0037596721,77.577785477,"Vyalikaval, Kodandarampura, Malleshwaram, Bengaluru, Karnataka 560003, India",Mangifera indica,research
+19571193,ficus_benghalensis,Banyan,plant,resource,2019-01-05,2019,1,5,5,winter,12.1387309528,76.6882524516,Basavanapura,Ficus benghalensis,research
+21070370,ficus_benghalensis,Banyan,plant,resource,2019-03-03,2019,3,3,62,pre_monsoon,15.55349787,76.64196212,"Raichur Rd, Marlanahalli, Karnataka 583229, India",Ficus benghalensis,research
+21985457,ficus_benghalensis,Banyan,plant,resource,2019-03-27,2019,3,27,86,pre_monsoon,12.960354085,77.7375914201,"4th Cross Road, Bengaluru, Karnataka, IN",Ficus benghalensis,research
+24978051,ficus_benghalensis,Banyan,plant,resource,2019-05-12,2019,5,12,132,pre_monsoon,12.99208535,77.7162807,"1, Gopalan gradeur, Hoodi, Bengaluru, Karnataka 560067, India",Ficus benghalensis,research
+26226605,ficus_benghalensis,Banyan,plant,resource,2019-06-02,2019,6,2,153,monsoon,12.956619272,77.7345844825,"Vartur Road, Bengaluru, Karnataka, IN",Ficus benghalensis,research
+28773729,ficus_benghalensis,Banyan,plant,resource,2019-07-14,2019,7,14,195,monsoon,12.9677805305,77.7345904336,"Nallurahalli Road, Bengaluru, Karnataka, IN",Ficus benghalensis,research
+30476870,ficus_benghalensis,Banyan,plant,resource,2019-08-03,2019,8,3,215,monsoon,13.0609827042,77.5640563965,"Bangalore, IN-KA, IN",Ficus benghalensis,research
+37867336,ficus_benghalensis,Banyan,plant,resource,2020-01-23,2020,1,23,23,winter,12.909521052,77.3955402659,"Dodd Aladmara Road, Bengaluru, Karnataka, IN",Ficus benghalensis,research
+37869596,ficus_benghalensis,Banyan,plant,resource,2020-01-23,2020,1,23,23,winter,12.909101681,77.3960452985,"Dodd Aladmara Road, Bengaluru, Karnataka, IN",Ficus benghalensis,research
+38142819,ficus_benghalensis,Banyan,plant,resource,2020-01-31,2020,1,31,31,winter,13.2313877,75.6522987,Yelagudige,Ficus benghalensis,research
+39400745,ficus_benghalensis,Banyan,plant,resource,2020-02-23,2020,2,23,54,winter,12.0762116721,76.8550416467,"Mysore, IN-KA, IN",Ficus benghalensis,research
+45668505,ficus_benghalensis,Banyan,plant,resource,2020-05-12,2020,5,12,133,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Ficus benghalensis,research
+49014790,ficus_benghalensis,Banyan,plant,resource,2020-06-09,2020,6,9,161,monsoon,17.0461581354,75.7528781891,"Dawal Malik Darga, Domnal, Bijapur, Karnataka, India",Ficus benghalensis,research
+60158250,ficus_benghalensis,Banyan,plant,resource,2020-09-20,2020,9,20,264,monsoon,12.9598541,77.73513781,"249/11, Laughing Waters, Ramagondanahalli, Varthur Road, Whitefield, Palm Meadows, Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",Ficus benghalensis,research
+66292145,ficus_benghalensis,Banyan,plant,resource,2020-11-18,2020,11,18,323,post_monsoon,13.0578095229,77.6390541717,Ferns Residency,Ficus benghalensis,research
+67389486,ficus_benghalensis,Banyan,plant,resource,2020-12-31,2020,12,31,366,winter,12.9192778067,77.4820175394,"Stage I, Kengeri Satellite Town, Bengaluru, Karnataka 560060, India",Ficus benghalensis,research
+228246102,ficus_benghalensis,Banyan,plant,resource,2019-10-13,2019,10,13,286,post_monsoon,12.3038555556,76.6538777778,"Agrahara, Chamrajpura, Mysuru, Karnataka, India",Ficus benghalensis,research
+28718387,lantana_camara,Lantana,plant,resource,2019-07-13,2019,7,13,194,monsoon,12.9727916667,77.6913133333,"1st Cross Road, Bengaluru, Karnataka, IN",Lantana camara,research
+29031079,lantana_camara,Lantana,plant,resource,2019-07-18,2019,7,18,199,monsoon,12.3523292542,76.6297302246,"Mysuru, Karnataka 570020, India",Lantana camara,research
+29501487,lantana_camara,Lantana,plant,resource,2019-07-25,2019,7,25,206,monsoon,13.0678396225,77.5787506104,"Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka, India",Lantana camara,research
+30019525,lantana_camara,Lantana,plant,resource,2019-07-30,2019,7,30,211,monsoon,13.3447829722,74.7968929722,"Eshwar Nagar, Manipal, Karnataka, India",Lantana camara,research
+31190824,lantana_camara,Lantana,plant,resource,2019-08-19,2019,8,19,231,monsoon,13.122776,74.993319,"Sammilan Shetty Butterfly Park, Belvai, Karnataka 574213, India",Lantana camara,research
+32936346,lantana_camara,Lantana,plant,resource,2019-09-18,2019,9,18,261,monsoon,13.0852642609,77.483593002,Bengaluru,Lantana camara,research
+33831678,lantana_camara,Lantana,plant,resource,2019-10-04,2019,10,4,277,post_monsoon,13.1992641,77.76550309,"Nallur, Hospital Nallur, Karnataka 562129, India",Lantana camara,research
+34360620,lantana_camara,Lantana,plant,resource,2019-10-14,2019,10,14,287,post_monsoon,12.9222104,77.6704588,"Bellandur, Bengaluru, Karnataka, India",Lantana camara,research
+34441000,lantana_camara,Lantana,plant,resource,2019-10-16,2019,10,16,289,post_monsoon,12.89361875,77.59016025,"Achappa Layout, Silver Oak Layout, JP Nagar 7th Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",Lantana camara,research
+35317019,lantana_camara,Lantana,plant,resource,2019-09-22,2019,9,22,265,monsoon,13.6747910666,77.7015120909,"Gudibanda [R], Karnataka 561209, India",Lantana camara,research
+35513454,lantana_camara,Lantana,plant,resource,2019-11-10,2019,11,10,314,post_monsoon,12.9866315,77.7102672,"20/A, NCPR Industrial Layout, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",Lantana camara,research
+36494055,lantana_camara,Lantana,plant,resource,2019-11-20,2019,11,20,324,post_monsoon,13.0688280093,77.5758653507,"Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka, India",Lantana camara,research
+37230036,lantana_camara,Lantana,plant,resource,2019-12-26,2019,12,26,360,winter,12.3765336297,75.5540544167,"Chettimani, Kodagu, Karnataka 571201, India",Lantana camara,research
+37230156,lantana_camara,Lantana,plant,resource,2020-01-01,2020,1,1,1,winter,13.1456928253,77.4917755127,"Hesaraghatta Grass Farm, Karnataka 560089, India",Lantana camara,research
+37575254,lantana_camara,Lantana,plant,resource,2020-01-14,2020,1,14,14,winter,14.847784981,74.112198837,"Karwar, Uttara Kannada, Karnataka, IN",Lantana camara,research
+37705644,lantana_camara,Lantana,plant,resource,2020-01-18,2020,1,18,18,winter,13.1944528824,75.3341542607,"Chikmagalur, IN-KA, IN",Lantana camara,research
+38459394,lantana_camara,Lantana,plant,resource,2020-02-09,2020,2,9,40,winter,12.9418719351,77.6879594066,"Kadubeesanahalli, Bengaluru, Karnataka, IN",Lantana camara,research
+38873219,lantana_camara,Lantana,plant,resource,2020-02-20,2020,2,20,51,winter,12.9819179199,77.7399319506,"Whitefield, Bengaluru, Karnataka, IN",Lantana camara,research
+42837653,lantana_camara,Lantana,plant,resource,2020-04-22,2020,4,22,113,pre_monsoon,13.1218781741,77.60783921,Bengaluru,Lantana camara,research
+46627587,lantana_camara,Lantana,plant,resource,2020-05-20,2020,5,20,141,pre_monsoon,12.9024377406,77.6634588307,"Haralur, Bengaluru, Karnataka, IN",Lantana camara,research
+46826549,lantana_camara,Lantana,plant,resource,2020-05-22,2020,5,22,143,pre_monsoon,13.0960766667,74.8529733333,"Karnataka 574141, India",Lantana camara,research
+47617112,lantana_camara,Lantana,plant,resource,2020-05-28,2020,5,28,149,pre_monsoon,14.2825965833,74.4441146667,"Uttara Kannada, IN-KA, IN",Lantana camara,research
+50363458,lantana_camara,Lantana,plant,resource,2020-06-21,2020,6,21,173,monsoon,12.8218415,77.6516437,"Bangalore, IN-KA, IN",Lantana camara,research
+52004317,lantana_camara,Lantana,plant,resource,2020-07-05,2020,7,5,187,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Lantana camara,research
+52378957,lantana_camara,Lantana,plant,resource,2020-07-08,2020,7,8,190,monsoon,16.8660398262,75.7365918576," Hanchinal Lake Bijapur County, Karnataka, IN",Lantana camara,research
+52444683,lantana_camara,Lantana,plant,resource,2020-02-24,2020,2,24,55,winter,12.3972748,75.8740918,"Chiklihole Reservoir, Attur Forest, Karnataka 571234",Lantana camara,research
+52638110,lantana_camara,Lantana,plant,resource,2020-07-11,2020,7,11,193,monsoon,13.0653199,77.6149464,Bengaluru,Lantana camara,research
+52668258,lantana_camara,Lantana,plant,resource,2020-07-11,2020,7,11,193,monsoon,16.845844464,75.8818249241,Honnutagi Lake,Lantana camara,research
+53060909,lantana_camara,Lantana,plant,resource,2020-07-14,2020,7,14,196,monsoon,12.922888,77.5583548,"7 Block, Banagirinagara, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka, India",Lantana camara,research
+53323040,lantana_camara,Lantana,plant,resource,2020-07-17,2020,7,17,199,monsoon,16.8754574005,75.6960513164,"Bijapur, Bijapur, KA, IN",Lantana camara,research
+53445417,lantana_camara,Lantana,plant,resource,2020-07-18,2020,7,18,200,monsoon,13.9653908892,75.5468375166,Shivamogga,Lantana camara,research
+53482964,lantana_camara,Lantana,plant,resource,2020-07-18,2020,7,18,200,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Lantana camara,research
+53582628,lantana_camara,Lantana,plant,resource,2020-07-19,2020,7,19,201,monsoon,16.8660398262,75.7365918576," Hanchinal Lake Bijapur County, Karnataka, IN",Lantana camara,research
+53801453,lantana_camara,Lantana,plant,resource,2020-07-21,2020,7,21,203,monsoon,16.8837956758,75.7171852794,"Bijapur, Bijapur, KA, IN",Lantana camara,research
+53857932,lantana_camara,Lantana,plant,resource,2020-06-14,2020,6,14,166,monsoon,13.29208833,77.70018833,Bengaluru Rural,Lantana camara,research
+54229961,lantana_camara,Lantana,plant,resource,2020-07-25,2020,7,25,207,monsoon,16.8738764897,75.6962736883,"Bijapur, Bijapur, KA, IN",Lantana camara,research
+54609322,lantana_camara,Lantana,plant,resource,2020-07-28,2020,7,28,210,monsoon,16.9820048008,76.0653044936,"Indi, Bijapur, KA, IN",Lantana camara,research
+54902094,lantana_camara,Lantana,plant,resource,2020-07-31,2020,7,31,213,monsoon,16.7935266858,75.7066467126,"Bijapur, Bijapur, KA, IN",Lantana camara,research
+55138372,lantana_camara,Lantana,plant,resource,2020-07-29,2020,7,29,211,monsoon,13.0690212454,77.6126006779,"Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru, KA, IN",Lantana camara,research
+56192788,lantana_camara,Lantana,plant,resource,2020-08-12,2020,8,12,225,monsoon,16.8627802464,75.6969425493,"Bijapur, Bijapur, KA, IN",Lantana camara,research
+56282871,lantana_camara,Lantana,plant,resource,2020-08-13,2020,8,13,226,monsoon,16.8994355528,75.7015140542,"Bijapur, Bijapur, KA, IN",Lantana camara,research
+56738986,lantana_camara,Lantana,plant,resource,2020-08-16,2020,8,16,229,monsoon,13.3821927548,77.6481552422,Chikkarayappanahalli,Lantana camara,research
+56823667,lantana_camara,Lantana,plant,resource,2020-08-18,2020,8,18,231,monsoon,16.9533711719,75.9884550144,"Sindgi, Bijapur, KA, IN",Lantana camara,research
+56902129,lantana_camara,Lantana,plant,resource,2020-08-19,2020,8,19,232,monsoon,16.8926329259,75.6955556945,"Bijapur, IN-KA, IN",Lantana camara,research
+56926289,lantana_camara,Lantana,plant,resource,2020-08-19,2020,8,19,232,monsoon,12.2695761549,76.6799309291,Mysuru,Lantana camara,research
+57184343,lantana_camara,Lantana,plant,resource,2020-08-22,2020,8,22,235,monsoon,16.8693977455,75.6934983563,"Bijapur, IN-KA, IN",Lantana camara,research
+57992240,lantana_camara,Lantana,plant,resource,2020-08-30,2020,8,30,243,monsoon,16.8870669231,75.7045165357,"Bijapur, Bijapur, KA, IN",Lantana camara,research
+58007533,lantana_camara,Lantana,plant,resource,2020-08-30,2020,8,30,243,monsoon,13.1095665833,77.6071879722,"Maruthi Nagar, Yelahanka, Bengaluru, Karnataka 560064, India",Lantana camara,research
+58224462,lantana_camara,Lantana,plant,resource,2020-08-21,2020,8,21,234,monsoon,13.0704008723,77.5771658868,"Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli",Lantana camara,research
+60155223,lantana_camara,Lantana,plant,resource,2020-09-20,2020,9,20,264,monsoon,13.0682378889,77.5733248889,"31, Dhanalakshmi Layout, Virupakshapura, Bengaluru, Karnataka 560097, India",Lantana camara,research
+61660711,lantana_camara,Lantana,plant,resource,2020-09-27,2020,9,27,271,monsoon,13.1213716944,77.5277253889,"Mavallipura, Karnataka, India",Lantana camara,research
+61749569,lantana_camara,Lantana,plant,resource,2020-10-05,2020,10,5,279,post_monsoon,16.8593720673,75.7409441192,"Bijapur, Vijayapura, KA, IN",Lantana camara,research
+62784929,lantana_camara,Lantana,plant,resource,2020-10-17,2020,10,17,291,post_monsoon,13.0906079722,77.6072479722,"Basaveshwara Nagar Yelahanka, Nehru Nagar, Bengaluru, Karnataka 560064, India",Lantana camara,research
+63155340,lantana_camara,Lantana,plant,resource,2020-10-21,2020,10,21,295,post_monsoon,13.2297096252,77.5450668335,Bisuvanahalli,Lantana camara,research
+63806551,lantana_camara,Lantana,plant,resource,2020-10-30,2020,10,30,304,post_monsoon,17.0463043917,75.7527242974,"Bijapur, Vijayapura, KA, IN",Lantana camara,research
+63938741,lantana_camara,Lantana,plant,resource,2020-11-01,2020,11,1,306,post_monsoon,16.906795199,75.5722144806,"Bijapur, Vijayapura, KA, IN",Lantana camara,research
+64914859,lantana_camara,Lantana,plant,resource,2020-11-15,2020,11,15,320,post_monsoon,13.1332111667,77.5468,"Lingarajapura Near Yelehanka, Bengaluru, KA, IN",Lantana camara,research
+65504903,lantana_camara,Lantana,plant,resource,2020-11-24,2020,11,24,329,post_monsoon,16.859505,75.7408616667,"Bijapur, Vijayapura, KA, IN",Lantana camara,research
+66730911,lantana_camara,Lantana,plant,resource,2019-12-28,2019,12,28,362,winter,13.4324584113,77.3060365466,"Tumkur, IN-KA, IN",Lantana camara,research
+67072746,lantana_camara,Lantana,plant,resource,2020-11-10,2020,11,10,315,post_monsoon,13.0859166667,77.5681194444,"Vignana Kendra, Bengaluru, Karnataka, India",Lantana camara,research
+70133767,lantana_camara,Lantana,plant,resource,2020-09-22,2020,9,22,266,monsoon,13.3861593078,77.6468248665,"Melekote, Karnataka 561205, India",Lantana camara,research
+89155480,lantana_camara,Lantana,plant,resource,2019-08-19,2019,8,19,231,monsoon,13.122776,74.993319,"Sammilan Shetty Butterfly Park, Belvai, Karnataka 574213, India",Lantana camara,research
+195829718,lantana_camara,Lantana,plant,resource,2019-04-19,2019,4,19,109,pre_monsoon,12.9778746391,74.7954351828,"Krishnapura, Surathkal, Mangaluru, Karnataka 575014, India",Lantana camara,research

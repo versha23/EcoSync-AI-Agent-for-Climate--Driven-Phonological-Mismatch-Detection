@@ -1,0 +1,31 @@
+observation_id,species_key,species_common,species_type,species_role,observed_date,year,month,day,day_of_year,season,latitude,longitude,place_guess,scientific_name,quality_grade
+28786301,murraya_koenigii,Curry Leaf,plant,resource,2019-07-08,2019,7,8,189,monsoon,12.8279731531,74.9723523834,"Karnataka, IN",Bergera koenigii,research
+31163957,murraya_koenigii,Curry Leaf,plant,resource,2019-08-20,2019,8,20,232,monsoon,15.8347937046,74.5005746652,"NH 748, Belagavi, Karnataka, IN",Bergera koenigii,research
+46218804,murraya_koenigii,Curry Leaf,plant,resource,2020-05-17,2020,5,17,138,pre_monsoon,15.353443,75.098055,"Central Excise Colony, Gandhi Nagar, Hubli, Karnataka 580030, India",Bergera koenigii,research
+51701597,murraya_koenigii,Curry Leaf,plant,resource,2020-03-18,2020,3,18,78,pre_monsoon,12.9227270403,77.5828059018,"4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",Bergera koenigii,research
+52820495,murraya_koenigii,Curry Leaf,plant,resource,2020-07-05,2020,7,5,187,monsoon,13.0578095229,77.6390541717,"Ferns Residency, Kothanur, Bengaluru, Karnataka 560077, India ",Bergera koenigii,research
+58317077,murraya_koenigii,Curry Leaf,plant,resource,2020-09-02,2020,9,2,246,monsoon,12.8531109,74.85057,Mangalore,Bergera koenigii,research
+63084593,murraya_koenigii,Curry Leaf,plant,resource,2020-10-20,2020,10,20,294,post_monsoon,12.9976725765,75.4298662115,"Karnataka 574228, India",Bergera koenigii,research
+73191470,murraya_koenigii,Curry Leaf,plant,resource,2021-04-07,2021,4,7,97,pre_monsoon,13.0079941666,77.5378146636,"Stage 2, Maruthi Nagar, Bengaluru, Karnataka, India",Bergera koenigii,research
+76278728,murraya_koenigii,Curry Leaf,plant,resource,2021-04-29,2021,4,29,119,pre_monsoon,13.0187721667,77.7683866667,"Vastu Bhoomi, Bengaluru, KA, IN",Bergera koenigii,research
+85308786,murraya_koenigii,Curry Leaf,plant,resource,2021-07-02,2021,7,2,183,monsoon,16.20277199,77.36285266,"7/1-15, Ward 22, Raichur, Karnataka 584101, India",Bergera koenigii,research
+95014381,murraya_koenigii,Curry Leaf,plant,resource,2021-09-16,2021,9,16,259,monsoon,12.93469727,77.60650637,"WJM4+VHQ, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka 560029, India",Bergera koenigii,research
+108163816,murraya_koenigii,Curry Leaf,plant,resource,2022-03-06,2022,3,6,65,pre_monsoon,12.8676539228,74.9564133337,"Karnataka, IN",Bergera koenigii,research
+108592925,murraya_koenigii,Curry Leaf,plant,resource,2022-03-13,2022,3,13,72,pre_monsoon,14.7963864,74.4996958,"Seege Keri - Sūryakalyāni Gudda, Karnataka 581337, India",Bergera koenigii,research
+152621812,murraya_koenigii,Curry Leaf,plant,resource,2023-03-28,2023,3,28,87,pre_monsoon,12.9715987,77.5945627,"Bengaluru, Karnataka, India",Bergera koenigii,research
+157554528,murraya_koenigii,Curry Leaf,plant,resource,2023-04-29,2023,4,29,119,pre_monsoon,12.8820551997,77.5878912,"272, MS Ramaiah City Layout, 8th Phase, Arekere, Bengaluru, Karnataka 560076, India",Bergera koenigii,research
+157990417,murraya_koenigii,Curry Leaf,plant,resource,2023-04-30,2023,4,30,120,pre_monsoon,12.8892536,77.594976,"D C Halli Krishna Layout, 1st Stage, Araka Mico Layout, Arekere, Bengaluru, Karnataka 560076, India",Bergera koenigii,research
+165487510,murraya_koenigii,Curry Leaf,plant,resource,2023-06-03,2023,6,3,154,monsoon,12.285582,76.5676071,"Kemmannupura, Karnataka 570026, India",Bergera koenigii,research
+175731217,murraya_koenigii,Curry Leaf,plant,resource,2023-07-29,2023,7,29,210,monsoon,12.9582244158,77.3078811541,"Ramanagara, IN-KA, IN",Bergera koenigii,research
+185251383,murraya_koenigii,Curry Leaf,plant,resource,2023-09-12,2023,9,12,255,monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Bergera koenigii,research
+211647056,murraya_koenigii,Curry Leaf,plant,resource,2024-04-28,2024,4,28,119,pre_monsoon,12.9762323889,77.7466063889,"24, Prithvi Layout, Whitefield, Bengaluru, Karnataka 560066, India",Bergera koenigii,research
+212184077,murraya_koenigii,Curry Leaf,plant,resource,2024-04-28,2024,4,28,119,pre_monsoon,15.4907611111,74.9844777778,"FXRM+9RV, Dharwad, Karnataka 580001, India",Bergera koenigii,research
+213453562,murraya_koenigii,Curry Leaf,plant,resource,2024-04-27,2024,4,27,118,pre_monsoon,15.4644847162,74.9880559067,"1st Cross Road, Dharwad, KA, IN",Bergera koenigii,research
+230246216,murraya_koenigii,Curry Leaf,plant,resource,2024-07-19,2024,7,19,201,monsoon,11.6482171679,76.7069479823,"Chamrajnagar, IN-KA, IN",Bergera koenigii,research
+234467791,murraya_koenigii,Curry Leaf,plant,resource,2024-08-08,2024,8,8,221,monsoon,13.0330694444,77.5767805556,"No. 20, 12th Cross, RMV 2nd Stage, Hanumaiah Layout, Sanjayanagara, Bengaluru, Karnataka 560094, India",Bergera koenigii,research
+252807763,murraya_koenigii,Curry Leaf,plant,resource,2024-11-24,2024,11,24,329,post_monsoon,12.9491066667,77.5334,"873, Patel Puttanna Industrial Estate, Deepanjali Nagar, Bengaluru, Karnataka 560026, India",Bergera koenigii,research
+253274595,murraya_koenigii,Curry Leaf,plant,resource,2024-10-21,2024,10,21,295,post_monsoon,12.9272892362,74.8994230852,Pilikula Biological Park,Bergera koenigii,research
+305996002,murraya_koenigii,Curry Leaf,plant,resource,2024-04-10,2024,4,10,101,pre_monsoon,13.02034722,76.09135556,"Santhi Nagar, Hassan, Karnataka, India",Bergera koenigii,research
+308705140,murraya_koenigii,Curry Leaf,plant,resource,2024-04-09,2024,4,9,100,pre_monsoon,12.78173611,76.240775,"Kadavinakote Hantha, Karnataka 573211, India",Bergera koenigii,research
+308965816,murraya_koenigii,Curry Leaf,plant,resource,2024-04-13,2024,4,13,104,pre_monsoon,14.21129722,76.41105556,"Rajendra Nagar, Chitradurga, Karnataka 577501, India",Bergera koenigii,research
+309947354,murraya_koenigii,Curry Leaf,plant,resource,2024-04-06,2024,4,6,97,pre_monsoon,12.58212222,77.04283056,"Maddur, Karnataka, India",Bergera koenigii,research

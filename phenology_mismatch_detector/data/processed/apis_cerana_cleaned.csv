@@ -1,0 +1,99 @@
+observation_id,species_key,species_common,species_type,species_role,observed_date,year,month,day,day_of_year,season,latitude,longitude,place_guess,scientific_name,quality_grade
+48662464,apis_cerana,Asian Honey Bee,bee,pollinator,2020-06-06,2020,6,6,158,monsoon,12.9877634,77.6625607,"DRDO Township, C V Raman Nagar, Bengaluru, Karnataka 560093, India",Apis cerana,research
+88946207,apis_cerana,Asian Honey Bee,bee,pollinator,2021-07-28,2021,7,28,209,monsoon,12.84906,77.53463,"Bengaluru, Karnataka, India",Apis cerana,research
+107112688,apis_cerana,Asian Honey Bee,bee,pollinator,2022-02-20,2022,2,20,51,winter,12.8934072,77.5945238,"184,, 182, Main Rd, Arekere MICO Layout 2nd stage, Manjunatha Layout, Sahyadri Layout, Arekere, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India",Apis cerana,research
+148770505,apis_cerana,Asian Honey Bee,bee,pollinator,2023-02-02,2023,2,2,33,winter,12.84439538,77.77532659,"RQVG+R4, Buragunte, Karnataka 562125, India",Apis cerana,research
+179151360,apis_cerana,Asian Honey Bee,bee,pollinator,2023-08-19,2023,8,19,231,monsoon,12.8742056269,77.5272426009,Turahalli Tree Park (Turahalli Kiru Aranya),Apis cerana,research
+185382787,apis_cerana,Asian Honey Bee,bee,pollinator,2023-09-25,2023,9,25,268,monsoon,12.933835,77.60648,"Bangalore, IN-KA, IN",Apis cerana,research
+191576065,apis_cerana,Asian Honey Bee,bee,pollinator,2023-07-27,2023,7,27,208,monsoon,12.2227233,76.6272876,"6JFG+3WM, Dadadahalli, Karnataka 570008, India",Apis cerana,research
+191831571,apis_cerana,Asian Honey Bee,bee,pollinator,2023-11-23,2023,11,23,327,post_monsoon,12.910865137,77.6127993688,"MCHS Colony, Stage 2, BTM Layout",Apis cerana,research
+194010156,apis_cerana,Asian Honey Bee,bee,pollinator,2023-12-15,2023,12,15,349,winter,12.9228495844,75.6557205319,"WMF4+47X, Kadumane Estate, Karnataka 573165, India",Apis cerana,research
+195081033,apis_cerana,Asian Honey Bee,bee,pollinator,2023-12-25,2023,12,25,359,winter,12.4244205,75.7381856,"Madikeri, Karnataka 571201, India",Apis cerana,research
+195464902,apis_cerana,Asian Honey Bee,bee,pollinator,2024-01-01,2024,1,1,1,winter,15.4950993326,74.9873780832,"FXQQ+Q3Q, Dharwad, Karnataka 580001, India",Apis cerana,research
+195820539,apis_cerana,Asian Honey Bee,bee,pollinator,2023-12-28,2023,12,28,362,winter,13.0800706892,77.5785150379,"Vignana Kendra, Bengaluru, Karnataka, India",Apis cerana,research
+195829181,apis_cerana,Asian Honey Bee,bee,pollinator,2024-01-05,2024,1,5,5,winter,12.9319947,77.6062364997,"WJJ4+RJF, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka 560029, India",Apis cerana,research
+197468270,apis_cerana,Asian Honey Bee,bee,pollinator,2023-02-20,2023,2,20,51,winter,12.915179909,77.5566824745,"Padmanabhanagar, Bengaluru, Karnataka, India",Apis cerana,research
+197877356,apis_cerana,Asian Honey Bee,bee,pollinator,2024-01-10,2024,1,10,10,winter,13.370154,77.6834551,"Nandi Hills, Karnataka, India",Apis cerana,research
+198195040,apis_cerana,Asian Honey Bee,bee,pollinator,2024-02-02,2024,2,2,33,winter,12.9342334,77.6066828,"Block I, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka 560029, India",Apis cerana,research
+198198189,apis_cerana,Asian Honey Bee,bee,pollinator,2024-02-02,2024,2,2,33,winter,15.4626553262,75.000378415,"Raj Nagar, Dharwad, Karnataka 580008, India",Apis cerana,research
+198986527,apis_cerana,Asian Honey Bee,bee,pollinator,2024-01-02,2024,1,2,2,winter,13.0800706892,77.5785150379,"Vignana Kendra, Bengaluru, Karnataka, India",Apis cerana,research
+199211205,apis_cerana,Asian Honey Bee,bee,pollinator,2024-02-13,2024,2,13,44,winter,12.946745,77.5894916667,"Siddhapura Road, Bengaluru, KA, IN",Apis cerana,research
+199430125,apis_cerana,Asian Honey Bee,bee,pollinator,2024-02-16,2024,2,16,47,winter,13.0649483333,77.6146316667,"H.No 13, Srirampura 1st main road opp. rachchenhalli lake, jakkur post, Rachenahalli, Thanisandra, Bengaluru, Karnataka 560064, India",Apis cerana,research
+199439073,apis_cerana,Asian Honey Bee,bee,pollinator,2024-02-16,2024,2,16,47,winter,12.009825,76.0591361667,"Bandipur Wildlife Sanctuary, Kodagu, KA, IN",Apis cerana,research
+199532341,apis_cerana,Asian Honey Bee,bee,pollinator,2024-02-17,2024,2,17,48,winter,12.9595620773,77.6011615992,"Langford Town, Shanti Nagar, Bengaluru, Karnataka, India",Apis cerana,research
+200187539,apis_cerana,Asian Honey Bee,bee,pollinator,2024-02-23,2024,2,23,54,winter,13.1330371373,75.4490801319,"Madugundi, Karnataka, India",Apis cerana,research
+200196679,apis_cerana,Asian Honey Bee,bee,pollinator,2024-02-18,2024,2,18,49,winter,12.8335816667,77.5840683333,"Bannerghatta, IN-KA-BN, IN-KA, IN",Apis cerana,research
+200688309,apis_cerana,Asian Honey Bee,bee,pollinator,2024-02-18,2024,2,18,49,winter,12.8391027778,77.5880722222,"Gaare Palya, Basavanapura, Bengaluru, Karnataka 560083, India",Apis cerana,research
+200688353,apis_cerana,Asian Honey Bee,bee,pollinator,2024-02-18,2024,2,18,49,winter,12.8391027778,77.5880722222,"Gaare Palya, Basavanapura, Bengaluru, Karnataka 560083, India",Apis cerana,research
+200688379,apis_cerana,Asian Honey Bee,bee,pollinator,2024-02-18,2024,2,18,49,winter,12.8391027778,77.5880722222,"Gaare Palya, Basavanapura, Bengaluru, Karnataka 560083, India",Apis cerana,research
+200799235,apis_cerana,Asian Honey Bee,bee,pollinator,2023-12-23,2023,12,23,357,winter,12.8547715477,77.6956177898,"Chikkanagamangala, Bengaluru, Karnataka 560099, India",Apis cerana,research
+201118337,apis_cerana,Asian Honey Bee,bee,pollinator,2024-03-03,2024,3,3,63,pre_monsoon,13.1174472222,77.5762416667,"Bengaluru, Karnataka 560064, India",Apis cerana,research
+202007516,apis_cerana,Asian Honey Bee,bee,pollinator,2024-03-11,2024,3,11,71,pre_monsoon,13.0097691997,77.5728615997,"Bangalore, IN-KA, IN",Apis cerana,research
+203700600,apis_cerana,Asian Honey Bee,bee,pollinator,2024-03-20,2024,3,20,80,pre_monsoon,12.043926184,75.835935003,"Kadama Kolli, Kodagu",Apis cerana,research
+203898429,apis_cerana,Asian Honey Bee,bee,pollinator,2024-03-20,2024,3,20,80,pre_monsoon,12.043926184,75.835935003,"Kadama Kolli, Kodagu",Apis cerana,research
+204004708,apis_cerana,Asian Honey Bee,bee,pollinator,2019-03-28,2019,3,28,87,pre_monsoon,13.1152305,75.6310404,"College of horticulture mudigere, Mudigere, Karnataka 577132, India",Apis cerana,research
+205037920,apis_cerana,Asian Honey Bee,bee,pollinator,2024-04-01,2024,4,1,92,pre_monsoon,12.963005,77.587495,"XH7P+6XG, Sampangi, Bengaluru, Karnataka 560002, India",Apis cerana,research
+206937803,apis_cerana,Asian Honey Bee,bee,pollinator,2019-12-14,2019,12,14,348,winter,13.0454314,77.5478699,"Jalahalli, Bengaluru, Karnataka, India",Apis cerana,research
+208205568,apis_cerana,Asian Honey Bee,bee,pollinator,2024-04-19,2024,4,19,110,pre_monsoon,13.0428018133,77.551185675,"Sharadamba Nagar, Muthyala Nagar, Gokula Extension, Mathikere, Bengaluru, Karnataka 560054, India",Apis cerana,research
+208430977,apis_cerana,Asian Honey Bee,bee,pollinator,2024-04-21,2024,4,21,112,pre_monsoon,15.4919888889,74.9842527778,"Basav Colony, Dharwad, Karnataka 580005, India",Apis cerana,research
+209632700,apis_cerana,Asian Honey Bee,bee,pollinator,2024-04-26,2024,4,26,117,pre_monsoon,13.0800713423,77.5785150379,"Vignana Kendra, Bengaluru, Karnataka, India",Apis cerana,research
+209995473,apis_cerana,Asian Honey Bee,bee,pollinator,2024-04-27,2024,4,27,118,pre_monsoon,15.4309361111,75.0282527778,"Gandhinagar, Dharwad, Karnataka, India",Apis cerana,research
+209996019,apis_cerana,Asian Honey Bee,bee,pollinator,2024-04-27,2024,4,27,118,pre_monsoon,15.4309361111,75.0282527778,"Gandhinagar, Dharwad, Karnataka, India",Apis cerana,research
+211422481,apis_cerana,Asian Honey Bee,bee,pollinator,2024-04-28,2024,4,28,119,pre_monsoon,12.8543147,77.5099453,"Thatguni Post, VG35+PXG, Kanakpura Road, Bengaluru, Rachanamadu, Karnataka 560082, India",Apis cerana,research
+211427240,apis_cerana,Asian Honey Bee,bee,pollinator,2024-04-26,2024,4,26,117,pre_monsoon,12.9215055171,77.6766972989,"No 6/4, AGR Plaza, Annaiah Reddy Layout, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103, India",Apis cerana,research
+212185653,apis_cerana,Asian Honey Bee,bee,pollinator,2024-04-28,2024,4,28,119,pre_monsoon,15.4907611111,74.9844777778,"FXRM+9RV, Dharwad, Karnataka 580001, India",Apis cerana,research
+212185949,apis_cerana,Asian Honey Bee,bee,pollinator,2024-04-28,2024,4,28,119,pre_monsoon,15.4907611111,74.9844777778,"FXRM+9RV, Dharwad, Karnataka 580001, India",Apis cerana,research
+212201871,apis_cerana,Asian Honey Bee,bee,pollinator,2024-04-28,2024,4,28,119,pre_monsoon,15.4907611111,74.9844777778,"FXRM+9RV, Dharwad, Karnataka 580001, India",Apis cerana,research
+212207433,apis_cerana,Asian Honey Bee,bee,pollinator,2024-04-28,2024,4,28,119,pre_monsoon,15.4933716667,74.9867383333,"Dharwad, Dharwad, KA, IN",Apis cerana,research
+214172290,apis_cerana,Asian Honey Bee,bee,pollinator,2024-04-27,2024,4,27,118,pre_monsoon,13.0245361111,77.571434,"11, CPRI Staff Colony, Mathikere, Bengaluru, Karnataka 560012, India",Apis cerana,research
+214540392,apis_cerana,Asian Honey Bee,bee,pollinator,2024-04-05,2024,4,5,96,pre_monsoon,12.2687702,76.5183287,"Madalli Rd, Madahalli, Karnataka 570026, India",Apis cerana,research
+215568982,apis_cerana,Asian Honey Bee,bee,pollinator,2024-05-12,2024,5,12,133,pre_monsoon,12.4182388889,76.6635194444,"Ranganathittu Bird Sanctuary, Karimanti, Karnataka 571427, India",Apis cerana,research
+216772069,apis_cerana,Asian Honey Bee,bee,pollinator,2024-05-15,2024,5,15,136,pre_monsoon,12.3374942,75.8069082,"Kodagu, Karnataka, India",Apis cerana,research
+218345703,apis_cerana,Asian Honey Bee,bee,pollinator,2024-05-26,2024,5,26,147,pre_monsoon,13.4928669879,75.3941689432,"Chikmagalur, IN-KA, IN",Apis cerana,research
+218549968,apis_cerana,Asian Honey Bee,bee,pollinator,2024-05-27,2024,5,27,148,pre_monsoon,13.1175277778,77.5756166667,"Crpf West Side, Crpf Camp, 904, Anantapura, Bengaluru, Karnataka 560064, India",Apis cerana,research
+218558907,apis_cerana,Asian Honey Bee,bee,pollinator,2024-05-27,2024,5,27,148,pre_monsoon,12.910865137,77.6127993688,"MCHS Colony, Stage 2, BTM Layout, Bengaluru, Karnataka, India",Apis cerana,research
+218710268,apis_cerana,Asian Honey Bee,bee,pollinator,2024-05-27,2024,5,27,148,pre_monsoon,12.811707661,77.5736095738,"Bannerghatta, IN-KA-BN, IN-KA, IN",Apis cerana,research
+219323223,apis_cerana,Asian Honey Bee,bee,pollinator,2024-05-30,2024,5,30,151,pre_monsoon,12.9494144253,77.5846804306,"Lalbagh Botanical Garden, Banglore.",Apis cerana,research
+219457185,apis_cerana,Asian Honey Bee,bee,pollinator,2024-05-27,2024,5,27,148,pre_monsoon,12.8102991556,77.5736439778,"Bannerghatta, IN-KA-BN, IN-KA, IN",Apis cerana,research
+219940471,apis_cerana,Asian Honey Bee,bee,pollinator,2024-05-25,2024,5,25,146,pre_monsoon,12.797952224,77.5764806065,"Bengaluru, Karnataka, India",Apis cerana,research
+219950167,apis_cerana,Asian Honey Bee,bee,pollinator,2024-05-28,2024,5,28,149,pre_monsoon,12.8009705802,77.5762331486,"Bengaluru, Karnataka, India",Apis cerana,research
+220838124,apis_cerana,Asian Honey Bee,bee,pollinator,2024-04-29,2024,4,29,120,pre_monsoon,12.9628291997,77.5975616997,"St Joseph's College St Joseph's College Humanities Block, Langford Gardens, Bengaluru, Karnataka 560027, India",Apis cerana,research
+222185144,apis_cerana,Asian Honey Bee,bee,pollinator,2024-06-12,2024,6,12,164,monsoon,12.7883061236,77.6518147811,"39P, Bommasandra, Bande Nalla Sandra, Karnataka 560105, India",Apis cerana,research
+222392367,apis_cerana,Asian Honey Bee,bee,pollinator,2024-06-13,2024,6,13,165,monsoon,13.1751704768,77.6140960497,"Karnataka, IN",Apis cerana,research
+223347043,apis_cerana,Asian Honey Bee,bee,pollinator,2024-06-16,2024,6,16,168,monsoon,12.2838260431,76.6665901244,"7MM8+MH2, Near Basaveswara Temple, Chamundi Hill, Mysuru, Karnataka 570010, India",Apis cerana,research
+224856124,apis_cerana,Asian Honey Bee,bee,pollinator,2024-06-21,2024,6,21,173,monsoon,12.9235245624,77.5046904799,"Karnataka, IN",Apis cerana,research
+225240503,apis_cerana,Asian Honey Bee,bee,pollinator,2024-06-25,2024,6,25,177,monsoon,13.1628055,75.8612883333,"Temple Road, Belur, KA, IN",Apis cerana,research
+225247479,apis_cerana,Asian Honey Bee,bee,pollinator,2024-06-19,2024,6,19,171,monsoon,12.2198041033,75.676895038,"Kodagu, IN-KA, IN",Apis cerana,research
+228281918,apis_cerana,Asian Honey Bee,bee,pollinator,2024-06-20,2024,6,20,172,monsoon,12.3518977025,75.6019609447,"Kodagu, IN-KA, IN",Apis cerana,research
+228618401,apis_cerana,Asian Honey Bee,bee,pollinator,2024-07-11,2024,7,11,193,monsoon,15.437875,74.98535,"CXQP+473, Karnatak University Campus, Dharwad, Karnataka 580003, India",Apis cerana,research
+229565934,apis_cerana,Asian Honey Bee,bee,pollinator,2024-06-26,2024,6,26,178,monsoon,13.0753617997,77.5813280997,"Farmer's Training Institute, Gandhi Krishi Vignana Kendra, Sahakar Nagar, Kodigehalli, Bengaluru, Karnataka 560065, India",Apis cerana,research
+232075051,apis_cerana,Asian Honey Bee,bee,pollinator,2024-07-26,2024,7,26,208,monsoon,12.8378402,77.589327,"RHQQ+4P Kalkere Arboretum, Basavanapura, Bengaluru, Karnataka 560083, India",Apis cerana,research
+232648770,apis_cerana,Asian Honey Bee,bee,pollinator,2024-07-29,2024,7,29,211,monsoon,12.8779081317,77.5323998183,"63, Raghavendra Layout, Lingadeeranahalli, Bengaluru, Hosahalli, Karnataka 560062, India",Apis cerana,research
+232954466,apis_cerana,Asian Honey Bee,bee,pollinator,2023-06-19,2023,6,19,170,monsoon,13.2437192205,77.7172412351,Devanahalli,Apis cerana,research
+233274506,apis_cerana,Asian Honey Bee,bee,pollinator,2024-07-07,2024,7,7,189,monsoon,12.94832,77.5814533333,"Walk Trail 3, Bengaluru, KA, IN",Apis cerana,research
+234103235,apis_cerana,Asian Honey Bee,bee,pollinator,2024-07-27,2024,7,27,209,monsoon,12.2246944444,75.6500277778,"Yevakapadi, Karnataka, India",Apis cerana,research
+234654975,apis_cerana,Asian Honey Bee,bee,pollinator,2024-08-09,2024,8,9,222,monsoon,12.9337772997,77.6065214,"Block I, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka 560029, India",Apis cerana,research
+236483816,apis_cerana,Asian Honey Bee,bee,pollinator,2024-08-18,2024,8,18,231,monsoon,13.1219747,74.9930197,"Karnataka 574213, India",Apis cerana,research
+237118548,apis_cerana,Asian Honey Bee,bee,pollinator,2024-08-19,2024,8,19,232,monsoon,12.9255720095,77.6138169318,"Maruti Nagar, 1st Stage, BTM Layout, Bengaluru, Karnataka, India",Apis cerana,research
+240315590,apis_cerana,Asian Honey Bee,bee,pollinator,2024-09-06,2024,9,6,250,monsoon,12.9339975997,77.6061571997,"WJM4+J92, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka 560029, India",Apis cerana,research
+241697656,apis_cerana,Asian Honey Bee,bee,pollinator,2024-08-31,2024,8,31,244,monsoon,13.064292582,77.620216012,"3J7C+J28, Royal Enclave, Phase II, Srirampura, Jakkur, Bengaluru, Karnataka 560064, India",Apis cerana,research
+242081829,apis_cerana,Asian Honey Bee,bee,pollinator,2024-09-16,2024,9,16,260,monsoon,12.8116263,77.5740310997,"RH7F+7XJ, Bengaluru, Karnataka 560083, India",Apis cerana,research
+248233283,apis_cerana,Asian Honey Bee,bee,pollinator,2024-10-19,2024,10,19,293,post_monsoon,12.982635,77.699819,"Bagmane Constellation Park, Carina Building, Ferns City, Doddanekkundi, Bengaluru, Karnataka 560037, India",Apis cerana,research
+248420843,apis_cerana,Asian Honey Bee,bee,pollinator,2024-10-21,2024,10,21,295,post_monsoon,13.0911142,77.6609323,"Hobli, 8/4, Hennur Bagalur Main Rd, Mitganahalli, Kannuru, Bidarahalli, Bengaluru, Karnataka 560077, India",Apis cerana,research
+249143733,apis_cerana,Asian Honey Bee,bee,pollinator,2024-10-26,2024,10,26,300,post_monsoon,13.0714333333,77.580975,"EASTERN LAB COMPLEX, GANDHI KRISHI VIGNANA KENDRA, Sahakar Nagar, Kodigehalli, Bengaluru, Karnataka 560065, India",Apis cerana,research
+251292540,apis_cerana,Asian Honey Bee,bee,pollinator,2024-11-11,2024,11,11,316,post_monsoon,13.0650444444,77.6480083333,"Bornmann Enclave, 4, BDS Nagar, Kothanur, Bengaluru, Karnataka 560077, India",Apis cerana,research
+251701021,apis_cerana,Asian Honey Bee,bee,pollinator,2023-06-03,2023,6,3,154,monsoon,12.7985878081,77.5678348169,"Bengaluru, Karnataka 560083, India",Apis cerana,research
+254974586,apis_cerana,Asian Honey Bee,bee,pollinator,2024-12-13,2024,12,13,348,winter,12.9287166667,77.6316,"Koramangala, Bengaluru, Karnataka, IN",Apis cerana,research
+255565636,apis_cerana,Asian Honey Bee,bee,pollinator,2024-12-19,2024,12,19,354,winter,13.0279528333,77.5705416667,"MSR Nagar, Bengaluru, Karnataka, IN",Apis cerana,research
+255950724,apis_cerana,Asian Honey Bee,bee,pollinator,2024-12-23,2024,12,23,358,winter,13.0650527778,77.64775,"BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Apis cerana,research
+256743926,apis_cerana,Asian Honey Bee,bee,pollinator,2024-12-26,2024,12,26,361,winter,12.1955885147,75.6648109036,"Chelavara, Karnataka 571212, India",Apis cerana,research
+260147806,apis_cerana,Asian Honey Bee,bee,pollinator,2024-05-15,2024,5,15,136,pre_monsoon,12.4244205,75.7381856,"Madikeri, Karnataka 571201, India",Apis cerana,research
+260147807,apis_cerana,Asian Honey Bee,bee,pollinator,2024-05-15,2024,5,15,136,pre_monsoon,12.4244205,75.7381856,"Madikeri, Karnataka 571201, India",Apis cerana,research
+260225191,apis_cerana,Asian Honey Bee,bee,pollinator,2023-12-25,2023,12,25,359,winter,12.4244205,75.7381856,"Madikeri, Karnataka 571201, India",Apis cerana,research
+271980773,apis_cerana,Asian Honey Bee,bee,pollinator,2024-08-18,2024,8,18,231,monsoon,12.8608396,77.5991544,"Ramanshree Nagar, Phase 2, Gottigere, Bengaluru, Karnataka 560083, India",Apis cerana,research
+277685110,apis_cerana,Asian Honey Bee,bee,pollinator,2024-08-10,2024,8,10,223,monsoon,13.034731172,77.573019101,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Apis cerana,research
+284255488,apis_cerana,Asian Honey Bee,bee,pollinator,2024-08-10,2024,8,10,223,monsoon,12.8608396,77.5991544,"Ramanshree Nagar, Phase 2, Gottigere, Bengaluru, Karnataka 560083, India",Apis cerana,research
+287492692,apis_cerana,Asian Honey Bee,bee,pollinator,2021-05-09,2021,5,9,129,pre_monsoon,15.43679083,75.0353108346,"C2QP+22, Ambedkar Nagar, Yalakki Shettar Colony, Dharwad, Karnataka 580001, India",Apis cerana,research
+293436128,apis_cerana,Asian Honey Bee,bee,pollinator,2023-12-28,2023,12,28,362,winter,13.0796556091,77.5790608674,"Vignana Kendra, Bengaluru, Karnataka, India",Apis cerana,research
+319602520,apis_cerana,Asian Honey Bee,bee,pollinator,2023-07-09,2023,7,9,190,monsoon,14.0224539447,76.2612029785,"Chitradurga, IN-KA, IN",Apis cerana,research
+333302578,apis_cerana,Asian Honey Bee,bee,pollinator,2021-05-22,2021,5,22,142,pre_monsoon,12.9248047172,77.5878621269,"Jayanagar, Bengaluru, Karnataka, India",Apis cerana,research

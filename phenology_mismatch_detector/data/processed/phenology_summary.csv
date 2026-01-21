@@ -1,0 +1,11 @@
+species,type,total_obs,baseline_median_doy,current_median_doy,shift_days
+Common Mormon,butterfly,941,214.0,226.0,12.0
+Plain Tiger,butterfly,709,180.5,180.0,-0.5
+Asian Honey Bee,bee,98,158.0,148.0,-10.0
+Giant Honey Bee,bee,532,209.5,134.0,-75.5
+Purple-rumped Sunbird,bird,767,195.5,197.0,1.5
+Asian Koel,bird,356,155.5,155.0,-0.5
+Curry Leaf,plant,30,189.0,119.0,-70.0
+Mango,plant,100,221.0,118.0,-103.0
+Banyan,plant,66,133.0,158.0,25.0
+Lantana,plant,283,225.0,164.0,-61.0

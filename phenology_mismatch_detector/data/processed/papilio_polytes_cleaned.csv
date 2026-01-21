@@ -1,0 +1,942 @@
+observation_id,species_key,species_common,species_type,species_role,observed_date,year,month,day,day_of_year,season,latitude,longitude,place_guess,scientific_name,quality_grade
+19840168,papilio_polytes,Common Mormon,butterfly,consumer,2019-01-24,2019,1,24,24,winter,12.9795578542,77.5965968147,"Queens Rd, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560001, India",Papilio polytes,research
+20253202,papilio_polytes,Common Mormon,butterfly,consumer,2019-02-10,2019,2,10,41,winter,12.8991707047,77.3081684602,"Savanadurga State Forest, Karnataka, India",Papilio polytes,research
+20253264,papilio_polytes,Common Mormon,butterfly,consumer,2019-02-05,2019,2,5,36,winter,12.9427705931,77.5966962942,"Hombegowda Nagar, Bengaluru, Karnataka, India",Papilio polytes,research
+20626643,papilio_polytes,Common Mormon,butterfly,consumer,2019-02-09,2019,2,9,40,winter,12.9887986722,77.6625235006,"C 14/15, DRDO Phase 1 Township, Viswa Vihar, C V Raman Nagar, Bengaluru, Karnataka 560093, India",Papilio polytes,research
+21442483,papilio_polytes,Common Mormon,butterfly,consumer,2019-03-21,2019,3,21,80,pre_monsoon,12.9610734409,77.5733748214,"560018, Bengaluru, Karnataka, IN",Papilio polytes,research
+26100295,papilio_polytes,Common Mormon,butterfly,consumer,2019-03-26,2019,3,26,85,pre_monsoon,12.9821295919,77.6328575672,"Karnataka, IN",Papilio polytes,research
+27161484,papilio_polytes,Common Mormon,butterfly,consumer,2019-06-16,2019,6,16,167,monsoon,12.9205893,77.2944334,"Savandurga Hill, Karnataka",Papilio polytes,research
+28562533,papilio_polytes,Common Mormon,butterfly,consumer,2019-07-09,2019,7,9,190,monsoon,12.4932005684,77.2663961453,"Kanakapura, Ramanagara, Karnataka, IN",Papilio polytes,research
+28596842,papilio_polytes,Common Mormon,butterfly,consumer,2019-07-11,2019,7,11,192,monsoon,12.8381109238,77.6569442749,"EC4 Tower 11, Wipro Technologies, Shikaripalya, Electronic City, Bengaluru, Karnataka 560100, India",Papilio polytes,research
+28597839,papilio_polytes,Common Mormon,butterfly,consumer,2019-07-04,2019,7,4,185,monsoon,14.2830133438,74.4450531006,"Honnavar, Karnataka, India",Papilio polytes,research
+28598077,papilio_polytes,Common Mormon,butterfly,consumer,2019-07-08,2019,7,8,189,monsoon,14.2840089798,74.4431991577,"Honnavar, Karnataka, India",Papilio polytes,research
+29226166,papilio_polytes,Common Mormon,butterfly,consumer,2019-06-30,2019,6,30,181,monsoon,12.8782040927,77.3042289291,"Savanadurga State Forest, Karnataka, India",Papilio polytes,research
+29853207,papilio_polytes,Common Mormon,butterfly,consumer,2019-07-28,2019,7,28,209,monsoon,12.8934072,77.5945238,"184,, 182, Main Rd, Arekere MICO Layout 2nd stage, Manjunatha Layout, Sahyadri Layout, Arekere, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India",Papilio polytes,research
+29853216,papilio_polytes,Common Mormon,butterfly,consumer,2019-07-28,2019,7,28,209,monsoon,12.8934072,77.5945238,"184,, 182, Main Rd, Arekere MICO Layout 2nd stage, Manjunatha Layout, Sahyadri Layout, Arekere, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India",Papilio polytes,research
+30090190,papilio_polytes,Common Mormon,butterfly,consumer,2019-08-03,2019,8,3,215,monsoon,13.3539650982,74.7847834602,"Tiger Circle Road, Madhav Nagar, Manipal, Karnataka 576104, India",Papilio polytes,research
+31843788,papilio_polytes,Common Mormon,butterfly,consumer,2019-07-13,2019,7,13,194,monsoon,12.8799397966,77.5295325368,"Thurahalli, Bengaluru, Karnataka 560062, India",Papilio polytes,research
+34578948,papilio_polytes,Common Mormon,butterfly,consumer,2019-10-04,2019,10,4,277,post_monsoon,12.8755740269,77.4835435085,"Karnataka, IN",Papilio polytes,research
+34947050,papilio_polytes,Common Mormon,butterfly,consumer,2019-10-27,2019,10,27,300,post_monsoon,12.97777167,77.68457,"12th Cross Road, Bengaluru, Karnataka, IN",Papilio polytes,research
+35080242,papilio_polytes,Common Mormon,butterfly,consumer,2019-10-30,2019,10,30,303,post_monsoon,13.0816669464,77.566947937,"Vignana Kendra, Bengaluru, Karnataka, India",Papilio polytes,research
+35516731,papilio_polytes,Common Mormon,butterfly,consumer,2019-11-10,2019,11,10,314,post_monsoon,12.97333667,77.69142167,"12th Cross Road, Bengaluru, Karnataka, IN",Papilio polytes,research
+35677066,papilio_polytes,Common Mormon,butterfly,consumer,2019-09-21,2019,9,21,264,monsoon,13.4708025983,75.0448323334,"Udupi, Karnataka, India",Papilio polytes,research
+35909511,papilio_polytes,Common Mormon,butterfly,consumer,2019-09-22,2019,9,22,265,monsoon,13.1227761135,74.9933188409,Sammilan Shetty's Butterfly Park,Papilio polytes,research
+36429746,papilio_polytes,Common Mormon,butterfly,consumer,2019-12-07,2019,12,7,341,winter,12.939362363,77.5065120461,"Karnataka, IN",Papilio polytes,research
+36591541,papilio_polytes,Common Mormon,butterfly,consumer,2019-12-12,2019,12,12,346,winter,12.971599,77.594563,Bengaluru,Papilio polytes,research
+36613671,papilio_polytes,Common Mormon,butterfly,consumer,2019-12-13,2019,12,13,347,winter,12.8220953563,77.5167562656,"Karnataka, IN",Papilio polytes,research
+36729893,papilio_polytes,Common Mormon,butterfly,consumer,2019-12-17,2019,12,17,351,winter,12.9315378208,77.5412637328,"Karnataka, IN",Papilio polytes,research
+36883878,papilio_polytes,Common Mormon,butterfly,consumer,2019-10-08,2019,10,8,281,post_monsoon,13.0199305556,77.5682916667,"Devasandra Layout, Bengaluru, Karnataka, India",Papilio polytes,research
+36883879,papilio_polytes,Common Mormon,butterfly,consumer,2019-10-08,2019,10,8,281,post_monsoon,13.0196416667,77.5685111111,"Devasandra Layout, Bengaluru, Karnataka, India",Papilio polytes,research
+39947838,papilio_polytes,Common Mormon,butterfly,consumer,2020-03-12,2020,3,12,72,pre_monsoon,12.92864667,77.679305,"Bellandur, Bengaluru, Karnataka, IN",Papilio polytes,research
+40068084,papilio_polytes,Common Mormon,butterfly,consumer,2020-03-15,2020,3,15,75,pre_monsoon,13.3128345644,77.5425871834,"Bangalore Rural, IN-KA, IN",Papilio polytes,research
+42940764,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-22,2020,4,22,113,pre_monsoon,12.989518708,77.6630120007,"CV Raman Nagar, Bengaluru, Karnataka, IN",Papilio polytes,research
+44091767,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-26,2020,4,26,117,pre_monsoon,12.8843797,77.4637183,"Bengaluru, Karnataka 560060, India",Papilio polytes,research
+44458880,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-01,2020,5,1,122,pre_monsoon,13.06430405,77.61938059,"Near ATREE Office, Royal Enclave, Phase II, Rachenahalli, Royal Enclave, Phase II, Srirampura, Jakkur, Bengaluru, Karnataka 560064, India",Papilio polytes,research
+44459330,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-01,2020,5,1,122,pre_monsoon,13.0642487222,77.6194034167,"Near ATREE Office, Royal Enclave, Phase II, Rachenahalli, Royal Enclave, Phase II, Srirampura, Jakkur, Bengaluru, Karnataka 560064, India",Papilio polytes,research
+45235175,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-06,2020,5,6,127,pre_monsoon,14.2853127525,74.4465833902,"Kasaba Gundibail, Honnavar, Karnataka 581334, India",Papilio polytes,research
+46202924,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-15,2020,5,15,136,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Papilio polytes,research
+46333666,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-16,2020,5,16,137,pre_monsoon,14.2838172778,74.4429092222,"Honnavar, Karnataka, India",Papilio polytes,research
+46687126,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-21,2020,5,21,142,pre_monsoon,13.095485,74.8530183333,"Dakshina Kannada, IN-KA, IN",Papilio polytes,research
+46691801,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-21,2020,5,21,142,pre_monsoon,12.9686487778,77.7609110833,"Immadihalli, Whitefield, Bengaluru, Karnataka 560066, India",Papilio polytes,research
+47126419,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-24,2020,5,24,145,pre_monsoon,12.9901508706,77.6624017954,Prestige Greenwoods,Papilio polytes,research
+47472938,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-25,2020,5,25,146,pre_monsoon,14.4111605373,74.4320203364,"Karnataka 581362, India",Papilio polytes,research
+47522639,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-27,2020,5,27,148,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Papilio polytes,research
+47807949,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-30,2020,5,30,151,pre_monsoon,12.90109929,77.57469771,"28, Jarganahalli, JP Nagar Phase 6, J. P. Nagar, Bengaluru, Karnataka 560078, India",Papilio polytes,research
+49150819,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-03,2020,4,3,94,pre_monsoon,15.262445,74.61850833,"Haliyal, Dandeli, Karnataka, IN",Papilio polytes,research
+49911943,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-01,2020,6,1,153,monsoon,14.2825802507,74.4441492856,"Honnavar, Karnataka, India",Papilio polytes,research
+49912026,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-26,2020,5,26,147,pre_monsoon,14.413529405,74.4264695048,"Karnataka 581362, India",Papilio polytes,research
+49912307,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-26,2020,5,26,147,pre_monsoon,14.4142957503,74.4258629903,"Karnataka 581362, India",Papilio polytes,research
+50029844,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-18,2020,6,18,170,monsoon,12.354824,76.513957,"Mysore, IN-KA, IN",Papilio polytes,research
+50055328,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-17,2020,6,17,169,monsoon,13.0578095229,77.6390541717,"Ferns Residency, Kothanur, Bengaluru, Karnataka 560077, India ",Papilio polytes,research
+50974021,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-26,2020,6,26,178,monsoon,16.8490201972,75.7194361327,"Sri Nagalingeshwara Waterbody, Vijayapura",Papilio polytes,research
+51080206,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-21,2020,6,21,173,monsoon,13.06502626,77.64800307,"BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes romulus,research
+51080330,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-27,2020,6,27,179,monsoon,13.06502018,77.64803265,"BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+51541553,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-01,2020,7,1,183,monsoon,16.8483865354,75.7202077937,"Neela Nagar, Vijayapura, KA, IN",Papilio polytes,research
+51778421,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-03,2020,7,3,185,monsoon,12.92860333,77.679145,"Bellandur, Bengaluru, KA, IN",Papilio polytes,research
+51894001,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-04,2020,7,4,186,monsoon,16.8490201972,75.7194361327,"Sri Nagalingeshwara Waterbody, Vijayapura",Papilio polytes,research
+52356796,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-08,2020,7,8,190,monsoon,16.8660398262,75.7365918576," Hanchinal Lake Bijapur County, Karnataka, IN",Papilio polytes,research
+52367788,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-09,2020,4,9,100,pre_monsoon,12.864314363,77.5212750211,Sobha Sunscape,Papilio polytes,research
+52543006,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-10,2020,7,10,192,monsoon,12.9745938516,77.650387955,"2nd Cross Road, Bengaluru, KA, IN",Papilio polytes,research
+52654010,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-06,2020,6,6,158,monsoon,12.9901508706,77.6624017954,Prestige Greenwoods,Papilio polytes,research
+52783152,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-05,2020,6,5,157,monsoon,12.8746141863,74.8400963098,Kodialbail,Papilio polytes,research
+52783634,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-25,2020,5,25,146,pre_monsoon,12.8722752562,74.8396051303,"Kodailbail, Mangalore, Karnataka, India",Papilio polytes,research
+52792706,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-24,2020,6,24,176,monsoon,12.8742464829,77.6194713637,DLF Westend Heights Apartments,Papilio polytes,research
+52917044,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-13,2020,7,13,195,monsoon,12.8746141863,74.8400963098,"Kodailbail, Mangalore, Karnataka, India",Papilio polytes,research
+53241942,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-16,2020,7,16,198,monsoon,16.8490201972,75.7194361327,"Sri Nagalingeshwara Waterbody, Vijayapura",Papilio polytes,research
+53572042,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-18,2020,7,18,200,monsoon,12.8747525285,74.819578109,"Karnataka, IN",Papilio polytes,research
+53589361,papilio_polytes,Common Mormon,butterfly,consumer,2019-07-31,2019,7,31,212,monsoon,12.9366931,77.6176335,"Koramangala 80 Feet Rd, KHB Colony, Koramangala 8th Block, Koramangala, Bengaluru, Karnataka 560095, India",Papilio polytes,research
+53825924,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-14,2020,7,14,196,monsoon,12.92866333,77.67928333,"Bellandur, Bengaluru, KA, IN",Papilio polytes,research
+53858934,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-14,2020,5,14,135,pre_monsoon,13.1063249006,77.7661667317,"Karnataka, IN",Papilio polytes,research
+54239096,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-23,2020,7,23,205,monsoon,12.4400123444,76.3810921088,Krishnarajanagara,Papilio polytes,research
+54247771,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-18,2020,7,18,200,monsoon,13.0655623925,77.6477063075,"115, Anjanappa Layout, Kothanur, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+54607223,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-24,2020,6,24,176,monsoon,12.8742464829,77.6194713637,DLF Westend Heights Apartments,Papilio polytes,research
+54909544,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-31,2020,7,31,213,monsoon,12.9901508706,77.6624017954,Prestige Greenwoods,Papilio polytes,research
+54950159,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-31,2020,7,31,213,monsoon,13.067517718,77.5723100826,"Fortuna Classic Apartment, Sir MV Layout, Dhanalakshmi Layout, Virupakshapura, Bengaluru, Karnataka 560097, India ",Papilio polytes,research
+55026659,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-01,2020,8,1,214,monsoon,12.9551859,77.5209856997,"Vidyagiri Layout Chandra Layout, Vidyagiri Layout, Jyothi Nagar, Stage 2, Chandra Layout, Bengaluru, Karnataka 560072, India",Papilio polytes,research
+55353843,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-22,2020,7,22,204,monsoon,14.2840471111,74.4432067778,"Honnavar, Karnataka, India",Papilio polytes,research
+55405198,papilio_polytes,Common Mormon,butterfly,consumer,2019-10-10,2019,10,10,283,post_monsoon,12.9715987,77.5945627,"Bengaluru, Karnataka, India",Papilio polytes,research
+55607995,papilio_polytes,Common Mormon,butterfly,consumer,2019-11-02,2019,11,2,306,post_monsoon,13.0159287851,77.6378619298,Kammanahalli,Papilio polytes,research
+56223779,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-05,2020,8,5,218,monsoon,12.884681,77.468225,"5B, Kengeri, Venkatapura, Karnataka 560060, India",Papilio polytes,research
+56298585,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-13,2020,8,13,226,monsoon,12.8655969612,77.5217172503,Nagegowdanapalya,Papilio polytes,research
+56483260,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-15,2020,8,15,228,monsoon,13.0655222211,77.6477881148,"115, Anjanappa Layout, Kothanur, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+56604571,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-11,2020,8,11,224,monsoon,14.9533333333,74.6988888889,"Yellapur, Karnataka, India",Papilio polytes,research
+56614486,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-04,2020,8,4,217,monsoon,14.9522222222,74.6966666667,"Yellapur, Karnataka, India",Papilio polytes,research
+56725197,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-31,2020,7,31,213,monsoon,12.928625,77.67928333,"Bellandur, Bengaluru, KA, IN",Papilio polytes,research
+56746718,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-04,2020,7,4,186,monsoon,13.1810027778,76.438275,"Dasarighatta, Karnataka 572201, India",Papilio polytes,research
+57200032,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-22,2020,8,22,235,monsoon,12.90646525,77.6765821944,"Bengaluru, Karnataka, India",Papilio polytes,research
+57206182,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-22,2020,8,22,235,monsoon,13.0312195833,77.6406667778,"Hennur Bande, Hennur Gardens, Bengaluru, Karnataka 560043, India",Papilio polytes,research
+57523662,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-25,2020,8,25,238,monsoon,13.0655163424,77.6478803158,"115, Anjanappa Layout, Kothanur, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+57626927,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-22,2020,8,22,235,monsoon,13.0690236944,77.5779117778,"Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka, India",Papilio polytes,research
+58398972,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-02,2020,9,2,246,monsoon,12.8862660366,77.5787050776,"J. P. Nagar, Bengaluru, Karnataka 560078, India",Papilio polytes,research
+58700658,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-03,2020,9,3,247,monsoon,12.9229155949,77.5827596337,"4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",Papilio polytes,research
+58845593,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-06,2020,9,6,250,monsoon,13.0246662532,77.5686958311,"Indian Institute of Science, ಬೆಂಗಳೂರು, KA, IN",Papilio polytes,research
+58853356,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-09,2020,4,9,100,pre_monsoon,12.9891665336,77.6624426991,Prestige Greenwoods,Papilio polytes,research
+59472722,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-25,2020,4,25,116,pre_monsoon,12.8406045,75.3822567,"Konalu, Karnataka 574229, India",Papilio polytes,research
+59564116,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-02,2020,9,2,246,monsoon,14.9533333333,74.6983333333,"Yellapur, Karnataka, India",Papilio polytes,research
+59564151,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-14,2020,9,14,258,monsoon,12.2908801944,76.6104431111,"Mysore, IN-KA, IN",Papilio polytes,research
+59587391,papilio_polytes,Common Mormon,butterfly,consumer,2020-03-31,2020,3,31,91,pre_monsoon,12.8406045,75.3822567,"Konalu, Karnataka 574229, India",Papilio polytes,research
+59946496,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-12,2020,9,12,256,monsoon,13.3114083333,74.7342075,"Ayurlifeclinics, Sampigenagara Road, Kampanabettu, GuddeAngadi Cross,, Udyavara, Udupi, Karnataka 574118, India",Papilio polytes,research
+60061581,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-18,2020,9,18,262,monsoon,13.0763754138,77.5762407564,"Vignana Kendra, Bengaluru, Karnataka, India",Papilio polytes romulus,research
+60086053,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-18,2020,9,18,262,monsoon,13.3206958247,74.7573313862,"Vasuki Nagar, Bima Nagar, Bailoor, Karnataka 576101, India",Papilio polytes,research
+60277176,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-21,2020,9,21,265,monsoon,12.88789667,77.58982167,"JP Nagar Phase 7, Bengaluru, KA, IN",Papilio polytes,research
+60304962,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-21,2020,9,21,265,monsoon,12.663784,75.047439,"Siriya Dam, Kerala, India",Papilio polytes,research
+60305778,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-21,2020,9,21,265,monsoon,13.023899959,77.5692117361,"Indian Institute of Science, ಬೆಂಗಳೂರು, KA, IN",Papilio polytes,research
+60590802,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-24,2020,9,24,268,monsoon,12.92295775,77.582732141,"4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",Papilio polytes,research
+60591823,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-24,2020,9,24,268,monsoon,12.9079567,77.640957,"Sector 3, HSR Layout, Bengaluru, Karnataka 560102, India",Papilio polytes,research
+60916317,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-01,2020,9,1,245,monsoon,13.0673704039,77.5723261759,Tube House 4,Papilio polytes,research
+60946794,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-10,2020,9,10,254,monsoon,13.0673704039,77.5723261759,Tube House 4,Papilio polytes,research
+61109343,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-28,2020,9,28,272,monsoon,12.922945659,77.5827740505,"4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",Papilio polytes,research
+61172852,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-29,2020,9,29,273,monsoon,12.92868333,77.679305,"Bellandur, Bengaluru, KA, IN",Papilio polytes,research
+61360358,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-29,2020,9,29,273,monsoon,12.9065201486,77.6774941407,"Bengaluru, Karnataka, India",Papilio polytes,research
+61484012,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-01,2020,10,1,275,post_monsoon,13.0578095229,77.6390541717,Ferns Residency,Papilio polytes,research
+61549839,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-03,2020,10,3,277,post_monsoon,12.9901508706,77.6624017954,Prestige Greenwoods,Papilio polytes,research
+61567735,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-03,2020,10,3,277,post_monsoon,13.0578095229,77.6390541717,Ferns Residency,Papilio polytes,research
+61567739,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-03,2020,10,3,277,post_monsoon,13.0578095229,77.6390541717,Ferns Residency,Papilio polytes,research
+61772730,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-05,2020,10,5,279,post_monsoon,16.8660398262,75.7365918576," Hanchinal Lake Bijapur County, Karnataka, IN",Papilio polytes,research
+61830800,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-05,2020,10,5,279,post_monsoon,12.9229342216,77.582779415,"4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",Papilio polytes,research
+61852982,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-16,2020,9,16,260,monsoon,13.0766723023,77.5776268914,GKVK,Papilio polytes,research
+62088622,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-08,2020,10,8,282,post_monsoon,12.9067956,77.677293,"Kasavanhalli Rd, Kasavanahalli, Karnataka 560035, India",Papilio polytes,research
+62088778,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-06,2020,10,6,280,post_monsoon,12.787330569,74.8605772523,"Ullal, Karnataka, India",Papilio polytes,research
+62180810,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-02,2020,10,2,276,post_monsoon,12.9250283806,77.5765432778,"7th Block, Jayanagar, Bengaluru, Karnataka 560070, India",Papilio polytes,research
+62322530,papilio_polytes,Common Mormon,butterfly,consumer,2019-04-15,2019,4,15,105,pre_monsoon,12.9246855778,77.5879336941,"Jayanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+62323316,papilio_polytes,Common Mormon,butterfly,consumer,2019-01-21,2019,1,21,21,winter,12.924707936,77.5877731604,"Jayanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+62391665,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-16,2020,9,16,260,monsoon,12.9170863504,77.5759525225,"8th Block, Jayanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+63322206,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-18,2020,10,18,292,post_monsoon,13.1424411,78.1004128,"Antharagange to Village Trail, Paparajanahalli, Karnataka 563101, India",Papilio polytes,research
+63564789,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-21,2020,10,21,295,post_monsoon,12.9251976542,77.5873441642,"Jayanagar, Bengaluru, Karnataka, India",Papilio polytes stichius,research
+63887815,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-31,2020,10,31,305,post_monsoon,12.803715,77.5630016667,"Bengaluru, Karnataka, India",Papilio polytes,research
+64011943,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-02,2020,11,2,307,post_monsoon,12.937071158,77.5859859958,"377, 8th Cross Road",Papilio polytes,research
+64164525,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-04,2020,11,4,309,post_monsoon,13.0649739722,77.648008,"BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+64663488,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-11,2020,11,11,316,post_monsoon,13.065127,77.647947,"Anjanappa Layout, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+64716680,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-01,2020,11,1,306,post_monsoon,12.9249063562,77.5878162682,"Jayanagar, Bengaluru, Karnataka, India",Papilio polytes romulus,research
+65325197,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-21,2020,11,21,326,post_monsoon,12.8406045,75.3822567,"Konalu, Karnataka 574229, India",Papilio polytes,research
+65389435,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-19,2020,10,19,293,post_monsoon,13.7663456533,74.788646573,"Udupi, Karnataka, India",Papilio polytes,research
+65415474,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-22,2020,11,22,327,post_monsoon,12.8406478781,75.3822565824,Konalu,Papilio polytes,research
+66292146,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-18,2020,11,18,323,post_monsoon,13.0578095229,77.6390541717,Ferns Residency,Papilio polytes,research
+67075595,papilio_polytes,Common Mormon,butterfly,consumer,2020-12-26,2020,12,26,361,winter,15.9757415,77.3757529,Gillesugur,Papilio polytes,research
+67994044,papilio_polytes,Common Mormon,butterfly,consumer,2021-01-10,2021,1,10,10,winter,13.0009171944,77.5996740833,"YMCA Nandi Durga Road, Jayamahal Extension, Jayamahal, Bengaluru, Karnataka 560046, India",Papilio polytes stichius,research
+68123337,papilio_polytes,Common Mormon,butterfly,consumer,2021-01-03,2021,1,3,3,winter,12.9065540556,77.6776018889,"Kasavanahalli, Karnataka 560035, India",Papilio polytes,research
+68905757,papilio_polytes,Common Mormon,butterfly,consumer,2021-02-01,2021,2,1,32,winter,12.8159761652,77.6793811843,Bommasandra Industrial Area,Papilio polytes,research
+69363012,papilio_polytes,Common Mormon,butterfly,consumer,2020-12-14,2020,12,14,349,winter,12.4929418333,76.4032821389,"Bherya, Karnataka 571601, India",Papilio polytes,research
+69859677,papilio_polytes,Common Mormon,butterfly,consumer,2021-02-20,2021,2,20,51,winter,12.835333,75.3796559722,"Karnataka 574229, India",Papilio polytes,research
+69919673,papilio_polytes,Common Mormon,butterfly,consumer,2021-02-21,2021,2,21,52,winter,12.9066011944,77.6771234722,"Kasavanahalli, Karnataka 560035, India",Papilio polytes,research
+70594322,papilio_polytes,Common Mormon,butterfly,consumer,2021-03-04,2021,3,4,63,pre_monsoon,12.9225906667,77.6811458611,"Campus 6, Piritech Park (SEZ), Phase 1, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103, India",Papilio polytes,research
+70732836,papilio_polytes,Common Mormon,butterfly,consumer,2021-03-07,2021,3,7,66,pre_monsoon,11.988025,77.1440278333,"Biligiri Rangaswamy Wildlife Sanctuary, Chamarajanagara, KA, IN",Papilio polytes,research
+70737782,papilio_polytes,Common Mormon,butterfly,consumer,2021-02-20,2021,2,20,51,winter,13.36097,75.39108,"Guddada Bangale taluk Chickmagaluru Karnataka 577118 India, Herur, Karnataka 577112, India",Papilio polytes,research
+70816960,papilio_polytes,Common Mormon,butterfly,consumer,2021-03-08,2021,3,8,67,pre_monsoon,12.991429882,77.7282181755,"Tower 2, Thigalarapalya, Hoodi, Bengaluru, Karnataka 560067, India",Papilio polytes,research
+70862974,papilio_polytes,Common Mormon,butterfly,consumer,2021-02-13,2021,2,13,44,winter,14.9980998,74.3587473,"Kodthalli, Karnataka 581187, India",Papilio polytes,research
+71469177,papilio_polytes,Common Mormon,butterfly,consumer,2021-03-18,2021,3,18,77,pre_monsoon,13.0650449722,77.64811,"Anjanappa Layout, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+71595472,papilio_polytes,Common Mormon,butterfly,consumer,2021-03-20,2021,3,20,79,pre_monsoon,13.065094,77.64798,"Anjanappa Layout, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+71765891,papilio_polytes,Common Mormon,butterfly,consumer,2021-03-22,2021,3,22,81,pre_monsoon,12.9123968437,77.6500287652,"1st Sector, HSR Layout, Bengaluru, Karnataka, India",Papilio polytes,research
+71844930,papilio_polytes,Common Mormon,butterfly,consumer,2021-03-23,2021,3,23,82,pre_monsoon,12.8954109722,77.5577859722,"854, Yelachenahalli, ISRO Layout, Bengaluru, Karnataka 560062, India",Papilio polytes romulus,research
+72149511,papilio_polytes,Common Mormon,butterfly,consumer,2021-03-14,2021,3,14,73,pre_monsoon,12.9901613293,77.6624386461,"Varthuru Road, Bengaluru, KA, IN",Papilio polytes romulus,research
+72857113,papilio_polytes,Common Mormon,butterfly,consumer,2021-04-04,2021,4,4,94,pre_monsoon,11.988045,77.143975,"Biligiri Rangaswamy Wildlife Sanctuary, Chamarajanagara, KA, IN",Papilio polytes,research
+73468788,papilio_polytes,Common Mormon,butterfly,consumer,2021-04-10,2021,4,10,100,pre_monsoon,14.2459975997,74.5832519978,"6HWP+459, Mahime, Karnataka 581384, India",Papilio polytes,research
+73585716,papilio_polytes,Common Mormon,butterfly,consumer,2021-03-14,2021,3,14,73,pre_monsoon,15.2494850472,74.6179346368,Dandeli Wildlife Sanctuary,Papilio polytes,research
+73585773,papilio_polytes,Common Mormon,butterfly,consumer,2021-03-14,2021,3,14,73,pre_monsoon,15.2494850472,74.6179346368,Dandeli Wildlife Sanctuary,Papilio polytes,research
+73914204,papilio_polytes,Common Mormon,butterfly,consumer,2021-04-14,2021,4,14,104,pre_monsoon,12.8788259051,77.5295482948,"Bangalore, IN-KA, IN",Papilio polytes,research
+74736814,papilio_polytes,Common Mormon,butterfly,consumer,2021-04-21,2021,4,21,111,pre_monsoon,12.9901508706,77.6624017954,Prestige Greenwoods,Papilio polytes,research
+74805381,papilio_polytes,Common Mormon,butterfly,consumer,2021-04-22,2021,4,22,112,pre_monsoon,12.9901560977,77.6624017954,Prestige Greenwoods,Papilio polytes,research
+75029961,papilio_polytes,Common Mormon,butterfly,consumer,2021-04-03,2021,4,3,93,pre_monsoon,12.9070328551,77.6088220099,"Stage 2, BTM 2nd Stage, Bengaluru, Karnataka, India",Papilio polytes,research
+75560070,papilio_polytes,Common Mormon,butterfly,consumer,2021-04-28,2021,4,28,118,pre_monsoon,12.9903620313,77.6624633047,"Varthuru Road, Bengaluru, KA, IN",Papilio polytes,research
+77862662,papilio_polytes,Common Mormon,butterfly,consumer,2021-05-08,2021,5,8,128,pre_monsoon,13.082075,77.60598,"Jakkuru, Bengaluru, KA, IN",Papilio polytes romulus,research
+79756434,papilio_polytes,Common Mormon,butterfly,consumer,2021-05-21,2021,5,21,141,pre_monsoon,12.9901560977,77.6624017954,Prestige Greenwoods,Papilio polytes,research
+80269666,papilio_polytes,Common Mormon,butterfly,consumer,2021-05-18,2021,5,18,138,pre_monsoon,15.5462809775,74.4203323962,"Khanapur, Belagavi, KA, IN",Papilio polytes,research
+80352121,papilio_polytes,Common Mormon,butterfly,consumer,2021-04-08,2021,4,8,98,pre_monsoon,12.8905,77.564,Bangalore,Papilio polytes,research
+80352123,papilio_polytes,Common Mormon,butterfly,consumer,2021-04-08,2021,4,8,98,pre_monsoon,12.8905,77.564,Bangalore,Papilio polytes,research
+80352147,papilio_polytes,Common Mormon,butterfly,consumer,2021-04-08,2021,4,8,98,pre_monsoon,12.8905,77.564,Bangalore,Papilio polytes,research
+80824692,papilio_polytes,Common Mormon,butterfly,consumer,2021-05-30,2021,5,30,150,pre_monsoon,13.064954,77.647969,"BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+80836845,papilio_polytes,Common Mormon,butterfly,consumer,2021-05-21,2021,5,21,141,pre_monsoon,12.9899966667,77.6623783333,"Varthuru Road, Bengaluru, KA, IN",Papilio polytes,research
+80844794,papilio_polytes,Common Mormon,butterfly,consumer,2021-03-07,2021,3,7,66,pre_monsoon,12.2115183029,76.6238018339,"Sindhuvalli, Karnataka, India",Papilio polytes,research
+80987113,papilio_polytes,Common Mormon,butterfly,consumer,2021-05-31,2021,5,31,151,pre_monsoon,13.065022,77.647975,"Bangalore, IN-KA, IN",Papilio polytes,research
+81049766,papilio_polytes,Common Mormon,butterfly,consumer,2021-05-30,2021,5,30,150,pre_monsoon,12.7556383333,75.43357,"Talakaveri Wildlife Sanctuary, Dakshina Kannada, KA, IN",Papilio polytes,research
+81061244,papilio_polytes,Common Mormon,butterfly,consumer,2020-10-02,2020,10,2,276,post_monsoon,12.9690232,77.6898133,Home of,Papilio polytes,research
+81314485,papilio_polytes,Common Mormon,butterfly,consumer,2021-05-31,2021,5,31,151,pre_monsoon,12.7682025486,75.1998281479,"Dakshina Kannada, IN-KA, IN",Papilio polytes romulus,research
+81812873,papilio_polytes,Common Mormon,butterfly,consumer,2019-11-12,2019,11,12,316,post_monsoon,12.9507432,77.5847773,"Mavalli, Bengaluru, Karnataka 560004, India",Papilio polytes,research
+82062473,papilio_polytes,Common Mormon,butterfly,consumer,2021-06-06,2021,6,6,157,monsoon,12.8156895512,74.9137472769,"Karnataka, IN",Papilio polytes,research
+82409865,papilio_polytes,Common Mormon,butterfly,consumer,2021-06-10,2021,6,10,161,monsoon,12.878924,77.5300912,"100 Feet Road, Off, Kanakapura Rd, Banashankari 6th Stage, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Papilio polytes romulus,research
+82513946,papilio_polytes,Common Mormon,butterfly,consumer,2021-06-10,2021,6,10,161,monsoon,13.4624222778,74.7691278889,"13°27'45.2""N 74°46'15.6""E, Mooduthota, Karnataka 576210, India",Papilio polytes,research
+82519885,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-06,2020,11,6,311,post_monsoon,12.9704862614,77.5647988915,"D-2, Keshava Nagar, Binnipete, Bengaluru, Karnataka 560023, India",Papilio polytes,research
+82643156,papilio_polytes,Common Mormon,butterfly,consumer,2021-06-12,2021,6,12,163,monsoon,16.9046251724,75.8113041823,"Nagathan Kere, Vijayapura, Karnataka, India",Papilio polytes,research
+82843008,papilio_polytes,Common Mormon,butterfly,consumer,2019-05-27,2019,5,27,147,pre_monsoon,12.7985882,77.567835,"Bannerghatta Main Rd, Bannerughatta, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+83756537,papilio_polytes,Common Mormon,butterfly,consumer,2021-06-19,2021,6,19,170,monsoon,12.9690232,77.6898133,Home of,Papilio polytes,research
+83756538,papilio_polytes,Common Mormon,butterfly,consumer,2021-06-20,2021,6,20,171,monsoon,12.9690232,77.6898133,Home of,Papilio polytes,research
+83783971,papilio_polytes,Common Mormon,butterfly,consumer,2021-06-20,2021,6,20,171,monsoon,12.8406478781,75.3822565824,Konalu,Papilio polytes,research
+83929716,papilio_polytes,Common Mormon,butterfly,consumer,2021-06-21,2021,6,21,172,monsoon,13.389701,77.447057,"Cheelenahalli, Karnataka, India",Papilio polytes romulus,research
+84038910,papilio_polytes,Common Mormon,butterfly,consumer,2021-06-16,2021,6,16,167,monsoon,12.8987555981,77.5407776982,"Jayanagar housing society layout, Subramanyapura, Bengaluru, Karnataka, India",Papilio polytes,research
+84311969,papilio_polytes,Common Mormon,butterfly,consumer,2021-03-27,2021,3,27,86,pre_monsoon,12.8388046009,77.6520159863,"Concorde Silicon Valley, Electronics City Phase 1, Electronic City, Karnataka 560100, India",Papilio polytes,research
+84530898,papilio_polytes,Common Mormon,butterfly,consumer,2021-06-26,2021,6,26,177,monsoon,12.878924,77.5300912,"100 Feet Road, Off, Kanakapura Rd, Banashankari 6th Stage, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Papilio polytes,research
+84711075,papilio_polytes,Common Mormon,butterfly,consumer,2021-06-27,2021,6,27,178,monsoon,13.0032012963,74.684165815,"Karnataka, IN",Papilio polytes,research
+85313295,papilio_polytes,Common Mormon,butterfly,consumer,2020-01-01,2020,1,1,1,winter,12.9238544,77.8254016,"Despandeguttahalli, Tattanur, kalkunte post, Bengaluru, Karnataka 560117, India",Papilio polytes,research
+85313976,papilio_polytes,Common Mormon,butterfly,consumer,2020-01-01,2020,1,1,1,winter,12.9240248938,77.8253920785,"Bengaluru, Karnataka, India",Papilio polytes,research
+85314415,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-02,2021,7,2,183,monsoon,12.9238632672,77.8253889084,"Bengaluru, Karnataka, India",Papilio polytes romulus,research
+85423253,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-03,2021,7,3,184,monsoon,16.8660398262,75.7365918576," Hanchinal Lake Bijapur County, Karnataka, IN",Papilio polytes,research
+85601239,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-04,2021,7,4,185,monsoon,12.1494135,76.557493,"Ahalya Kere, Nanagalli, Karnataka, India",Papilio polytes,research
+86239320,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-09,2021,7,9,190,monsoon,12.3436104811,76.5715211111,"Mysore, IN-KA, IN",Papilio polytes,research
+86373465,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-15,2020,9,15,259,monsoon,12.890235,77.5873736,"Puttenahalli Lake, Nataraja Layout, JP Nagar 7th Phase, Bengaluru, Karnataka 560076",Papilio polytes,research
+86374437,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-10,2021,7,10,191,monsoon,16.2027634297,77.362969704,"Bangi Kunta, Raichur, Karnataka, India",Papilio polytes,research
+86834760,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-13,2021,7,13,194,monsoon,12.9163888889,77.4952777778,"Mailasandra, Bengaluru, Karnataka, India",Papilio polytes,research
+87221680,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-15,2021,7,15,196,monsoon,12.8987520031,77.5407706574,"Jayanagar housing society layout, Subramanyapura, Bengaluru, Karnataka, India",Papilio polytes,research
+87513471,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-18,2021,7,18,199,monsoon,12.890235,77.5873736,"Puttenahalli Lake, Nataraja Layout, JP Nagar 7th Phase, Bengaluru, Karnataka 560076",Papilio polytes,research
+87830948,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-20,2021,7,20,201,monsoon,12.9068738889,77.6778586944,"Kasavanahalli, Karnataka 560035, India",Papilio polytes,research
+87965036,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-20,2021,7,20,201,monsoon,12.8986327154,77.5407498702,"Jayanagar housing society layout, Subramanyapura, Bengaluru, Karnataka, India",Papilio polytes,research
+88237207,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-23,2021,7,23,204,monsoon,12.8986265059,77.5407461822,"Jayanagar housing society layout, Subramanyapura, Bengaluru, Karnataka, India",Papilio polytes,research
+88238881,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-23,2021,7,23,204,monsoon,12.8986382712,77.5407552347,"Jayanagar housing society layout, Subramanyapura, Bengaluru, Karnataka, India",Papilio polytes stichius,research
+88239091,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-23,2021,7,23,204,monsoon,12.8985941511,77.5407371297,"Jayanagar housing society layout, Subramanyapura, Bengaluru, Karnataka, India",Papilio polytes,research
+88402682,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-24,2021,7,24,205,monsoon,12.8626255194,77.5138892453,"Bengaluru, Karnataka, India",Papilio polytes,research
+88820226,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-27,2021,7,27,208,monsoon,12.8986363103,77.5407515466,"Veeranjaneya Layout, 2nd Stage, Jayanagar housing society layout, Subramanyapura, Bengaluru, Karnataka 560061, India",Papilio polytes,research
+88820956,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-27,2021,7,27,208,monsoon,12.898633369,77.5407579169,"Veeranjaneya Layout, 2nd Stage, Jayanagar housing society layout, Subramanyapura, Bengaluru, Karnataka 560061, India",Papilio polytes,research
+88940743,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-28,2021,7,28,209,monsoon,12.8986340226,77.5407491997,"Jayanagar housing society layout, Subramanyapura, Bengaluru, Karnataka, India",Papilio polytes,research
+89024860,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-28,2021,7,28,209,monsoon,12.8986350031,77.540759258,"Jayanagar housing society layout, Subramanyapura, Bengaluru, Karnataka, India",Papilio polytes,research
+89040079,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-28,2021,7,28,209,monsoon,12.8986448075,77.5407659635,"Bangalore, IN-KA, IN",Papilio polytes,research
+89086843,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-28,2021,7,28,209,monsoon,12.9690232,77.6898133,Home of,Papilio polytes,research
+89165500,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-30,2021,7,30,211,monsoon,13.0604558,77.657084,"Koel's Pizzeria Cross, Road, Hanumanthappa Layout, Kyalasanahalli, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+89165501,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-30,2021,7,30,211,monsoon,13.0604558,77.657084,"Koel's Pizzeria Cross, Road, Hanumanthappa Layout, Kyalasanahalli, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+89485388,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-18,2020,7,18,200,monsoon,13.0556235128,77.5367076947,"Jalahalli, Bengaluru, Karnataka, India",Papilio polytes romulus,research
+89602270,papilio_polytes,Common Mormon,butterfly,consumer,2021-08-02,2021,8,2,214,monsoon,13.065041,77.647758,"Bangalore, IN-KA, IN",Papilio polytes,research
+89753779,papilio_polytes,Common Mormon,butterfly,consumer,2021-08-03,2021,8,3,215,monsoon,12.8986222572,77.540747188,"Bangalore, IN-KA, IN",Papilio polytes,research
+91102713,papilio_polytes,Common Mormon,butterfly,consumer,2021-08-09,2021,8,9,221,monsoon,12.9755958116,77.5353877991,Vijayanagar,Papilio polytes,research
+91258993,papilio_polytes,Common Mormon,butterfly,consumer,2021-08-14,2021,8,14,226,monsoon,12.7960083333,77.5763333333,"Butterfly Park, Bengaluru, KA, IN",Papilio polytes,research
+91485433,papilio_polytes,Common Mormon,butterfly,consumer,2021-08-17,2021,8,17,229,monsoon,13.06503,77.648118,"BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+91852243,papilio_polytes,Common Mormon,butterfly,consumer,2021-08-20,2021,8,20,232,monsoon,12.3119365692,77.2769204155,Bheemeshwari Adventure and Nature Camp,Papilio polytes,research
+92089110,papilio_polytes,Common Mormon,butterfly,consumer,2021-08-22,2021,8,22,234,monsoon,12.1967398571,76.5122563915,"Bettada beedu, Chikkanahalli, Karnataka 570008, India",Papilio polytes,research
+92211677,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-01,2020,4,1,92,pre_monsoon,12.2762440323,76.6163660914,"Bidadi, H Block, Ramakrishnanagar, Mysuru, Karnataka 570023, India",Papilio polytes,research
+92571114,papilio_polytes,Common Mormon,butterfly,consumer,2021-08-22,2021,8,22,234,monsoon,12.9866216,77.7444506,Kadugodi tree park,Papilio polytes,research
+92916100,papilio_polytes,Common Mormon,butterfly,consumer,2021-08-29,2021,8,29,241,monsoon,12.8632394,77.5389985,"Vakil Garden City, Bengaluru, Karnataka 560062, India",Papilio polytes,research
+92997472,papilio_polytes,Common Mormon,butterfly,consumer,2021-08-29,2021,8,29,241,monsoon,12.78640833,77.51245,"Bobrena Street, Bengaluru, KA, IN",Papilio polytes,research
+93255189,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-18,2020,9,18,262,monsoon,12.4440489281,76.4592854451,"KRS Backwaters, Mandya",Papilio polytes,research
+93335925,papilio_polytes,Common Mormon,butterfly,consumer,2021-09-02,2021,9,2,245,monsoon,12.9067261813,77.6772199944,"TOWER-2, OCEANUS VISTA, Kasavanahalli, कर्नाटक 560035, India",Papilio polytes,research
+93573664,papilio_polytes,Common Mormon,butterfly,consumer,2021-09-04,2021,9,4,247,monsoon,12.8807647721,77.5294045514,"Bengaluru, Karnataka, India",Papilio polytes,research
+93995574,papilio_polytes,Common Mormon,butterfly,consumer,2021-09-07,2021,9,7,250,monsoon,12.2132993036,76.6253000651,"Shanubhoganahalli Kere, Sindhuvalli, Karnataka, India",Papilio polytes,research
+94403222,papilio_polytes,Common Mormon,butterfly,consumer,2021-09-08,2021,9,8,251,monsoon,14.188098,75.2746149722,"57PG+V6X, Ambaligolla, Karnataka 577214, India",Papilio polytes,research
+94403502,papilio_polytes,Common Mormon,butterfly,consumer,2021-09-08,2021,9,8,251,monsoon,14.188055,75.274602,"57PG+V6X, Ambaligolla, Karnataka 577214, India",Papilio polytes,research
+94907975,papilio_polytes,Common Mormon,butterfly,consumer,2021-09-15,2021,9,15,258,monsoon,12.9149786036,77.5567683052,"Padmanabhanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+95008938,papilio_polytes,Common Mormon,butterfly,consumer,2021-09-16,2021,9,16,259,monsoon,13.064031601,77.6492385864,Bengaluru,Papilio polytes,research
+95058085,papilio_polytes,Common Mormon,butterfly,consumer,2020-09-10,2020,9,10,254,monsoon,13.0556235128,77.5367076947,"Jalahalli, Bengaluru, Karnataka, India",Papilio polytes,research
+95395585,papilio_polytes,Common Mormon,butterfly,consumer,2021-09-19,2021,9,19,262,monsoon,12.84275,77.724463,"Nambiar Bellezea, Bommasandra, Karnataka 560099, India",Papilio polytes,research
+95654630,papilio_polytes,Common Mormon,butterfly,consumer,2021-01-24,2021,1,24,24,winter,12.8822222222,77.5875,"MS Ramaiah City Layout, JP Nagar 7th Phase, Bengaluru, Karnataka 560076, India",Papilio polytes,research
+95850530,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-26,2020,8,26,239,monsoon,12.9389775016,77.553387098,"Phase 1, Banashankari Stage I, Banashankari, Bengaluru, Karnataka 560050, India",Papilio polytes,research
+95988581,papilio_polytes,Common Mormon,butterfly,consumer,2020-05-21,2020,5,21,142,pre_monsoon,13.0556235128,77.5367076947,"Jalahalli, Bengaluru, Karnataka, India",Papilio polytes romulus,research
+96066498,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-17,2020,8,17,230,monsoon,12.289668799,76.6073213461,"Ramakrishnanagar I Block,  Mysuru, Karnataka, India",Papilio polytes,research
+96121349,papilio_polytes,Common Mormon,butterfly,consumer,2021-09-18,2021,9,18,261,monsoon,12.9901560977,77.6624017954,Prestige Greenwoods,Papilio polytes,research
+96330028,papilio_polytes,Common Mormon,butterfly,consumer,2020-02-18,2020,2,18,49,winter,12.9072694722,77.5591583056,"Kumaraswamy Layout, Bengaluru, Karnataka 560078, India",Papilio polytes,research
+96452214,papilio_polytes,Common Mormon,butterfly,consumer,2021-09-28,2021,9,28,271,monsoon,12.9726792086,77.5945626944,"XHFV+2VW, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001, India",Papilio polytes,research
+96796021,papilio_polytes,Common Mormon,butterfly,consumer,2021-10-01,2021,10,1,274,post_monsoon,12.84275,77.724463,"Nambiar Bellezea, Bommasandra, Karnataka 560099, India",Papilio polytes,research
+97014227,papilio_polytes,Common Mormon,butterfly,consumer,2021-10-03,2021,10,3,276,post_monsoon,12.8571865,77.508911,"Rachanamadu, Karnataka, India",Papilio polytes,research
+97534843,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-07,2020,8,7,220,monsoon,12.9052013,77.6865383,"Rainbow Drive, Halanayakanahalli, Karnataka 560035, India",Papilio polytes,research
+97540490,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-21,2020,11,21,326,post_monsoon,12.9052013,77.6865383,"Rainbow Drive, Halanayakanahalli, Karnataka 560035, India",Papilio polytes,research
+97540492,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-21,2020,11,21,326,post_monsoon,12.9052013,77.6865383,"Rainbow Drive, Halanayakanahalli, Karnataka 560035, India",Papilio polytes,research
+97631834,papilio_polytes,Common Mormon,butterfly,consumer,2021-10-03,2021,10,3,276,post_monsoon,12.6856432537,77.6654434204,"Pearl Valley, Muthyala Maduvu",Papilio polytes,research
+97756529,papilio_polytes,Common Mormon,butterfly,consumer,2021-10-09,2021,10,9,282,post_monsoon,12.8543147,77.5099453,"Thatguni Post, Kanakpura Road, Bengaluru, Karnataka 560082, India",Papilio polytes,research
+97756585,papilio_polytes,Common Mormon,butterfly,consumer,2021-10-09,2021,10,9,282,post_monsoon,12.8543147,77.5099453,"Thatguni Post, Kanakpura Road, Bengaluru, Karnataka 560082, India",Papilio polytes,research
+97760371,papilio_polytes,Common Mormon,butterfly,consumer,2021-10-09,2021,10,9,282,post_monsoon,12.8543147,77.5099453,"Thatguni Post, Kanakpura Road, Bengaluru, Karnataka 560082, India",Papilio polytes,research
+97876203,papilio_polytes,Common Mormon,butterfly,consumer,2021-10-10,2021,10,10,283,post_monsoon,12.1411784875,76.5830245897,"Doora, Mysore",Papilio polytes,research
+98453891,papilio_polytes,Common Mormon,butterfly,consumer,2021-10-15,2021,10,15,288,post_monsoon,15.1905449,74.4906859,"Unnamed Road, Samjoida, Karnataka 581186, India",Papilio polytes,research
+99184291,papilio_polytes,Common Mormon,butterfly,consumer,2020-12-01,2020,12,1,336,winter,12.3275888,76.6642106,"N R Mohalla, Rajendra Nagar, Mysuru, Karnataka 570007, India",Papilio polytes,research
+99204848,papilio_polytes,Common Mormon,butterfly,consumer,2021-09-19,2021,9,19,262,monsoon,12.8741481017,75.7644532621,"Linger, Varshini Estate",Papilio polytes,research
+99213264,papilio_polytes,Common Mormon,butterfly,consumer,2021-10-23,2021,10,23,296,post_monsoon,12.9129677,77.2922332,"Savanadurga State Forest, Karnataka, India",Papilio polytes,research
+99241331,papilio_polytes,Common Mormon,butterfly,consumer,2021-10-24,2021,10,24,297,post_monsoon,12.8877927532,77.3033608798,"Savanadurga State Forest, Karnataka, India",Papilio polytes,research
+99351719,papilio_polytes,Common Mormon,butterfly,consumer,2021-10-24,2021,10,24,297,post_monsoon,12.9129677,77.2922332,"Savanadurga State Forest, Karnataka, India",Papilio polytes,research
+99522883,papilio_polytes,Common Mormon,butterfly,consumer,2021-10-27,2021,10,27,300,post_monsoon,12.9072033333,77.559235,"1st Stage, Kumaraswamy Layout, Bengaluru, Karnataka, India",Papilio polytes,research
+99850250,papilio_polytes,Common Mormon,butterfly,consumer,2021-10-31,2021,10,31,304,post_monsoon,13.1259730564,77.5485882908,"4GGW+7X7, Ramagondanahalli, Karnataka 560064, India",Papilio polytes,research
+100972104,papilio_polytes,Common Mormon,butterfly,consumer,2021-07-04,2021,7,4,185,monsoon,12.871114373,77.5950000623,"Hulimavu, Bengaluru, KA, IN",Papilio polytes,research
+101852967,papilio_polytes,Common Mormon,butterfly,consumer,2021-11-15,2021,11,15,319,post_monsoon,13.067386,77.5721779722,"187/16, Sir MV Layout, Dhanalakshmi Layout, Virupakshapura, Bengaluru, Karnataka 560097, India",Papilio polytes,research
+101985291,papilio_polytes,Common Mormon,butterfly,consumer,2021-11-22,2021,11,22,326,post_monsoon,13.064468945,77.7483632416,"VG 16, PRUKSA SILVANA, Budigere Cross, Bommanahalli, Bengaluru, Karnataka 560049, India",Papilio polytes,research
+101985650,papilio_polytes,Common Mormon,butterfly,consumer,2021-11-25,2021,11,25,329,post_monsoon,13.0645342645,77.748708576,Pruksa Silvana Childrens Park,Papilio polytes,research
+102610057,papilio_polytes,Common Mormon,butterfly,consumer,2020-11-13,2020,11,13,318,post_monsoon,12.9901554443,77.6624017954,"Prestige Greenwoods, Nagavarapalya, Bengaluru",Papilio polytes,research
+102652478,papilio_polytes,Common Mormon,butterfly,consumer,2021-12-07,2021,12,7,341,winter,12.9150257948,77.5569265555,"Padmanabhanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+102993022,papilio_polytes,Common Mormon,butterfly,consumer,2021-09-26,2021,9,26,269,monsoon,15.2912259,74.5227408,"Old Magazine House Rd, Karnataka 581365, India",Papilio polytes,research
+103243815,papilio_polytes,Common Mormon,butterfly,consumer,2021-12-18,2021,12,18,352,winter,12.9151014784,77.5568702291,"Padmanabhanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+103243816,papilio_polytes,Common Mormon,butterfly,consumer,2021-12-18,2021,12,18,352,winter,12.9151146829,77.5568930279,"Padmanabhanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+103243817,papilio_polytes,Common Mormon,butterfly,consumer,2021-12-18,2021,12,18,352,winter,12.9151264475,77.5568858233,"Padmanabhanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+103243818,papilio_polytes,Common Mormon,butterfly,consumer,2021-12-18,2021,12,18,352,winter,12.9149809306,77.5568013337,"Padmanabhanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+103243820,papilio_polytes,Common Mormon,butterfly,consumer,2021-12-18,2021,12,18,352,winter,12.9150028419,77.5567801256,"Padmanabhanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+103243821,papilio_polytes,Common Mormon,butterfly,consumer,2021-12-18,2021,12,18,352,winter,12.9151335597,77.5568808332,"Padmanabhanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+103243823,papilio_polytes,Common Mormon,butterfly,consumer,2021-12-18,2021,12,18,352,winter,12.915124044,77.5568701667,"Padmanabhanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+103243827,papilio_polytes,Common Mormon,butterfly,consumer,2021-12-18,2021,12,18,352,winter,12.9149867903,77.556775615,"Padmanabhanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+103243831,papilio_polytes,Common Mormon,butterfly,consumer,2021-12-18,2021,12,18,352,winter,12.9151173254,77.5568681512,"Padmanabhanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+103412256,papilio_polytes,Common Mormon,butterfly,consumer,2021-12-15,2021,12,15,349,winter,12.8873875,77.5968866,"Arekere, Bengaluru, Karnataka, India",Papilio polytes,research
+103449623,papilio_polytes,Common Mormon,butterfly,consumer,2021-12-21,2021,12,21,355,winter,12.9843032704,77.6798646525,"Kaggadasapura, Bengaluru, Karnataka, India",Papilio polytes,research
+103518226,papilio_polytes,Common Mormon,butterfly,consumer,2019-01-15,2019,1,15,15,winter,13.035692,77.577666,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+103811147,papilio_polytes,Common Mormon,butterfly,consumer,2021-12-27,2021,12,27,361,winter,13.6985149,77.652892,"Sabbanahalli, Karnataka 561209, India",Papilio polytes,research
+103971612,papilio_polytes,Common Mormon,butterfly,consumer,2021-12-30,2021,12,30,364,winter,12.912108281,77.5462473929,Chikkalasandra,Papilio polytes,research
+104091594,papilio_polytes,Common Mormon,butterfly,consumer,2022-01-01,2022,1,1,1,winter,12.9151315434,77.5568273138,"Padmanabhanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+104338538,papilio_polytes,Common Mormon,butterfly,consumer,2020-12-26,2020,12,26,361,winter,13.020944,77.569946,"Indian Institute of Science, Bangalore, Karnataka",Papilio polytes,research
+104570697,papilio_polytes,Common Mormon,butterfly,consumer,2019-08-02,2019,8,2,214,monsoon,12.9956868157,77.575333634,"Bengaluru, Karnataka, India",Papilio polytes,research
+104634249,papilio_polytes,Common Mormon,butterfly,consumer,2019-08-07,2019,8,7,219,monsoon,12.995688709,77.5712114997,"Bengaluru, Karnataka, India",Papilio polytes,research
+104688995,papilio_polytes,Common Mormon,butterfly,consumer,2022-01-10,2022,1,10,10,winter,12.9901560977,77.6624017954,"Prestige Greenwoods, Nagavarapalya, Bangalore",Papilio polytes,research
+104801661,papilio_polytes,Common Mormon,butterfly,consumer,2022-01-09,2022,1,9,9,winter,12.84275,77.724463,"Nambiar Bellezea, Bommasandra, Karnataka 560099, India",Papilio polytes,research
+104811734,papilio_polytes,Common Mormon,butterfly,consumer,2022-01-12,2022,1,12,12,winter,12.9124944444,77.6498888889,"2301, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",Papilio polytes,research
+104862279,papilio_polytes,Common Mormon,butterfly,consumer,2019-11-24,2019,11,24,328,post_monsoon,13.0316204615,77.5741261448,"Bengaluru, Karnataka 560094, India",Papilio polytes,research
+104862322,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-10,2020,4,10,101,pre_monsoon,13.035711,77.57771,"Bengaluru, Karnataka 560094, India",Papilio polytes,research
+104915108,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-03,2020,8,3,216,monsoon,13.03473,77.57302,"Bengaluru, Karnataka, India",Papilio polytes,research
+105021274,papilio_polytes,Common Mormon,butterfly,consumer,2022-01-16,2022,1,16,16,winter,12.1411784875,76.5830245897,"Doora, Mysore",Papilio polytes,research
+105106660,papilio_polytes,Common Mormon,butterfly,consumer,2022-01-15,2022,1,15,15,winter,12.9690232,77.6898133,Home of,Papilio polytes,research
+105659139,papilio_polytes,Common Mormon,butterfly,consumer,2021-11-01,2021,11,1,305,post_monsoon,13.034732,77.57302,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+105901054,papilio_polytes,Common Mormon,butterfly,consumer,2022-01-31,2022,1,31,31,winter,12.9014892578,77.6431808472,Bengaluru,Papilio polytes,research
+105904560,papilio_polytes,Common Mormon,butterfly,consumer,2022-01-31,2022,1,31,31,winter,12.9151524583,77.5568447481,"Padmanabhanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+105907353,papilio_polytes,Common Mormon,butterfly,consumer,2022-01-11,2022,1,11,11,winter,13.034732,77.57302,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+106112895,papilio_polytes,Common Mormon,butterfly,consumer,2022-01-29,2022,1,29,29,winter,13.034714,77.57304,"Bengaluru, Karnataka 560094, India",Papilio polytes,research
+106228525,papilio_polytes,Common Mormon,butterfly,consumer,2022-02-06,2022,2,6,37,winter,12.9151406937,77.5568326782,"Padmanabhanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+106228526,papilio_polytes,Common Mormon,butterfly,consumer,2022-02-06,2022,2,6,37,winter,12.9151552054,77.5568340193,"Padmanabhanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+106300026,papilio_polytes,Common Mormon,butterfly,consumer,2022-02-07,2022,2,7,38,winter,12.8785278,77.5306152997,"CLUB HOUSE, SOBHA FOREST VIEW, Bengaluru, कर्नाटक 560062, India",Papilio polytes,research
+106430002,papilio_polytes,Common Mormon,butterfly,consumer,2022-02-08,2022,2,8,39,winter,12.9151406937,77.5568326782,"Padmanabhanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+106442787,papilio_polytes,Common Mormon,butterfly,consumer,2022-02-09,2022,2,9,40,winter,12.8086148075,77.5262062126,"Alakabelalu, Bengaluru, KA, IN",Papilio polytes,research
+106475738,papilio_polytes,Common Mormon,butterfly,consumer,2022-02-09,2022,2,9,40,winter,12.915179909,77.5566824745,"Padmanabhanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+106482402,papilio_polytes,Common Mormon,butterfly,consumer,2022-02-10,2022,2,10,41,winter,12.9151302363,77.5568407248,"Padmanabhanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+106898506,papilio_polytes,Common Mormon,butterfly,consumer,2022-02-16,2022,2,16,47,winter,12.9065284722,77.6777191111,"WM4H+G3M, Kasavanahalli, Karnataka 560035, India",Papilio polytes,research
+107029502,papilio_polytes,Common Mormon,butterfly,consumer,2020-07-28,2020,7,28,210,monsoon,15.1395506476,76.9214428961,Bellary,Papilio polytes,research
+107050436,papilio_polytes,Common Mormon,butterfly,consumer,2019-12-02,2019,12,2,336,winter,15.1395506476,76.9214428961,Bellary,Papilio polytes,research
+107303901,papilio_polytes,Common Mormon,butterfly,consumer,2022-02-13,2022,2,13,44,winter,12.2132993036,76.6253000651,"Shanubhoganahalli Kere, Sindhuvalli, Karnataka, India",Papilio polytes,research
+107423782,papilio_polytes,Common Mormon,butterfly,consumer,2022-02-24,2022,2,24,55,winter,12.9901560977,77.6624017954,"Prestige Greenwoods, Nagavarapalya, Bangalore",Papilio polytes,research
+108492804,papilio_polytes,Common Mormon,butterfly,consumer,2022-03-13,2022,3,13,72,pre_monsoon,12.9056548889,77.6760253889,"Kasavanahalli, Karnataka 560035, India",Papilio polytes,research
+108867053,papilio_polytes,Common Mormon,butterfly,consumer,2021-12-16,2021,12,16,350,winter,12.8876638889,77.588225,"Arekere, Bengaluru, Karnataka, India",Papilio polytes,research
+109024607,papilio_polytes,Common Mormon,butterfly,consumer,2022-03-20,2022,3,20,79,pre_monsoon,12.873706,77.6417519722,"Aishwarya Crystal Layout, Begur, Bengaluru, Karnataka 560068, India",Papilio polytes,research
+109216984,papilio_polytes,Common Mormon,butterfly,consumer,2022-02-13,2022,2,13,44,winter,13.034732,77.57302,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+109457397,papilio_polytes,Common Mormon,butterfly,consumer,2022-02-14,2022,2,14,45,winter,13.034732,77.57302,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+109825396,papilio_polytes,Common Mormon,butterfly,consumer,2022-03-25,2022,3,25,84,pre_monsoon,12.9147533333,77.6437083333,"14th A Cross Road, Bengaluru, KA, IN",Papilio polytes,research
+110381086,papilio_polytes,Common Mormon,butterfly,consumer,2022-03-10,2022,3,10,69,pre_monsoon,13.034753,77.572977,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+110641593,papilio_polytes,Common Mormon,butterfly,consumer,2022-04-05,2022,4,5,95,pre_monsoon,12.9230407532,77.5829155371,Brij Kutir,Papilio polytes,research
+111000853,papilio_polytes,Common Mormon,butterfly,consumer,2022-04-10,2022,4,10,100,pre_monsoon,13.0170599146,77.5576835055,"Malleswaram West, Bengaluru, KA, IN",Papilio polytes,research
+111270924,papilio_polytes,Common Mormon,butterfly,consumer,2022-04-13,2022,4,13,103,pre_monsoon,12.8841063056,77.463369146,"Block 18-24, GOOD EARTH MALHAR RESONANCE, Bengaluru, Karnataka 560060, India",Papilio polytes,research
+111513939,papilio_polytes,Common Mormon,butterfly,consumer,2022-04-14,2022,4,14,104,pre_monsoon,13.0673429722,77.572405,"187/16, Sir MV Layout, Dhanalakshmi Layout, Virupakshapura, Bengaluru, Karnataka 560097, India",Papilio polytes,research
+112027901,papilio_polytes,Common Mormon,butterfly,consumer,2022-04-10,2022,4,10,100,pre_monsoon,12.96548,77.718464,"Brookfield, Bengaluru, Karnataka, India",Papilio polytes,research
+112365472,papilio_polytes,Common Mormon,butterfly,consumer,2022-03-24,2022,3,24,83,pre_monsoon,13.0347488014,77.5729665911,"Bengaluru, Karnataka 560094, India",Papilio polytes,research
+112696585,papilio_polytes,Common Mormon,butterfly,consumer,2022-04-23,2022,4,23,113,pre_monsoon,12.7985882,77.567835,"Bannerghatta Main Rd, Bannerughatta, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+112696625,papilio_polytes,Common Mormon,butterfly,consumer,2022-04-23,2022,4,23,113,pre_monsoon,12.7985882,77.567835,"Bannerghatta Main Rd, Bannerughatta, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+112722403,papilio_polytes,Common Mormon,butterfly,consumer,2022-04-24,2022,4,24,114,pre_monsoon,12.8377009722,75.657493,"Kagenari State Forest, Karnataka, India",Papilio polytes,research
+112860659,papilio_polytes,Common Mormon,butterfly,consumer,2022-04-21,2022,4,21,111,pre_monsoon,12.8454237178,77.7766481414,"Bengaluru, Karnataka 562125, India",Papilio polytes,research
+112935393,papilio_polytes,Common Mormon,butterfly,consumer,2022-04-26,2022,4,26,116,pre_monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+112978908,papilio_polytes,Common Mormon,butterfly,consumer,2022-04-26,2022,4,26,116,pre_monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+113212453,papilio_polytes,Common Mormon,butterfly,consumer,2022-04-28,2022,4,28,118,pre_monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+114535355,papilio_polytes,Common Mormon,butterfly,consumer,2022-05-02,2022,5,2,122,pre_monsoon,12.8731383333,77.620575,"DLF Westend Avenue, Bengaluru, KA, IN",Papilio polytes,research
+116407913,papilio_polytes,Common Mormon,butterfly,consumer,2022-05-10,2022,5,10,130,pre_monsoon,12.285582,76.5676071,"Kemmannupura, Karnataka 570026, India",Papilio polytes,research
+116932312,papilio_polytes,Common Mormon,butterfly,consumer,2022-05-14,2022,5,14,134,pre_monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+117709265,papilio_polytes,Common Mormon,butterfly,consumer,2022-03-29,2022,3,29,88,pre_monsoon,13.0347642226,77.5730304912,"Bengaluru, Karnataka 560094, India",Papilio polytes,research
+117970058,papilio_polytes,Common Mormon,butterfly,consumer,2022-05-21,2022,5,21,141,pre_monsoon,12.6864208,77.6654326,"Pearl Vally, Thammanayakanahalli, Karnataka 562106, India",Papilio polytes,research
+118310070,papilio_polytes,Common Mormon,butterfly,consumer,2022-05-14,2022,5,14,134,pre_monsoon,15.2361618271,74.6172818542,Dandeli,Papilio polytes,research
+119275976,papilio_polytes,Common Mormon,butterfly,consumer,2022-05-26,2022,5,26,146,pre_monsoon,12.9353601,74.989432,"Badagabellur, Karnataka 574219, India",Papilio polytes,research
+119297107,papilio_polytes,Common Mormon,butterfly,consumer,2021-11-03,2021,11,3,307,post_monsoon,12.9569911,77.6027732,"Langford Town, Shanti Nagar, Bengaluru, Karnataka, India",Papilio polytes,research
+120285141,papilio_polytes,Common Mormon,butterfly,consumer,2022-06-05,2022,6,5,156,monsoon,12.2609374206,76.5916724423,"RT Nagar, Mysuru, Karnataka, India",Papilio polytes,research
+120720759,papilio_polytes,Common Mormon,butterfly,consumer,2019-11-28,2019,11,28,332,post_monsoon,13.1101768611,77.5365659167,"Bengaluru, Karnataka, India",Papilio polytes,research
+120937595,papilio_polytes,Common Mormon,butterfly,consumer,2022-04-27,2022,4,27,117,pre_monsoon,13.034743586,77.573047058,"Bengaluru, Karnataka 560094, India",Papilio polytes romulus,research
+120942909,papilio_polytes,Common Mormon,butterfly,consumer,2022-06-05,2022,6,5,156,monsoon,12.9215973439,77.2951057926,Savanadurga Hill,Papilio polytes,research
+120944359,papilio_polytes,Common Mormon,butterfly,consumer,2022-06-09,2022,6,9,160,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+121053613,papilio_polytes,Common Mormon,butterfly,consumer,2022-06-10,2022,6,10,161,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+121127737,papilio_polytes,Common Mormon,butterfly,consumer,2022-05-06,2022,5,6,126,pre_monsoon,13.0238734052,77.5661631301,"Centre For Neuroscience, IISc",Papilio polytes,research
+121430566,papilio_polytes,Common Mormon,butterfly,consumer,2022-06-09,2022,6,9,160,monsoon,12.8160746774,76.0396228231,Hemavathi Reservoir,Papilio polytes,research
+121446430,papilio_polytes,Common Mormon,butterfly,consumer,2022-06-11,2022,6,11,162,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Papilio polytes,research
+121701370,papilio_polytes,Common Mormon,butterfly,consumer,2022-06-13,2022,6,13,164,monsoon,12.8849632652,75.0262050703,"Ajjibettu, V2PG+2JJ, B.C Road, Bantwal, Karnataka 574219, India",Papilio polytes,research
+122127415,papilio_polytes,Common Mormon,butterfly,consumer,2022-06-12,2022,6,12,163,monsoon,12.8949004,77.5936259,"Bengaluru, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India",Papilio polytes,research
+123055772,papilio_polytes,Common Mormon,butterfly,consumer,2022-06-22,2022,6,22,173,monsoon,15.969437,75.277462,"Belagavi, Karnataka, India",Papilio polytes,research
+123335142,papilio_polytes,Common Mormon,butterfly,consumer,2022-06-25,2022,6,25,176,monsoon,12.2596921508,76.5119648623,"Madahalli, Karnataka, India",Papilio polytes,research
+123481140,papilio_polytes,Common Mormon,butterfly,consumer,2022-06-26,2022,6,26,177,monsoon,12.961924,77.709616,"Nisarga park, Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+123481682,papilio_polytes,Common Mormon,butterfly,consumer,2022-06-26,2022,6,26,177,monsoon,12.961924,77.709616,"Nisarga park, Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+123492701,papilio_polytes,Common Mormon,butterfly,consumer,2022-06-26,2022,6,26,177,monsoon,12.1675908173,76.6061549027,"Doddakaturu, Karnataka 570008, India",Papilio polytes,research
+124351556,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-02,2022,7,2,183,monsoon,12.961924,77.709616,"Nisarga park, Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+124507549,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-03,2022,7,3,184,monsoon,12.961924,77.709616,"Nisarga park, Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+125019448,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-06,2022,7,6,187,monsoon,12.9070965997,77.6529799997,"WM43+R6M, PWD Quarters, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",Papilio polytes,research
+125267294,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-08,2022,7,8,189,monsoon,13.0226316389,77.6424484167,"HRBR Layout 2nd Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043, India",Papilio polytes,research
+125466540,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-09,2022,7,9,190,monsoon,12.923174,77.5232903,"D Cross Rd, 2nd Phase, Ideal Homes Twp, RR Nagar, Bengaluru, Karnataka 560098, India",Papilio polytes,research
+125566192,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-10,2022,7,10,191,monsoon,12.961924,77.709616,"Nisarga park, Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+125772696,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-10,2022,7,10,191,monsoon,12.8949004,77.5936259,"Bengaluru, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India",Papilio polytes,research
+126045028,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-13,2022,7,13,194,monsoon,12.7730366667,77.6180183333,"QJF8+9QH, Nandanavana Layout, Bukkasagara, Karnataka 560105, India",Papilio polytes,research
+126481063,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-16,2022,7,16,197,monsoon,12.7960545,77.5764202,"Inside Bannerughatta Biological Park, QHWG+CHF, Bannerughatta, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+126971432,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-19,2022,7,19,200,monsoon,12.8784787989,77.5307261199,Sobha Forest View,Papilio polytes,research
+127054168,papilio_polytes,Common Mormon,butterfly,consumer,2021-09-12,2021,9,12,255,monsoon,12.9714785136,77.5945626944,Bangalore,Papilio polytes,research
+127110327,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-20,2022,7,20,201,monsoon,12.8510116667,77.78045,"Bikkanahalli Main Road, Bengaluru, KA, IN",Papilio polytes,research
+127246322,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-20,2022,7,20,201,monsoon,12.2227233,76.6272876,"6JFG+3WM, Dadadahalli, Karnataka 570008, India",Papilio polytes,research
+127258327,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-21,2022,7,21,202,monsoon,12.2919633333,76.672455,"Maharana Pratapa Simhaji Road, Mysuru, KA, IN",Papilio polytes,research
+127484367,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-23,2022,7,23,204,monsoon,12.7960545,77.5764202,"Inside Bannerughatta Biological Park, QHWG+CHF, Bannerughatta, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+128016073,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-26,2022,7,26,207,monsoon,13.0603847915,77.6569923618,"Yashbans Road, Bengaluru, KA, IN",Papilio polytes,research
+128109222,papilio_polytes,Common Mormon,butterfly,consumer,2021-10-03,2021,10,3,276,post_monsoon,12.1445438471,75.938203074,"College of Forestry, Ponnampet",Papilio polytes,research
+128292052,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-27,2022,7,27,208,monsoon,12.2132993036,76.6253000651,"Shanubhoganahalli Kere, Sindhuvalli, Karnataka, India",Papilio polytes,research
+128557474,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-30,2022,7,30,211,monsoon,12.7736396667,77.6178893889,"QJF8+9QH, Nandanavana Layout, Bukkasagara, Karnataka 560105, India",Papilio polytes,research
+128609049,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-30,2022,7,30,211,monsoon,12.9025947778,77.5752460833,"WH3G+248, Manjunath Garden, JP Nagar Phase 6, J. P. Nagar, Bengaluru, Karnataka 560078, India",Papilio polytes,research
+128744313,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-31,2022,7,31,212,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+128761507,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-31,2022,7,31,212,monsoon,12.266633,76.71565,"Yandahalli, Karnataka 570028, India",Papilio polytes,research
+128788692,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-31,2022,7,31,212,monsoon,12.8949004,77.5936259,"Bengaluru, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India",Papilio polytes,research
+128964859,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-01,2022,8,1,213,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+129090573,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-02,2022,7,2,183,monsoon,12.8220326829,77.549486166,"Byatarayana Doddi Kere, Bengaluru, Karnataka, India",Papilio polytes,research
+129090582,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-20,2022,7,20,201,monsoon,12.9293786924,77.6334329619,"Wipro Park, 1st Block Koramangala, Bengaluru, Karnataka, India",Papilio polytes,research
+129511738,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-05,2022,8,5,217,monsoon,12.961924,77.709616,"Nisarga park, AECS Layout, Marathahalli, Bengaluru, Karnataka 560037, India",Papilio polytes,research
+129786341,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-07,2022,8,7,219,monsoon,12.961924,77.709616,"Nisarga park, Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+129955888,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-08,2022,8,8,220,monsoon,12.7845266667,77.6155716667,"Nisarga Layout, Harapanahalli, Karnataka 560105, India",Papilio polytes,research
+129972077,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-08,2022,8,8,220,monsoon,12.796055,77.57642,"Butterfly park, bannerughata ",Papilio polytes,research
+129972084,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-08,2022,8,8,220,monsoon,12.7960545,77.5764202,"Inside Bannerughatta Biological Park, QHWG+CHF, Bannerughatta, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+129972101,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-08,2022,8,8,220,monsoon,12.7960545,77.5764202,"Inside Bannerughatta Biological Park, QHWG+CHF, Bannerughatta, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+129972109,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-08,2022,8,8,220,monsoon,12.7960545,77.5764202,"Inside Bannerughatta Biological Park, QHWG+CHF, Bannerughatta, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+130080248,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-09,2022,8,9,221,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+130106167,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-09,2022,8,9,221,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+130117218,papilio_polytes,Common Mormon,butterfly,consumer,2022-06-11,2022,6,11,162,monsoon,12.7967172778,77.5781750556,"QHWG+9F8, Byrappanahalli, Karnataka 560083, India",Papilio polytes,research
+130367736,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-11,2022,8,11,223,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+130383038,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-19,2020,4,19,110,pre_monsoon,14.6439710719,75.5165304298,"Kadaramandalagi, Karnataka, India",Aegle marmelos,research
+130383048,papilio_polytes,Common Mormon,butterfly,consumer,2020-04-19,2020,4,19,110,pre_monsoon,14.6440125931,75.5165089722,"Kadaramandalagi, Karnataka, India",Aegle marmelos,research
+130744535,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-14,2022,8,14,226,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+130778954,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-14,2022,8,14,226,monsoon,12.8805934593,77.5294778869,"Hosahalli, Karnataka 560062, India",Papilio polytes,research
+130916818,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-15,2022,8,15,227,monsoon,12.9507432,77.5847773,"Mavalli, Bengaluru, Karnataka 560004, India",Papilio polytes,research
+131181523,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-14,2022,8,14,226,monsoon,12.8441171389,77.7766189444,"RQVG+R4, Buragunte, Karnataka 562125, India",Papilio polytes,research
+131413717,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-16,2022,8,16,228,monsoon,13.0673683333,77.5723569444,"187/16, Sir MV Layout, Dhanalakshmi Layout, Virupakshapura, Bengaluru, Karnataka 560097, India",Papilio polytes,research
+131476897,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-31,2022,7,31,212,monsoon,12.1426365312,75.9306486323,"4WVJ+772, Halligattu, Karnataka 571216, India",Papilio polytes,research
+131579505,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-20,2022,8,20,232,monsoon,12.7960545,77.5764202,"Inside Bannerughatta Biological Park, QHWG+CHF, Bannerughatta, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+131696606,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-21,2022,8,21,233,monsoon,13.0665168611,77.5691680833,"3H89+HM6, Telecom Colony, Kempe Gowda Nagar, Bengaluru, Karnataka 560097, India",Papilio polytes,research
+131846489,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-20,2022,8,20,232,monsoon,12.2132993036,76.6253000651,"Shanubhoganahalli Kere, Sindhuvalli, Karnataka, India",Papilio polytes,research
+132094576,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-21,2022,8,21,233,monsoon,13.3742007396,77.2127133608,Devarayanadurga,Papilio polytes,research
+132531816,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-28,2022,8,28,240,monsoon,14.2495864929,74.582735002,Hosadota,Papilio polytes,research
+133039476,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-30,2022,8,30,242,monsoon,12.1800913642,76.7419524863,Hadinaru PHC,Papilio polytes,research
+133072264,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-31,2022,8,31,243,monsoon,12.7960545,77.5764202,"Inside Bannerughatta Biological Park, QHWG+CHF, Bannerughatta, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+133306890,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-21,2022,7,21,202,monsoon,12.2919444444,76.6723536111,"7MVC+2V5, Chamundipuram, Mysuru, Karnataka 570010, India",Papilio polytes,research
+133459628,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-03,2022,9,3,246,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+133575861,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-04,2022,9,4,247,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+133728196,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-05,2022,9,5,248,monsoon,12.9715987,77.5945627,"Bengaluru, Karnataka, India",Papilio polytes,research
+133894829,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-03,2022,9,3,246,monsoon,13.5663433383,75.134213604,Hingaara- The Nature Stay,Papilio polytes,research
+133912446,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-06,2022,9,6,249,monsoon,13.0085,77.6408527778,"896/837, Subbaiyapalya, Maruthi Sevanagar, Bengaluru, Karnataka 560043, India",Papilio polytes,research
+134389999,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-10,2022,9,10,253,monsoon,12.9655233073,77.7184636518,Brookefield,Papilio polytes,research
+134439817,papilio_polytes,Common Mormon,butterfly,consumer,2021-12-27,2021,12,27,361,winter,13.0169561351,77.5670911744,IISC Bangalore,Papilio polytes,research
+135110588,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-15,2022,9,15,258,monsoon,12.9064343439,77.5347128883,Poornapragna Housing Society Layout,Papilio polytes,research
+135217526,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-03,2022,7,3,184,monsoon,13.0238734052,77.5661631301,"Centre For Neuroscience, IISc",Papilio polytes,research
+135483272,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-18,2022,9,18,261,monsoon,12.96548,77.718464,"Brookfield, Bengaluru, Karnataka, India ",Papilio polytes,research
+135621761,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-19,2022,9,19,262,monsoon,13.0650480556,77.6478652778,"BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+135758393,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-16,2022,9,16,259,monsoon,13.4404157,75.0844757,"State Highway 65, Nadpal, Karnataka 576112, India",Papilio polytes,research
+135763051,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-20,2022,9,20,263,monsoon,13.0709266818,77.5801971182,NCBS,Papilio polytes,research
+136078539,papilio_polytes,Common Mormon,butterfly,consumer,2020-02-22,2020,2,22,53,winter,12.8285957528,77.5123841688,The Art Of Living–Bangalore Ashram,Papilio polytes,research
+136235072,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-09,2022,9,9,252,monsoon,13.1227803582,74.9933188409,Sammilan Shetty's Butterfly Park,Papilio polytes,research
+136246671,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-10,2022,9,10,253,monsoon,13.1227803582,74.9933188409,Sammilan Shetty's Butterfly Park,Papilio polytes,research
+136248868,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-20,2022,9,20,263,monsoon,12.2762440323,76.6163660914,"Bidadi, H Block, Ramakrishnanagar, Mysuru, Karnataka 570023, India",Papilio polytes,research
+136359343,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-11,2022,9,11,254,monsoon,13.1227803582,74.9933188409,Sammilan Shetty's Butterfly Park,Papilio polytes,research
+136363710,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-11,2022,9,11,254,monsoon,13.4659559293,75.0344780087,Durga,Papilio polytes,research
+136364303,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-09,2022,9,9,252,monsoon,13.1228111111,74.9933638889,"#4-54(2) Deeksha Darshan Koranthabettu, Beluvai, Karnataka 574213, India",Papilio polytes,research
+136364450,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-09,2022,9,9,252,monsoon,13.1227333333,74.9932555556,"#4-54(2) Deeksha Darshan Koranthabettu, Beluvai, Karnataka 574213, India",Papilio polytes,research
+136365234,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-10,2022,9,10,253,monsoon,13.475875,75.0295083333,"F2GG+9W7, Seethanadi, Karnataka 576112, India",Papilio polytes,research
+136411702,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-09,2022,9,9,252,monsoon,13.1227803582,74.9933188409,Sammilan Shetty's Butterfly Park,Papilio polytes,research
+136412843,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-10,2022,9,10,253,monsoon,13.4404189411,75.0844757259,Someshwara Wildlife Sanctuary,Papilio polytes,research
+136546507,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-13,2022,9,13,256,monsoon,13.122776,74.993319,"Santhadi house NH-169 Butterfly Park Road Mangalore, Beluvai, Karnataka 574213, India",Papilio polytes,research
+137389396,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-01,2022,10,1,274,post_monsoon,12.1800913642,76.7419524863,Hadinaru PHC,Papilio polytes,research
+137404306,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-28,2022,9,28,271,monsoon,14.6196383214,74.8440770432,Sirsi,Papilio polytes,research
+138083719,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-29,2022,9,29,272,monsoon,12.9690231968,77.689813301,Home of,Papilio polytes,research
+138279038,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-07,2022,10,7,280,post_monsoon,13.1229133333,74.9934033333,"Udupi, Karnataka, India",Papilio polytes,research
+138279046,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-07,2022,10,7,280,post_monsoon,13.1229316667,74.9934983333,"Udupi, Karnataka, India",Papilio polytes,research
+138681989,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-14,2022,10,14,287,post_monsoon,12.9065751944,77.6761855833,"WM4G+M89, Kasavanahalli, Karnataka 560035, India",Papilio polytes,research
+138687203,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-07,2022,10,7,280,post_monsoon,13.0224452923,77.5704564404,"Devasandra Layout, Bengaluru, Karnataka, India",Papilio polytes,research
+138726682,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-12,2022,10,12,285,post_monsoon,15.2361184792,74.6172818542,Dandeli,Papilio polytes,research
+138731417,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-13,2022,10,13,286,post_monsoon,15.28895,74.5285666667,"Karnataka 581365, India",Papilio polytes,research
+138918705,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-15,2022,10,15,288,post_monsoon,12.7735528889,77.6181564167,"QJF8+9QH, Nandanavana Layout, Bukkasagara, Karnataka 560105, India",Papilio polytes,research
+138943499,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-16,2022,10,16,289,post_monsoon,12.962288,77.7098984,"963, 3rd Main Rd, AECS Layout - D Block, AECS Layout, Marathahalli, Bengaluru, Karnataka 560037, India",Papilio polytes,research
+139132442,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-12,2022,10,12,285,post_monsoon,12.9722079371,77.6909709217,"Doddanekkundi, Bengaluru, Karnataka, India",Papilio polytes,research
+139232675,papilio_polytes,Common Mormon,butterfly,consumer,2021-06-06,2021,6,6,157,monsoon,13.0222614318,77.5703529666,"Devasandra Layout, Bengaluru, Karnataka, India",Papilio polytes,research
+139414730,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-20,2022,10,20,293,post_monsoon,12.7985878081,77.5678348169,Bannerghatta National Park,Papilio polytes,research
+139825856,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-07,2022,10,7,280,post_monsoon,13.3353116999,74.7701715429,"Maruthi Veethika, Udupi, Karnataka, India",Papilio polytes,research
+139962867,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-23,2022,10,23,296,post_monsoon,12.3103953,76.6304409,"Kukkarahalli Lake, Kukkarahalli, Saraswathipuram, Mysuru, Karnataka",Papilio polytes,research
+140395678,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-26,2022,10,26,299,post_monsoon,12.7985874811,77.5678348169,"Bannergatta Butterfly park. Bengaluru, Karnataka 560083, India",Papilio polytes,research
+140406952,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-16,2022,10,16,289,post_monsoon,12.7160031307,77.5687564202,"Bangalore Urban, Karnataka, India",Papilio polytes,research
+140750624,papilio_polytes,Common Mormon,butterfly,consumer,2022-11-01,2022,11,1,305,post_monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+140784670,papilio_polytes,Common Mormon,butterfly,consumer,2022-11-01,2022,11,1,305,post_monsoon,13.4259239672,77.5044662878,"CGG3+CQ5, Karnataka 561203, India",Papilio polytes,research
+141142988,papilio_polytes,Common Mormon,butterfly,consumer,2022-11-04,2022,11,4,308,post_monsoon,13.07045,77.5846194444,"Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka, India",Papilio polytes,research
+141364522,papilio_polytes,Common Mormon,butterfly,consumer,2022-11-06,2022,11,6,310,post_monsoon,13.3736149134,77.2073895112,Devarayanadurga SF,Papilio polytes,research
+143617581,papilio_polytes,Common Mormon,butterfly,consumer,2022-12-04,2022,12,4,338,winter,11.9879166667,77.143975,"Biligiri Rangaswamy Wildlife Sanctuary, Chamarajanagar, KA, IN",Papilio polytes,research
+144065098,papilio_polytes,Common Mormon,butterfly,consumer,2022-12-10,2022,12,10,344,winter,13.0908611111,77.6064083333,"Block-M, Pyramid Banksia & Mahika, Basaveshwara Nagar Yelahanka, Nehru Nagar, Bengaluru, Karnataka 560064, India",Papilio polytes,research
+144232888,papilio_polytes,Common Mormon,butterfly,consumer,2022-12-12,2022,12,12,346,winter,13.0909055556,77.6063777778,"Block-M, Pyramid Banksia & Mahika, Basaveshwara Nagar Yelahanka, Nehru Nagar, Bengaluru, Karnataka 560064, India",Papilio polytes,research
+144407145,papilio_polytes,Common Mormon,butterfly,consumer,2022-12-15,2022,12,15,349,winter,12.7735071111,77.6180648611,"QJF8+9QH, Nandanavana Layout, Bukkasagara, Karnataka 560105, India",Papilio polytes,research
+144524794,papilio_polytes,Common Mormon,butterfly,consumer,2022-12-17,2022,12,17,351,winter,12.7735051944,77.6181106389,"QJF8+9QH, Nandanavana Layout, Bukkasagara, Karnataka 560105, India",Papilio polytes,research
+144777314,papilio_polytes,Common Mormon,butterfly,consumer,2022-12-21,2022,12,21,355,winter,12.8419965455,77.7236662898,"Chintalamadivala Village, Bommasandra, Karnataka 560099, India",Papilio polytes,research
+144782734,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-16,2022,10,16,289,post_monsoon,12.9151103412,77.556873839,"Padmanabhanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+144967904,papilio_polytes,Common Mormon,butterfly,consumer,2022-11-10,2022,11,10,314,post_monsoon,13.0721361111,77.5568388889,"Vidyaranyapura, Bengaluru, Karnataka, India",Papilio polytes,research
+145813307,papilio_polytes,Common Mormon,butterfly,consumer,2023-01-04,2023,1,4,4,winter,15.873775,74.49035,"Hanuman Nagar, Belagavi, KA, IN",Papilio polytes,research
+146343292,papilio_polytes,Common Mormon,butterfly,consumer,2022-12-22,2022,12,22,356,winter,12.3242848304,76.5853617713,"8HFP+H49, Basavanahalli, Karnataka 570026, India",Papilio polytes,research
+146601803,papilio_polytes,Common Mormon,butterfly,consumer,2023-01-14,2023,1,14,14,winter,13.0873671,77.609935,"Jakkur Lake, Agrahara, Bengaluru, Karnataka 560064",Papilio polytes,research
+146806081,papilio_polytes,Common Mormon,butterfly,consumer,2022-11-21,2022,11,21,325,post_monsoon,12.189455,76.642543,"PB No. 1, Byatha Halli, Kadakola,, Mysuru, Karnataka 571311, India",Papilio polytes,research
+147110793,papilio_polytes,Common Mormon,butterfly,consumer,2022-12-03,2022,12,3,337,winter,12.9019939948,77.5957448781,Doresanipalya,Papilio polytes,research
+147870602,papilio_polytes,Common Mormon,butterfly,consumer,2023-01-30,2023,1,30,30,winter,12.9193924357,77.5508353503,"12th Cross Road, Bengaluru, KA, IN",Papilio polytes,research
+148020693,papilio_polytes,Common Mormon,butterfly,consumer,2023-02-04,2023,2,4,35,winter,12.8623417509,77.7733731642,"Kada Agrahara, Karnataka 562125, India",Papilio polytes,research
+148750949,papilio_polytes,Common Mormon,butterfly,consumer,2023-02-14,2023,2,14,45,winter,13.1343221667,77.609555,"Yelahanka, Bengaluru, KA, IN",Papilio polytes,research
+149817789,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-26,2022,10,26,299,post_monsoon,12.9149494495,77.5206393376,RR Nagar,Papilio polytes,research
+149884110,papilio_polytes,Common Mormon,butterfly,consumer,2023-02-22,2023,2,22,53,winter,13.0208816631,77.5700310913,"Devasandra Layout, Bengaluru, Karnataka, India",Papilio polytes romulus,research
+149953008,papilio_polytes,Common Mormon,butterfly,consumer,2023-03-01,2023,3,1,60,pre_monsoon,12.8400222029,77.7271705335,"Karnataka, IN",Papilio polytes,research
+150186738,papilio_polytes,Common Mormon,butterfly,consumer,2023-02-16,2023,2,16,47,winter,12.8641460297,77.7737818658,"VQ7F+V68, Kada Agrahara, Karnataka 562125, India",Papilio polytes,research
+150813802,papilio_polytes,Common Mormon,butterfly,consumer,2023-01-26,2023,1,26,26,winter,12.8575579,77.7864057,"Sarjapura, Bengaluru, Karnataka 562125, India",Papilio polytes,research
+150896222,papilio_polytes,Common Mormon,butterfly,consumer,2023-03-12,2023,3,12,71,pre_monsoon,13.0650558333,77.6481169444,"No 62 Beck n Josh, Bornmann Enclave, BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+151108094,papilio_polytes,Common Mormon,butterfly,consumer,2023-03-12,2023,3,12,71,pre_monsoon,12.7960546167,77.5764202327,Butterfly Park,Papilio polytes,research
+151188288,papilio_polytes,Common Mormon,butterfly,consumer,2023-03-15,2023,3,15,74,pre_monsoon,12.991609,77.6832699722,"60, Anjappa Layout, Kagdaspura, Mahadevapura, Bengaluru, Karnataka 560048, India",Papilio polytes,research
+151906971,papilio_polytes,Common Mormon,butterfly,consumer,2022-12-09,2022,12,9,343,winter,12.6394677592,75.2583324909,"J7R5+9W, Paduvannur, Karnataka 574223, India",Papilio polytes,research
+152606906,papilio_polytes,Common Mormon,butterfly,consumer,2023-03-18,2023,3,18,77,pre_monsoon,12.8564083333,77.7698216667,"Kadagrahara, Bengaluru, KA, IN",Papilio polytes,research
+152720099,papilio_polytes,Common Mormon,butterfly,consumer,2023-03-26,2023,3,26,85,pre_monsoon,13.018675,77.64505,"Bangalore, IN-KA, IN",Papilio polytes,research
+152895559,papilio_polytes,Common Mormon,butterfly,consumer,2023-03-31,2023,3,31,90,pre_monsoon,13.0679788333,77.5019149722,"3G92+7MQ, Navy Layout, Chikkabanavara, Bengaluru, Karnataka 560073, India",Papilio polytes,research
+152944937,papilio_polytes,Common Mormon,butterfly,consumer,2023-03-21,2023,3,21,80,pre_monsoon,14.8661377,74.4393729,"Kaiga, Karnataka 581400, India",Papilio polytes,research
+153227432,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-02,2023,4,2,92,pre_monsoon,12.9503533304,77.6686266727,"Karnataka, IN",Papilio polytes,research
+153412205,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-29,2020,6,29,181,monsoon,12.90415,77.6717,"Haralur, Bengaluru, KA, IN",Papilio polytes,research
+153448665,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-11,2022,8,11,223,monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Papilio polytes,research
+153559580,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-08,2022,9,8,251,monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Papilio polytes,research
+154258665,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-18,2022,10,18,291,post_monsoon,12.9121174313,77.6445547119,HSR Layout,Papilio polytes,research
+154684166,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-13,2023,4,13,103,pre_monsoon,12.9128932493,77.4733000249,Radiant Enclave,Papilio polytes,research
+155124838,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-16,2023,4,16,106,pre_monsoon,12.8949004,77.5936259,"Bengaluru, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India",Papilio polytes,research
+155369747,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-16,2023,4,16,106,pre_monsoon,12.9718759722,77.592414,"Nunegundlapalli, Ambedkar Veedhi, Sampangi Rama Nagar, Bengaluru, Karnataka 560001, India",Papilio polytes,research
+155459784,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-18,2023,4,18,108,pre_monsoon,12.9146821314,77.6637720689,"Amblipura, Eastwood Twp, HSR Layout, Bengaluru, Karnataka, India",Papilio polytes,research
+155637131,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-19,2023,4,19,109,pre_monsoon,12.9915370377,77.7343919501,"Forest Technical and Administrative Training Institute, Karnataka Forest Department, Kadugodi.",Papilio polytes,research
+155874409,papilio_polytes,Common Mormon,butterfly,consumer,2023-03-27,2023,3,27,86,pre_monsoon,12.9715987,77.5945627,"Bengaluru, Karnataka, India",Papilio polytes,research
+156203159,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-22,2023,4,22,112,pre_monsoon,12.9252654,77.5820427,"4th Block, Jayanagar, Bengaluru, Karnataka 560011, India",Papilio polytes,research
+156208383,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-23,2023,4,23,113,pre_monsoon,12.948405,77.5809383333,"Walk Trail 3, Bengaluru, KA, IN",Papilio polytes,research
+156232405,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-23,2023,4,23,113,pre_monsoon,12.7968703542,77.57644739,"Bengaluru, Karnataka 560082, India",Papilio polytes,research
+156857111,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-27,2023,4,27,117,pre_monsoon,13.0649555556,77.6481780556,"No 62 Beck n Josh, Bornmann Enclave, BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+157460929,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-29,2023,4,29,119,pre_monsoon,13.0650413889,77.6481091667,"Bangalore, IN-KA, IN",Papilio polytes,research
+157501052,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-29,2023,4,29,119,pre_monsoon,12.8380937949,77.5902701398,"Basavanapura, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+157501473,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-28,2023,4,28,118,pre_monsoon,13.0410638889,77.5668277778,"R.M.V. 2nd Stage, Bengaluru, Karnataka, India",Papilio polytes,research
+158531280,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-01,2023,5,1,121,pre_monsoon,13.0650555556,77.6481,"No 62 Beck n Josh, Bornmann Enclave, BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+158559234,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-29,2023,4,29,119,pre_monsoon,13.0551760786,77.5355574489,KENDRIYA VIDYALAYA NO. 1 JALAHALLI (WEST),Papilio polytes,research
+158568659,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-01,2023,5,1,121,pre_monsoon,12.9391583333,77.5533944444,"22, Srinagar, Mysore Bank Colony, Phase 1, Banashankari 1st Stage, Banashankari, Bengaluru, Karnataka 560050, India",Papilio polytes,research
+158721501,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-30,2023,4,30,120,pre_monsoon,12.8915028,77.5923063,"181, Main Rd, Arekere MICO Layout 2nd stage, Manjunatha Layout, Sahyadri Layout, Garvebhavi Palya, Bengaluru, Karnataka 560076, India",Papilio polytes,research
+158779024,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-01,2023,5,1,121,pre_monsoon,12.88385,77.4645222222,"Bengaluru, Karnataka, India",Papilio polytes,research
+159641443,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-04,2023,5,4,124,pre_monsoon,13.0812509367,77.5616747886,"BEL Layout 6th Block, Vidyaranyapura, Bengaluru, Karnataka, India",Papilio polytes,research
+159798064,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-29,2023,4,29,119,pre_monsoon,11.6294612777,76.5597292408,"Mudumalai, Tamil Nadu, India",Papilio polytes,research
+159823761,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-27,2023,4,27,117,pre_monsoon,13.5663391013,75.134213604,Hingaara- The Nature Stay,Papilio polytes,research
+160020073,papilio_polytes,Common Mormon,butterfly,consumer,2020-08-31,2020,8,31,244,monsoon,12.958951,77.308355,"Centre for Learning (CFL), Varadenahalli",Papilio polytes,research
+160024547,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-02,2023,5,2,122,pre_monsoon,12.9254533,77.546757,"Banashankari, Bengaluru, Karnataka, India",Papilio polytes,research
+160031109,papilio_polytes,Common Mormon,butterfly,consumer,2021-08-17,2021,8,17,229,monsoon,12.6232667216,75.254303813,"J7C3+WX3, Paduvannur, Karnataka 574223, India",Papilio polytes,research
+160224548,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-06,2023,5,6,126,pre_monsoon,13.0560699,77.5355457,"94, Kammagondahalli, Jalahalli, Bengaluru, Karnataka 560015, India",Papilio polytes,research
+160260628,papilio_polytes,Common Mormon,butterfly,consumer,2021-10-20,2021,10,20,293,post_monsoon,13.0422302161,77.5518320873,"462, Sharadamba Nagar, Muthyala Nagar, Gokula Extension, Mathikere, Bengaluru, Karnataka 560054, India",Papilio polytes,research
+160690822,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-03,2023,5,3,123,pre_monsoon,12.9182023419,77.6442194358,"54, Sector 4, HSR Layout, Bengaluru, Karnataka 560102, India",Papilio polytes,research
+161243583,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-12,2023,5,12,132,pre_monsoon,12.9714785136,77.5945626944,Bangalore,Papilio polytes,research
+161759091,papilio_polytes,Common Mormon,butterfly,consumer,2022-06-01,2022,6,1,152,monsoon,12.958846,77.308441,"Centre for Learning (CFL), Varadenahalli",Papilio polytes romulus,research
+162100928,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-17,2023,5,17,137,pre_monsoon,13.0968790498,78.3006424829,Yelagondahalli,Papilio polytes,research
+162254453,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-18,2023,5,18,138,pre_monsoon,13.0650027778,77.6480833333,"No 62 Beck n Josh, Bornmann Enclave, BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+162261336,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-13,2023,5,13,133,pre_monsoon,13.5663616667,75.1340333333,"Mandagadde Bird Sanctuary, Shivamogga, KA, IN",Papilio polytes,research
+162470611,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-18,2023,5,18,138,pre_monsoon,12.773426,77.618166,"QJF8+9QH, Nandanavana Layout, Bukkasagara, Karnataka 560105, India",Papilio polytes,research
+163068612,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-05,2023,4,5,95,pre_monsoon,12.97135,77.642832,"8th cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560038, India",Papilio polytes,research
+163420871,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-24,2023,5,24,144,pre_monsoon,13.0660778333,77.5739216667,"Virupakshapura, Bengaluru, KA, IN",Papilio polytes,research
+163465892,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-24,2023,5,24,144,pre_monsoon,13.0650558333,77.6480941667,"No 62 Beck n Josh, Bornmann Enclave, BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+163591446,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-25,2023,5,25,145,pre_monsoon,12.8910602916,77.6133279836,"Karnataka, IN",Papilio polytes,research
+164650055,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-27,2023,5,27,147,pre_monsoon,12.8378402,77.589327,"RHQQ+4P, Basavanapura, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+164767966,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-30,2023,5,30,150,pre_monsoon,13.0651966041,77.6476332173,"Anjanappa Layout, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+165465992,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-13,2023,4,13,103,pre_monsoon,13.0347498384,77.5730591007,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+165465993,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-12,2023,4,12,102,pre_monsoon,13.0347498384,77.5730591007,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+165839977,papilio_polytes,Common Mormon,butterfly,consumer,2023-06-06,2023,6,6,157,monsoon,12.7735439722,77.617998,"QJF8+9QH, Nandanavana Layout, Bukkasagara, Karnataka 560105, India",Papilio polytes,research
+165856708,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-01,2023,5,1,121,pre_monsoon,15.2920009987,74.5208607987,Old Magazine House,Papilio polytes,research
+165874488,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-23,2023,4,23,113,pre_monsoon,13.0347555958,77.5730493355,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+165883194,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-16,2023,5,16,136,pre_monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+166960562,papilio_polytes,Common Mormon,butterfly,consumer,2023-06-08,2023,6,8,159,monsoon,12.8426642113,77.7256341675,"Chintalamadivala Village, Bommasandra, Karnataka 560099, India",Papilio polytes romulus,research
+166970498,papilio_polytes,Common Mormon,butterfly,consumer,2023-06-10,2023,6,10,161,monsoon,12.6863625278,77.6649327949,"China, 743317",Papilio polytes,research
+167347836,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-29,2022,9,29,272,monsoon,13.122734074,74.9926399019,"Sammilan Shetty's Butterfly Park, Belvai",Papilio polytes,research
+167670793,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-20,2023,5,20,140,pre_monsoon,12.8013722222,77.5771638889,"RH2G+JV3, Bannerughatta, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+167871027,papilio_polytes,Common Mormon,butterfly,consumer,2023-06-17,2023,6,17,168,monsoon,13.12755,77.5512944444,"Bengaluru, Karnataka 560064, India",Papilio polytes,research
+167872995,papilio_polytes,Common Mormon,butterfly,consumer,2023-06-17,2023,6,17,168,monsoon,12.8789074,77.5298515,"100 Feet Road, SOBHA FOREST VIEW, Off, Kanakapura Rd, Banashankari 6th Stage, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Papilio polytes,research
+168665614,papilio_polytes,Common Mormon,butterfly,consumer,2023-06-20,2023,6,20,171,monsoon,12.9584998557,77.3092001304,"Ramanagara, IN-KA, IN",Papilio polytes,research
+169132601,papilio_polytes,Common Mormon,butterfly,consumer,2023-06-23,2023,6,23,174,monsoon,12.7960546167,77.5764202327,Butterfly Park,Papilio polytes,research
+169354678,papilio_polytes,Common Mormon,butterfly,consumer,2023-06-25,2023,6,25,176,monsoon,12.773569,77.6180609722,"QJF8+9QH, Nandanavana Layout, Bukkasagara, Karnataka 560105, India",Papilio polytes,research
+169566058,papilio_polytes,Common Mormon,butterfly,consumer,2023-06-25,2023,6,25,176,monsoon,12.9263631443,77.5769942254,Kanakapura Road,Papilio polytes,research
+169715951,papilio_polytes,Common Mormon,butterfly,consumer,2020-01-23,2020,1,23,23,winter,12.971999959,77.5416792557,"SBI Staff Colony, Hoshalli Extension, Stage 1, Vijayanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+169716310,papilio_polytes,Common Mormon,butterfly,consumer,2021-12-17,2021,12,17,351,winter,12.9720087805,77.541667521,"SBI Staff Colony, Hoshalli Extension, Stage 1, Vijayanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+169934257,papilio_polytes,Common Mormon,butterfly,consumer,2023-06-28,2023,6,28,179,monsoon,13.0650833333,77.6480972222,"No 62 Beck n Josh, Bornmann Enclave, BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+170414171,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-01,2023,7,1,182,monsoon,13.124725,77.5489861111,"4GFX+QFR Jarakabande Kavalu Butterfly Garden, Ramagondanahalli, Karnataka 560064, India",Papilio polytes,research
+170415221,papilio_polytes,Common Mormon,butterfly,consumer,2021-10-18,2021,10,18,291,post_monsoon,12.9720032262,77.5416708738,"SBI Staff Colony, Hoshalli Extension, Stage 1, Vijayanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+170418751,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-01,2023,7,1,182,monsoon,12.835920519,77.5882828477,"Kalkere State Forest, Bengaluru, KA, IN",Papilio polytes,research
+170418862,papilio_polytes,Common Mormon,butterfly,consumer,2022-09-18,2022,9,18,261,monsoon,12.9582051383,77.5312209874,Attiguppe Park,Papilio polytes,research
+170428227,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-01,2023,7,1,182,monsoon,12.8359785273,77.5837186486,"Bengaluru, Karnataka, India",Papilio polytes,research
+170435718,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-01,2023,7,1,182,monsoon,12.8348571316,77.5854155898,"Kalkere State Forest, Bengaluru, KA, IN",Papilio polytes,research
+170614522,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-01,2023,7,1,182,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Papilio polytes,research
+170815253,papilio_polytes,Common Mormon,butterfly,consumer,2023-06-30,2023,6,30,181,monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Papilio polytes,research
+171140677,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-24,2023,5,24,144,pre_monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+171358799,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-25,2023,5,25,145,pre_monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+171517435,papilio_polytes,Common Mormon,butterfly,consumer,2023-06-30,2023,6,30,181,monsoon,13.0713861111,77.5811583333,"EASTERN LAB COMPLEX, GANDHI KRISHI VIGNANA KENDRA, Sahakar Nagar, Kodigehalli, Bengaluru, Karnataka 560065, India",Papilio polytes,research
+171534535,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-26,2023,5,26,146,pre_monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+171909159,papilio_polytes,Common Mormon,butterfly,consumer,2023-06-24,2023,6,24,175,monsoon,12.8653616667,77.7633966667,"Kadagrahara, Bengaluru, KA, IN",Papilio polytes,research
+172120815,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-29,2023,5,29,149,pre_monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Papilio polytes,research
+172796681,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-14,2023,7,14,195,monsoon,13.065025,77.6477777778,"BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+173025478,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-15,2023,7,15,196,monsoon,12.904995122,77.4981332014,"Karnataka, IN",Papilio polytes,research
+173037396,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-15,2023,7,15,196,monsoon,12.8308478445,77.5935977053,"Bengaluru, Karnataka, India",Papilio polytes,research
+173037452,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-15,2023,7,15,196,monsoon,12.8308478445,77.5935977053,"Bengaluru, Karnataka, India",Papilio polytes,research
+173225516,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-16,2023,7,16,197,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Papilio polytes,research
+173225594,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-16,2023,7,16,197,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Papilio polytes,research
+173363432,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-17,2023,7,17,198,monsoon,13.0476777778,77.5005888889,"2GW2+X7M Foot over bridge, Manjunatha Nagar, Bagalakunte, Bengaluru, Karnataka 560073, India",Papilio polytes,research
+173553076,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-17,2023,7,17,198,monsoon,12.1680566,76.4560206,"S. Kallahalli, Karnataka 571189, India",Papilio polytes,research
+174473917,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-15,2023,7,15,196,monsoon,12.7951485461,77.5743673576,"Bannerughatta, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+174664490,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-24,2023,7,24,205,monsoon,12.3001502,76.6890908,"Lalith Mahal Quatras, Mysuru, Karnataka, India",Papilio polytes,research
+174728590,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-16,2023,7,16,197,monsoon,12.1626167222,75.8150787222,"Aimangala, 571218, India",Papilio polytes,research
+174984247,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-26,2023,7,26,207,monsoon,13.0512899488,77.760161239,"Sannatammanahalli, Bengaluru, KA, IN",Papilio polytes,research
+175171604,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-17,2023,7,17,198,monsoon,12.9596166422,77.308313325,"X855+99C, Varadenahalli, Karnataka 562120, India",Papilio polytes,research
+175260531,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-18,2023,7,18,199,monsoon,12.9596375533,77.3083019257,"Ramanagara, IN-KA, IN",Papilio polytes,research
+175295933,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-27,2023,7,27,208,monsoon,13.0979297506,77.3854358718,"Mangalore Bangalore Highway, Nelamangala, KA, IN",Papilio polytes,research
+175295960,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-27,2023,7,27,208,monsoon,13.0957881605,77.3862611566,"Indira Nagar, Nelamangala, KA, IN",Papilio polytes,research
+175296055,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-27,2023,7,27,208,monsoon,13.1050766275,77.391178993,"Nelamangala, Bengaluru Rural, KA, IN",Papilio polytes,research
+175565563,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-26,2023,7,26,207,monsoon,12.9596669596,77.3083076254,"Ramanagara, IN-KA, IN",Papilio polytes,research
+175572188,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-26,2023,7,26,207,monsoon,12.9582548024,77.3078975827,"Ramanagara, IN-KA, IN",Papilio polytes,research
+175673564,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-29,2023,7,29,210,monsoon,12.9596382068,77.3082808033,"Ramanagara, IN-KA, IN",Papilio polytes,research
+175695221,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-29,2023,7,29,210,monsoon,12.9596473554,77.3082710803,"Ramanagara, IN-KA, IN",Papilio polytes,research
+175783454,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-28,2023,7,28,209,monsoon,12.9602157863,77.5755014655,"Fort C Street, Bengaluru, KA, IN",Papilio polytes,research
+176094286,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-31,2023,7,31,212,monsoon,11.9584809,76.3087282,"Basapura (Kittur), Karnataka, India",Papilio polytes,research
+176243526,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-02,2023,8,2,214,monsoon,12.8800875113,77.5291875377,"Hosahalli, Karnataka 560062, India",Papilio polytes,research
+176295597,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-31,2023,7,31,212,monsoon,12.9596532367,77.3082861677,"Ramanagara, IN-KA, IN",Papilio polytes,research
+176298763,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-31,2023,7,31,212,monsoon,12.9581999105,77.308299914,"Ramanagara, IN-KA, IN",Papilio polytes,research
+176300362,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-31,2023,7,31,212,monsoon,12.9582998923,77.3078999296,"Ramanagara, IN-KA, IN",Papilio polytes,research
+176397685,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-03,2023,8,3,215,monsoon,12.8822590278,77.4634328485,GoodEarth Malhar - Mosaic,Papilio polytes,research
+176403030,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-13,2022,8,13,225,monsoon,13.1079930402,77.4766119697,"Karnataka, IN",Papilio polytes,research
+176633684,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-26,2023,7,26,207,monsoon,12.2146559806,75.6579333544,Honey Valley,Papilio polytes,research
+176923679,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-05,2023,8,5,217,monsoon,12.9908166667,77.6952666667,"Mahadevapura Mooru Temple Road, Bengaluru, KA, IN",Papilio polytes,research
+177464788,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-07,2023,8,7,219,monsoon,12.9596208898,77.3083012551,"Ramanagara, IN-KA, IN",Papilio polytes,research
+177467204,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-07,2023,8,7,219,monsoon,12.9582342179,77.3079062998,"Ramanagara, IN-KA, IN",Papilio polytes,research
+177485226,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-09,2023,8,9,221,monsoon,13.0652645363,77.6478886977,"Anjanappa Layout, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+177793315,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-10,2023,8,10,222,monsoon,12.873050544,77.5232715905,"Adarsha Layout, Lingadeeranahalli, Bengaluru, Karnataka 560109, India",Papilio polytes,research
+178020859,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-12,2023,8,12,224,monsoon,12.8406040747,75.3822565824,Konalu,Papilio polytes,research
+178149066,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-15,2023,7,15,196,monsoon,12.3070449722,75.8782806389,"Mysore Division, Karnataka, India",Papilio polytes,research
+178314897,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-14,2023,8,14,226,monsoon,12.9754736201,77.6526043564,Ravi Kuteera,Papilio polytes,research
+179146910,papilio_polytes,Common Mormon,butterfly,consumer,2023-06-29,2023,6,29,180,monsoon,12.3753635044,76.6319410571,"Mysore Division, Karnataka, India",Papilio polytes,research
+179849766,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-14,2023,8,14,226,monsoon,13.5026635,75.0903154,"Agumbe, Karnataka, India",Papilio polytes,research
+179936163,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-24,2023,8,24,236,monsoon,12.8792145333,77.5293401722,"Hosahalli, Karnataka 560062, India",Papilio polytes,research
+180083711,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-25,2023,8,25,237,monsoon,13.0171438763,77.5671880433,"Devasandra Layout, Bengaluru, Karnataka, India",Papilio polytes,research
+180084385,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-25,2023,8,25,237,monsoon,13.0171438763,77.5667159746,"Devasandra Layout, Bengaluru, Karnataka, India",Papilio polytes,research
+180230713,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-26,2023,8,26,238,monsoon,14.6374067,75.5101999,"Kadaramandalagi, Karnataka, India",Papilio polytes,research
+180922371,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-23,2023,8,23,235,monsoon,12.8789072887,77.5298513845,Sobha Forest View,Papilio polytes,research
+181529711,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-03,2023,9,3,246,monsoon,13.0570504877,77.5356107578,"Bangalore, IN-KA, IN",Papilio polytes romulus,research
+181722686,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-27,2023,8,27,239,monsoon,12.7960545,77.5764202,"Inside Bannerughatta Biological Park, QHWG+CHF, Bannerughatta, Bengaluru, Byrappanahalli, Karnataka 560083, India",Papilio polytes,research
+181728548,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-25,2023,8,25,237,monsoon,13.1391405005,75.041013924,"Mysore Division, Karnataka, India",Papilio polytes,research
+181734237,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-26,2023,8,26,238,monsoon,13.4645871292,75.0508835414,"Mysore Division, Karnataka, India",Papilio polytes,research
+182415858,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-09,2023,9,9,252,monsoon,12.2703646065,76.605684869,Arivu Vidya Samsthe,Papilio polytes,research
+182439551,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-09,2023,9,9,252,monsoon,12.8409532,77.5879346,"RHRQ+95M, Pillaganahalli, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+182564190,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-18,2023,8,18,230,monsoon,13.1165583333,74.9963055556,"Udupi, IN-KA, IN",Papilio polytes,research
+182615235,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-10,2023,9,10,253,monsoon,12.5658884211,75.781885609,"Garvale, Karnataka 571251, India",Papilio polytes,research
+183051638,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-07,2023,9,7,250,monsoon,12.9129677,77.2922332,"Savanadurga State Forest, Karnataka, India",Papilio polytes,research
+183302433,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-27,2023,7,27,208,monsoon,12.7960416667,77.5763866667,"Butterfly Park, Bengaluru, KA, IN",Papilio polytes,research
+183349718,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-12,2023,9,12,255,monsoon,12.8406045,75.3822567,"Konalu, Karnataka 574229, India",Papilio polytes,research
+183827748,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-18,2023,9,18,261,monsoon,12.8010042553,77.5775253028,"Bannerughatta National Park, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+183827757,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-18,2023,9,18,261,monsoon,12.8010042553,77.5775253028,"Bannerughatta National Park, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+183827761,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-18,2023,9,18,261,monsoon,12.8010042553,77.5775253028,"Bannerughatta National Park, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+183828064,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-18,2023,9,18,261,monsoon,12.8010042553,77.5775253028,"Bannerughatta National Park, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+183828215,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-18,2023,9,18,261,monsoon,12.8010042553,77.5775253028,"Bannerughatta National Park, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+183828340,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-18,2023,9,18,261,monsoon,12.8010042553,77.5775253028,"Bannerughatta National Park, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+183828733,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-18,2023,9,18,261,monsoon,12.8010042553,77.5775253028,"Bannerughatta National Park, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+183828874,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-17,2023,9,17,260,monsoon,12.0435934874,76.2261268653,"Mysore, IN-KA, IN",Papilio polytes,research
+183999026,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-17,2023,9,17,260,monsoon,13.1131184,77.5788725,"SH 9, Puttanahalli, Yelahanka, Bengaluru, Karnataka 560064, India",Papilio polytes,research
+183999032,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-17,2023,9,17,260,monsoon,13.1131184,77.5788725,"SH 9, Puttanahalli, Yelahanka, Bengaluru, Karnataka 560064, India",Papilio polytes,research
+183999038,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-17,2023,9,17,260,monsoon,13.1131184,77.5788725,"SH 9, Puttanahalli, Yelahanka, Bengaluru, Karnataka 560064, India",Papilio polytes,research
+184366948,papilio_polytes,Common Mormon,butterfly,consumer,2022-05-25,2022,5,25,145,pre_monsoon,15.3780966198,75.11134644,"Unkal Lake, Hubballi, KA, IN",Papilio polytes,research
+184367365,papilio_polytes,Common Mormon,butterfly,consumer,2020-12-22,2020,12,22,357,winter,12.9121174313,77.6445547119,HSR Layout,Papilio polytes,research
+184495566,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-23,2023,9,23,266,monsoon,12.890235,77.5873736,"Puttenahalli Lake, Nataraja Layout, JP Nagar 7th Phase, Bengaluru, Karnataka 560076",Papilio polytes,research
+184647271,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-24,2023,9,24,267,monsoon,12.950404801,77.5020616874,Bangalore University,Papilio polytes,research
+184651449,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-24,2023,9,24,267,monsoon,12.9378824234,77.5064468384,"WGQ4+HQ, Mutharayana Nagar, Gnana Bharathi, Bengaluru, Karnataka 560056, India",Papilio polytes,research
+184663143,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-24,2023,9,24,267,monsoon,12.9378846172,77.5072021871,"Jnana Bharathi, Bengaluru, KA, IN",Papilio polytes,research
+184877826,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-24,2023,9,24,267,monsoon,12.950404801,77.5020616874,"Bengaluru University Administrative Block, Gnana Bharathi, Bengaluru, Karnataka 560056, India",Papilio polytes,research
+184993064,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-24,2023,9,24,267,monsoon,12.9450419715,77.5046875328,"Bangalore University Road, Bengaluru, KA, IN",Papilio polytes,research
+184993415,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-24,2023,9,24,267,monsoon,12.950404801,77.5020616874,Bangalore University,Papilio polytes,research
+185267309,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-28,2023,9,28,271,monsoon,12.8901195963,77.6748978746,"Karnataka, IN",Papilio polytes,research
+185271298,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-22,2023,9,22,265,monsoon,13.128378,75.013952,"Moodubidire, Dakshina Kannada, KA, IN",Papilio polytes,research
+185302729,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-21,2023,9,21,264,monsoon,15.3172775,75.7138884,"Karnataka, India",Papilio polytes,research
+185685786,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-01,2023,10,1,274,post_monsoon,13.2150984441,74.9961797521,"6X8W+2FM, Karkala, Karnataka 574104, India",Papilio polytes,research
+185833904,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-01,2023,10,1,274,post_monsoon,12.5666623546,75.7807352766,"Garvale, Karnataka 571251, India",Papilio polytes,research
+186265232,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-17,2022,7,17,198,monsoon,12.2982957461,76.6926105693,Lalitha Mahal Palace Hotel,Papilio polytes,research
+186428951,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-30,2022,7,30,211,monsoon,15.2806484641,76.3912172613,"Hosapete, Hosapete, KA, IN",Papilio polytes,research
+186569017,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-16,2023,9,16,259,monsoon,13.4404157,75.0844757,"Someshwara Wildlife Sanctuary, Nadpal, Karnataka 576112, India",Papilio polytes,research
+186577743,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-06,2023,10,6,279,post_monsoon,12.9387020756,77.7122755059,"Karnataka, IN",Papilio polytes,research
+186643371,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-02,2023,10,2,275,post_monsoon,12.9717297616,77.5436583906,"Hoshalli Extension, Stage 1, Vijayanagar, Bengaluru, Karnataka 560040, India",Papilio polytes,research
+187230156,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-20,2023,7,20,201,monsoon,12.7223145,77.28093545,"Kumbhar Street, Ramanagara, KA, IN",Papilio polytes,research
+187258679,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-12,2023,10,12,285,post_monsoon,12.880047025,77.5291233333,"Hosahalli, Karnataka 560062, India",Papilio polytes,research
+187456142,papilio_polytes,Common Mormon,butterfly,consumer,2023-04-16,2023,4,16,106,pre_monsoon,12.8958,77.5943277778,"245, Sahyadri Layout, J. P. Nagar, Bengaluru, Karnataka 560078, India",Papilio polytes,research
+187468649,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-03,2023,8,3,215,monsoon,12.8286041,77.5122213,"21st KM, Udayapura Post, Kanakapura Rd, Bengaluru, Karnataka 560082, India",Papilio polytes,research
+187470138,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-04,2023,8,4,216,monsoon,12.8286041,77.5122213,"21st KM, Udayapura Post, Kanakapura Rd, Bengaluru, Karnataka 560082, India",Papilio polytes,research
+188247707,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-20,2023,10,20,293,post_monsoon,12.957754893,77.5992505252,"1, Shanthi Nagar, Bheemanna Garden, Langford Town, Ravindra Nagara, Davanagere, Bengaluru, Karnataka 577006, India",Papilio polytes,research
+188352698,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-21,2023,10,21,294,post_monsoon,13.1363181845,75.4483633116,"Madugundi, Karnataka, India",Papilio polytes,research
+188401284,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-21,2023,10,21,294,post_monsoon,12.2741781705,76.7815520922,"Mysore Division, Karnataka, India",Papilio polytes,research
+188401301,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-21,2023,10,21,294,post_monsoon,12.2741781705,76.7815520922,"Mysore Division, Karnataka, India",Papilio polytes,research
+188494538,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-22,2023,10,22,295,post_monsoon,12.796055,77.5763933333,"QHWG+9F8, Byrappanahalli, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+188494753,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-22,2023,10,22,295,post_monsoon,12.7998449722,77.5746579722,"RH2G+48J, Bannerughatta, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+188494881,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-22,2023,10,22,295,post_monsoon,12.79602,77.5764539722,"QHWG+9F8, Byrappanahalli, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+188754295,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-04,2023,10,4,277,post_monsoon,12.958225,77.3086083333,"Magadi, Ramanagara, KA, IN",Papilio polytes,research
+188887590,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-25,2023,10,25,298,post_monsoon,12.8605390934,77.5969428197,"45, Ramanshree Nagar, Mahaganapathy Nagar, Gottigere, Bengaluru, Karnataka 560076, India",Papilio polytes,research
+188985650,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-24,2023,9,24,267,monsoon,12.9507148849,77.5029431283,Bangalore University,Papilio polytes,research
+189107120,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-27,2023,10,27,300,post_monsoon,13.0027260605,77.5517368689,"1st Block, Rajajinagar, Bengaluru, Karnataka, India",Papilio polytes,research
+189333825,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-28,2023,10,28,301,post_monsoon,14.7341083333,74.7582138889,"Audala, Karnataka 581336, India",Papilio polytes,research
+189557701,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-29,2023,10,29,302,post_monsoon,12.1851713935,76.7174326071,"Basahallihundi, Karnataka, India",Papilio polytes,research
+189566733,papilio_polytes,Common Mormon,butterfly,consumer,2022-06-18,2022,6,18,169,monsoon,12.0485090657,76.6259722853,"Muddahalli, Karnataka, India",Papilio polytes,research
+189737662,papilio_polytes,Common Mormon,butterfly,consumer,2023-07-31,2023,7,31,212,monsoon,12.8368055658,77.7593143657,"RQP5+PPP, Bikkanahalli, Karnataka 562125, India",Papilio polytes,research
+190395856,papilio_polytes,Common Mormon,butterfly,consumer,2023-05-31,2023,5,31,151,pre_monsoon,13.0347150028,77.572972056,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+190645049,papilio_polytes,Common Mormon,butterfly,consumer,2023-11-11,2023,11,11,315,post_monsoon,12.8605390934,77.5969428197,"45, Ramanshree Nagar, Mahaganapathy Nagar, Gottigere, Bengaluru, Karnataka 560076, India",Papilio polytes,research
+190770270,papilio_polytes,Common Mormon,butterfly,consumer,2023-11-12,2023,11,12,316,post_monsoon,12.795968,77.5764539722,"QHWG+9F8, Byrappanahalli, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+190775447,papilio_polytes,Common Mormon,butterfly,consumer,2023-11-12,2023,11,12,316,post_monsoon,13.0651149549,77.6477995142,"115, Anjanappa Layout, Kothanur, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+190778073,papilio_polytes,Common Mormon,butterfly,consumer,2023-11-12,2023,11,12,316,post_monsoon,12.7959666667,77.5764533333,"QHWG+9F8, Byrappanahalli, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+191067677,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-29,2023,10,29,302,post_monsoon,15.2574968369,74.5931167817,"Belgaum Division, Karnataka, India",Papilio polytes,research
+191155410,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-24,2022,10,24,297,post_monsoon,12.3014428093,76.6051665321,"1779, CFTRI layout, Bogadi 2nd Stage, Saraswathipuram, Bhogadi, Mysuru, Karnataka 570009, India",Papilio polytes,research
+191326959,papilio_polytes,Common Mormon,butterfly,consumer,2023-11-18,2023,11,18,322,post_monsoon,12.910865137,77.6127993688,"MCHS Colony, Stage 2, BTM Layout, Bengaluru, Karnataka, India",Papilio polytes,research
+191438241,papilio_polytes,Common Mormon,butterfly,consumer,2023-11-19,2023,11,19,323,post_monsoon,12.9101549881,77.4850152433,"848/6, Fort Kengeri, Kengeri, Bengaluru, Karnataka 560060, India",Papilio polytes,research
+191463691,papilio_polytes,Common Mormon,butterfly,consumer,2023-11-19,2023,11,19,323,post_monsoon,12.2673531342,76.5989257023,"Rabindranath Tagore Nagar, Dattagalli 3rd Stage, Mysuru, Karnataka 570026, India",Papilio polytes,research
+191747930,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-08,2023,9,8,251,monsoon,13.034732,77.572999,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+191747944,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-10,2023,9,10,253,monsoon,13.034732,77.572999,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+191954888,papilio_polytes,Common Mormon,butterfly,consumer,2023-11-24,2023,11,24,328,post_monsoon,12.9183126,77.680097,"Saul Kere, Kaikondrahalli, Bengaluru, Karnataka 560035",Papilio polytes,research
+192350161,papilio_polytes,Common Mormon,butterfly,consumer,2023-11-26,2023,11,26,330,post_monsoon,12.3438895877,76.1057898402,"Piriyapatna, Karnataka 571107, India",Papilio polytes,research
+192641328,papilio_polytes,Common Mormon,butterfly,consumer,2023-11-18,2023,11,18,322,post_monsoon,12.9147412812,77.6638079435,"Amblipura, Eastwood Twp, HSR Layout, Bengaluru, Karnataka, India",Papilio polytes,research
+193468752,papilio_polytes,Common Mormon,butterfly,consumer,2023-12-09,2023,12,9,343,winter,12.8653533333,77.7633666667,"Kadagrahara, Bengaluru, KA, IN",Papilio polytes,research
+193767795,papilio_polytes,Common Mormon,butterfly,consumer,2023-12-12,2023,12,12,346,winter,13.0456450814,77.6387517527,Bens Sathya Enclave,Papilio polytes,research
+194098134,papilio_polytes,Common Mormon,butterfly,consumer,2023-12-16,2023,12,16,350,winter,12.934079,77.6063194,"Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka 560029, India",Papilio polytes,research
+194372206,papilio_polytes,Common Mormon,butterfly,consumer,2023-12-19,2023,12,19,353,winter,12.9441507623,75.7865650579,Sakleshpura,Papilio polytes,research
+194516684,papilio_polytes,Common Mormon,butterfly,consumer,2023-12-15,2023,12,15,349,winter,13.142092969,77.4880622327,"Bangalore, IN-KA, IN",Papilio polytes,research
+194645758,papilio_polytes,Common Mormon,butterfly,consumer,2023-12-22,2023,12,22,356,winter,12.8954589856,77.5918489695,"WH2W+Q7X, Doresanipalya, Anthappa Layout, Phase 4, J. P. Nagar, Bengaluru, Karnataka 560076, India",Papilio polytes,research
+194646281,papilio_polytes,Common Mormon,butterfly,consumer,2023-12-22,2023,12,22,356,winter,12.8954596392,77.5917654857,"VHVR+XG6, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India",Papilio polytes,research
+194715715,papilio_polytes,Common Mormon,butterfly,consumer,2023-12-24,2023,12,24,358,winter,12.9834505723,77.5655240938,"Okalipuram, Srirampura",Papilio polytes,research
+196132351,papilio_polytes,Common Mormon,butterfly,consumer,2024-01-08,2024,1,8,8,winter,12.8794476,77.5306096,"Hosahalli, Karnataka 560062, India",Papilio polytes,research
+197787264,papilio_polytes,Common Mormon,butterfly,consumer,2024-01-27,2024,1,27,27,winter,13.05518,77.5360905997,"127, HMT Estate, Vidyaranyapura, Bengaluru, Karnataka 560097, India",Papilio polytes,research
+199348450,papilio_polytes,Common Mormon,butterfly,consumer,2023-11-18,2023,11,18,322,post_monsoon,13.034774,77.57302,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+199348451,papilio_polytes,Common Mormon,butterfly,consumer,2023-11-18,2023,11,18,322,post_monsoon,13.034774,77.57302,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+199445482,papilio_polytes,Common Mormon,butterfly,consumer,2024-02-15,2024,2,15,46,winter,12.8154459481,77.6223793402,"Karnataka, IN",Papilio polytes,research
+200058848,papilio_polytes,Common Mormon,butterfly,consumer,2024-02-22,2024,2,22,53,winter,12.9714785136,77.5945626944,"67/1, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560002, India",Papilio polytes,research
+200171692,papilio_polytes,Common Mormon,butterfly,consumer,2023-11-25,2023,11,25,329,post_monsoon,13.034722,77.572993,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+200171693,papilio_polytes,Common Mormon,butterfly,consumer,2023-11-25,2023,11,25,329,post_monsoon,13.034722,77.572993,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+200703792,papilio_polytes,Common Mormon,butterfly,consumer,2023-12-24,2023,12,24,358,winter,13.034722,77.572993,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+200703816,papilio_polytes,Common Mormon,butterfly,consumer,2023-12-01,2023,12,1,335,winter,13.034722,77.572993,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+200809398,papilio_polytes,Common Mormon,butterfly,consumer,2024-02-29,2024,2,29,60,winter,12.9130824097,77.4732227437,"WF7F+587, Suncity, BSM Extension, Kengeri Satellite Town, Bengaluru, Karnataka 560060, India",Papilio polytes,research
+201920582,papilio_polytes,Common Mormon,butterfly,consumer,2024-03-09,2024,3,9,69,pre_monsoon,12.9779291,77.5951549,"Cubbon Park, Kasturba Rd, behind High Court of Karnataka, Ambedkar Veedhi, Sampangi Rama Nagara, Bengaluru, Karnataka 560001, India",Papilio polytes romulus,research
+202252826,papilio_polytes,Common Mormon,butterfly,consumer,2024-03-13,2024,3,13,73,pre_monsoon,12.8654283333,77.7633883333,"Kadagrahara, Bengaluru, KA, IN",Papilio polytes,research
+202805973,papilio_polytes,Common Mormon,butterfly,consumer,2024-03-17,2024,3,17,77,pre_monsoon,12.9727613,77.5442204,"Hoshalli Extension, Stage 1, Vijayanagar, Bengaluru, Karnataka 560040, India",Papilio polytes,research
+202915087,papilio_polytes,Common Mormon,butterfly,consumer,2024-03-17,2024,3,17,77,pre_monsoon,13.0215750741,77.5992589071,"Shriram Whitehouse Apartment, SHRIRAM WHITEHOUSE, Govindaraj Garden, RT Nagar, Bengaluru, Karnataka 560032, India",Papilio polytes,research
+203334407,papilio_polytes,Common Mormon,butterfly,consumer,2024-03-17,2024,3,17,77,pre_monsoon,14.4275475857,74.4190927595,Kumta,Papilio polytes,research
+203581233,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-25,2023,10,25,298,post_monsoon,12.302778,76.673611,"Karanji Lake, Jockey Quarters, Mysuru, Karnataka 570011",Papilio polytes,research
+205386511,papilio_polytes,Common Mormon,butterfly,consumer,2024-04-03,2024,4,3,94,pre_monsoon,12.9321333333,77.63092,"9th Main Road, Bengaluru, KA, IN",Papilio polytes,research
+206410952,papilio_polytes,Common Mormon,butterfly,consumer,2024-04-10,2024,4,10,101,pre_monsoon,12.8912593,77.58048041,"597, RBI Layout, Phase 7, J. P. Nagar, Bengaluru, Karnataka 560078, India",Papilio polytes,research
+207544101,papilio_polytes,Common Mormon,butterfly,consumer,2023-01-01,2023,1,1,1,winter,13.0454314,77.5478699,"Jalahalli, Bengaluru, Karnataka, India",Papilio polytes,research
+209426374,papilio_polytes,Common Mormon,butterfly,consumer,2024-04-26,2024,4,26,117,pre_monsoon,13.0721416667,77.5567333333,"5th Cross Road, Bengaluru, KA, IN",Papilio polytes,research
+210915305,papilio_polytes,Common Mormon,butterfly,consumer,2024-04-28,2024,4,28,119,pre_monsoon,13.08754703,77.56025678,"458A, Akashavani Layout, AMS Layout, Vidyaranyapura, Bengaluru, Karnataka 560097, India",Papilio polytes,research
+212960220,papilio_polytes,Common Mormon,butterfly,consumer,2024-04-20,2024,4,20,111,pre_monsoon,12.9522616667,77.583375,"Walk Trail 3, Bengaluru, KA, IN",Papilio polytes,research
+213739268,papilio_polytes,Common Mormon,butterfly,consumer,2024-04-28,2024,4,28,119,pre_monsoon,12.9560389987,77.5731261663,"Pampa Mahakavi Road, Bengaluru, KA, IN",Papilio polytes,research
+213933851,papilio_polytes,Common Mormon,butterfly,consumer,2024-05-06,2024,5,6,127,pre_monsoon,12.9624056459,77.5964362174,"PB27094, PB27094, Langford Gardens, Bengaluru, Karnataka 560025, India",Papilio polytes,research
+217629928,papilio_polytes,Common Mormon,butterfly,consumer,2024-04-15,2024,4,15,106,pre_monsoon,13.0462444336,77.4999407306,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India",Papilio polytes,research
+217703696,papilio_polytes,Common Mormon,butterfly,consumer,2021-12-03,2021,12,3,337,winter,13.3048161097,75.7759374753,"Chikmagalur, IN-KA, IN",Papilio polytes,research
+219471974,papilio_polytes,Common Mormon,butterfly,consumer,2024-05-31,2024,5,31,152,pre_monsoon,13.2752989551,77.717740126,"168, Sri Brindavan farms, Kurubarakunte, Karnataka 562110, India",Papilio polytes,research
+221584113,papilio_polytes,Common Mormon,butterfly,consumer,2024-06-08,2024,6,8,160,monsoon,12.9129677,77.2922332,"Savanadurga State Forest, Karnataka, India",Papilio polytes,research
+222686794,papilio_polytes,Common Mormon,butterfly,consumer,2024-05-07,2024,5,7,128,pre_monsoon,12.9980234612,77.6140905,"Robertson Road, Bengaluru, KA, IN",Papilio polytes,research
+222790706,papilio_polytes,Common Mormon,butterfly,consumer,2024-06-15,2024,6,15,167,monsoon,13.023741466,77.5711305501,"Bangalore, IN-KA, IN",Papilio polytes,research
+223693832,papilio_polytes,Common Mormon,butterfly,consumer,2024-06-14,2024,6,14,166,monsoon,13.2741089,75.3384468,"HORANADU POST AND VILLAGE MUDIGERE TALUK, Karnataka 577181, India",Papilio polytes,research
+224555796,papilio_polytes,Common Mormon,butterfly,consumer,2024-06-23,2024,6,23,175,monsoon,12.2597222222,76.5725,"Kergalli, Karnataka 570026, India",Papilio polytes,research
+224571324,papilio_polytes,Common Mormon,butterfly,consumer,2024-06-23,2024,6,23,175,monsoon,12.7962183333,77.5766766667,"Bannerghatta, IN-KA-BN, IN-KA, IN",Papilio polytes,research
+225662829,papilio_polytes,Common Mormon,butterfly,consumer,2024-06-28,2024,6,28,180,monsoon,13.3456383333,74.7562333333,"NH 169A, Udupi, KA, IN",Papilio polytes,research
+225884022,papilio_polytes,Common Mormon,butterfly,consumer,2024-06-29,2024,6,29,181,monsoon,13.3219959504,74.8052819073,"8RC3+RX9, Badagabettu, Karnataka 576107, India",Papilio polytes,research
+225906259,papilio_polytes,Common Mormon,butterfly,consumer,2024-06-29,2024,6,29,181,monsoon,12.7746460422,77.6120835543,Nandanavana Layout,Papilio polytes,research
+226224409,papilio_polytes,Common Mormon,butterfly,consumer,2024-06-17,2024,6,17,169,monsoon,12.9085926997,77.5990591997,"8a, Sarakki Industrial Layout, 3rd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",Papilio polytes,research
+227039999,papilio_polytes,Common Mormon,butterfly,consumer,2024-03-03,2024,3,3,63,pre_monsoon,12.9441507623,75.7865650579,Sakleshpura,Papilio polytes,research
+227093733,papilio_polytes,Common Mormon,butterfly,consumer,2024-07-04,2024,7,4,186,monsoon,12.990685998,75.6301332638,"Hassan, IN-KA, IN",Papilio polytes,research
+227462068,papilio_polytes,Common Mormon,butterfly,consumer,2024-07-04,2024,7,4,186,monsoon,15.4557055443,74.9286391182,"Karnataka, IN",Papilio polytes,research
+227462955,papilio_polytes,Common Mormon,butterfly,consumer,2024-07-06,2024,7,6,188,monsoon,12.3169846263,76.5485930455,"Mysore Division, Karnataka, India",Papilio polytes,research
+227982313,papilio_polytes,Common Mormon,butterfly,consumer,2024-07-08,2024,7,8,190,monsoon,13.0812444444,77.5670055556,"3HJ8+FHP, Vignana Kendra, Bengaluru, Karnataka 560065, India",Papilio polytes,research
+228259571,papilio_polytes,Common Mormon,butterfly,consumer,2021-09-12,2021,9,12,255,monsoon,12.9416165166,77.5101884071,"Gnana Bharathi, Bengaluru, Karnataka 560056, India",Papilio polytes,research
+228424269,papilio_polytes,Common Mormon,butterfly,consumer,2024-07-10,2024,7,10,192,monsoon,12.865345,77.7634883333,"Kadagrahara, Bengaluru, KA, IN",Papilio polytes,research
+228494865,papilio_polytes,Common Mormon,butterfly,consumer,2024-06-21,2024,6,21,173,monsoon,14.5764663278,74.9397259578,"Uttara Kannada, IN-KA, IN",Papilio polytes,research
+228615886,papilio_polytes,Common Mormon,butterfly,consumer,2024-07-11,2024,7,11,193,monsoon,12.2227231612,76.6272873804,"6JFG+3WM, Dadadahalli, Karnataka 570008, India",Papilio polytes,research
+228786349,papilio_polytes,Common Mormon,butterfly,consumer,2024-07-11,2024,7,11,193,monsoon,13.0718416667,77.5812166667,"3HCJ+PH2, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka 560065, India",Papilio polytes,research
+228817446,papilio_polytes,Common Mormon,butterfly,consumer,2021-04-01,2021,4,1,91,pre_monsoon,12.9233121798,77.5206864602,"Rajarajeshwari Nagar, Bengaluru, Karnataka, India",Papilio polytes,research
+228817463,papilio_polytes,Common Mormon,butterfly,consumer,2021-04-15,2021,4,15,105,pre_monsoon,12.9233801508,77.5207250802,"Rajarajeshwari Nagar, Bengaluru, Karnataka, India",Papilio polytes,research
+228956615,papilio_polytes,Common Mormon,butterfly,consumer,2024-07-13,2024,7,13,195,monsoon,13.0186416667,77.6451916667,"HRBR Layout 1st Block, Kalyan Nagar, Bengaluru, Karnataka 560043, India",Papilio polytes,research
+229434783,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-22,2023,9,22,265,monsoon,13.122776,74.993319,"Sammilan Shetty's Butterfly Park, Santhadi house NH-169 Butterfly Park Road Mangalore, Beluvai, Karnataka 574213, India",Papilio polytes,research
+230972532,papilio_polytes,Common Mormon,butterfly,consumer,2024-03-01,2024,3,1,61,pre_monsoon,13.034722,77.572993,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+230972556,papilio_polytes,Common Mormon,butterfly,consumer,2024-02-23,2024,2,23,54,winter,13.034722,77.572993,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+231161503,papilio_polytes,Common Mormon,butterfly,consumer,2024-07-23,2024,7,23,205,monsoon,13.0461565723,77.5013887882,"2GW2+C97, Nagasandra, Bengaluru, Karnataka 560073, India",Papilio polytes,research
+231469150,papilio_polytes,Common Mormon,butterfly,consumer,2023-09-30,2023,9,30,273,monsoon,13.3410762523,77.6678365597,"Moodiganahalli, Karnataka, India",Papilio polytes,research
+231815805,papilio_polytes,Common Mormon,butterfly,consumer,2024-07-26,2024,7,26,208,monsoon,13.3219894253,77.1203820035,"Dasappa Garden, Tumakuru, Karnataka 572103, India",Papilio polytes,research
+232029624,papilio_polytes,Common Mormon,butterfly,consumer,2024-07-21,2024,7,21,203,monsoon,12.9118666667,77.5868305556,"WH6P+PPJ, R K Colony, 2nd Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",Papilio polytes,research
+232209806,papilio_polytes,Common Mormon,butterfly,consumer,2024-06-10,2024,6,10,162,monsoon,12.9593091834,77.3087961227,"Ramanagara, IN-KA, IN",Papilio polytes,research
+232212922,papilio_polytes,Common Mormon,butterfly,consumer,2024-07-28,2024,7,28,210,monsoon,12.2552777778,76.5958333333,"7H4V+3M, Halalu, Karnataka 570026, India",Papilio polytes,research
+232220165,papilio_polytes,Common Mormon,butterfly,consumer,2024-07-28,2024,7,28,210,monsoon,12.2986976892,76.6920996085,"Alanahalli 1st Main Bus Stop, 1st Main Road, 1st Main Road, Eswara Temple, Alanahalli, Allanahalli Layout, Alanahalli Village, Mysuru, Karnataka 570011, India",Papilio polytes,research
+232243758,papilio_polytes,Common Mormon,butterfly,consumer,2024-07-28,2024,7,28,210,monsoon,12.3478696836,76.5107132761,"Hunsur Road, Mysuru, KA, IN",Papilio polytes,research
+232441148,papilio_polytes,Common Mormon,butterfly,consumer,2024-07-12,2024,7,12,194,monsoon,13.0176038127,77.5670378396,"Devasandra Layout, Bengaluru, Karnataka, India",Papilio polytes,research
+232441154,papilio_polytes,Common Mormon,butterfly,consumer,2024-07-12,2024,7,12,194,monsoon,13.0175829065,77.5668661783,"Devasandra Layout, Bengaluru, Karnataka, India",Papilio polytes,research
+232537428,papilio_polytes,Common Mormon,butterfly,consumer,2024-06-09,2024,6,9,161,monsoon,12.2982956,76.6926105,"Lalitha Mahal Palace Road, Lalithmahal Nagar, Siddhartha Layout, Mysuru, Karnataka 570028, India",Papilio polytes,research
+232667966,papilio_polytes,Common Mormon,butterfly,consumer,2024-07-07,2024,7,7,189,monsoon,12.8915028,77.5923063,"181, Main Rd, Arekere MICO Layout 2nd stage, Manjunatha Layout, Sahyadri Layout, Garvebhavi Palya, Bengaluru, Karnataka 560076, India",Papilio polytes,research
+232676062,papilio_polytes,Common Mormon,butterfly,consumer,2024-03-03,2024,3,3,63,pre_monsoon,13.034722,77.572993,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+232938320,papilio_polytes,Common Mormon,butterfly,consumer,2024-06-18,2024,6,18,170,monsoon,12.9596431078,77.3081000894,"Ramanagara, IN-KA, IN",Papilio polytes,research
+233056667,papilio_polytes,Common Mormon,butterfly,consumer,2024-03-05,2024,3,5,65,pre_monsoon,13.034722,77.572993,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+233056668,papilio_polytes,Common Mormon,butterfly,consumer,2024-03-05,2024,3,5,65,pre_monsoon,13.034722,77.572993,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+233056669,papilio_polytes,Common Mormon,butterfly,consumer,2024-03-05,2024,3,5,65,pre_monsoon,13.034722,77.572993,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+233056670,papilio_polytes,Common Mormon,butterfly,consumer,2024-03-05,2024,3,5,65,pre_monsoon,13.034722,77.572993,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+233259012,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-02,2024,8,2,215,monsoon,12.3752479722,75.9036789722,"Valnur Thyagathur, Karnataka 571234, India",Papilio polytes,research
+233310320,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-02,2024,8,2,215,monsoon,12.9424472222,77.5087944444,"Bangalore, IN-KA, IN",Papilio polytes,research
+233473745,papilio_polytes,Common Mormon,butterfly,consumer,2024-07-20,2024,7,20,202,monsoon,12.894244444,77.4972383779,"Banashankari 6th Stage 9th Block, Jettigana Halli, Kodipalya, Bengaluru, Karnataka 560060, India",Papilio polytes,research
+233924435,papilio_polytes,Common Mormon,butterfly,consumer,2024-07-19,2024,7,19,201,monsoon,12.1894550667,76.6425427794,"Byathahalli, Karnataka 571311, India",Papilio polytes,research
+234517144,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-07,2024,8,7,220,monsoon,12.8141902,77.5757145,"RH7G+M7G, Bannerghatta Rd, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+234804153,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-10,2024,8,10,223,monsoon,13.1226938302,74.9935263768,"#4-54(2) Deeksha Darshan Koranthabettu, Beluvai, Karnataka 574213, India",Papilio polytes,research
+234853620,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-09,2024,8,9,222,monsoon,12.8378402,77.589327,"Basavanapura, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+235280026,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-12,2024,8,12,225,monsoon,14.5766658857,74.9393930286,"Banavasi, Karnataka 581318, India",Papilio polytes,research
+235503349,papilio_polytes,Common Mormon,butterfly,consumer,2024-03-06,2024,3,6,66,pre_monsoon,13.034795,77.572956,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+235533368,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-13,2024,8,13,226,monsoon,12.8225173,77.7294705,"Muthanallur Lake, Bommasandra, Karnataka",Papilio polytes,research
+235668768,papilio_polytes,Common Mormon,butterfly,consumer,2024-05-28,2024,5,28,149,pre_monsoon,13.0303473,77.697725,"2nd Cross, Hirthika Garden Layout Hirthika Garden Road, Green Woods Layout, Margondanahalli, Bengaluru, Karnataka 560036, India",Papilio polytes,research
+235691914,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-14,2024,8,14,227,monsoon,12.9340495377,77.6063717902,"Block I, Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka 560029, India",Papilio polytes,research
+235924065,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-15,2024,8,15,228,monsoon,12.8381988,77.6287857,"RJRH+4F3, Bettadasanapura, Bengaluru, Karnataka 560100, India",Papilio polytes,research
+236054587,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-21,2022,7,21,202,monsoon,12.29193,76.67247,"Maharana Pratapa Simhaji Road, Mysuru, KA, IN",Papilio polytes,research
+236055133,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-16,2024,8,16,229,monsoon,13.0561467623,77.5356962532,"34/2, Kammagondahalli, Jalahalli, Bengaluru, Karnataka 560013, India",Papilio polytes,research
+236074348,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-02,2023,8,2,214,monsoon,13.349043,74.793893,"Block 13, Eshwar Nagar, Manipal, Karnataka 576104, India",Papilio polytes,research
+236223876,papilio_polytes,Common Mormon,butterfly,consumer,2024-01-31,2024,1,31,31,winter,12.8010387222,77.5775222778,"Terminal 10-15, Bannerghatta Bus Station, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+236240309,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-16,2024,8,16,229,monsoon,12.8411573059,77.5880020195,"Pillaganahalli, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+236292334,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-17,2024,8,17,230,monsoon,12.8378402,77.589327,"RHQQ+4P Kalkere Arboretum, Basavanapura, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+236444190,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-18,2024,8,18,231,monsoon,13.0721333333,77.5567383333,"5th Cross Road, Bengaluru, KA, IN",Papilio polytes,research
+236676677,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-19,2024,8,19,232,monsoon,15.3426766978,75.1147360727,"84V7+4WV, Chaitanya Nagar, Rajendra Nagar, Hubballi, Karnataka 580030, India",Papilio polytes,research
+236847395,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-20,2024,8,20,233,monsoon,13.0462444336,77.4999407306,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India",Papilio polytes,research
+236875312,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-16,2024,8,16,229,monsoon,13.4759157,75.0273116,"Seethanadi, Karnataka 576112, India",Papilio polytes,research
+236875318,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-16,2024,8,16,229,monsoon,13.4759157,75.0273116,"Seethanadi, Karnataka 576112, India",Papilio polytes,research
+236888506,papilio_polytes,Common Mormon,butterfly,consumer,2024-03-11,2024,3,11,71,pre_monsoon,13.034795,77.572956,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+237122089,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-17,2024,8,17,230,monsoon,12.9255720095,77.6138169318,"Maruti Nagar, 1st Stage, BTM Layout, Bengaluru, Karnataka, India",Papilio polytes,research
+237449879,papilio_polytes,Common Mormon,butterfly,consumer,2024-03-22,2024,3,22,82,pre_monsoon,13.0347221154,77.5730208307,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+237575831,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-24,2024,8,24,237,monsoon,13.0652008499,77.6472701132,"12, Anjanappa Layout, Kothanur, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+237802918,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-25,2024,8,25,238,monsoon,12.8543148409,77.509945035,"VG35+JWX, Badamanavarathekaval, Bengaluru, Karnataka 560062, India",Papilio polytes,research
+238184679,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-27,2024,8,27,240,monsoon,13.0462444336,77.4999407306,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India",Papilio polytes,research
+238212974,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-27,2024,8,27,240,monsoon,13.0651639444,77.6478370652,"Anjanappa Layout, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+238220393,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-27,2024,8,27,240,monsoon,12.9026348284,77.4815836921,"191, Kengeri, Bengaluru, Karnataka 560060, India",Papilio polytes,research
+238709302,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-30,2024,8,30,243,monsoon,13.0462444336,77.4999407306,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India",Papilio polytes,research
+238709415,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-30,2024,8,30,243,monsoon,13.0462444336,77.4999407306,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India",Papilio polytes,research
+238709925,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-30,2024,8,30,243,monsoon,13.0462444336,77.4999407306,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India",Papilio polytes,research
+239194384,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-31,2024,8,31,244,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Papilio polytes,research
+239377627,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-17,2024,8,17,230,monsoon,12.83742,77.58723,"Kalkere State Forest, Bengaluru, Karnataka, India",Papilio polytes,research
+239554357,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-03,2024,9,3,247,monsoon,13.0462444336,77.4999407306,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India",Papilio polytes,research
+239554420,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-03,2024,9,3,247,monsoon,13.0462444336,77.4999407306,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India",Papilio polytes,research
+239563303,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-31,2024,8,31,244,monsoon,13.1672814157,77.4874547124,"4FMH+HGV, Aivarkhandpur, Hesaraghatta, Bengaluru, Karnataka 560088, India",Papilio polytes,research
+239608798,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-03,2024,9,3,247,monsoon,12.9070328551,77.6088220099,"Stage 2, BTM 2nd Stage, Bengaluru, Karnataka, India",Papilio polytes,research
+239616938,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-03,2024,9,3,247,monsoon,12.9303166667,77.6065611111,"46, Tavarekere, Bhavani Nagar, Sadduguntepalya, Bengaluru, Karnataka 560029, India",Papilio polytes,research
+239651229,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-01,2024,9,1,245,monsoon,12.3371257764,75.8069082722,Kodagu,Papilio polytes,research
+239796085,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-30,2024,8,30,243,monsoon,15.2371238884,74.6183238924,"Old Dandeli, Dandeli, Karnataka 581325, India",Papilio polytes,research
+240266087,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-07,2024,9,7,251,monsoon,13.4591222222,74.7074277778,"FP55+R66, Karnataka 576226, India",Papilio polytes,research
+240674121,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-06,2024,9,6,250,monsoon,13.1223641997,74.9926903,"Karnataka 574213, India",Papilio polytes,research
+240746313,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-06,2024,9,6,250,monsoon,15.3919565943,74.407219626,"9CV4+2V2, Durg, Karnataka 581453, India",Papilio polytes,research
+240759479,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-07,2024,9,7,251,monsoon,13.4891519364,75.0642548874,"F3Q7+MP6, Someshwara HC, Karnataka 576112, India",Papilio polytes,research
+240759540,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-07,2024,9,7,251,monsoon,13.4891519364,75.0642548874,"F3Q7+MP6, Someshwara HC, Karnataka 576112, India",Papilio polytes,research
+240760147,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-07,2024,9,7,251,monsoon,13.4891519364,75.0642548874,"F3Q7+MP6, Someshwara HC, Karnataka 576112, India",Papilio polytes,research
+240876026,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-10,2024,9,10,254,monsoon,13.0462444336,77.4999407306,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India",Papilio polytes,research
+240894808,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-08,2024,9,8,252,monsoon,12.8339968795,77.5924818383,"Bengaluru, Karnataka, India",Papilio polytes,research
+241071862,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-07,2024,8,7,220,monsoon,12.1917366244,76.6442644224,"5JVV+MG7, Byathahalli, Karnataka 571311, India",Papilio polytes,research
+241417341,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-13,2024,9,13,257,monsoon,12.8841089202,77.4633383006,"32, Maheshwari Nagar, Bengaluru, Kambipura, Karnataka 560074, India",Papilio polytes,research
+241835821,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-15,2024,9,15,259,monsoon,12.8915028,77.5923063,"181, Main Rd, Arekere MICO Layout 2nd stage, Manjunatha Layout, Sahyadri Layout, Garvebhavi Palya, Bengaluru, Karnataka 560076, India",Papilio polytes,research
+242217979,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-17,2024,9,17,261,monsoon,13.0462444336,77.4999407306,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India",Papilio polytes,research
+242218284,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-17,2024,9,17,261,monsoon,13.0462444336,77.4999407306,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India",Papilio polytes,research
+242398367,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-18,2024,9,18,262,monsoon,12.9315592,77.5117161,"5, B Block, Ideal Homes Layout, Kenchenhalli, Rajarajeshwari Nagar, Bengaluru, Karnataka 560098, India",Papilio polytes,research
+242643126,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-19,2024,9,19,263,monsoon,12.9714785136,77.5945626944,Bangalore,Papilio polytes,research
+242854474,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-20,2024,9,20,264,monsoon,12.7960834997,77.5764834,"QHWG+9F8, Byrappanahalli, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+242854566,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-20,2024,9,20,264,monsoon,12.7960539997,77.5764838997,"QHWG+9F8, Byrappanahalli, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+242854617,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-20,2024,9,20,264,monsoon,12.7959438997,77.5764254997,"QHWG+9F8, Byrappanahalli, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+243027865,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-21,2024,9,21,265,monsoon,13.0823971667,77.60978,"Nehru Nagar, Bengaluru, KA, IN",Papilio polytes,research
+243047847,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-21,2024,9,21,265,monsoon,12.8409432085,77.5879402464,"Pillaganahalli, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+243065502,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-21,2024,9,21,265,monsoon,13.0835970457,77.6093802229,"Jakkur Lake entrance, revised 01.june, Agrahara, Bengaluru, Karnataka 560064, India",Papilio polytes,research
+243278766,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-22,2024,9,22,266,monsoon,12.8543147,77.5099453,"Thatguni Post, VG35+PXG, Kanakpura Road, Bengaluru, Rachanamadu, Karnataka 560082, India",Papilio polytes,research
+243742465,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-22,2024,9,22,266,monsoon,13.122776,74.993319,Sammilan Shetty's Butterfly Park,Papilio polytes,research
+243756590,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-22,2024,9,22,266,monsoon,13.122776,74.993319,Sammilan Shetty's Butterfly Park,Papilio polytes,research
+243767170,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-21,2024,9,21,265,monsoon,13.440438,75.084438,"C3RM+5Q Nadpal, Karnataka",Papilio polytes,research
+243774596,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-20,2024,9,20,264,monsoon,13.122776,74.993319,Sammilan Shetty's Butterfly Park,Papilio polytes,research
+244275234,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-27,2024,9,27,271,monsoon,12.881454554,77.4640458001,"Kambipura, Bengaluru, KA, IN",Papilio polytes,research
+244287096,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-25,2024,9,25,269,monsoon,12.8470072,77.6466324,"Magnolia Enclave, 1-58, Magnolia Enclave Road, Doddathoguru, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",Papilio polytes,research
+244287098,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-26,2024,9,26,270,monsoon,12.8470072,77.6466324,"Magnolia Enclave, 1-58, Magnolia Enclave Road, Doddathoguru, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",Papilio polytes,research
+244880389,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-20,2024,9,20,264,monsoon,13.0169513,77.5670914,"IISC Bangalore, Gulmohar Marg, Mathikere, Bengaluru, Karnataka 560012, India",Papilio polytes,research
+245187785,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-08,2024,9,8,252,monsoon,13.0334934,77.673888,"Kalkere, Bengaluru, Karnataka 560016, India",Papilio polytes,research
+245191681,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-02,2024,10,2,276,post_monsoon,12.8141902,77.5757145,"RH7G+M7G, Bannerghatta Rd, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+245372762,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-21,2024,9,21,265,monsoon,12.83742,77.58723,"Kalkere State Forest, Bengaluru, Karnataka, India",Papilio polytes,research
+245372763,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-21,2024,9,21,265,monsoon,12.83742,77.58723,"Kalkere State Forest, Bengaluru, Karnataka, India",Papilio polytes,research
+245535803,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-03,2024,10,3,277,post_monsoon,12.8813941045,77.4639959774,"Bengaluru, Karnataka, India",Papilio polytes,research
+245600285,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-20,2024,9,20,264,monsoon,12.8470072,77.6466324,"Magnolia Enclave, 1-58, Magnolia Enclave Road, Doddathoguru, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",Papilio polytes,research
+245614055,papilio_polytes,Common Mormon,butterfly,consumer,2022-08-20,2022,8,20,232,monsoon,12.9871753057,77.7460605651,"Kadugodi, Bengaluru, Karnataka, India",Papilio polytes,research
+245695569,papilio_polytes,Common Mormon,butterfly,consumer,2022-11-29,2022,11,29,333,post_monsoon,15.4381879364,75.0215051696,Y.S. Colony,Papilio polytes,research
+245697904,papilio_polytes,Common Mormon,butterfly,consumer,2024-04-29,2024,4,29,120,pre_monsoon,15.5963030969,75.1536964998,"H5W3+WG, Gummagol, Karnataka 580201, India",Papilio polytes,research
+247056612,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-13,2024,10,13,287,post_monsoon,13.0652374287,77.6475396752,"Domanuel Asish, 7/14, Anjanappa Layout, Kothanur, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+247106484,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-13,2024,10,13,287,post_monsoon,12.9129207003,77.4733057246,"WF7F+587, Suncity, BSM Extension, Kengeri Satellite Town, Bengaluru, Karnataka 560060, India",Papilio polytes,research
+247454192,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-08,2024,10,8,282,post_monsoon,12.8470072,77.6466324,"Magnolia Enclave, 1-58, Magnolia Enclave Road, Doddathoguru, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",Papilio polytes,research
+247662652,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-24,2023,10,24,297,post_monsoon,12.79595,77.5765083333,"QHWG+9F8, Byrappanahalli, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+247855839,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-18,2024,10,18,292,post_monsoon,12.937332,77.7125085,"27th Cross Road, Bengaluru, KA, IN",Papilio polytes,research
+248462459,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-20,2024,10,20,294,post_monsoon,12.9344834338,77.4303262646,"M Krishnasagara, Bengaluru, KA, IN",Papilio polytes,research
+248898123,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-18,2024,10,18,292,post_monsoon,12.910865137,77.6127993688,"MCHS Colony, Stage 2, BTM Layout",Papilio polytes,research
+249167605,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-26,2024,10,26,300,post_monsoon,12.2783143673,76.6676387606,"Chamundi Hill, Mysuru, Karnataka, India",Papilio polytes,research
+249272751,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-27,2024,10,27,301,post_monsoon,12.8653883333,77.7634366667,"Kadagrahara, Bengaluru, Karnataka, IN",Papilio polytes,research
+249777169,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-20,2024,10,20,294,post_monsoon,12.8476527,77.6090379,Raja Iris/Eagle Ridge,Papilio polytes,research
+249867523,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-20,2024,10,20,294,post_monsoon,12.8476527,77.6090379,Raja Iris/Eagle Ridge,Papilio polytes,research
+250141448,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-24,2024,10,24,298,post_monsoon,11.7787611,76.4646806,"Bandipur National Park, Karnataka, India",Papilio polytes,research
+250373138,papilio_polytes,Common Mormon,butterfly,consumer,2024-11-01,2024,11,1,306,post_monsoon,12.921424,77.676541,"16, Annaiah Reddy Layout, Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka 560103, India",Papilio polytes,research
+250418032,papilio_polytes,Common Mormon,butterfly,consumer,2024-11-04,2024,11,4,309,post_monsoon,13.0461353418,77.5013747066,"2GW2+C97, Nagasandra, Bengaluru, Karnataka 560073, India",Papilio polytes,research
+250519134,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-10,2024,8,10,223,monsoon,13.1227761135,74.9933188409,"#4-54(2) Deeksha Darshan Koranthabettu, Beluvai, Karnataka 574213, India",Papilio polytes,research
+250532940,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-14,2024,8,14,227,monsoon,13.1233178106,74.9929222092,"Karnataka 574213, India",Papilio polytes,research
+250627269,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-23,2024,8,23,236,monsoon,13.1228482745,74.9929269031,"Karnataka 574213, India",Papilio polytes,research
+250627469,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-23,2024,8,23,236,monsoon,13.1229782297,74.9927572533,Sammilan Shetty's Butterfly Park,Papilio polytes,research
+250639619,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-27,2024,8,27,240,monsoon,13.1229854131,74.9932943657,Sammilan Shetty's Butterfly Park,Papilio polytes,research
+250686502,papilio_polytes,Common Mormon,butterfly,consumer,2024-11-05,2024,11,5,310,post_monsoon,12.8673833333,77.7661833333,"Yamare, Bengaluru, Karnataka, IN",Papilio polytes,research
+250686582,papilio_polytes,Common Mormon,butterfly,consumer,2024-11-04,2024,11,4,309,post_monsoon,12.8654,77.7634366667,"Kadagrahara, Bengaluru, Karnataka, IN",Papilio polytes,research
+250701919,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-30,2024,9,30,274,monsoon,13.0535846,77.6118629997,"Ayyappa Layout, Thanisandra, 3J36+FR2, Fortune Valley, Ayyappa Layout, Dasarahalli, Bengaluru, Byatarayanapura CMC and OG Part, Karnataka 560024, India",Papilio polytes,research
+250771254,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-30,2024,8,30,243,monsoon,13.1230827162,74.9931324273,"4XCV+6VX, Beluvai, Karnataka 574213, India",Papilio polytes,research
+250791395,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-01,2024,9,1,245,monsoon,13.1230549619,74.9929822236,"Karnataka 574213, India",Papilio polytes,research
+250982292,papilio_polytes,Common Mormon,butterfly,consumer,2024-11-09,2024,11,9,314,post_monsoon,13.704586,76.915312,"PW47+2X9, Yaliyuru, Karnataka 572137, India",Papilio polytes,research
+250982566,papilio_polytes,Common Mormon,butterfly,consumer,2024-11-09,2024,11,9,314,post_monsoon,13.704586,76.915312,"PW47+2X9, Yaliyuru, Karnataka 572137, India",Papilio polytes,research
+251050905,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-18,2024,9,18,262,monsoon,13.1227761135,74.9933188409,"#4-54(2) Deeksha Darshan Koranthabettu, Beluvai, Karnataka 574213, India",Papilio polytes,research
+251102847,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-20,2024,9,20,264,monsoon,13.1227761135,74.9933188409,"#4-54(2) Deeksha Darshan Koranthabettu, Beluvai, Karnataka 574213, India",Papilio polytes,research
+251103431,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-22,2024,9,22,266,monsoon,13.1227761135,74.9933188409,"#4-54(2) Deeksha Darshan Koranthabettu, Beluvai, Karnataka 574213, India",Papilio polytes,research
+251133076,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-29,2024,9,29,273,monsoon,13.1227761135,74.9933188409,Sammilan Shetty's Butterfly Park,Papilio polytes,research
+251144651,papilio_polytes,Common Mormon,butterfly,consumer,2024-11-10,2024,11,10,315,post_monsoon,12.9872366667,77.6189583333,"St Johns Church Road, Bengaluru, Karnataka, IN",Papilio polytes,research
+251426959,papilio_polytes,Common Mormon,butterfly,consumer,2024-11-12,2024,11,12,317,post_monsoon,13.0654,77.6475027778,"Domanuel Asish, 7/14, Anjanappa Layout, Kothanur, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+251437422,papilio_polytes,Common Mormon,butterfly,consumer,2024-11-12,2024,11,12,317,post_monsoon,12.1041013,75.863889,"4V37+MHV, Virajpet, Karnataka 571218, India",Papilio polytes,research
+251851133,papilio_polytes,Common Mormon,butterfly,consumer,2024-11-16,2024,11,16,321,post_monsoon,13.0650388889,77.6480222222,"Bornmann Enclave, 4, BDS Nagar, Kothanur, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+252145977,papilio_polytes,Common Mormon,butterfly,consumer,2024-11-17,2024,11,17,322,post_monsoon,13.0561010371,77.5356416032,"34/2, Kammagondahalli, Jalahalli, Bengaluru, Karnataka 560013, India",Papilio polytes,research
+252147736,papilio_polytes,Common Mormon,butterfly,consumer,2024-11-18,2024,11,18,323,post_monsoon,13.0444581312,77.4992728606,"5, vikas Nagar, 4th cross, 1st main, Nagasandra post, Bengaluru, Block-2, Block-2, Nagasandra, Bengaluru, Karnataka 560073, India",Papilio polytes,research
+252248533,papilio_polytes,Common Mormon,butterfly,consumer,2024-11-19,2024,11,19,324,post_monsoon,12.9549805406,77.637741901,"TOWER-5, 101, Krishna Reddy Layout, Amarjyoti Layout, Domlur, Bengaluru, Karnataka 560071, India",Papilio polytes,research
+252496967,papilio_polytes,Common Mormon,butterfly,consumer,2024-11-07,2024,11,7,312,post_monsoon,12.9291669997,77.5510476,"39, Block 4, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560085, India",Papilio polytes,research
+252563974,papilio_polytes,Common Mormon,butterfly,consumer,2024-11-22,2024,11,22,327,post_monsoon,13.4590944444,74.7073027778,"FP54+PJH, Udupi, Karnataka 576226, India",Papilio polytes,research
+253267967,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-19,2024,10,19,293,post_monsoon,13.2412088522,75.1101246849,"3 Mala Mala Road Mulluru Kudremukha Check Post, Karnataka 574122, India",Papilio polytes,research
+253298516,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-24,2024,10,24,298,post_monsoon,13.1227761135,74.9933188409,Sammilan Shetty's Butterfly Park,Papilio polytes,research
+253517420,papilio_polytes,Common Mormon,butterfly,consumer,2024-11-29,2024,11,29,334,post_monsoon,12.3212888889,76.6586666667,"Mysore, IN-KA, IN",Papilio polytes,research
+254197734,papilio_polytes,Common Mormon,butterfly,consumer,2024-11-20,2024,11,20,325,post_monsoon,13.381341,77.6831825,"Nandi Hills Trail Road, Nandi, Karnataka, IN",Papilio polytes,research
+254283197,papilio_polytes,Common Mormon,butterfly,consumer,2024-12-06,2024,12,6,341,winter,13.0652055556,77.6473694444,"Domanuel Asish, 7/14, Anjanappa Layout, Kothanur, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+254492708,papilio_polytes,Common Mormon,butterfly,consumer,2024-12-05,2024,12,5,340,winter,13.0220861667,77.56405,"Indian Institute of Science, Bengaluru, Karnataka, IN",Papilio polytes,research
+254821945,papilio_polytes,Common Mormon,butterfly,consumer,2024-12-10,2024,12,10,345,winter,12.8470072,77.6466324,"Magnolia Enclave, 1-58, Magnolia Enclave Road, Doddathoguru, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",Papilio polytes,research
+255274101,papilio_polytes,Common Mormon,butterfly,consumer,2024-12-09,2024,12,9,344,winter,12.9141417,74.8559568,"Mangaluru, Karnataka, India",Papilio polytes,research
+255604565,papilio_polytes,Common Mormon,butterfly,consumer,2024-12-19,2024,12,19,354,winter,12.929519304,77.6200109762,"Koramangala, Bengaluru, Karnataka, India",Papilio polytes,research
+255744380,papilio_polytes,Common Mormon,butterfly,consumer,2024-12-21,2024,12,21,356,winter,12.9320033333,77.6267466667,"1st A Cross Road, Bengaluru, Karnataka, IN",Papilio polytes,research
+255746897,papilio_polytes,Common Mormon,butterfly,consumer,2024-12-21,2024,12,21,356,winter,13.0876909262,77.5583595783,"AMS Layout, Vidyaranyapura",Papilio polytes,research
+256054454,papilio_polytes,Common Mormon,butterfly,consumer,2024-12-23,2024,12,23,358,winter,13.0650111111,77.6479888889,"BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Papilio polytes,research
+256260854,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-16,2024,9,16,260,monsoon,12.6633023,75.2727512,"Acharimule, Karnataka 574223, India",Papilio polytes,research
+256266378,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-14,2024,8,14,227,monsoon,13.0462444336,77.4999407306,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India ",Papilio polytes,research
+256267000,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-17,2024,8,17,230,monsoon,13.0444581312,77.4992728606,"5, vikas Nagar, 4th cross, 1st main, Nagasandra post, Bengaluru, Block-2, Block-2, Nagasandra, Bengaluru, Karnataka 560073, India ",Papilio polytes,research
+256267198,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-19,2024,8,19,232,monsoon,13.0461451405,77.5013636425,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India ",Papilio polytes,research
+256271978,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-24,2024,8,24,237,monsoon,13.0462444336,77.4999407306,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India",Papilio polytes,research
+256286365,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-21,2024,8,21,234,monsoon,13.0462444336,77.4999407306,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India ",Papilio polytes,research
+256367887,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-10,2024,9,10,254,monsoon,13.0457427416,77.5012845173,"Nagasandra, Bengaluru, Karnataka 560073, India",Papilio polytes,research
+256368360,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-13,2024,9,13,257,monsoon,13.0462444336,77.4999407306,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India ",Papilio polytes,research
+256372504,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-21,2024,9,21,265,monsoon,13.0462444336,77.4999407306,"243, Mayanna Layout, Nagasandra, Bengaluru, Karnataka 560073, India ",Papilio polytes,research
+256493415,papilio_polytes,Common Mormon,butterfly,consumer,2024-12-28,2024,12,28,363,winter,12.9200115,77.5983783,"Jayanagara 9th Block, Jayanagar, Bengaluru, Karnataka, India",Papilio polytes,research
+256597290,papilio_polytes,Common Mormon,butterfly,consumer,2024-12-29,2024,12,29,364,winter,13.0686934533,74.8950242624,"3V9W+F26, Ikala, Karnataka 574227, India",Papilio polytes,research
+257787323,papilio_polytes,Common Mormon,butterfly,consumer,2024-12-31,2024,12,31,366,winter,12.8470072,77.6466324,"Magnolia Enclave, 1-58, Magnolia Enclave Road, Doddathoguru, Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",Papilio polytes,research
+257909214,papilio_polytes,Common Mormon,butterfly,consumer,2024-12-10,2024,12,10,345,winter,12.9272892,74.8994231,"Pilikula, Moodushedde Rd, Vamanjoor, Mangaluru, Karnataka 575028, India",Papilio polytes,research
+266714528,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-21,2024,9,21,265,monsoon,13.0825905194,77.6098673083,"Jakkur Lake entrance, 01.june, revised, Agrahara, Bengaluru, Karnataka 560064, India",Papilio polytes,research
+271403180,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-23,2024,8,23,236,monsoon,13.23436519,75.05688075,"Karnataka 576117, India",Papilio polytes,research
+272345456,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-02,2022,7,2,183,monsoon,12.1729838,76.8115458,"Bilugali, Karnataka 571129, India",Papilio polytes,research
+278400897,papilio_polytes,Common Mormon,butterfly,consumer,2019-05-26,2019,5,26,146,pre_monsoon,12.8915028,77.5923063,"181, Main Rd, Arekere MICO Layout 2nd stage, Manjunatha Layout, Sahyadri Layout, Garvebhavi Palya, Bengaluru, Karnataka 560076, India",Papilio polytes,research
+278737563,papilio_polytes,Common Mormon,butterfly,consumer,2020-01-06,2020,1,6,6,winter,12.8608396,77.5991544,"Ramanshree Nagar, Phase 2, Gottigere, Bengaluru, Karnataka 560083, India",Papilio polytes,research
+279182889,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-13,2024,8,13,226,monsoon,13.0347459274,77.5730085313,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+279210107,papilio_polytes,Common Mormon,butterfly,consumer,2020-06-20,2020,6,20,172,monsoon,12.8543147,77.5099453,"Thatguni Post, VG35+PXG, Kanakpura Road, Bengaluru, Rachanamadu, Karnataka 560082, India",Papilio polytes,research
+279246328,papilio_polytes,Common Mormon,butterfly,consumer,2021-10-10,2021,10,10,283,post_monsoon,12.8543147,77.5099453,"Thatguni Post, VG35+PXG, Kanakpura Road, Bengaluru, Rachanamadu, Karnataka 560082, India",Papilio polytes,research
+279433395,papilio_polytes,Common Mormon,butterfly,consumer,2023-08-20,2023,8,20,232,monsoon,12.8915028,77.5923063,"181, Main Rd, Arekere MICO Layout 2nd stage, Manjunatha Layout, Sahyadri Layout, Garvebhavi Palya, Bengaluru, Karnataka 560076, India",Papilio polytes romulus,research
+280506277,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-26,2024,8,26,239,monsoon,13.0347315917,77.5730042066,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+280506292,papilio_polytes,Common Mormon,butterfly,consumer,2024-08-21,2024,8,21,234,monsoon,13.0347315917,77.5730042066,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+281216877,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-13,2024,9,13,257,monsoon,13.0347142284,77.5729825048,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+281216893,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-07,2024,9,7,251,monsoon,13.0347142284,77.5729825048,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+282763025,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-09,2024,10,9,283,post_monsoon,12.9585998374,77.3093000427,"Ramanagara, IN-KA, IN",Papilio polytes,research
+282866418,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-14,2024,9,14,258,monsoon,13.0347413106,77.5729871901,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+283094506,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-18,2024,10,18,292,post_monsoon,12.9612000003,77.3078999296,"Ramanagara, IN-KA, IN",Papilio polytes,research
+284113590,papilio_polytes,Common Mormon,butterfly,consumer,2024-11-13,2024,11,13,318,post_monsoon,12.9585998374,77.3079998419,"Ramanagara, IN-KA, IN",Papilio polytes,research
+285321490,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-17,2024,10,17,291,post_monsoon,13.0347047012,77.572985693,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Papilio polytes,research
+285343160,papilio_polytes,Common Mormon,butterfly,consumer,2022-12-12,2022,12,12,346,winter,13.0618611111,77.4990277778,"Sri Lakshminarasimha Krupa, 9, Visveshwaraiah Layout, Vigneshwara Layout, Bagalakunte, Bengaluru, Karnataka 560073, India",Papilio polytes,research
+288995433,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-24,2024,10,24,298,post_monsoon,13.122776,74.993319,"Sammilan Shetty's Butterfly Park, Santhadi house NH-169 Butterfly Park Road Mangalore, Beluvai, Karnataka 574213, India",Papilio polytes,research
+290133636,papilio_polytes,Common Mormon,butterfly,consumer,2024-10-25,2024,10,25,299,post_monsoon,13.3614295758,75.0366710787,"Karnataka, India",Papilio polytes,research
+291663986,papilio_polytes,Common Mormon,butterfly,consumer,2022-07-21,2022,7,21,202,monsoon,12.29193,76.67247,"Maharana Pratapa Simhaji Road, Mysuru, Karnataka, IN",Papilio polytes,research
+293691472,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-02,2022,10,2,275,post_monsoon,12.7796761715,77.5611489446,"Bengaluru, Karnataka, India",Papilio polytes,research
+293691475,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-02,2022,10,2,275,post_monsoon,12.7796761715,77.5611489446,"Bengaluru, Karnataka, India",Papilio polytes,research
+293691484,papilio_polytes,Common Mormon,butterfly,consumer,2022-10-02,2022,10,2,275,post_monsoon,12.7796761715,77.5611489446,"Bengaluru, Karnataka, India",Papilio polytes,research
+295929015,papilio_polytes,Common Mormon,butterfly,consumer,2024-11-03,2024,11,3,308,post_monsoon,13.9917658324,75.4990028789,"Karnataka, IN",Papilio polytes,research
+303190543,papilio_polytes,Common Mormon,butterfly,consumer,2022-02-06,2022,2,6,37,winter,12.8225173,77.7294705,"Muthanallur Lake, Bommasandra, Karnataka 560099",Papilio polytes,research
+320618502,papilio_polytes,Common Mormon,butterfly,consumer,2021-06-15,2021,6,15,166,monsoon,13.4589758853,74.9745024741,"FX5F+FX8, Huthorke, Karnataka 576112, India",Papilio polytes,research
+322642775,papilio_polytes,Common Mormon,butterfly,consumer,2023-10-10,2023,10,10,283,post_monsoon,12.9063428383,77.5856822357,"RR Tower, 1st Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",Papilio polytes,research
+330842678,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-16,2024,9,16,260,monsoon,12.8720438461,77.5536244735,"35A, 7th Main Road Kuvempunagara, Narayana Nagar 2nd Block, Doddakallasandra, Post, Bengaluru, Thippasandra, Karnataka 560109, India",Papilio polytes,research
+330842954,papilio_polytes,Common Mormon,butterfly,consumer,2023-12-22,2023,12,22,356,winter,12.8720444998,77.553623803,"35A, 7th Main Road Kuvempunagara, Narayana Nagar 2nd Block, Doddakallasandra, Post, Bengaluru, Thippasandra, Karnataka 560109, India",Papilio polytes,research
+331547274,papilio_polytes,Common Mormon,butterfly,consumer,2024-09-13,2024,9,13,257,monsoon,12.99,77.5799999997,"XHQH+RR5, Kumara Park East, Seshadripuram, Bengaluru, Karnataka 560001, India",Papilio polytes,research
+332240506,papilio_polytes,Common Mormon,butterfly,consumer,2024-12-23,2024,12,23,358,winter,13.0103568,77.5626001,"2H67+42X, 8th Main Rd, Malleshwaram, Bengaluru, Karnataka 560055, India",Papilio polytes,research
+335041538,papilio_polytes,Common Mormon,butterfly,consumer,2023-11-21,2023,11,21,325,post_monsoon,12.324223251,76.6822927818,"Walid Manzil, Udayagiri, Mysuru, Karnataka 570019, India",Papilio polytes,research

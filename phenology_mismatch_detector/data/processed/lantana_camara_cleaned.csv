@@ -1,0 +1,284 @@
+observation_id,species_key,species_common,species_type,species_role,observed_date,year,month,day,day_of_year,season,latitude,longitude,place_guess,scientific_name,quality_grade
+28718387,lantana_camara,Lantana,plant,resource,2019-07-13,2019,7,13,194,monsoon,12.9727916667,77.6913133333,"1st Cross Road, Bengaluru, Karnataka, IN",Lantana camara,research
+29031079,lantana_camara,Lantana,plant,resource,2019-07-18,2019,7,18,199,monsoon,12.3523292542,76.6297302246,"Mysuru, Karnataka 570020, India",Lantana camara,research
+29501487,lantana_camara,Lantana,plant,resource,2019-07-25,2019,7,25,206,monsoon,13.0678396225,77.5787506104,"Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka, India",Lantana camara,research
+30019525,lantana_camara,Lantana,plant,resource,2019-07-30,2019,7,30,211,monsoon,13.3447829722,74.7968929722,"Eshwar Nagar, Manipal, Karnataka, India",Lantana camara,research
+31190824,lantana_camara,Lantana,plant,resource,2019-08-19,2019,8,19,231,monsoon,13.122776,74.993319,"Sammilan Shetty Butterfly Park, Belvai, Karnataka 574213, India",Lantana camara,research
+32936346,lantana_camara,Lantana,plant,resource,2019-09-18,2019,9,18,261,monsoon,13.0852642609,77.483593002,Bengaluru,Lantana camara,research
+33831678,lantana_camara,Lantana,plant,resource,2019-10-04,2019,10,4,277,post_monsoon,13.1992641,77.76550309,"Nallur, Hospital Nallur, Karnataka 562129, India",Lantana camara,research
+34360620,lantana_camara,Lantana,plant,resource,2019-10-14,2019,10,14,287,post_monsoon,12.9222104,77.6704588,"Bellandur, Bengaluru, Karnataka, India",Lantana camara,research
+34441000,lantana_camara,Lantana,plant,resource,2019-10-16,2019,10,16,289,post_monsoon,12.89361875,77.59016025,"Achappa Layout, Silver Oak Layout, JP Nagar 7th Phase, J. P. Nagar, Bengaluru, Karnataka 560078, India",Lantana camara,research
+35317019,lantana_camara,Lantana,plant,resource,2019-09-22,2019,9,22,265,monsoon,13.6747910666,77.7015120909,"Gudibanda [R], Karnataka 561209, India",Lantana camara,research
+35513454,lantana_camara,Lantana,plant,resource,2019-11-10,2019,11,10,314,post_monsoon,12.9866315,77.7102672,"20/A, NCPR Industrial Layout, Seetharampalya, Hoodi, Bengaluru, Karnataka 560048, India",Lantana camara,research
+36494055,lantana_camara,Lantana,plant,resource,2019-11-20,2019,11,20,324,post_monsoon,13.0688280093,77.5758653507,"Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka, India",Lantana camara,research
+37230036,lantana_camara,Lantana,plant,resource,2019-12-26,2019,12,26,360,winter,12.3765336297,75.5540544167,"Chettimani, Kodagu, Karnataka 571201, India",Lantana camara,research
+37230156,lantana_camara,Lantana,plant,resource,2020-01-01,2020,1,1,1,winter,13.1456928253,77.4917755127,"Hesaraghatta Grass Farm, Karnataka 560089, India",Lantana camara,research
+37575254,lantana_camara,Lantana,plant,resource,2020-01-14,2020,1,14,14,winter,14.847784981,74.112198837,"Karwar, Uttara Kannada, Karnataka, IN",Lantana camara,research
+37705644,lantana_camara,Lantana,plant,resource,2020-01-18,2020,1,18,18,winter,13.1944528824,75.3341542607,"Chikmagalur, IN-KA, IN",Lantana camara,research
+38459394,lantana_camara,Lantana,plant,resource,2020-02-09,2020,2,9,40,winter,12.9418719351,77.6879594066,"Kadubeesanahalli, Bengaluru, Karnataka, IN",Lantana camara,research
+38873219,lantana_camara,Lantana,plant,resource,2020-02-20,2020,2,20,51,winter,12.9819179199,77.7399319506,"Whitefield, Bengaluru, Karnataka, IN",Lantana camara,research
+42837653,lantana_camara,Lantana,plant,resource,2020-04-22,2020,4,22,113,pre_monsoon,13.1218781741,77.60783921,Bengaluru,Lantana camara,research
+46627587,lantana_camara,Lantana,plant,resource,2020-05-20,2020,5,20,141,pre_monsoon,12.9024377406,77.6634588307,"Haralur, Bengaluru, Karnataka, IN",Lantana camara,research
+46826549,lantana_camara,Lantana,plant,resource,2020-05-22,2020,5,22,143,pre_monsoon,13.0960766667,74.8529733333,"Karnataka 574141, India",Lantana camara,research
+47617112,lantana_camara,Lantana,plant,resource,2020-05-28,2020,5,28,149,pre_monsoon,14.2825965833,74.4441146667,"Uttara Kannada, IN-KA, IN",Lantana camara,research
+50363458,lantana_camara,Lantana,plant,resource,2020-06-21,2020,6,21,173,monsoon,12.8218415,77.6516437,"Bangalore, IN-KA, IN",Lantana camara,research
+52004317,lantana_camara,Lantana,plant,resource,2020-07-05,2020,7,5,187,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Lantana camara,research
+52378957,lantana_camara,Lantana,plant,resource,2020-07-08,2020,7,8,190,monsoon,16.8660398262,75.7365918576," Hanchinal Lake Bijapur County, Karnataka, IN",Lantana camara,research
+52444683,lantana_camara,Lantana,plant,resource,2020-02-24,2020,2,24,55,winter,12.3972748,75.8740918,"Chiklihole Reservoir, Attur Forest, Karnataka 571234",Lantana camara,research
+52638110,lantana_camara,Lantana,plant,resource,2020-07-11,2020,7,11,193,monsoon,13.0653199,77.6149464,Bengaluru,Lantana camara,research
+52668258,lantana_camara,Lantana,plant,resource,2020-07-11,2020,7,11,193,monsoon,16.845844464,75.8818249241,Honnutagi Lake,Lantana camara,research
+53060909,lantana_camara,Lantana,plant,resource,2020-07-14,2020,7,14,196,monsoon,12.922888,77.5583548,"7 Block, Banagirinagara, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka, India",Lantana camara,research
+53323040,lantana_camara,Lantana,plant,resource,2020-07-17,2020,7,17,199,monsoon,16.8754574005,75.6960513164,"Bijapur, Bijapur, KA, IN",Lantana camara,research
+53445417,lantana_camara,Lantana,plant,resource,2020-07-18,2020,7,18,200,monsoon,13.9653908892,75.5468375166,Shivamogga,Lantana camara,research
+53482964,lantana_camara,Lantana,plant,resource,2020-07-18,2020,7,18,200,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Lantana camara,research
+53582628,lantana_camara,Lantana,plant,resource,2020-07-19,2020,7,19,201,monsoon,16.8660398262,75.7365918576," Hanchinal Lake Bijapur County, Karnataka, IN",Lantana camara,research
+53801453,lantana_camara,Lantana,plant,resource,2020-07-21,2020,7,21,203,monsoon,16.8837956758,75.7171852794,"Bijapur, Bijapur, KA, IN",Lantana camara,research
+53857932,lantana_camara,Lantana,plant,resource,2020-06-14,2020,6,14,166,monsoon,13.29208833,77.70018833,Bengaluru Rural,Lantana camara,research
+54229961,lantana_camara,Lantana,plant,resource,2020-07-25,2020,7,25,207,monsoon,16.8738764897,75.6962736883,"Bijapur, Bijapur, KA, IN",Lantana camara,research
+54609322,lantana_camara,Lantana,plant,resource,2020-07-28,2020,7,28,210,monsoon,16.9820048008,76.0653044936,"Indi, Bijapur, KA, IN",Lantana camara,research
+54902094,lantana_camara,Lantana,plant,resource,2020-07-31,2020,7,31,213,monsoon,16.7935266858,75.7066467126,"Bijapur, Bijapur, KA, IN",Lantana camara,research
+55138372,lantana_camara,Lantana,plant,resource,2020-07-29,2020,7,29,211,monsoon,13.0690212454,77.6126006779,"Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru, KA, IN",Lantana camara,research
+56192788,lantana_camara,Lantana,plant,resource,2020-08-12,2020,8,12,225,monsoon,16.8627802464,75.6969425493,"Bijapur, Bijapur, KA, IN",Lantana camara,research
+56282871,lantana_camara,Lantana,plant,resource,2020-08-13,2020,8,13,226,monsoon,16.8994355528,75.7015140542,"Bijapur, Bijapur, KA, IN",Lantana camara,research
+56738986,lantana_camara,Lantana,plant,resource,2020-08-16,2020,8,16,229,monsoon,13.3821927548,77.6481552422,Chikkarayappanahalli,Lantana camara,research
+56823667,lantana_camara,Lantana,plant,resource,2020-08-18,2020,8,18,231,monsoon,16.9533711719,75.9884550144,"Sindgi, Bijapur, KA, IN",Lantana camara,research
+56902129,lantana_camara,Lantana,plant,resource,2020-08-19,2020,8,19,232,monsoon,16.8926329259,75.6955556945,"Bijapur, IN-KA, IN",Lantana camara,research
+56926289,lantana_camara,Lantana,plant,resource,2020-08-19,2020,8,19,232,monsoon,12.2695761549,76.6799309291,Mysuru,Lantana camara,research
+57184343,lantana_camara,Lantana,plant,resource,2020-08-22,2020,8,22,235,monsoon,16.8693977455,75.6934983563,"Bijapur, IN-KA, IN",Lantana camara,research
+57992240,lantana_camara,Lantana,plant,resource,2020-08-30,2020,8,30,243,monsoon,16.8870669231,75.7045165357,"Bijapur, Bijapur, KA, IN",Lantana camara,research
+58007533,lantana_camara,Lantana,plant,resource,2020-08-30,2020,8,30,243,monsoon,13.1095665833,77.6071879722,"Maruthi Nagar, Yelahanka, Bengaluru, Karnataka 560064, India",Lantana camara,research
+58224462,lantana_camara,Lantana,plant,resource,2020-08-21,2020,8,21,234,monsoon,13.0704008723,77.5771658868,"Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli",Lantana camara,research
+60155223,lantana_camara,Lantana,plant,resource,2020-09-20,2020,9,20,264,monsoon,13.0682378889,77.5733248889,"31, Dhanalakshmi Layout, Virupakshapura, Bengaluru, Karnataka 560097, India",Lantana camara,research
+61660711,lantana_camara,Lantana,plant,resource,2020-09-27,2020,9,27,271,monsoon,13.1213716944,77.5277253889,"Mavallipura, Karnataka, India",Lantana camara,research
+61749569,lantana_camara,Lantana,plant,resource,2020-10-05,2020,10,5,279,post_monsoon,16.8593720673,75.7409441192,"Bijapur, Vijayapura, KA, IN",Lantana camara,research
+62784929,lantana_camara,Lantana,plant,resource,2020-10-17,2020,10,17,291,post_monsoon,13.0906079722,77.6072479722,"Basaveshwara Nagar Yelahanka, Nehru Nagar, Bengaluru, Karnataka 560064, India",Lantana camara,research
+63155340,lantana_camara,Lantana,plant,resource,2020-10-21,2020,10,21,295,post_monsoon,13.2297096252,77.5450668335,Bisuvanahalli,Lantana camara,research
+63806551,lantana_camara,Lantana,plant,resource,2020-10-30,2020,10,30,304,post_monsoon,17.0463043917,75.7527242974,"Bijapur, Vijayapura, KA, IN",Lantana camara,research
+63938741,lantana_camara,Lantana,plant,resource,2020-11-01,2020,11,1,306,post_monsoon,16.906795199,75.5722144806,"Bijapur, Vijayapura, KA, IN",Lantana camara,research
+64914859,lantana_camara,Lantana,plant,resource,2020-11-15,2020,11,15,320,post_monsoon,13.1332111667,77.5468,"Lingarajapura Near Yelehanka, Bengaluru, KA, IN",Lantana camara,research
+65504903,lantana_camara,Lantana,plant,resource,2020-11-24,2020,11,24,329,post_monsoon,16.859505,75.7408616667,"Bijapur, Vijayapura, KA, IN",Lantana camara,research
+66730911,lantana_camara,Lantana,plant,resource,2019-12-28,2019,12,28,362,winter,13.4324584113,77.3060365466,"Tumkur, IN-KA, IN",Lantana camara,research
+67072746,lantana_camara,Lantana,plant,resource,2020-11-10,2020,11,10,315,post_monsoon,13.0859166667,77.5681194444,"Vignana Kendra, Bengaluru, Karnataka, India",Lantana camara,research
+67848926,lantana_camara,Lantana,plant,resource,2021-01-10,2021,1,10,10,winter,16.6199639579,75.513364384,"Bijapur, Vijayapura, KA, IN",Lantana camara,research
+68315129,lantana_camara,Lantana,plant,resource,2021-01-19,2021,1,19,19,winter,11.7464276031,76.6889635194,"Chamrajnagar, IN-KA, IN",Lantana camara,research
+68316323,lantana_camara,Lantana,plant,resource,2021-01-19,2021,1,19,19,winter,11.8051064573,76.7404795345,"Kandegala, Karnataka, India",Lantana camara,research
+68317429,lantana_camara,Lantana,plant,resource,2021-01-19,2021,1,19,19,winter,11.7650158564,76.7374737002,"Kandegala, Karnataka, India",Lantana camara,research
+68317977,lantana_camara,Lantana,plant,resource,2021-01-19,2021,1,19,19,winter,11.7351792986,76.7321756668,"Bommalapura, Karnataka 571111, India",Lantana camara,research
+68594540,lantana_camara,Lantana,plant,resource,2021-01-25,2021,1,25,25,winter,11.6501975711,76.7301659379,"Chamrajnagar, IN-KA, IN",Lantana camara,research
+68757210,lantana_camara,Lantana,plant,resource,2021-01-29,2021,1,29,29,winter,11.6959594097,76.6411278304,"Bandipur, IN-KA-CJ, IN-KA, IN",Lantana camara,research
+69365629,lantana_camara,Lantana,plant,resource,2021-02-08,2021,2,8,39,winter,11.7667965917,76.3114547543,"Bandipur, IN-KA-MY, IN-KA, IN",Lantana camara,research
+69540126,lantana_camara,Lantana,plant,resource,2021-02-14,2021,2,14,45,winter,13.0234683333,77.5711616667,"CPRI Staff Colony, Mathikere, Bengaluru, Karnataka 560012, India",Lantana camara,research
+69758338,lantana_camara,Lantana,plant,resource,2021-02-18,2021,2,18,49,winter,13.0558746912,77.5459373021,"Prestige Wellington Park Road, Bengaluru, KA, IN",Lantana camara,research
+69910919,lantana_camara,Lantana,plant,resource,2021-02-21,2021,2,21,52,winter,13.1563542,77.4696593,"Bangalore, IN-KA, IN",Lantana camara,research
+70133767,lantana_camara,Lantana,plant,resource,2020-09-22,2020,9,22,266,monsoon,13.3861593078,77.6468248665,"Melekote, Karnataka 561205, India",Lantana camara,research
+70303299,lantana_camara,Lantana,plant,resource,2021-02-28,2021,2,28,59,winter,12.2314763954,75.6278289109,"Kodagu, IN-KA, IN",Lantana camara,research
+70817058,lantana_camara,Lantana,plant,resource,2021-03-04,2021,3,4,63,pre_monsoon,12.991429882,77.7282181755,"Tower 2, Thigalarapalya, Hoodi, Bengaluru, Karnataka 560067, India",Lantana camara,research
+74506164,lantana_camara,Lantana,plant,resource,2021-04-19,2021,4,19,109,pre_monsoon,13.1227436066,77.6084136963,Bengaluru,Lantana camara,research
+79256864,lantana_camara,Lantana,plant,resource,2021-05-18,2021,5,18,138,pre_monsoon,12.9705499722,77.745148,"5, Dodsworth Layout, Whitefield, Bengaluru, Karnataka 560066, India",Lantana camara,research
+80074463,lantana_camara,Lantana,plant,resource,2021-05-24,2021,5,24,144,pre_monsoon,13.0749028333,75.00125,"Moodabidri Shirthady Road, Mudbidri, KA, IN",Lantana camara,research
+80843098,lantana_camara,Lantana,plant,resource,2021-03-06,2021,3,6,65,pre_monsoon,12.269372,76.611978,"Lingambudhi Lake, Lingambudhi Kere, Ramakrishnanagar, Mysuru, Karnataka 570023",Lantana camara,research
+83133636,lantana_camara,Lantana,plant,resource,2021-06-14,2021,6,14,165,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Lantana camara,research
+83756524,lantana_camara,Lantana,plant,resource,2021-06-19,2021,6,19,170,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Lantana camara,research
+84720820,lantana_camara,Lantana,plant,resource,2021-06-20,2021,6,20,171,monsoon,12.8255251,77.0348573,"Huliyurdurga, Karnataka 572123, India",Lantana camara,research
+85647766,lantana_camara,Lantana,plant,resource,2021-06-23,2021,6,23,174,monsoon,12.7959941422,77.6315995912,Jigani Lake,Lantana camara,research
+85872605,lantana_camara,Lantana,plant,resource,2021-07-05,2021,7,5,186,monsoon,12.9324504997,77.5320636997,"D'souza Nagar, Dwaraka Nagar, Banashankari, Bengaluru, Karnataka 560085, India",Lantana camara,research
+86364219,lantana_camara,Lantana,plant,resource,2021-07-10,2021,7,10,191,monsoon,13.09764213,77.57022624,"Purva Venezia, Yelahanka New Town, Bengaluru, Karnataka 560065, India",Lantana camara,research
+86519872,lantana_camara,Lantana,plant,resource,2021-07-11,2021,7,11,192,monsoon,12.9244099997,77.5340465997,"Durga Parameshwari Nagar, Bangarappanagar, Hosakerehalli, Bengaluru, Karnataka, India",Lantana camara,research
+87353415,lantana_camara,Lantana,plant,resource,2021-07-17,2021,7,17,198,monsoon,12.9717376029,77.8661266342,"114, Anish projects green county, Marasandra, Karnataka 563160, India",Lantana camara,research
+87377669,lantana_camara,Lantana,plant,resource,2021-07-17,2021,7,17,198,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Lantana camara,research
+87528476,lantana_camara,Lantana,plant,resource,2021-07-18,2021,7,18,199,monsoon,17.114522,75.723634,"Bijapur, IN-KA, IN",Lantana camara,research
+87740185,lantana_camara,Lantana,plant,resource,2021-07-19,2021,7,19,200,monsoon,12.4435082032,75.6992842165,"Madikeri, Kodagu, KA, IN",Lantana camara,research
+88389019,lantana_camara,Lantana,plant,resource,2021-07-24,2021,7,24,205,monsoon,12.8507133333,77.7815633333,"B Hosahalli, Bengaluru, KA, IN",Lantana camara,research
+88490426,lantana_camara,Lantana,plant,resource,2021-07-24,2021,7,24,205,monsoon,12.8061455422,77.5390222046,"Bengaluru, Karnataka, India",Lantana camara,research
+88818241,lantana_camara,Lantana,plant,resource,2021-07-27,2021,7,27,208,monsoon,13.0604558,77.657084,"Koel's Pizzeria Cross, Road, Hanumanthappa Layout, Kyalasanahalli, Bengaluru, Karnataka 560077, India",Lantana camara,research
+89155480,lantana_camara,Lantana,plant,resource,2019-08-19,2019,8,19,231,monsoon,13.122776,74.993319,"Sammilan Shetty Butterfly Park, Belvai, Karnataka 574213, India",Lantana camara,research
+91270293,lantana_camara,Lantana,plant,resource,2021-08-13,2021,8,13,225,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Lantana camara,research
+91279921,lantana_camara,Lantana,plant,resource,2021-08-14,2021,8,14,226,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Lantana camara,research
+91836000,lantana_camara,Lantana,plant,resource,2021-08-20,2021,8,20,232,monsoon,13.0481087,77.5278821,"2GXH+2GR, Siddhartha Nagar, 2nd Stage, Bengaluru, Karnataka 560058, India",Lantana camara aculeata,research
+93964552,lantana_camara,Lantana,plant,resource,2021-09-07,2021,9,7,250,monsoon,12.9325578444,77.5321404833,"D'souza Nagar, Dwaraka Nagar, Banashankari, Bengaluru, Karnataka 560085, India",Lantana camara,research
+94401031,lantana_camara,Lantana,plant,resource,2021-09-08,2021,9,8,251,monsoon,14.1880459722,75.274444,"57PG+V6X, Ambaligolla, Karnataka 577214, India",Lantana camara,research
+94618414,lantana_camara,Lantana,plant,resource,2021-09-10,2021,9,10,253,monsoon,12.5594229588,76.3632969931,"Hosaagrahara, Karnataka 571601, India",Lantana camara,research
+96357041,lantana_camara,Lantana,plant,resource,2021-09-27,2021,9,27,270,monsoon,13.1550273895,77.6379623413,Bengaluru,Lantana camara,research
+96458226,lantana_camara,Lantana,plant,resource,2021-09-28,2021,9,28,271,monsoon,13.0263246,77.5631656,"Indian Institute of Science, Mathikere, Bengaluru, Karnataka 560012, India",Lantana camara,research
+98585360,lantana_camara,Lantana,plant,resource,2021-10-17,2021,10,17,290,post_monsoon,13.122776,74.993319,"Sammilan Shetty's Buttery Park, Beluvai, Karnataka 574213, India",Lantana camara,research
+98786866,lantana_camara,Lantana,plant,resource,2021-10-20,2021,10,20,293,post_monsoon,13.84503333,75.52895333,"Shivamogga, Shivamogga, KA, IN",Lantana camara,research
+98787630,lantana_camara,Lantana,plant,resource,2021-10-20,2021,10,20,293,post_monsoon,13.84433667,75.527655,"Shivamogga, Shivamogga, KA, IN",Lantana camara,research
+98861113,lantana_camara,Lantana,plant,resource,2021-10-20,2021,10,20,293,post_monsoon,13.0695060138,77.6167428866,8th Cross Road,Lantana camara,research
+98909222,lantana_camara,Lantana,plant,resource,2021-10-20,2021,10,20,293,post_monsoon,13.0695060138,77.6167428866,8th Cross Road,Lantana camara,research
+98947148,lantana_camara,Lantana,plant,resource,2021-10-22,2021,10,22,295,post_monsoon,14.2357531469,76.4143662527,Bank Colony,Lantana camara,research
+98947344,lantana_camara,Lantana,plant,resource,2021-10-22,2021,10,22,295,post_monsoon,14.2357531469,76.4143662527,Bank Colony,Lantana camara,research
+98947500,lantana_camara,Lantana,plant,resource,2021-10-22,2021,10,22,295,post_monsoon,14.2357531469,76.4143662527,Bank Colony,Lantana camara,research
+98947521,lantana_camara,Lantana,plant,resource,2021-10-22,2021,10,22,295,post_monsoon,14.2357531469,76.4143662527,Bank Colony,Lantana camara,research
+98947528,lantana_camara,Lantana,plant,resource,2021-10-22,2021,10,22,295,post_monsoon,14.2357531469,76.4143662527,"6CP7+7PX, Bank Colony, Chitradurga, Karnataka 577502, India",Lantana camara,research
+99107094,lantana_camara,Lantana,plant,resource,2021-10-23,2021,10,23,296,post_monsoon,13.119738,77.586433,"Bangalore, Karnataka, India",Lantana camara,research
+99107096,lantana_camara,Lantana,plant,resource,2021-10-23,2021,10,23,296,post_monsoon,13.119741,77.586437,"Bangalore, Karnataka, India",Lantana camara,research
+99939884,lantana_camara,Lantana,plant,resource,2021-11-01,2021,11,1,305,post_monsoon,13.0836016667,77.5395333333,"Bengaluru, Karnataka 560097, India",Lantana camara,research
+100308386,lantana_camara,Lantana,plant,resource,2021-11-05,2021,11,5,309,post_monsoon,12.2935583321,76.5740945095,"Kemmannupura, Karnataka 570026, India",Lantana camara,research
+103511191,lantana_camara,Lantana,plant,resource,2021-12-15,2021,12,15,349,winter,12.5712413283,75.6390780373,"Kodagu, IN-KA, IN",Lantana camara,research
+103632112,lantana_camara,Lantana,plant,resource,2021-12-15,2021,12,15,349,winter,12.5086564398,75.6125944894,"Kodagu, IN-KA, IN",Lantana camara,research
+103632124,lantana_camara,Lantana,plant,resource,2021-12-15,2021,12,15,349,winter,12.4098731382,75.7380661481,"Kodagu, IN-KA, IN",Lantana camara,research
+104635996,lantana_camara,Lantana,plant,resource,2022-01-09,2022,1,9,9,winter,12.2626994217,76.5676205815,"Muganahundi, Mysore Dt",Lantana camara,research
+106951377,lantana_camara,Lantana,plant,resource,2022-02-18,2022,2,18,49,winter,13.7328714,75.6341858,"PJMM+4MR, Malligenahalli, Karnataka 577115, India",Lantana camara,research
+111373774,lantana_camara,Lantana,plant,resource,2022-04-14,2022,4,14,104,pre_monsoon,14.2588096605,75.6573566794,"Karnataka 577217, India",Lantana camara,research
+112021341,lantana_camara,Lantana,plant,resource,2022-04-18,2022,4,18,108,pre_monsoon,12.0485329,76.1531401,"Nagarahole Tiger Reserve Forest Campus, Old BM Rd, Hunsur, Karnataka 571105, India",Lantana camara,research
+119204273,lantana_camara,Lantana,plant,resource,2022-05-29,2022,5,29,149,pre_monsoon,12.8237901511,77.7341317903,"Muthanallur Amanikere, Karnataka, India",Lantana camara,research
+119709660,lantana_camara,Lantana,plant,resource,2022-06-01,2022,6,1,152,monsoon,12.3008643882,76.677831933,"Vihara Marg, Mysuru, KA, IN",Lantana camara,research
+120415621,lantana_camara,Lantana,plant,resource,2022-04-04,2022,4,4,94,pre_monsoon,13.5494673209,77.6577204488,"Yerramaranahalli, Karnataka, India",Lantana camara,research
+120417226,lantana_camara,Lantana,plant,resource,2022-04-04,2022,4,4,94,pre_monsoon,13.3719195915,77.6853787131,"Nandi Hills, Karnataka, India",Lantana camara,research
+121094308,lantana_camara,Lantana,plant,resource,2022-06-10,2022,6,10,161,monsoon,12.8485166667,77.777345,"Bikkanahalli Main Road, Bengaluru, KA, IN",Lantana camara,research
+121225902,lantana_camara,Lantana,plant,resource,2022-06-10,2022,6,10,161,monsoon,12.9714785136,77.5945626944,Bangalore,Lantana camara,research
+123241222,lantana_camara,Lantana,plant,resource,2022-06-24,2022,6,24,175,monsoon,12.8759790969,77.5187108293,"VGG9+C99, Pavamanapura, Bengaluru, Karnataka 560062, India",Lantana camara,research
+123361682,lantana_camara,Lantana,plant,resource,2022-06-25,2022,6,25,176,monsoon,12.2732852954,76.670743525,Chamundi Hill,Lantana camara,research
+123401601,lantana_camara,Lantana,plant,resource,2022-06-25,2022,6,25,176,monsoon,12.3051930163,76.6603188259,"Ittige Gudu, Mysuru, Karnataka 570010, India",Lantana camara,research
+123796981,lantana_camara,Lantana,plant,resource,2022-06-25,2022,6,25,176,monsoon,13.0685111111,77.5815166667,"Orchids The International School 1, Orchids The International School 1, Sahakar Nagar, Kodigehalli, Bengaluru, Karnataka 560092, India",Lantana camara,research
+124578377,lantana_camara,Lantana,plant,resource,2022-07-03,2022,7,3,184,monsoon,12.6722055556,76.6540833333,"Kadalagere, Karnataka 571431, India",Lantana camara,research
+124578414,lantana_camara,Lantana,plant,resource,2022-07-03,2022,7,3,184,monsoon,12.684,76.6927,"Sreeraghurampura, Karnataka 571431, India",Lantana camara,research
+124959904,lantana_camara,Lantana,plant,resource,2022-07-05,2022,7,5,186,monsoon,12.26776025,76.6132049444,"7J98+PF3, near Lingambudhi Lake, Lingambudhi Kere, Srirampura, Mysuru, Karnataka 570023, India",Lantana camara,research
+125576683,lantana_camara,Lantana,plant,resource,2022-07-10,2022,7,10,191,monsoon,13.310328,77.7103818,"Devanahally, Karnataka 562110, India",Lantana camara,research
+126219952,lantana_camara,Lantana,plant,resource,2022-07-11,2022,7,11,192,monsoon,12.9715987,77.5945627,"Bengaluru, Karnataka, India",Lantana camara,research
+126634096,lantana_camara,Lantana,plant,resource,2022-07-17,2022,7,17,198,monsoon,12.8515383333,77.77977,"Bikkanahalli Main Road, Bengaluru, KA, IN",Lantana camara,research
+127331300,lantana_camara,Lantana,plant,resource,2022-07-22,2022,7,22,203,monsoon,12.2880414563,76.6157282558,"Ramakrishnanagar, Mysuru, Karnataka, India",Lantana camara,research
+127680140,lantana_camara,Lantana,plant,resource,2022-07-24,2022,7,24,205,monsoon,12.3292029722,76.7281409722,"Hanchya, Karnataka 570019, India",Lantana camara,research
+127680175,lantana_camara,Lantana,plant,resource,2022-07-24,2022,7,24,205,monsoon,12.3292029722,76.7281409722,"Hanchya, Karnataka 570019, India",Lantana camara,research
+128591260,lantana_camara,Lantana,plant,resource,2022-07-30,2022,7,30,211,monsoon,12.9077256944,77.5979894722,"Bangalore, IN-KA, IN",Lantana camara,research
+131161245,lantana_camara,Lantana,plant,resource,2022-08-17,2022,8,17,229,monsoon,13.1083195614,77.5735958712,"5th Main Road, Bengaluru, KA, IN",Lantana camara,research
+132547881,lantana_camara,Lantana,plant,resource,2022-08-21,2022,8,21,233,monsoon,13.6963194167,77.6481569167,"Sabbanahalli, Karnataka, India",Lantana camara aculeata,research
+132551930,lantana_camara,Lantana,plant,resource,2022-08-21,2022,8,21,233,monsoon,13.7006140833,77.6464914167,"Chikballapura, IN-KA, IN",Lantana camara aculeata,research
+132759259,lantana_camara,Lantana,plant,resource,2022-07-20,2022,7,20,201,monsoon,13.1200779722,77.5358109722,"Jarakbandekaval, Karnataka, India",Lantana camara,research
+132797216,lantana_camara,Lantana,plant,resource,2022-08-19,2022,8,19,231,monsoon,15.3172775,75.7138884,"Karnataka, India",Lantana camara,research
+136681952,lantana_camara,Lantana,plant,resource,2022-01-02,2022,1,2,2,winter,13.1721226944,77.5965060833,"5H9W+PMV Stonehill International School Auditorium, Bengaluru, Karnataka 562157, India",Lantana camara,research
+136682009,lantana_camara,Lantana,plant,resource,2022-01-02,2022,1,2,2,winter,13.1720406944,77.5939379722,"5H9W+PMV Stonehill International School Auditorium, Bengaluru, Karnataka 562157, India",Lantana camara,research
+137027542,lantana_camara,Lantana,plant,resource,2022-09-30,2022,9,30,273,monsoon,12.9932722222,77.4008,"Bengaluru, Karnataka 562162, India",Lantana camara,research
+137109301,lantana_camara,Lantana,plant,resource,2022-10-01,2022,10,1,274,post_monsoon,13.0701611111,77.5856333333,"Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka, India",Lantana camara,research
+137109328,lantana_camara,Lantana,plant,resource,2022-10-01,2022,10,1,274,post_monsoon,13.070529,77.5838109722,"3HCM+5G3, Nti Layout, Sahakar Nagar, Kodigehalli, Bengaluru, Karnataka 560097, India",Lantana camara,research
+137484393,lantana_camara,Lantana,plant,resource,2022-10-02,2022,10,2,275,post_monsoon,13.0807833333,77.5653444444,"3HJ8+27P, Vignana Kendra, Bengaluru, Karnataka 560065, India",Lantana camara,research
+137625961,lantana_camara,Lantana,plant,resource,2022-10-01,2022,10,1,274,post_monsoon,12.8286563,77.5133909,"Yagnashala, Bengaluru, Karnataka 560082, India",Lantana camara,research
+138815642,lantana_camara,Lantana,plant,resource,2022-10-07,2022,10,7,280,post_monsoon,13.122776,74.993319,"Santhadi house NH-169 Butterfly Park Road Mangalore, Beluvai, Karnataka 574213, India",Lantana camara,research
+138815644,lantana_camara,Lantana,plant,resource,2022-10-07,2022,10,7,280,post_monsoon,13.122776,74.993319,"Santhadi house NH-169 Butterfly Park Road Mangalore, Beluvai, Karnataka 574213, India",Lantana camara,research
+138815645,lantana_camara,Lantana,plant,resource,2022-10-07,2022,10,7,280,post_monsoon,13.122776,74.993319,"Santhadi house NH-169 Butterfly Park Road Mangalore, Beluvai, Karnataka 574213, India",Lantana camara,research
+138815650,lantana_camara,Lantana,plant,resource,2022-10-07,2022,10,7,280,post_monsoon,13.122776,74.993319,"Santhadi house NH-169 Butterfly Park Road Mangalore, Beluvai, Karnataka 574213, India",Lantana camara,research
+139743158,lantana_camara,Lantana,plant,resource,2022-10-23,2022,10,23,296,post_monsoon,13.0341529722,77.5479125833,"Bandappa Garden, Mathikere, Bengaluru, Karnataka, India",Lantana camara,research
+140777282,lantana_camara,Lantana,plant,resource,2022-11-01,2022,11,1,305,post_monsoon,15.4373798333,74.9834060556,"Dharwad, IN-KA, IN",Lantana camara,research
+140866257,lantana_camara,Lantana,plant,resource,2022-08-14,2022,8,14,226,monsoon,11.9956324,77.142764,"B.R.Hills, Karnataka 571117, India",Lantana camara,research
+140866266,lantana_camara,Lantana,plant,resource,2022-08-14,2022,8,14,226,monsoon,11.9956324,77.142764,"B.R.Hills, Karnataka 571117, India",Lantana camara,research
+140866300,lantana_camara,Lantana,plant,resource,2022-08-14,2022,8,14,226,monsoon,11.9956324,77.142764,"B.R.Hills, Karnataka 571117, India",Lantana camara,research
+142065924,lantana_camara,Lantana,plant,resource,2022-11-12,2022,11,12,316,post_monsoon,12.9538542516,77.6427367949,"Nagasandra Road, Bengaluru, KA, IN",Lantana camara,research
+143260419,lantana_camara,Lantana,plant,resource,2022-11-29,2022,11,29,333,post_monsoon,12.9013204352,77.535674125,"Bangalore, IN-KA, IN",Lantana camara,research
+143480049,lantana_camara,Lantana,plant,resource,2022-11-13,2022,11,13,317,post_monsoon,13.0169513,77.5670914,"IISC Bangalore, Gulmohar Marg, Mathikere, Bengaluru, Karnataka 560012, India",Lantana camara,research
+144232227,lantana_camara,Lantana,plant,resource,2022-12-05,2022,12,5,339,winter,15.1870662752,74.5465187027,"Sangave, Karnataka 581363, India",Lantana camara,research
+146166725,lantana_camara,Lantana,plant,resource,2022-12-05,2022,12,5,339,winter,13.0220941905,77.5700525353,"Devasandra Layout, Bengaluru, Karnataka, India",Lantana camara,research
+146959212,lantana_camara,Lantana,plant,resource,2022-06-28,2022,6,28,179,monsoon,15.4530416667,74.9978916667,"Malmaddi, Dharwad, Karnataka, India",Lantana camara,research
+147756936,lantana_camara,Lantana,plant,resource,2023-01-31,2023,1,31,31,winter,11.6397883333,76.6909783333,"Gundlupet, Chamarajanagar, KA, IN",Lantana camara,research
+148950186,lantana_camara,Lantana,plant,resource,2023-02-16,2023,2,16,47,winter,13.5100467595,75.1023298502,"Agumbe, Karnataka, India",Lantana camara,research
+149102171,lantana_camara,Lantana,plant,resource,2023-02-19,2023,2,19,50,winter,15.7795362473,74.4538421631,Belagavi,Lantana camara,research
+150177923,lantana_camara,Lantana,plant,resource,2023-03-02,2023,3,2,61,pre_monsoon,12.4555368333,75.7179794167,"FP49+2C4, Hebbettageri, Karnataka 571201, India",Lantana camara,research
+151140073,lantana_camara,Lantana,plant,resource,2023-03-02,2023,3,2,61,pre_monsoon,12.4582559939,75.7195141912,Abbey falls,Lantana camara,research
+151398243,lantana_camara,Lantana,plant,resource,2023-03-17,2023,3,17,76,pre_monsoon,12.85863,77.7705133333,"Kadagrahara, Bengaluru, KA, IN",Lantana camara,research
+152726146,lantana_camara,Lantana,plant,resource,2023-03-24,2023,3,24,83,pre_monsoon,13.122776,74.993319,"Santhadi house NH-169 Butterfly Park Road Mangalore, Beluvai, Karnataka 574213, India",Lantana camara,research
+153150332,lantana_camara,Lantana,plant,resource,2023-04-02,2023,4,2,92,pre_monsoon,12.1675908173,76.6061549027,"Doddakaturu, Karnataka 570008, India",Lantana camara,research
+153203216,lantana_camara,Lantana,plant,resource,2023-03-25,2023,3,25,84,pre_monsoon,13.122776,74.993319,"Santhadi house NH-169 Butterfly Park Road Mangalore, Beluvai, Karnataka 574213, India",Lantana camara,research
+154401193,lantana_camara,Lantana,plant,resource,2023-03-01,2023,3,1,60,pre_monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Lantana camara,research
+154401195,lantana_camara,Lantana,plant,resource,2023-03-01,2023,3,1,60,pre_monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Lantana camara,research
+154402535,lantana_camara,Lantana,plant,resource,2023-03-01,2023,3,1,60,pre_monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Lantana camara,research
+154402539,lantana_camara,Lantana,plant,resource,2023-03-01,2023,3,1,60,pre_monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Lantana camara,research
+154684357,lantana_camara,Lantana,plant,resource,2023-04-13,2023,4,13,103,pre_monsoon,12.82765114,77.5081346,"Bangalore, IN-KA, IN",Lantana camara,research
+155743092,lantana_camara,Lantana,plant,resource,2023-01-01,2023,1,1,1,winter,12.0502283114,77.7036397532,"3P23+G74, Gopinatham, Karnataka 571490, India",Lantana camara,research
+156979965,lantana_camara,Lantana,plant,resource,2023-04-28,2023,4,28,118,pre_monsoon,12.9230515371,77.484651804,Kengeri Satellite Town,Lantana camara,research
+156992918,lantana_camara,Lantana,plant,resource,2023-04-28,2023,4,28,118,pre_monsoon,13.0716613889,77.572867,"3HCF+M3W, Sir M.V. Layout, Sonappa Layout, Kodigehalli, Bengaluru, Karnataka 560097, India",Lantana camara,research
+156992955,lantana_camara,Lantana,plant,resource,2023-04-28,2023,4,28,118,pre_monsoon,13.0683866944,77.5753615833,"4, Siddivinayaka Layout, Sonappa Layout, Kodigehalli, Bengaluru, Karnataka 560097, India",Lantana camara,research
+157053198,lantana_camara,Lantana,plant,resource,2023-04-28,2023,4,28,118,pre_monsoon,12.8821638889,77.4651861111,"Bengaluru, Karnataka, India",Lantana camara,research
+157453090,lantana_camara,Lantana,plant,resource,2023-04-29,2023,4,29,119,pre_monsoon,13.0634219892,77.7685785572,"Hosakote, Bengaluru Rural, KA, IN",Lantana camara,research
+157453303,lantana_camara,Lantana,plant,resource,2023-04-29,2023,4,29,119,pre_monsoon,13.0634331004,77.7685757388,"Hosakote, Bengaluru Rural, KA, IN",Lantana camara,research
+157453828,lantana_camara,Lantana,plant,resource,2023-04-29,2023,4,29,119,pre_monsoon,12.8329809,77.5938052997,"CK palya Maine road Meenakshi layout 3rd cross Saptagiri nivash no 87, Bengaluru, Karnataka 560083, India",Lantana camara,research
+157482110,lantana_camara,Lantana,plant,resource,2023-04-29,2023,4,29,119,pre_monsoon,12.8291777778,77.590775,"ACADEMIC BLOCK, AMC GROUP OF INSTITUTION, Bengaluru, Karnataka 560083, India",Lantana camara,research
+157554955,lantana_camara,Lantana,plant,resource,2023-04-29,2023,4,29,119,pre_monsoon,12.8378402,77.589327,"RHQQ+4P, Basavanapura, Bengaluru, Karnataka 560083, India",Lantana camara,research
+157636037,lantana_camara,Lantana,plant,resource,2023-04-29,2023,4,29,119,pre_monsoon,12.8855138889,77.4676055556,"Bangalore, Karnataka, India",Lantana camara,research
+157973765,lantana_camara,Lantana,plant,resource,2023-04-30,2023,4,30,120,pre_monsoon,12.8714176994,77.5240128553,"Adarsha Layout, Lingadeeranahalli, Bengaluru, Karnataka 560109, India",Lantana camara,research
+162801176,lantana_camara,Lantana,plant,resource,2023-05-06,2023,5,6,126,pre_monsoon,11.9987747611,77.1398310363,B.R.Hills,Lantana camara,research
+162857323,lantana_camara,Lantana,plant,resource,2023-05-21,2023,5,21,141,pre_monsoon,12.2132993036,76.6253000651,"Sindhuvalli, Karnataka, India",Lantana camara,research
+167326833,lantana_camara,Lantana,plant,resource,2023-06-14,2023,6,14,165,monsoon,12.9607223023,77.5743341959,"Kalasipalyam, Bengaluru, KA, IN",Lantana camara,research
+167347722,lantana_camara,Lantana,plant,resource,2022-10-01,2022,10,1,274,post_monsoon,13.122734074,74.9926399019,"Sammilan Shetty's Butterfly Park, Belvai",Lantana camara,research
+169365424,lantana_camara,Lantana,plant,resource,2023-03-02,2023,3,2,61,pre_monsoon,12.4244192352,75.7381853834,Madikeri,Lantana camara,research
+169766192,lantana_camara,Lantana,plant,resource,2022-09-08,2022,9,8,251,monsoon,13.2969083333,77.1638972222,"75W7+PPH, Mydala, Karnataka 572104, India",Lantana camara,research
+169884012,lantana_camara,Lantana,plant,resource,2023-06-28,2023,6,28,179,monsoon,13.0863333333,77.5730633333,"Vignana Kendra, 3HPF+H6R, Vignana Kendra, Bengaluru, Karnataka 560065, India",Lantana camara,research
+169943623,lantana_camara,Lantana,plant,resource,2023-06-10,2023,6,10,161,monsoon,13.0697666667,77.5852611111,"512, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka 560097, India",Lantana camara,research
+170488959,lantana_camara,Lantana,plant,resource,2023-06-24,2023,6,24,175,monsoon,12.477096,75.709416,"Mojo Plantation Galibeedu, Madikeri, Karnataka 571201, India",Lantana camara,research
+170807451,lantana_camara,Lantana,plant,resource,2023-06-21,2023,6,21,172,monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Lantana camara,research
+172963824,lantana_camara,Lantana,plant,resource,2022-12-25,2022,12,25,359,winter,12.2227233,76.6272876,"6JFG+3WM, Dadadahalli, Karnataka 570008, India",Lantana camara,research
+173367874,lantana_camara,Lantana,plant,resource,2023-07-17,2023,7,17,198,monsoon,12.2276271161,76.6123883799,Kalalavadi,Lantana camara,research
+173724030,lantana_camara,Lantana,plant,resource,2023-07-05,2023,7,5,186,monsoon,12.0022595463,77.1454834566,"Chamrajnagar, IN-KA, IN",Lantana camara,research
+175370740,lantana_camara,Lantana,plant,resource,2023-07-26,2023,7,26,207,monsoon,12.9582659115,77.7255356312,Thubarahalli Lake,Lantana camara,research
+175503313,lantana_camara,Lantana,plant,resource,2022-11-23,2022,11,23,327,post_monsoon,13.1111861111,77.5264777778,"Bengaluru, Karnataka, India",Lantana camara,research
+176889848,lantana_camara,Lantana,plant,resource,2023-08-06,2023,8,6,218,monsoon,12.9312875558,77.6267091522,"7th Cross Road, Bengaluru, KA, IN",Lantana camara,research
+182798530,lantana_camara,Lantana,plant,resource,2023-09-01,2023,9,1,244,monsoon,12.2314861111,75.6279388889,"6JJH+J3 Daksh Devaiah estate, Yevakapadi, Karnataka 571214, India",Lantana camara,research
+183532995,lantana_camara,Lantana,plant,resource,2023-09-03,2023,9,3,246,monsoon,12.303025,76.2024611111,"Muthurayana Hosahalli Kaval, Karnataka 571105, India",Lantana camara,research
+183819137,lantana_camara,Lantana,plant,resource,2023-09-17,2023,9,17,260,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Lantana camara,research
+183819177,lantana_camara,Lantana,plant,resource,2023-09-17,2023,9,17,260,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Lantana camara,research
+184009031,lantana_camara,Lantana,plant,resource,2023-09-19,2023,9,19,262,monsoon,12.8334569722,77.7782859722,"Bangalore, Karnataka, India",Lantana camara,research
+184822639,lantana_camara,Lantana,plant,resource,2023-09-24,2023,9,24,267,monsoon,13.0549765,78.0438495,"323V+XGX, Kolar, Karnataka 563137, India",Lantana camara,research
+184848174,lantana_camara,Lantana,plant,resource,2023-09-25,2023,9,25,268,monsoon,11.7002402971,76.6311238484,"Gundlupet, Chamarajanagar, KA, IN",Lantana camara aculeata,research
+186665031,lantana_camara,Lantana,plant,resource,2023-10-08,2023,10,8,281,post_monsoon,13.1211219542,77.6133408397,"Vinayak Nagar, Kattigenahalli, Bengaluru, Karnataka, India",Lantana camara,research
+188119082,lantana_camara,Lantana,plant,resource,2023-10-19,2023,10,19,292,post_monsoon,12.9788533333,77.5921333333,"Dr Ambedkar Road, Bengaluru, KA, IN",Lantana camara,research
+189463057,lantana_camara,Lantana,plant,resource,2023-10-29,2023,10,29,302,post_monsoon,12.9582111111,77.1219,"Tumkur, IN-KA, IN",Lantana camara,research
+189573793,lantana_camara,Lantana,plant,resource,2023-10-09,2023,10,9,282,post_monsoon,13.3207222222,76.2448333333,"86CW+88, KPS layout, Arsikere, Karnataka 573103, India",Lantana camara,research
+189573888,lantana_camara,Lantana,plant,resource,2023-10-09,2023,10,9,282,post_monsoon,13.3917027778,76.1441333333,"Bagilaghatta, Karnataka 573112, India",Lantana camara,research
+195829718,lantana_camara,Lantana,plant,resource,2019-04-19,2019,4,19,109,pre_monsoon,12.9778746391,74.7954351828,"Krishnapura, Surathkal, Mangaluru, Karnataka 575014, India",Lantana camara,research
+196751365,lantana_camara,Lantana,plant,resource,2024-01-15,2024,1,15,15,winter,13.1365246279,77.4399529584,"Totagere, Bengaluru, KA, IN",Lantana camara,research
+197218776,lantana_camara,Lantana,plant,resource,2024-01-21,2024,1,21,21,winter,13.2477081,77.2157353,"Nijagal, Karnataka 562111, India",Lantana camara,research
+197219796,lantana_camara,Lantana,plant,resource,2024-01-21,2024,1,21,21,winter,13.2469143,77.2212703,"Nijagal, Karnataka 562111, India",Lantana camara,research
+202389019,lantana_camara,Lantana,plant,resource,2024-03-14,2024,3,14,74,pre_monsoon,13.0434028055,77.7449893579,"Bandapura, Virgonagar, Aavalahalli, Bengaluru, Karnataka 560049, India",Lantana camara,research
+202401977,lantana_camara,Lantana,plant,resource,2024-02-25,2024,2,25,56,winter,12.9097527778,75.6693555556,"WM5C+C4G, Kadumane Estate, Karnataka 573165, India",Lantana camara,research
+209400406,lantana_camara,Lantana,plant,resource,2024-04-26,2024,4,26,117,pre_monsoon,15.4131027778,75.0046138889,"Suthgatti Village, Karnataka 580009, India",Lantana camara,research
+209420683,lantana_camara,Lantana,plant,resource,2024-04-26,2024,4,26,117,pre_monsoon,15.4131027778,75.0046138889,"Suthgatti Village, Karnataka 580009, India",Lantana camara,research
+209432499,lantana_camara,Lantana,plant,resource,2024-04-26,2024,4,26,117,pre_monsoon,15.437976236,74.9711120775,"Hoysal Nagar, Dharwad, KA, IN",Lantana camara,research
+209533151,lantana_camara,Lantana,plant,resource,2024-04-26,2024,4,26,117,pre_monsoon,12.6236558,75.25433987,"Dakshina Kannada, IN-KA, IN",Lantana camara,research
+209965214,lantana_camara,Lantana,plant,resource,2024-04-27,2024,4,27,118,pre_monsoon,15.4306472222,75.0285388889,"Gandhinagar, Dharwad, Karnataka, India",Lantana camara,research
+209985256,lantana_camara,Lantana,plant,resource,2024-04-27,2024,4,27,118,pre_monsoon,15.4265944444,75.0339138889,"C2GM+8QR, Sattur Colony, Dharwad, Karnataka 580009, India",Lantana camara,research
+209992820,lantana_camara,Lantana,plant,resource,2024-04-27,2024,4,27,118,pre_monsoon,15.4310861111,75.0300111111,"27, Daneshwari Nagar, Ambedkar Nagar, Vidyagiri, Dharwad, Karnataka 580004, India",Lantana camara,research
+210009686,lantana_camara,Lantana,plant,resource,2024-04-27,2024,4,27,118,pre_monsoon,15.4352111111,75.0253694444,"MIG23, Daneshwari Nagar, Ambedkar Nagar, Vidyagiri, Dharwad, Karnataka 580004, India",Lantana camara,research
+210676862,lantana_camara,Lantana,plant,resource,2024-04-28,2024,4,28,119,pre_monsoon,15.49159525,74.9840926944,"FXRM+FQG UASD Garden, uas, Dharwad, Karnataka 580005, India",Lantana camara,research
+210681629,lantana_camara,Lantana,plant,resource,2024-04-27,2024,4,27,118,pre_monsoon,15.4622361111,74.9706722222,"FX6C+V5P, Kelgeri, Dharwad, Karnataka 580007, India",Lantana camara,research
+211651185,lantana_camara,Lantana,plant,resource,2024-04-28,2024,4,28,119,pre_monsoon,12.9763875833,77.7471416944,"Whitefield, Bengaluru, Karnataka, India",Lantana camara,research
+211759488,lantana_camara,Lantana,plant,resource,2024-04-28,2024,4,28,119,pre_monsoon,15.4913666667,74.9843722222,"FXRM+FQG, uas, Dharwad, Karnataka 580005, India",Lantana camara,research
+211759646,lantana_camara,Lantana,plant,resource,2024-04-28,2024,4,28,119,pre_monsoon,15.4913666667,74.9843722222,"FXRM+FQG, uas, Dharwad, Karnataka 580005, India",Lantana camara,research
+212259275,lantana_camara,Lantana,plant,resource,2024-04-28,2024,4,28,119,pre_monsoon,15.4823888889,74.9791277778,"FXMH+6V6, Dharwad, Hiremalligawad, Karnataka 580008, India",Lantana camara,research
+212312847,lantana_camara,Lantana,plant,resource,2024-04-28,2024,4,28,119,pre_monsoon,15.4823888889,74.9791277778,"FXMH+6V6, Dharwad, Hiremalligawad, Karnataka 580008, India",Lantana camara,research
+212316749,lantana_camara,Lantana,plant,resource,2024-04-28,2024,4,28,119,pre_monsoon,15.4823888889,74.9791277778,"FXMH+6V6, Dharwad, Hiremalligawad, Karnataka 580008, India",Lantana camara,research
+212317223,lantana_camara,Lantana,plant,resource,2024-04-28,2024,4,28,119,pre_monsoon,15.4823888889,74.9791277778,"FXMH+6V6, Dharwad, Hiremalligawad, Karnataka 580008, India",Lantana camara,research
+212317603,lantana_camara,Lantana,plant,resource,2024-04-28,2024,4,28,119,pre_monsoon,15.4823888889,74.9791277778,"FXMH+6V6, Dharwad, Hiremalligawad, Karnataka 580008, India",Lantana camara,research
+212873641,lantana_camara,Lantana,plant,resource,2024-04-29,2024,4,29,120,pre_monsoon,15.4415527778,75.023,"Dharwad, Karnataka 580004, India",Lantana camara,research
+213098635,lantana_camara,Lantana,plant,resource,2024-04-29,2024,4,29,120,pre_monsoon,15.4416944444,75.0232194444,"Dharwad, Karnataka 580004, India",Lantana camara,research
+213105171,lantana_camara,Lantana,plant,resource,2024-04-29,2024,4,29,120,pre_monsoon,15.4416944444,75.0232194444,"Dharwad, Karnataka 580004, India",Lantana camara,research
+213106259,lantana_camara,Lantana,plant,resource,2024-04-29,2024,4,29,120,pre_monsoon,15.4416888889,75.0230055556,"Dharwad, Karnataka 580004, India",Lantana camara,research
+213108714,lantana_camara,Lantana,plant,resource,2024-04-29,2024,4,29,120,pre_monsoon,15.4415805556,75.0223861111,"C2RF+J2F, Yalakki Shettar Colony, Dharwad, Karnataka 580004, India",Lantana camara,research
+213138745,lantana_camara,Lantana,plant,resource,2024-04-29,2024,4,29,120,pre_monsoon,15.4433138889,75.0257583333,"Saptagiri Layout, Ambedkar Nagar, Yalakki Shettar Colony, Dharwad, Karnataka 580006, India",Lantana camara,research
+213171760,lantana_camara,Lantana,plant,resource,2024-04-29,2024,4,29,120,pre_monsoon,15.4409861111,75.0200166667,"C2R9+9RQ, Behind JSS Banashankari Arts & Commerce College, Vidyagiri, Dharwad, Karnataka 580004, India",Lantana camara,research
+213301653,lantana_camara,Lantana,plant,resource,2024-04-29,2024,4,29,120,pre_monsoon,15.4402277778,75.0173361111,"Rajatagiri, Gandhinagar, Dharwad, Karnataka, India",Lantana camara,research
+213301741,lantana_camara,Lantana,plant,resource,2024-04-29,2024,4,29,120,pre_monsoon,15.4402277778,75.0173361111,"Rajatagiri, Gandhinagar, Dharwad, Karnataka, India",Lantana camara,research
+213302465,lantana_camara,Lantana,plant,resource,2024-04-29,2024,4,29,120,pre_monsoon,15.4402277778,75.0173361111,"Rajatagiri, Gandhinagar, Dharwad, Karnataka, India",Lantana camara,research
+213394909,lantana_camara,Lantana,plant,resource,2024-04-29,2024,4,29,120,pre_monsoon,15.4433416667,75.0232638889,"C2VF+99C, Daneshwari Nagar, Vidyagiri, Dharwad, Karnataka 580004, India",Lantana camara,research
+221373288,lantana_camara,Lantana,plant,resource,2024-06-04,2024,6,4,156,monsoon,15.3130371416,74.7618770599,"Hanumanth Pond, E.I.D Parry (India) Campus, Alolli, Haliyal [Restricted Access]",Lantana camara,research
+222380141,lantana_camara,Lantana,plant,resource,2024-06-12,2024,6,12,164,monsoon,13.1382808281,77.6371571301,"Karnataka, IN",Lantana camara,research
+223964768,lantana_camara,Lantana,plant,resource,2024-06-20,2024,6,20,172,monsoon,15.3405974676,76.472531458,"8FRF+F3R, Nimbapura, Karnataka 583239, India",Lantana camara,research
+224570960,lantana_camara,Lantana,plant,resource,2024-06-22,2024,6,22,174,monsoon,13.4260854722,77.6851730278,"CMGP+F2P Skandagiri Trek start point, Jadalathimmanahalli, Karnataka 562103, India",Lantana camara,research
+225917176,lantana_camara,Lantana,plant,resource,2024-06-29,2024,6,29,181,monsoon,12.9636298813,77.7295657616,"Brookefield, Bengaluru, KA, IN",Lantana camara,research
+231193246,lantana_camara,Lantana,plant,resource,2024-07-23,2024,7,23,205,monsoon,14.302795,75.8781283333,"Davanagere, Davanagere, KA, IN",Lantana camara,research
+236235976,lantana_camara,Lantana,plant,resource,2024-08-17,2024,8,17,230,monsoon,12.8902441899,77.6428028941,"LYRIC, SALARPURIA CADENZA, Kudlu Gate, Krishna Reddy Industrial Area, Hosapalaya, Muneshwara Nagar, Bengaluru, Karnataka 560068, India",Lantana camara,research
+236385334,lantana_camara,Lantana,plant,resource,2024-08-17,2024,8,17,230,monsoon,13.3788666667,77.6747527778,"9MHF+GW8, Nandi Hills, Karnataka 562103, India",Lantana camara,research
+236719203,lantana_camara,Lantana,plant,resource,2024-08-04,2024,8,4,217,monsoon,12.8742056269,77.5272426009,Turahalli Tree Park (Turahalli Kiru Aranya),Lantana camara,research
+239194401,lantana_camara,Lantana,plant,resource,2024-08-31,2024,8,31,244,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Lantana camara,research
+241210467,lantana_camara,Lantana,plant,resource,2024-06-12,2024,6,12,164,monsoon,12.1871885371,76.643880892,"Mysuru, Mysuru, KA, IN",Lantana camara,research
+242343812,lantana_camara,Lantana,plant,resource,2024-09-17,2024,9,17,261,monsoon,13.1085901111,77.5628356667,"Attur Layout, Yelahanka New Town, Bengaluru, Karnataka 560064, India",Lantana camara,research
+245782507,lantana_camara,Lantana,plant,resource,2024-10-04,2024,10,4,278,post_monsoon,12.8528528056,75.1831741111,"V53M+HV6, Thekkar, Karnataka 574241, India",Lantana camara,research
+247054932,lantana_camara,Lantana,plant,resource,2024-10-12,2024,10,12,286,post_monsoon,13.0112083333,75.671125,"2M59+WX7, Maragadi, Karnataka 573165, India",Lantana camara,research
+248003421,lantana_camara,Lantana,plant,resource,2024-10-19,2024,10,19,293,post_monsoon,12.5281738909,76.8746581302,"Mandya, Mandya, KA, IN",Lantana camara,research
+248545788,lantana_camara,Lantana,plant,resource,2024-06-22,2024,6,22,174,monsoon,14.4270474,76.578438,"Khudapura, Karnataka 577536, India",Lantana camara,research
+250478686,lantana_camara,Lantana,plant,resource,2024-11-02,2024,11,2,307,post_monsoon,13.0621226541,77.6142316684,"3J78+2F6, Royal Enclave, Phase II, Rachenahalli, Thanisandra, Bengaluru, Karnataka 560064, India",Lantana camara,research
+251759824,lantana_camara,Lantana,plant,resource,2024-11-13,2024,11,13,318,post_monsoon,12.8460916667,77.7769777778,"RQWG+8W, Buragunte, Karnataka 562125, India",Lantana camara,research
+255200250,lantana_camara,Lantana,plant,resource,2024-12-14,2024,12,14,349,winter,13.0575208024,77.6262027025,"IBM Gate, Rachenahalli, Thanisandra, Bengaluru, Karnataka 560045, India",Lantana camara,research
+292033678,lantana_camara,Lantana,plant,resource,2024-12-23,2024,12,23,358,winter,12.309367463,76.6026388854,"8J63+F4F Garudachar Layout, near Anthropological Survey of India, Vijyanagar, SRC, Mysuru, Karnataka 570026, India",Lantana camara,research
+295775336,lantana_camara,Lantana,plant,resource,2024-09-22,2024,9,22,266,monsoon,12.3139223997,76.6292908,"Saraswathipuram, Mysuru, Karnataka, India",Lantana camara,research
+308702600,lantana_camara,Lantana,plant,resource,2024-04-09,2024,4,9,100,pre_monsoon,12.781425,76.24575,"Housing Board, Karnataka 573211, India",Lantana camara,research
+308709531,lantana_camara,Lantana,plant,resource,2024-04-09,2024,4,9,100,pre_monsoon,12.787725,76.24566667,"Kadavinakote Hantha, Karnataka 573211, India",Lantana camara,research
+309967195,lantana_camara,Lantana,plant,resource,2024-04-07,2024,4,7,98,pre_monsoon,12.51150833,76.88074444,"PES Kyathengere Layout, Mandya, Karnataka 571401, India",Lantana camara,research
+309984935,lantana_camara,Lantana,plant,resource,2024-04-16,2024,4,16,107,pre_monsoon,13.32526389,77.08039167,"Sadashivanagar, Tumakuru, Karnataka, India",Lantana camara,research

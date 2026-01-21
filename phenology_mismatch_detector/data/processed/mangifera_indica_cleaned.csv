@@ -1,0 +1,101 @@
+observation_id,species_key,species_common,species_type,species_role,observed_date,year,month,day,day_of_year,season,latitude,longitude,place_guess,scientific_name,quality_grade
+39341230,mangifera_indica,Mango,plant,resource,2020-02-03,2020,2,3,34,winter,13.3701493233,77.2103101407,"Tumkur, Karnataka, India",Mangifera indica,research
+43062008,mangifera_indica,Mango,plant,resource,2020-04-24,2020,4,24,115,pre_monsoon,13.1226645224,77.6082760748,Bengaluru,Mangifera indica,research
+44455516,mangifera_indica,Mango,plant,resource,2020-04-12,2020,4,12,103,pre_monsoon,13.06562925,77.6006073333,"Amruthahalli, Hoodi Layout, Sneha Nagar, Byatarayanapura, Bengaluru, Karnataka 560092, India",Mangifera indica,research
+45048575,mangifera_indica,Mango,plant,resource,2020-05-06,2020,5,6,127,pre_monsoon,12.9198391,77.6507521,"1st Sector, HSR Layout, Bengaluru, Karnataka, India",Mangifera indica,research
+46707388,mangifera_indica,Mango,plant,resource,2020-05-21,2020,5,21,142,pre_monsoon,12.9715987467,77.5945626944,Bengaluru,Mangifera indica,research
+51986557,mangifera_indica,Mango,plant,resource,2020-07-05,2020,7,5,187,monsoon,11.9171372957,76.9409449156,"Chamarajanagar, Karnataka 571313, India",Mangifera indica,research
+52645656,mangifera_indica,Mango,plant,resource,2020-07-11,2020,7,11,193,monsoon,12.95910863,77.73545846,"Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",Mangifera indica,research
+52824360,mangifera_indica,Mango,plant,resource,2020-07-01,2020,7,1,183,monsoon,13.0578095229,77.6390541717,"Ferns Residency, Kothanur, Bengaluru, Karnataka 560077, India ",Mangifera indica,research
+53589969,mangifera_indica,Mango,plant,resource,2019-08-26,2019,8,26,238,monsoon,12.9921461,77.5718825,"Sampige Rd, Jai Bheema Nagar, Seshadripuram, Bengaluru, Karnataka 560020, India",Mangifera indica,research
+55766614,mangifera_indica,Mango,plant,resource,2020-08-08,2020,8,8,221,monsoon,12.95965399,77.73553997,"Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",Mangifera indica,research
+55767272,mangifera_indica,Mango,plant,resource,2020-08-08,2020,8,8,221,monsoon,12.95944619,77.73539085,"Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",Mangifera indica,research
+55767568,mangifera_indica,Mango,plant,resource,2020-08-08,2020,8,8,221,monsoon,12.95936708,77.73545968,"Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",Mangifera indica,research
+55879165,mangifera_indica,Mango,plant,resource,2020-08-09,2020,8,9,222,monsoon,12.95930784,77.73510573,"241, Phase 1, Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",Mangifera indica,research
+59411986,mangifera_indica,Mango,plant,resource,2020-09-13,2020,9,13,257,monsoon,12.9591928,77.7357579,"Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",Mangifera indica,research
+60045941,mangifera_indica,Mango,plant,resource,2020-09-19,2020,9,19,263,monsoon,12.95937467,77.73521477,"241, Phase 1, Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",Mangifera indica,research
+60158338,mangifera_indica,Mango,plant,resource,2020-09-20,2020,9,20,264,monsoon,12.95988482,77.73529383,"249/11, Laughing Waters, Ramagondanahalli, Varthur Road, Whitefield, Palm Meadows, Siddapura, Whitefield, Bengaluru, Karnataka 560066, India",Mangifera indica,research
+63624128,mangifera_indica,Mango,plant,resource,2020-10-17,2020,10,17,291,post_monsoon,13.4788845377,75.0175156233,"Udupi, Karnataka, India",Mangifera indica,research
+64585472,mangifera_indica,Mango,plant,resource,2020-10-23,2020,10,23,297,post_monsoon,13.0677678889,77.5783300833,"Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka, India",Mangifera indica,research
+64724616,mangifera_indica,Mango,plant,resource,2020-11-12,2020,11,12,317,post_monsoon,13.0037596721,77.577785477,"Vyalikaval, Kodandarampura, Malleshwaram, Bengaluru, Karnataka 560003, India",Mangifera indica,research
+68089503,mangifera_indica,Mango,plant,resource,2021-01-15,2021,1,15,15,winter,12.9796091477,77.5952550396,Cubbon Park,Mangifera indica,research
+68147002,mangifera_indica,Mango,plant,resource,2021-01-16,2021,1,16,16,winter,13.0631602635,77.5900364667,Sahakar Nagar,Mangifera indica,research
+68308421,mangifera_indica,Mango,plant,resource,2021-01-19,2021,1,19,19,winter,13.0405944444,77.57,"Bangalore, IN-KA, IN",Mangifera indica,research
+68472962,mangifera_indica,Mango,plant,resource,2021-01-23,2021,1,23,23,winter,13.0442233333,77.56901,"Bangalore, IN-KA, IN",Mangifera indica,research
+69298511,mangifera_indica,Mango,plant,resource,2021-02-08,2021,2,8,39,winter,12.3119296903,77.2769197449,Bheemeshwari Adventure and Nature Camp- Junglelodges,Mangifera indica,research
+69844752,mangifera_indica,Mango,plant,resource,2021-02-20,2021,2,20,51,winter,13.0553692523,77.5458226904,"Prestige Wellington Park Road, Bengaluru, KA, IN",Mangifera indica,research
+70810530,mangifera_indica,Mango,plant,resource,2021-03-08,2021,3,8,67,pre_monsoon,12.5113754006,75.8108001575,Madapur,Mangifera indica,research
+70862986,mangifera_indica,Mango,plant,resource,2021-02-13,2021,2,13,44,winter,14.9980998,74.3587473,"Kodthalli, Karnataka 581187, India",Mangifera indica,research
+73458019,mangifera_indica,Mango,plant,resource,2021-04-10,2021,4,10,100,pre_monsoon,12.8664050996,77.5191155076,"Sobha Sunbeam 2, Nagegowdanapalya, Bengaluru, Karnataka 560109, India",Mangifera indica,research
+88681352,mangifera_indica,Mango,plant,resource,2021-07-26,2021,7,26,207,monsoon,12.850109674,77.7815476992,"B Hosahalli, Bengaluru, KA, IN",Mangifera indica,research
+88934134,mangifera_indica,Mango,plant,resource,2021-07-28,2021,7,28,209,monsoon,13.0604558,77.657084,"Koel's Pizzeria Cross, Road, Hanumanthappa Layout, Kyalasanahalli, Bengaluru, Karnataka 560077, India",Mangifera indica,research
+88934146,mangifera_indica,Mango,plant,resource,2021-07-28,2021,7,28,209,monsoon,13.0604558,77.657084,"Koel's Pizzeria Cross, Road, Hanumanthappa Layout, Kyalasanahalli, Bengaluru, Karnataka 560077, India",Mangifera indica,research
+92348490,mangifera_indica,Mango,plant,resource,2021-08-24,2021,8,24,236,monsoon,13.0639016437,77.6051309332,"Balaji Layout, H A Farm Post, Bhuvaneswari Nagar, Dasarahalli, Bengaluru, Karnataka 560092, India",Mangifera indica,research
+95015937,mangifera_indica,Mango,plant,resource,2021-09-16,2021,9,16,259,monsoon,12.93460764,77.60487035,"Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka 560029, India",Mangifera indica,research
+95016409,mangifera_indica,Mango,plant,resource,2021-09-16,2021,9,16,259,monsoon,12.93483478,77.60466164,"Bhavani Nagar, S.G. Palya, Bengaluru, Karnataka 560029, India",Mangifera indica,research
+99084460,mangifera_indica,Mango,plant,resource,2021-10-23,2021,10,23,296,post_monsoon,13.0256249047,77.6420582458,"HBR Layout, Bengaluru, Karnataka 560043, India",Mangifera indica,research
+107695487,mangifera_indica,Mango,plant,resource,2022-02-26,2022,2,26,57,winter,13.2391007,75.1067521,"Mala, Karnataka 574122, India",Mangifera indica,research
+108010668,mangifera_indica,Mango,plant,resource,2022-02-24,2022,2,24,55,winter,12.7938287176,74.871793713,"Ullal, Karnataka, India",Mangifera indica,research
+109135000,mangifera_indica,Mango,plant,resource,2022-03-20,2022,3,20,79,pre_monsoon,12.67428439,77.29805527,"M7FX+438, Lakkappanahalli, Karnataka 562159, India",Mangifera indica,research
+111291182,mangifera_indica,Mango,plant,resource,2022-04-13,2022,4,13,103,pre_monsoon,14.3287381944,75.7805709722,"Davanagere, Karnataka, India",Mangifera indica,research
+115260569,mangifera_indica,Mango,plant,resource,2022-05-04,2022,5,4,124,pre_monsoon,12.972879724,77.5888927815,"Bengaluru, Karnataka, India",Mangifera indica,research
+115878807,mangifera_indica,Mango,plant,resource,2022-05-07,2022,5,7,127,pre_monsoon,12.99751045,75.43016663,"Karnataka 574228, India",Mangifera indica,research
+116801551,mangifera_indica,Mango,plant,resource,2022-05-13,2022,5,13,133,pre_monsoon,12.9843032704,77.6798646525,"Kaggadasapura, Bengaluru, Karnataka, India",Mangifera indica,research
+129654077,mangifera_indica,Mango,plant,resource,2022-07-17,2022,7,17,198,monsoon,13.0872193627,77.6103424653,"Jakkur lake, Agrahara, Bengaluru, Karnataka 560064, India",Mangifera indica,research
+130744493,mangifera_indica,Mango,plant,resource,2022-08-14,2022,8,14,226,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Mangifera indica,research
+131042799,mangifera_indica,Mango,plant,resource,2022-08-16,2022,8,16,228,monsoon,12.269372,76.611978,"Lingambudhi Lake, Lingambudhi Kere, Ramakrishnanagar, Mysuru, Karnataka 570023",Mangifera indica,research
+131463606,mangifera_indica,Mango,plant,resource,2022-08-19,2022,8,19,231,monsoon,12.988719867,77.5252902919,"Karnataka, IN",Mangifera indica,research
+133426508,mangifera_indica,Mango,plant,resource,2022-09-03,2022,9,3,246,monsoon,13.072404,77.6566973,"3MC4+X78, Visthar, Bengaluru, Karnataka 560077, India",Mangifera indica,research
+136255899,mangifera_indica,Mango,plant,resource,2022-09-24,2022,9,24,267,monsoon,12.4108505249,76.4209213257,Mysuru,Mangifera indica,research
+138085920,mangifera_indica,Mango,plant,resource,2022-10-09,2022,10,9,282,post_monsoon,15.68936215,74.19718931,"Parwad, 591345, India",Mangifera indica,research
+145114768,mangifera_indica,Mango,plant,resource,2022-12-25,2022,12,25,359,winter,12.2626994217,76.5676205815,"Muganahundi, Mysore Dt",Mangifera indica,research
+146669828,mangifera_indica,Mango,plant,resource,2023-01-13,2023,1,13,13,winter,12.189455,76.642543,"PB No. 1, Byatha Halli, Kadakola,, Mysuru, Karnataka 571311, India",Mangifera indica,research
+146676977,mangifera_indica,Mango,plant,resource,2023-01-16,2023,1,16,16,winter,12.189455,76.642543,"PB No. 1, Byatha Halli, Kadakola,, Mysuru, Karnataka 571311, India",Mangifera indica,research
+157093842,mangifera_indica,Mango,plant,resource,2023-04-28,2023,4,28,118,pre_monsoon,12.881045,77.5832833333,"1st Main Road, Bengaluru, KA, IN",Mangifera indica,research
+157610556,mangifera_indica,Mango,plant,resource,2023-04-29,2023,4,29,119,pre_monsoon,12.9847305556,77.5912111111,"Vasanth Nagar, Bengaluru, Karnataka, India",Mangifera indica,research
+158488165,mangifera_indica,Mango,plant,resource,2023-05-01,2023,5,1,121,pre_monsoon,12.9756833651,77.5940799483,"Gandhi Nagar, Bengaluru, KA, IN",Mangifera indica,research
+158648957,mangifera_indica,Mango,plant,resource,2023-05-01,2023,5,1,121,pre_monsoon,12.879852,77.5862208,"MS Ramaiah City Layout, JP Nagar 7th Phase, Bengaluru, Karnataka 560076, India",Mangifera indica,research
+159093823,mangifera_indica,Mango,plant,resource,2023-05-02,2023,5,2,122,pre_monsoon,12.8935433669,77.5298169594,"Banashankari Stage 6, Bengaluru, KA, IN",Mangifera indica,research
+161964554,mangifera_indica,Mango,plant,resource,2023-05-16,2023,5,16,136,pre_monsoon,12.96922347,75.37205067,"X99C+7QG, Karnataka 574216, India",Mangifera indica,research
+190381881,mangifera_indica,Mango,plant,resource,2023-02-04,2023,2,4,35,winter,12.2227233,76.6272876,"6JFG+3WM, Dadadahalli, Karnataka 570008, India",Mangifera indica,research
+192548969,mangifera_indica,Mango,plant,resource,2023-11-29,2023,11,29,333,post_monsoon,12.9009009722,75.6575189722,"Kadumane Estate, Karnataka, India",Mangifera indica,research
+196004746,mangifera_indica,Mango,plant,resource,2024-01-07,2024,1,7,7,winter,12.8742055,77.5272426,"VGFG+MVQ Turahalli Tree Park (Turahalli Kiru Aranya), Adarsha Layout, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Mangifera indica,research
+203749337,mangifera_indica,Mango,plant,resource,2023-02-25,2023,2,25,56,winter,13.0782978878,77.5823799179,"Vignana Kendra, Bengaluru, Karnataka, India",Mangifera indica,research
+209396402,mangifera_indica,Mango,plant,resource,2024-04-26,2024,4,26,117,pre_monsoon,12.939247,74.8647275,"SH 67, Mangaluru, KA, IN",Mangifera indica,research
+209403063,mangifera_indica,Mango,plant,resource,2024-04-26,2024,4,26,117,pre_monsoon,15.4131027778,75.0046138889,"Suthgatti Village, Karnataka 580009, India",Mangifera indica,research
+209947522,mangifera_indica,Mango,plant,resource,2024-04-27,2024,4,27,118,pre_monsoon,15.43445,75.0236916667,"Ambedkar Nagar, Yalakki Shettar Colony, Dharwad, Karnataka, India",Mangifera indica,research
+209978656,mangifera_indica,Mango,plant,resource,2024-04-27,2024,4,27,118,pre_monsoon,15.4282277778,75.0376694444,"Navalur, Dharwad, Karnataka, India",Mangifera indica,research
+210007229,mangifera_indica,Mango,plant,resource,2024-04-27,2024,4,27,118,pre_monsoon,12.890235,77.5873736,"Puttenahalli Lake, Nataraja Layout, JP Nagar 7th Phase, Bengaluru, Karnataka 560076",Mangifera indica,research
+210530151,mangifera_indica,Mango,plant,resource,2024-04-27,2024,4,27,118,pre_monsoon,15.4644555556,74.9882694444,"FX7Q+VCC, Sadhankeri, Police Head Quarter's, Dharwad, Karnataka 580008, India",Mangifera indica,research
+211355136,mangifera_indica,Mango,plant,resource,2024-04-28,2024,4,28,119,pre_monsoon,12.9760821944,77.7467987778,"24, Prithvi Layout, Whitefield, Bengaluru, Karnataka 560066, India",Mangifera indica,research
+211628730,mangifera_indica,Mango,plant,resource,2024-04-27,2024,4,27,118,pre_monsoon,12.9755703278,77.6064656675,"Mahatma Gandhi Road, Mahatma Gandhi Road, Shivajinagar, Shivaji Nagar, Bengaluru, Karnataka 560001, India",Mangifera indica,research
+212224164,mangifera_indica,Mango,plant,resource,2024-04-28,2024,4,28,119,pre_monsoon,15.4907611111,74.9844777778,"FXRM+9RV, Dharwad, Karnataka 580001, India",Mangifera indica,research
+212224353,mangifera_indica,Mango,plant,resource,2024-04-28,2024,4,28,119,pre_monsoon,15.4907611111,74.9844777778,"FXRM+9RV, Dharwad, Karnataka 580001, India",Mangifera indica,research
+212259118,mangifera_indica,Mango,plant,resource,2024-04-28,2024,4,28,119,pre_monsoon,15.4823888889,74.9791277778,"FXMH+6V6, Dharwad, Hiremalligawad, Karnataka 580008, India",Mangifera indica,research
+212316975,mangifera_indica,Mango,plant,resource,2024-04-28,2024,4,28,119,pre_monsoon,15.4823888889,74.9791277778,"FXMH+6V6, Dharwad, Hiremalligawad, Karnataka 580008, India",Mangifera indica,research
+212546769,mangifera_indica,Mango,plant,resource,2024-04-26,2024,4,26,117,pre_monsoon,12.9497349663,77.5853835046,"OFFICE OF THE DEPUTY DIRECTOR OF HORTICULTURE, LALBAGH PARK, Mavalli, Bengaluru, Karnataka 560004, India",Mangifera indica,research
+213105122,mangifera_indica,Mango,plant,resource,2024-04-29,2024,4,29,120,pre_monsoon,15.4416944444,75.0232194444,"Dharwad, Karnataka 580004, India",Mangifera indica,research
+216483266,mangifera_indica,Mango,plant,resource,2024-05-18,2024,5,18,139,pre_monsoon,12.7339633574,77.5756522714,"Bangalore Division, Karnataka, India",Mangifera indica,research
+216972826,mangifera_indica,Mango,plant,resource,2024-03-04,2024,3,4,64,pre_monsoon,17.65817,77.2564216667,"Madargi, Karnataka, India",Mangifera indica,research
+237087356,mangifera_indica,Mango,plant,resource,2024-05-30,2024,5,30,151,pre_monsoon,12.8867565,77.6981849,"40, Sarjapur Road, Chikkanayakanahalli, Off Doddakannelli, Chikkakannalli, Bengaluru, Karnataka 560035, India",Mangifera indica,research
+248018344,mangifera_indica,Mango,plant,resource,2024-10-19,2024,10,19,293,post_monsoon,12.893228195,77.6836929183,"5th Cross Road, Bengaluru, KA, IN",Mangifera indica,research
+252410625,mangifera_indica,Mango,plant,resource,2024-06-08,2024,6,8,160,monsoon,12.8166205334,77.5260851481,"Bengaluru, Karnataka, India",Mangifera indica,research
+305775597,mangifera_indica,Mango,plant,resource,2024-04-12,2024,4,12,103,pre_monsoon,13.85765,75.71504167,"Hanumantha Colony, Bhadravathi, Karnataka 577301, India",Mangifera indica,research
+305777730,mangifera_indica,Mango,plant,resource,2024-04-12,2024,4,12,103,pre_monsoon,13.85479167,75.71804167,"Hanumantha Colony, Bhadravathi, Karnataka 577301, India",Mangifera indica,research
+305782459,mangifera_indica,Mango,plant,resource,2024-04-17,2024,4,17,108,pre_monsoon,13.24707222,77.71415,"Bangalore Division, Karnataka, India",Mangifera indica,research
+305989093,mangifera_indica,Mango,plant,resource,2024-04-10,2024,4,10,101,pre_monsoon,13.00948889,76.10613889,"Krishnaraja Pura, Hassan, Karnataka 573201, India",Mangifera indica,research
+305998929,mangifera_indica,Mango,plant,resource,2024-04-10,2024,4,10,101,pre_monsoon,13.01663611,76.09124722,"Santhi Nagar, Hassan, Karnataka, India",Mangifera indica,research
+308952476,mangifera_indica,Mango,plant,resource,2024-04-11,2024,4,11,102,pre_monsoon,13.31936667,75.77643611,"Lakshmishanagara, Chikkamagaluru, Karnataka 577101, India",Mangifera indica,research
+308964854,mangifera_indica,Mango,plant,resource,2024-04-13,2024,4,13,104,pre_monsoon,14.20802222,76.40823333,"Rajendra Nagar, Chitradurga, Karnataka 577501, India",Mangifera indica,research
+308965809,mangifera_indica,Mango,plant,resource,2024-04-13,2024,4,13,104,pre_monsoon,14.21129722,76.41105556,"Rajendra Nagar, Chitradurga, Karnataka 577501, India",Mangifera indica,research
+308965812,mangifera_indica,Mango,plant,resource,2024-04-13,2024,4,13,104,pre_monsoon,14.21129722,76.41105556,"Rajendra Nagar, Chitradurga, Karnataka 577501, India",Mangifera indica,research
+308965820,mangifera_indica,Mango,plant,resource,2024-04-13,2024,4,13,104,pre_monsoon,14.21129722,76.41105556,"Rajendra Nagar, Chitradurga, Karnataka 577501, India",Mangifera indica,research
+308965823,mangifera_indica,Mango,plant,resource,2024-04-13,2024,4,13,104,pre_monsoon,14.21129722,76.41105556,"Rajendra Nagar, Chitradurga, Karnataka 577501, India",Mangifera indica,research
+308999255,mangifera_indica,Mango,plant,resource,2024-04-08,2024,4,8,99,pre_monsoon,12.43747778,76.38981667,"Krishnarajanagara, Karnataka 571602, India",Mangifera indica,research
+308999260,mangifera_indica,Mango,plant,resource,2024-04-08,2024,4,8,99,pre_monsoon,12.43747778,76.38981667,"Krishnarajanagara, Karnataka 571602, India",Mangifera indica,research
+309947366,mangifera_indica,Mango,plant,resource,2024-04-06,2024,4,6,97,pre_monsoon,12.58212222,77.04283056,"Maddur, Karnataka, India",Mangifera indica,research
+309968577,mangifera_indica,Mango,plant,resource,2024-04-07,2024,4,7,98,pre_monsoon,12.51170278,76.87628889,"Marigowda Layout, V V Nagar, Mandya, Karnataka 571401, India",Mangifera indica,research
+309980403,mangifera_indica,Mango,plant,resource,2024-04-15,2024,4,15,106,pre_monsoon,13.73431667,76.89885833,"Keshav Nagar, Sira, Karnataka 572137, India",Mangifera indica,research
+309980416,mangifera_indica,Mango,plant,resource,2024-04-15,2024,4,15,106,pre_monsoon,13.73431667,76.89885833,"Keshav Nagar, Sira, Karnataka 572137, India",Mangifera indica,research
+309986009,mangifera_indica,Mango,plant,resource,2024-04-16,2024,4,16,107,pre_monsoon,13.32905278,77.08034444,"Sadashivanagar, Tumakuru, Karnataka, India",Mangifera indica,research
+330098167,mangifera_indica,Mango,plant,resource,2024-04-13,2024,4,13,104,pre_monsoon,14.23260556,76.40493056,"JCR Extension, Vijayanagar, Chitradurga, Karnataka, India",Mangifera indica,research

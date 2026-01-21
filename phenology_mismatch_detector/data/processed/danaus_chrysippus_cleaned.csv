@@ -1,0 +1,710 @@
+observation_id,species_key,species_common,species_type,species_role,observed_date,year,month,day,day_of_year,season,latitude,longitude,place_guess,scientific_name,quality_grade
+19570849,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-01-05,2019,1,5,5,winter,12.1724499419,76.7534826221,Hadinaru Mole,Danaus chrysippus,research
+19649091,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-01-13,2019,1,13,13,winter,12.9983329773,77.5924987793,"Unnamed Road, Jayamahal, Bengaluru, Karnataka 560006, India",Danaus chrysippus,research
+19753247,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-01-20,2019,1,20,20,winter,12.301505961,76.6744291247,"Aviary Karanji Nature Park, Mysuru, Karnataka, IN",Danaus chrysippus,research
+20420916,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-02-17,2019,2,17,48,winter,12.9814106,77.6700766,"Kaggadasapura Lake, Bengaluru, Karnataka",Danaus chrysippus,research
+20998718,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-02-25,2019,2,25,56,winter,12.2726804183,76.6129343704,"Ramakrishnanagar, Mysuru, Karnataka, India",Danaus chrysippus,research
+21108693,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-03-10,2019,3,10,69,pre_monsoon,13.15,77.49,"Hesaraghatta Lake, Hesaraghatta Grass Farm, Karnataka 560089",Danaus chrysippus,research
+22740606,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-04-12,2019,4,12,102,pre_monsoon,12.9332611859,77.6349231528,"Cauvery Colony, Ejipura, Bengaluru, Karnataka, India",Danaus chrysippus,research
+25612422,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-05-18,2019,5,18,138,pre_monsoon,12.9727116667,77.68692,"Doddanekundi, Bengaluru, Karnataka, IN",Danaus chrysippus,research
+26109130,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-03-25,2019,3,25,84,pre_monsoon,12.9925010461,77.6722207357,"Karnataka, IN",Danaus chrysippus chrysippus,research
+27153779,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-16,2019,6,16,167,monsoon,12.9205893,77.2944334,"Savandurga Hill, Karnataka",Danaus chrysippus,research
+27153808,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-16,2019,6,16,167,monsoon,12.9205893,77.2944334,"Savandurga Hill, Karnataka",Danaus chrysippus,research
+27159482,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-16,2019,6,16,167,monsoon,12.9205893,77.2944334,"Savandurga Hill, Karnataka",Danaus chrysippus,research
+27159489,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-16,2019,6,16,167,monsoon,12.9205893,77.2944334,"Savandurga Hill, Karnataka",Danaus chrysippus,research
+27256704,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-19,2019,6,19,170,monsoon,12.97308,77.686905,"Doddanekundi, Bengaluru, Karnataka, IN",Danaus chrysippus,research
+28001678,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-27,2019,6,27,178,monsoon,13.1362143,78.1290986,"Kolar, Karnataka, India",Danaus chrysippus,research
+29226159,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-30,2019,6,30,181,monsoon,12.8782040927,77.3042289291,"Savanadurga State Forest, Karnataka, India",Danaus chrysippus,research
+29859931,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-01,2019,6,1,152,monsoon,12.8018567,77.6244363,"Bengaluru, Karnataka 560083, India",Danaus chrysippus chrysippus,research
+30976698,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-08-11,2019,8,11,223,monsoon,12.8949004,77.5936259,"Bengaluru, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India",Danaus chrysippus,research
+30980022,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-08-04,2019,8,4,216,monsoon,12.2681341171,76.6186065674,"#6, Block 25, Block Number 27, Sriramapura 2nd Stage, Sriramapura, Madhuvana Layout, Mysuru, Karnataka 570023, India",Danaus chrysippus chrysippus,research
+31900282,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-07-05,2019,7,5,186,monsoon,12.8480453491,77.6647415161,"Electronics City Phase 1, Electronic City, Bengaluru, Karnataka 560100, India",Danaus chrysippus,research
+33516983,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-09-28,2019,9,28,271,monsoon,12.97327833,77.691405,"2nd Cross Road, Bengaluru, Karnataka, IN",Danaus chrysippus,research
+33591884,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-09-29,2019,9,29,272,monsoon,12.8948398062,77.5923425618,"Panduranga Nagar, Bengaluru, Karnataka 560076, India",Danaus chrysippus,research
+33794690,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-10-03,2019,10,3,276,post_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Danaus chrysippus,research
+34393829,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-10-15,2019,10,15,288,post_monsoon,13.0677471161,77.5791854858,"Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka, India",Danaus chrysippus chrysippus,research
+35035842,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-10-29,2019,10,29,302,post_monsoon,12.97607833,77.69103333,"Doddanekundi, Bengaluru, Karnataka, IN",Danaus chrysippus,research
+35233756,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-11-03,2019,11,3,307,post_monsoon,13.1501560211,77.4931030273,"Hesaraghatta Grass Farm, Karnataka 560089, India",Danaus chrysippus chrysippus,research
+35457202,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-10-07,2019,10,7,280,post_monsoon,12.8843815,77.4637208,"Bengaluru, Karnataka 560060, India",Danaus chrysippus,research
+35912869,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-11-09,2019,11,9,313,post_monsoon,12.7590231742,78.2079218137,"Konganepalli, Tamil Nadu, India",Danaus chrysippus chrysippus,research
+35912873,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-11-09,2019,11,9,313,post_monsoon,12.7591487412,78.2081578481,"Konganepalli, Tamil Nadu, India",Danaus chrysippus chrysippus,research
+37026115,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-12-28,2019,12,28,362,winter,13.0292416667,77.5634777778,"Bangalore, Karnataka, India",Danaus chrysippus,research
+37026119,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-12-28,2019,12,28,362,winter,13.0292,77.5634694444,"Bangalore, Karnataka, India",Danaus chrysippus,research
+40352937,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-03-21,2020,3,21,81,pre_monsoon,12.8718526384,77.6143299043,"Akshayanagara West, Akshaya Vana, Akshayanagar, Bengaluru, Karnataka, India",Danaus chrysippus,research
+40738913,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-03-26,2020,3,26,86,pre_monsoon,12.8730688,77.6202659,"A4-171, DLF Westend Heights, DLF Newtown, Akshayanagar, Bengaluru, Karnataka 560068, India",Danaus chrysippus,research
+41295097,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-02-16,2020,2,16,47,winter,13.4470662592,77.3321585376,"Madya Venkatapura, Karnataka 572129, India",Danaus chrysippus,research
+44588473,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-04-26,2020,4,26,117,pre_monsoon,12.9901508706,77.6624017954,Prestige Greenwoods,Danaus chrysippus,research
+45745102,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-12,2020,5,12,133,pre_monsoon,14.2837171185,74.4429660961,"Honnavar, Karnataka, India",Danaus chrysippus,research
+46202890,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-15,2020,5,15,136,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Danaus chrysippus,research
+46382994,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-18,2020,5,18,139,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Danaus chrysippus,research
+46607939,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-20,2020,5,20,141,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Danaus chrysippus,research
+47388984,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-26,2020,5,26,147,pre_monsoon,12.3574149722,76.505193,"RMP Factory, Doddakadanahalli, Karnataka 571130, India",Danaus chrysippus,research
+47522640,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-27,2020,5,27,148,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Danaus chrysippus,research
+47609604,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-28,2020,5,28,149,pre_monsoon,13.0575444769,77.6399883427,"Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Danaus chrysippus,research
+47817561,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-05,2020,5,5,126,pre_monsoon,12.9686164254,77.7608368546,"Immadihalli, Whitefield, Bengaluru, Karnataka 560066, India",Danaus chrysippus,research
+47861275,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-29,2020,5,29,150,pre_monsoon,12.8840303175,74.9809760694,"Karnataka, IN",Danaus chrysippus,research
+48105601,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-05-03,2019,5,3,123,pre_monsoon,13.0228530556,77.5631063889,"Devasandra Layout, Bengaluru, Karnataka, India",Danaus chrysippus,research
+48456241,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-04,2020,6,4,156,monsoon,16.8851692,75.7095266,"Bhutnal Lake, Karnataka",Danaus chrysippus,research
+48616647,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-06,2020,6,6,158,monsoon,12.8913197507,74.8791526639,"Karnataka, IN",Danaus chrysippus,research
+48670611,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-11,2020,5,11,132,pre_monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+48745956,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-07,2020,6,7,159,monsoon,13.0820782716,77.5771418105,"Vignana Kendra, Bengaluru, Karnataka, India",Danaus chrysippus,research
+48778810,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-07,2020,6,7,159,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Danaus chrysippus,research
+48985607,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-09,2020,6,9,161,monsoon,12.9457833226,74.9268641814,"Karnataka, IN",Danaus chrysippus,research
+49030877,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-09,2020,6,9,161,monsoon,13.0578095229,77.6390541717,"Ferns Residency, Kothanur, Bengaluru, Karnataka 560077, India ",Danaus chrysippus,research
+49094242,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-10,2020,6,10,162,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Danaus chrysippus,research
+49126740,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-10,2020,6,10,162,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Danaus chrysippus,research
+49338745,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-04,2020,6,4,156,monsoon,12.8945896427,77.5567559525,"Prasanti Nagar, ISRO Layout, Bengaluru, Karnataka, India",Danaus chrysippus,research
+49415960,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-12,2020,6,12,164,monsoon,12.8865786429,74.8353267076,"Karnataka, IN",Danaus chrysippus,research
+49416092,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-12,2020,6,12,164,monsoon,12.8014294866,74.9483566398,"Karnataka, IN",Danaus chrysippus,research
+49447980,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-13,2020,6,13,165,monsoon,12.8846206,77.4648672,"Bangalore, IN-KA, IN",Danaus chrysippus,research
+50058947,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-14,2020,5,14,135,pre_monsoon,13.0578095229,77.6390541717,"Ferns Residency, Kothanur, Bengaluru, Karnataka 560077, India ",Danaus chrysippus,research
+50122802,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-19,2020,6,19,171,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Danaus chrysippus,research
+50634331,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-04,2020,6,4,156,monsoon,12.8887636014,74.8937786241,"Karnataka, IN",Danaus chrysippus,research
+51209536,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-28,2020,6,28,180,monsoon,13.032544136,77.7232131958,"KV Nivas, Site #1, Kanagappa Layout, 2nd Cross, Medahalli, Bengaluru, Karnataka 560049, India",Danaus chrysippus,research
+51328822,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-18,2020,6,18,170,monsoon,13.0653670877,77.6477002725,"115, Anjanappa Layout, Kothanur, Bengaluru, Karnataka 560077, India",Danaus chrysippus,research
+51548103,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-01,2020,7,1,183,monsoon,16.8486524932,75.7215824258,"Bijapur, IN-KA, IN",Danaus chrysippus,research
+52345951,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-08,2020,7,8,190,monsoon,16.86524,75.737386,"Hanchinal Lake, Vijayapura",Danaus chrysippus,research
+52383384,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-08,2020,7,8,190,monsoon,13.121,77.5835555556,"Vasudevapura, Karnataka 560064, India",Danaus chrysippus,research
+52478033,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-07-09,2019,7,9,190,monsoon,12.9736378002,77.5945626944,Bangalore,Danaus chrysippus,research
+53018282,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-14,2020,7,14,196,monsoon,12.8655969612,77.5217172503,Nagegowdanapalya,Danaus chrysippus,research
+53485073,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-18,2020,7,18,200,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Danaus chrysippus,research
+53569537,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-18,2020,7,18,200,monsoon,12.8503909491,74.8553501171,"Karnataka, IN",Danaus chrysippus,research
+53574743,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-02,2020,7,2,184,monsoon,12.8678822715,74.9594972943,"Karnataka, IN",Danaus chrysippus,research
+53581978,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-08,2020,7,8,190,monsoon,12.9966918304,74.8341696579,"Karnataka, IN",Danaus chrysippus,research
+53583362,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-12,2020,7,12,194,monsoon,12.8375330283,74.8135363072,"Karnataka, IN",Danaus chrysippus,research
+53840244,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-21,2020,7,21,203,monsoon,12.8655969612,77.5217172503,Nagegowdanapalya,Danaus chrysippus,research
+53940447,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-12,2020,6,12,164,monsoon,12.8849509722,77.4662229722,"Kambipura, Karnataka 560060, India",Danaus chrysippus,research
+54616716,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-28,2020,7,28,210,monsoon,13.251023031,77.5044371188,"Ekasipura, Karnataka 561203, India",Danaus chrysippus,research
+55893574,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-26,2020,7,26,208,monsoon,13.0809121901,77.6018760028,"Jakkuru, Bengaluru, Karnataka 560064, India",Danaus chrysippus,research
+55894609,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-31,2020,7,31,213,monsoon,13.0809121901,77.6018760028,"Jakkuru, Bengaluru, Karnataka 560064, India",Danaus chrysippus,research
+56112786,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-08,2020,8,8,221,monsoon,13.1231003411,77.9642582905,"Nandagudi, Uddappanahalli, Karnataka, India",Danaus chrysippus,research
+56715029,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-11,2020,7,11,193,monsoon,13.2603381944,76.4774553889,"Krishna Raja Extension, Tiptur, Karnataka 572201, India",Danaus chrysippus,research
+56802976,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-03,2020,5,3,124,pre_monsoon,12.774676778,77.6120835543,Nandanavana Layout,Danaus chrysippus,research
+56845262,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-16,2020,8,16,229,monsoon,13.1165192105,78.2790868493,"Holali, Karnataka, India",Danaus chrysippus,research
+56999160,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-16,2020,8,16,229,monsoon,13.1161619919,78.2770252701,"Holali, Karnataka, India",Danaus chrysippus,research
+57014285,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-19,2020,8,19,232,monsoon,13.0673704039,77.5723261759,Tube House 4,Danaus chrysippus,research
+57622334,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-26,2020,8,26,239,monsoon,12.2718287226,76.6455636173,Visveshwara Nagar,Danaus chrysippus,research
+57909399,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-29,2020,8,29,242,monsoon,12.9186438504,77.6780659727,"Kaikondrahalli, Bengaluru, KA, IN",Danaus chrysippus,research
+58152365,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-30,2020,8,30,243,monsoon,13.0204505821,77.5703585334,"Indian Institute of Science, ಬೆಂಗಳೂರು, KA, IN",Danaus chrysippus,research
+58177073,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-23,2020,8,23,236,monsoon,13.0673704039,77.5723261759,Tube House 4,Danaus chrysippus,research
+58177075,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-23,2020,8,23,236,monsoon,13.0673704039,77.5723261759,Tube House 4,Danaus chrysippus,research
+58236809,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-25,2020,5,25,146,pre_monsoon,12.9098978114,77.5081044905,"RR Nagar, Bengaluru, Karnataka, India",Danaus chrysippus,research
+59129764,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-27,2020,5,27,148,pre_monsoon,13.0759586942,77.5758381571,"Vignana Kendra, Bengaluru, Karnataka, India",Danaus chrysippus,research
+59464003,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-19,2020,5,19,140,pre_monsoon,12.8406045,75.3822567,"Konalu, Karnataka 574229, India",Danaus chrysippus,research
+60450179,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-06,2019,6,6,157,monsoon,12.9252649722,77.664749,"Bellandur, Bengaluru, Karnataka, India",Danaus chrysippus,research
+60946829,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-09-14,2020,9,14,258,monsoon,13.0673704039,77.5723261759,Tube House 4,Danaus chrysippus,research
+61073037,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-25,2020,6,25,177,monsoon,12.8366030482,74.9985386205,"Karnataka, IN",Danaus chrysippus,research
+61079663,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-09-28,2020,9,28,272,monsoon,16.8442158681,75.7105214149,"Rama Mandir Road, Vijayapura, KA, IN",Danaus chrysippus,research
+61100954,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-09-28,2020,9,28,272,monsoon,12.9196722222,77.6387638889,"HSR Layout, Bengaluru, Karnataka, India",Danaus chrysippus,research
+61658001,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-10-04,2020,10,4,278,post_monsoon,12.4187891154,76.7106454074,"Ganjam, Karnataka, India",Danaus chrysippus,research
+62774518,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-10-17,2020,10,17,291,post_monsoon,12.7688531,77.5791358,"Ragihalli State Forest, Karnataka, India",Danaus chrysippus,research
+63315741,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-10-18,2020,10,18,292,post_monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Danaus chrysippus,research
+63558336,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-10-25,2020,10,25,299,post_monsoon,12.8730483333,77.579965,"J. P. Nagar, Bengaluru, Karnataka 560078, India",Danaus chrysippus,research
+64427521,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-11-08,2020,11,8,313,post_monsoon,16.2523703144,75.7233575242,"Herkal Bridge cum Barrage, Bagalkot, Karnataka, India",Danaus chrysippus,research
+64942954,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-11-15,2020,11,15,320,post_monsoon,16.522093942,76.6603660583,"Bonal Lake Bird Sanctuary Bonal, Yadgir, Karnataka 585290 India",Danaus chrysippus,research
+65258751,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-11-20,2020,11,20,325,post_monsoon,12.9067787969,77.6771757379,"Kasavanahalli, Karnataka 560035, India",Danaus chrysippus,research
+65757378,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-11-19,2020,11,19,324,post_monsoon,15.3812598879,75.1002656786,"Bairidevarkoppa, Hubli, Karnataka 580025, India",Danaus chrysippus,research
+65883750,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-11-30,2020,11,30,335,post_monsoon,12.9645638889,77.4967694444,"11/E, next to KLE Law College, 5th Block, Vishweshwaraiah Layout, Annapurneshwari Nagar, Bengaluru, Karnataka 560056, India",Danaus chrysippus,research
+66082746,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-11-30,2020,11,30,335,post_monsoon,12.9245067,77.5325717997,"Durga Parameshwari Nagar, Bangarappanagar, Hosakerehalli, Bengaluru, Karnataka, India",Danaus chrysippus,research
+66456686,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-12-12,2020,12,12,347,winter,12.8740759,77.5271092,"Adarsha Layout, Lingadeeranahalli, Bengaluru, Karnataka 560109, India",Danaus chrysippus,research
+66464196,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-12-12,2020,12,12,347,winter,12.878354,77.5294781,"Hosahalli, Karnataka 560062, India",Danaus chrysippus,research
+67082863,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-12-26,2020,12,26,361,winter,12.9681638889,77.4962777778,"#5 Madhu, MPM Layout, ITI Employees Layout, Annapurneshwari Nagar, Bengaluru, Karnataka 560091, India",Danaus chrysippus,research
+67378234,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-12-31,2020,12,31,366,winter,12.7532016453,77.3013674095,Ramanagara Ramdevara Betta Vulture Sanctuary,Danaus chrysippus,research
+67783074,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-01-08,2021,1,8,8,winter,13.1230895808,77.9642930316,"Nandagudi, Uddappanahalli, Karnataka, India",Danaus chrysippus,research
+68757933,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-01-29,2021,1,29,29,winter,12.9682694444,77.4961916667,"#5 Madhu, MPM Layout, ITI Employees Layout, Annapurneshwari Nagar, Bengaluru, Karnataka 560091, India",Danaus chrysippus,research
+68800926,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-01-30,2021,1,30,30,winter,12.8839798204,77.4631418288,"Kambipura, Karnataka 560060, India",Danaus chrysippus,research
+68955246,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-09-06,2020,9,6,250,monsoon,13.1570191744,77.5728267758,Nagadasanahalli Lake,Danaus chrysippus,research
+68986684,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-02-03,2021,2,3,34,winter,12.9279728333,77.6810720833,"Adarsh Palm Retreat, Bellandur, Bengaluru, Karnataka, India",Danaus chrysippus,research
+69198783,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-02-07,2021,2,7,38,winter,12.8788821641,77.5300482847,"Bengaluru, Karnataka, India",Danaus chrysippus,research
+69359232,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-02-10,2021,2,10,41,winter,12.9066833056,77.6761281389,"13, IAS Layout, Kasavanahalli, Karnataka 560035, India",Danaus chrysippus,research
+69449444,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-02,2019,6,2,153,monsoon,12.8235245332,77.740393513,"Karnataka, IN",Danaus chrysippus,research
+69800383,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-02-19,2021,2,19,50,winter,12.9068572302,77.6770828664,"Kasavanahalli, Karnataka 560035, India",Danaus chrysippus,research
+69812041,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-02-19,2021,2,19,50,winter,13.067358,77.572331,"187/16, Sir MV Layout, Dhanalakshmi Layout, Virupakshapura, Bengaluru, Karnataka 560097, India",Danaus chrysippus,research
+70001848,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-02-22,2021,2,22,53,winter,13.067408,77.5722939722,"187/16, Sir MV Layout, Dhanalakshmi Layout, Virupakshapura, Bengaluru, Karnataka 560097, India",Danaus chrysippus,research
+70292230,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-02-27,2021,2,27,58,winter,12.950771739,77.5847773254,Lalbagh Botanical Garden,Danaus chrysippus,research
+71125641,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-03-13,2021,3,13,72,pre_monsoon,12.9646527778,77.49675,"11/E, next to KLE Law College, 5th Block, Vishweshwaraiah Layout, Annapurneshwari Nagar, Bengaluru, Karnataka 560056, India",Danaus chrysippus,research
+71202020,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-03-14,2021,3,14,73,pre_monsoon,12.8064887,77.5272654,"Bengaluru, Karnataka 560083, India",Danaus chrysippus,research
+71596266,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-03-20,2021,3,20,79,pre_monsoon,13.065058,77.6479199722,"Anjanappa Layout, Narayanapura, Bengaluru, Karnataka 560077, India",Danaus chrysippus,research
+71650064,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-09-28,2019,9,28,271,monsoon,13.1486694336,77.6276685147,"Karnataka, IN",Danaus chrysippus,research
+71650181,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-09-28,2019,9,28,271,monsoon,13.0890123759,77.7450748245,"Karnataka, IN",Danaus chrysippus,research
+71867623,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-02-18,2021,2,18,49,winter,12.8839294878,77.4639330804,"Kambipura, Karnataka 560060, India",Danaus chrysippus,research
+71944619,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-03-24,2021,3,24,83,pre_monsoon,12.9385731481,77.4511775253,"Karnataka, IN",Danaus chrysippus,research
+72168385,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-03-27,2021,3,27,86,pre_monsoon,12.878924,77.5300912,"100 Feet Road, Off, Kanakapura Rd, Banashankari 6th Stage, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Danaus chrysippus,research
+72765239,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-04-03,2021,4,3,93,pre_monsoon,12.9901508706,77.6624017954,Prestige Greenwoods,Danaus chrysippus,research
+74116231,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-04-16,2021,4,16,106,pre_monsoon,12.8838762137,77.463859655,"Kambipura, Karnataka 560060, India",Danaus chrysippus,research
+74336353,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-03-28,2021,3,28,87,pre_monsoon,13.1037138333,74.9728166667,"Moodubidire, Dakshina Kannada, KA, IN",Danaus chrysippus,research
+74398867,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-04-18,2021,4,18,108,pre_monsoon,12.9901508706,77.6624017954,Prestige Greenwoods,Danaus chrysippus,research
+74644890,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-04-20,2021,4,20,110,pre_monsoon,12.9901508706,77.6624017954,Prestige Greenwoods,Danaus chrysippus,research
+74820131,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-04-22,2021,4,22,112,pre_monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Danaus chrysippus,research
+75022973,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-04-24,2021,4,24,114,pre_monsoon,12.9901560977,77.6624017954,Prestige Greenwoods,Danaus chrysippus,research
+75154833,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-15,2020,5,15,136,pre_monsoon,13.0809121901,77.6018760028,"Jakkuru, Bengaluru, Karnataka 560064, India",Danaus chrysippus,research
+75160571,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-04-25,2021,4,25,115,pre_monsoon,12.8841020567,77.4631559104,"Kambipura, Karnataka 560060, India",Danaus chrysippus,research
+76064583,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-05-01,2021,5,1,121,pre_monsoon,12.8854303103,77.463718839,"Kambipura, Karnataka 560060, India",Danaus chrysippus,research
+77601852,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-21,2020,5,21,142,pre_monsoon,15.7702905969,76.7560495064,Sindhanur,Danaus chrysippus,research
+77734171,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-05-07,2021,5,7,127,pre_monsoon,15.4213115019,74.7404502332,"Alnavar, Karnataka, India",Danaus chrysippus,research
+77736621,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-03-04,2021,3,4,63,pre_monsoon,15.4213137643,74.7405538335,"Alnavar, Karnataka, India",Danaus chrysippus,research
+78725038,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-05-14,2021,5,14,134,pre_monsoon,12.9901560977,77.6624017954,Prestige Greenwoods,Danaus chrysippus,research
+79024874,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-05-16,2021,5,16,136,pre_monsoon,12.882393,77.467465,"5C Block 5, Provident Sunworth, Kambipura, Karnataka 560060, India",Danaus chrysippus,research
+80478974,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-05-27,2021,5,27,147,pre_monsoon,12.8879079892,77.4690456094,"Kambipura, Bengaluru, KA, IN",Danaus chrysippus,research
+80836790,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-05-30,2021,5,30,150,pre_monsoon,12.9891166667,77.662645,"CV Raman Nagar, Bengaluru, KA, IN",Danaus chrysippus,research
+81062679,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-24,2020,5,24,145,pre_monsoon,12.9183126,77.680097,"Saul Kere, Kaikondrahalli, Bengaluru, Karnataka 560035",Danaus chrysippus,research
+82261357,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-06-09,2021,6,9,160,monsoon,12.3093675,76.6026389,"Bogadi Kere, Bogadi 2nd Stage North, Mysuru, Karnataka 570026",Danaus chrysippus,research
+82800069,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-05-25,2021,5,25,145,pre_monsoon,12.8336741242,77.4977741923,"Agara, Bengaluru, KA, IN",Danaus chrysippus,research
+83133643,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-06-14,2021,6,14,165,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+83617978,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-02,2020,6,2,154,monsoon,12.9854542447,77.7236265689,"The Five Summits Address A Block Road No 10, Phase I, Behind Mercedes Benz Corporate Office, EPIP Zone, Krishnarajapura, Bengaluru, Karnataka 560066, India",Danaus chrysippus,research
+83748785,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-06-20,2021,6,20,171,monsoon,12.9752343,77.6886853,"Doddanekundi Lake, Doddanekkundi, Bengaluru, Karnataka 560037",Danaus chrysippus,research
+84398460,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-06-25,2021,6,25,176,monsoon,12.8805895373,77.4646857753,"Kambipura, Karnataka 560060, India",Danaus chrysippus,research
+84836189,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-06-28,2021,6,28,179,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Danaus chrysippus,research
+85052799,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-06-29,2021,6,29,180,monsoon,12.8880869654,77.4682097578,"Kambipura, Bengaluru, KA, IN",Danaus chrysippus,research
+85301442,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-19,2020,7,19,201,monsoon,12.8386071561,77.6519085726,"Concorde Silicon Valley, Electronics City Phase 1, Electronic City, Karnataka 560100, India",Danaus chrysippus,research
+86054781,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-07-07,2021,7,7,188,monsoon,12.8902037,76.9876254,"Honnamachanahalli, Karnataka 572126, India",Danaus chrysippus,research
+86136830,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-07-08,2021,7,8,189,monsoon,13.08557387,77.59182944,"Allalasandra, Yelahanka, Bengaluru, Karnataka 560065, India",Danaus chrysippus,research
+86138615,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-23,2020,5,23,144,pre_monsoon,12.8904193691,77.5871872902,"Nataraja Layout, JP Nagar 7th Phase, Bengaluru, Karnataka, India",Danaus chrysippus,research
+86269544,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-03-23,2020,3,23,83,pre_monsoon,12.3483642708,76.5081317532,"Mysore, IN-KA, IN",Danaus chrysippus,research
+86373467,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-25,2020,5,25,146,pre_monsoon,12.890235,77.5873736,"Puttenahalli Lake, Nataraja Layout, JP Nagar 7th Phase, Bengaluru, Karnataka 560076",Danaus chrysippus,research
+86540056,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-07-11,2021,7,11,192,monsoon,12.9070702222,77.6771461111,"shrushti 19/1, mudhaliyar layout, Bengaluru, Karnataka 560035, India",Danaus chrysippus,research
+86724499,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-07-10,2021,7,10,191,monsoon,12.8534149558,77.5057453662,"Badamanavarathekaval, Karnataka, India",Danaus chrysippus,research
+87266205,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-07-14,2021,7,14,195,monsoon,13.0551760786,77.5355574489,KENDRIYA VIDYALAYA NO.1 JALAHALLI (WEST),Danaus chrysippus,research
+87266591,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-07-12,2021,7,12,193,monsoon,13.0551760786,77.5355574489,KENDRIYA VIDYALAYA NO.1 JALAHALLI (WEST),Danaus chrysippus,research
+87369943,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-07-17,2021,7,17,198,monsoon,12.9752343,77.6886853,"Doddanekundi Lake, Doddanekkundi, Bengaluru, Karnataka 560037",Danaus chrysippus,research
+88102826,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-07-22,2021,7,22,203,monsoon,12.9228010833,77.5079554722,"168, Pattanagere, RR Nagar, Bengaluru, Karnataka 560098, India",Danaus chrysippus,research
+88360279,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-07-24,2021,7,24,205,monsoon,13.075511,77.580673,"Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka, India",Danaus chrysippus,research
+88402727,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-07-24,2021,7,24,205,monsoon,12.8626255194,77.5138892453,"Bengaluru, Karnataka, India",Danaus chrysippus,research
+88530779,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-07-25,2021,7,25,206,monsoon,12.8632394,77.5389985,"Vakil Garden City, Bengaluru, Karnataka 560062, India",Danaus chrysippus,research
+88663096,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-02,2019,6,2,153,monsoon,12.2752546,76.6701475,"Chamundi Hill, Mysuru, Karnataka, India",Danaus chrysippus chrysippus,research
+88803010,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-07-11,2021,7,11,192,monsoon,12.2927651,77.4352003,"Sangama, Karnataka 562126, India",Danaus chrysippus,research
+88827383,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-07-27,2021,7,27,208,monsoon,12.9069524722,77.6772351944,"TOWER-2, OCEANUS VISTA, Bengaluru, कर्नाटक 560035, India",Danaus chrysippus,research
+88827670,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-07-27,2021,7,27,208,monsoon,12.9069761389,77.67710475,"shrushti 19/1, mudhaliyar layout, Bengaluru, Karnataka 560035, India",Danaus chrysippus,research
+88942430,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-06-21,2020,6,21,173,monsoon,12.2124735266,76.6334253714,"Dadadahalli kere and surroundings, Mysuru, Karnataka, India",Danaus chrysippus,research
+89308082,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-07-31,2021,7,31,212,monsoon,13.66221,77.4599947222,"Chikballapur, Karnataka, India",Danaus chrysippus,research
+91244570,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-08-15,2021,8,15,227,monsoon,12.2132993036,76.6253000651,"Shanubhoganahalli Kere, Sindhuvalli, Karnataka, India",Danaus chrysippus,research
+91411020,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-05-14,2021,5,14,134,pre_monsoon,12.9752343,77.6886853,"Doddanekundi Lake, Doddanekkundi, Bengaluru, Karnataka 560037",Danaus chrysippus,research
+91624739,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-08-18,2021,8,18,230,monsoon,16.8865018516,75.7099055128,"Bhutnal Lake, Bijapur, Karnataka, India",Danaus chrysippus,research
+91967134,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-08-21,2021,8,21,233,monsoon,12.9758239289,74.9251459907,"Karnataka, IN",Danaus chrysippus,research
+92750114,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-08-28,2021,8,28,240,monsoon,14.2033626198,76.3700987399,"Karnataka 577524, India",Danaus chrysippus,research
+92906630,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-08-29,2021,8,29,241,monsoon,12.9645305556,77.4637944444,"XF77+RGV, Bengaluru, Karnataka 560060, India",Danaus chrysippus,research
+93030166,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-08-30,2021,8,30,242,monsoon,12.3168528,76.5983056,"Bogadhi Lake, Mysuru, Karnataka 570017",Danaus chrysippus,research
+93170473,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-08-31,2021,8,31,243,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+93450115,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-09-03,2021,9,3,246,monsoon,12.9066188333,77.6761032222,"72/1e, IAS Layout, Srinivasa Reddy Layout, villaymma layouts, Kasavanahalli, Karnataka 560035, India",Danaus chrysippus,research
+93691156,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-07-02,2019,7,2,183,monsoon,13.0303472,77.0283735,"Kunigal Dodda Kere, Karnataka 572130, India",Danaus chrysippus,research
+93697892,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-09-05,2021,9,5,248,monsoon,12.8719790926,77.508751573,"Bengaluru, Karnataka, India",Danaus chrysippus,research
+93859794,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-04,2019,6,4,155,monsoon,12.2992719635,76.6908878864,"Lalith Mahal, Mysuru, Karnataka, India",Danaus chrysippus,research
+94095177,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-09-08,2021,9,8,251,monsoon,12.2600529819,76.7732421393,"Giribettada Kere, Mysuru, Karnataka, India",Danaus chrysippus,research
+94109656,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-09-10,2020,9,10,254,monsoon,12.269372,76.611978,"Lingambudhi Lake, Lingambudhi Kere, Ramakrishnanagar, Mysuru, Karnataka 570023",Danaus chrysippus,research
+94215536,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-10-16,2020,10,16,290,post_monsoon,12.269372,76.611978,"Lingambudhi Lake, Lingambudhi Kere, Ramakrishnanagar, Mysuru, Karnataka 570023",Danaus chrysippus,research
+94560046,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-09-12,2021,9,12,255,monsoon,12.9742475,77.3475174,"Thippagondanahalli Reservoir, Karnataka",Danaus chrysippus,research
+95126411,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-09-13,2021,9,13,256,monsoon,12.8986314081,77.5407585874,"Jayanagar housing society layout, Subramanyapura, Bengaluru, Karnataka, India",Danaus chrysippus,research
+95142219,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-09-17,2021,9,17,260,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+95394410,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-09-19,2021,9,19,262,monsoon,12.84275,77.724463,"Nambiar Bellezea, Bommasandra, Karnataka 560099, India",Danaus chrysippus,research
+95538996,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-09-19,2021,9,19,262,monsoon,12.8949004,77.5936259,"Bengaluru, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India",Danaus chrysippus,research
+95988601,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-04-16,2020,4,16,107,pre_monsoon,13.0556235128,77.5367076947,"Jalahalli, Bengaluru, Karnataka, India",Danaus chrysippus,research
+96186205,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-09-13,2021,9,13,256,monsoon,12.8987761875,77.540737465,"Jayanagar housing society layout, Subramanyapura, Bengaluru, Karnataka, India",Danaus chrysippus,research
+96340148,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-09-17,2021,9,17,260,monsoon,12.2687702,76.5183287,"Madalli Rd, Madahalli, Karnataka 570026, India",Danaus chrysippus,research
+96390207,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-09-25,2021,9,25,268,monsoon,12.8446969722,77.7752380278,"Buragunte, Karnataka 562125, India",Danaus chrysippus,research
+96551169,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-06-23,2019,6,23,174,monsoon,12.2132993036,76.6253000651,"Shanubhoganahalli Kere, Sindhuvalli, Karnataka, India",Danaus chrysippus,research
+96557344,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-08-22,2019,8,22,234,monsoon,12.2132993036,76.6253000651,"Shanubhoganahalli Kere, Sindhuvalli, Karnataka, India",Danaus chrysippus,research
+96558117,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-09-29,2020,9,29,273,monsoon,12.2132993036,76.6253000651,"Shanubhoganahalli Kere, Sindhuvalli, Karnataka, India",Danaus chrysippus,research
+96585967,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-03-23,2021,3,23,82,pre_monsoon,14.6064129722,74.848478,"Sirsi, Karnataka, India",Danaus chrysippus,research
+96892091,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-10-01,2021,10,1,274,post_monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+97350091,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-10-02,2021,10,2,275,post_monsoon,13.0703143259,77.7695255354,"Bengaluru, Karnataka, India",Danaus chrysippus,research
+97368366,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-10-06,2021,10,6,279,post_monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+97368489,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-10-06,2021,10,6,279,post_monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+97534094,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-12-29,2020,12,29,364,winter,12.8543147,77.5099453,"Thatguni Post, Kanakpura Road, Bengaluru, Karnataka 560082, India",Danaus chrysippus,research
+97534844,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-08,2020,8,8,221,monsoon,12.8225173,77.7294705,"Muthanallur Lake, Bommasandra, Karnataka",Danaus chrysippus,research
+97535918,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-21,2020,8,21,234,monsoon,12.9126925,77.6732975,"Kaikondrahalli Lake, Valliyamma Layout, Haralur, Karnataka 560103",Danaus chrysippus,research
+97539813,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-09-27,2020,9,27,271,monsoon,12.8225173,77.7294705,"Muthanallur Lake, Bommasandra, Karnataka",Danaus chrysippus,research
+97540735,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-12-28,2020,12,28,363,winter,12.8225173,77.7294705,"Muthanallur Lake, Bommasandra, Karnataka",Danaus chrysippus,research
+97771102,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-09-26,2021,9,26,269,monsoon,12.8991932041,77.5418934971,"Subramanyapura Main Road, Subramanyapura, Bengaluru, Karnataka 560061, India",Danaus chrysippus,research
+97871477,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-10-11,2021,10,11,284,post_monsoon,12.283146927,76.706199646,"Thippayyana Kere, Mysore",Danaus chrysippus,research
+98677959,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-10-19,2021,10,19,292,post_monsoon,12.269372,76.611978,"Lingambudhi Lake, Lingambudhi Kere, Ramakrishnanagar, Mysuru, Karnataka 570023",Danaus chrysippus,research
+98880526,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-10-21,2021,10,21,294,post_monsoon,12.998766,77.5921071,"Vasanth Nagar, Bengaluru, Karnataka 560052, India",Danaus chrysippus,research
+99202178,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-10-23,2021,10,23,296,post_monsoon,12.8687066788,77.337012291,"Manchanabele, Karnataka, India",Danaus chrysippus,research
+99202184,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-10-23,2021,10,23,296,post_monsoon,12.8687066788,77.337012291,"Manchanabele, Karnataka, India",Danaus chrysippus,research
+99218846,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-10-17,2021,10,17,290,post_monsoon,12.8844616667,77.465325,"Kambipura, Bengaluru, KA, IN",Danaus chrysippus,research
+99534226,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-10-27,2021,10,27,300,post_monsoon,13.3099480688,77.7109125629,"Devanahally, Karnataka 562110, India",Danaus chrysippus,research
+99837696,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-10-31,2021,10,31,304,post_monsoon,12.959620732,74.851344285,"Karnataka, IN",Danaus chrysippus,research
+99874697,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-10-30,2021,10,30,303,post_monsoon,11.8129816024,76.789913401,Terakanambi,Danaus chrysippus,research
+100308405,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-11-05,2021,11,5,309,post_monsoon,12.2935583321,76.5740945095,"Kemmannupura, Karnataka 570026, India",Danaus chrysippus,research
+100377497,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-11-06,2021,11,6,310,post_monsoon,12.3092188951,76.5556045912,"K.Hemmanahalli, Karnataka 571130, India",Danaus chrysippus,research
+100845800,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-01-08,2021,1,8,8,winter,13.1234792852,77.963935383,"Nandagudi, Uddappanahalli, Karnataka, India",Danaus chrysippus,research
+101604286,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-11-08,2021,11,8,312,post_monsoon,15.9672029722,75.3820029722,"Belagavi, Karnataka, India",Danaus chrysippus,research
+101608507,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-11-21,2021,11,21,325,post_monsoon,12.8751444116,77.4947042367,"Bengaluru, Karnataka, India",Danaus chrysippus,research
+101629760,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-11-20,2021,11,20,324,post_monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+101629809,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-11-20,2021,11,20,324,post_monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+102511872,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-12-04,2021,12,4,338,winter,12.78527,77.51214667,"81st Street, Bengaluru, KA, IN",Danaus chrysippus,research
+102649761,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-11-26,2021,11,26,330,post_monsoon,12.838962,77.651823,Concorde Silicon Valley,Danaus chrysippus,research
+103444238,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-12-21,2021,12,21,355,winter,12.9066144722,77.6759321111,"13, IAS Layout, Kasavanahalli, Karnataka 560035, India",Danaus chrysippus,research
+103573776,danaus_chrysippus,Plain Tiger,butterfly,consumer,2019-03-29,2019,3,29,88,pre_monsoon,13.035692,77.577666,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Danaus chrysippus,research
+104862326,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-16,2020,5,16,137,pre_monsoon,13.034722,77.572989,"Bengaluru, Karnataka 560094, India",Danaus chrysippus,research
+104915547,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-01-14,2022,1,14,14,winter,12.8499088851,77.6585853765,"Electronic City, Bengaluru, Karnataka, India",Danaus chrysippus,research
+105019399,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-01-15,2022,1,15,15,winter,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+105020151,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-01-15,2022,1,15,15,winter,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+105020152,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-01-15,2022,1,15,15,winter,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+106125307,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-02-04,2022,2,4,35,winter,12.9901560977,77.6624017954,"Prestige Greenwoods, Nagavarapalya, Bangalore",Danaus chrysippus,research
+106171523,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-02-05,2022,2,5,36,winter,12.878924,77.5300912,"100 Feet Road, SOBHA FOREST VIEW, Off, Kanakapura Rd, Banashankari 6th Stage, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Danaus chrysippus,research
+106299918,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-02-06,2022,2,6,37,winter,12.747711,77.4978,ravugodlu,Danaus chrysippus,research
+106674896,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-02-13,2022,2,13,44,winter,12.2986469269,76.6724624634,Mysuru,Danaus chrysippus,research
+106910594,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-06-16,2021,6,16,167,monsoon,15.1395506476,76.9214428961,Bellary,Danaus chrysippus,research
+107539080,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-02-27,2022,2,27,58,winter,12.8306213,77.5878954,"Bannerghatta Main Rd, Bengaluru, Karnataka 560083, India",Danaus chrysippus,research
+108933473,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-03-19,2022,3,19,78,pre_monsoon,12.9306419971,77.4678400286,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+109216793,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-03-20,2022,3,20,79,pre_monsoon,12.8949004,77.5936259,"Bengaluru, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India",Danaus chrysippus,research
+109216979,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-02-12,2022,2,12,43,winter,13.034732,77.57302,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Danaus chrysippus,research
+109216986,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-02-13,2022,2,13,44,winter,13.034732,77.57302,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Danaus chrysippus,research
+109454492,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-02-13,2022,2,13,44,winter,13.034732,77.57302,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Danaus chrysippus chrysippus,research
+109622661,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-03-15,2022,3,15,74,pre_monsoon,12.920707,77.6414418,"Agara Lake, Agara Village, 1st Sector, HSR Layout, Bengaluru, Karnataka 560034",Danaus chrysippus,research
+109646319,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-02-21,2022,2,21,52,winter,13.034753,77.572999,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Danaus chrysippus chrysippus,research
+110268250,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-04-02,2022,4,2,92,pre_monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+110268281,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-04-02,2022,4,2,92,pre_monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+110275758,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-04-03,2022,4,3,93,pre_monsoon,12.973705,77.656108,"Bhoomi Reddy Colony, New Tippasandra, Bengaluru, Karnataka 560075, India",Danaus chrysippus,research
+110387566,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-04-03,2022,4,3,93,pre_monsoon,12.9302550976,77.4672714001,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+111270934,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-04-13,2022,4,13,103,pre_monsoon,12.8841886679,77.4633342773,"Block 18-24, GOOD EARTH MALHAR RESONANCE, Bengaluru, Karnataka 560060, India",Danaus chrysippus,research
+111410584,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-04-14,2022,4,14,104,pre_monsoon,12.84275,77.724463,"Nambiar Bellezea, Bommasandra, Karnataka 560099, India",Danaus chrysippus,research
+111481432,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-04-14,2022,4,14,104,pre_monsoon,12.9344168264,77.606017068,Christ University,Danaus chrysippus,research
+111750264,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-04-16,2022,4,16,106,pre_monsoon,12.8406478781,75.3822565824,Konalu,Danaus chrysippus,research
+113264727,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-04-28,2022,4,28,118,pre_monsoon,15.969101,75.277444,"Belagavi, Karnataka, India",Danaus chrysippus,research
+114142706,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-05-01,2022,5,1,121,pre_monsoon,12.8738185103,77.525922953,"VGFG+MVQ, Adarsha Layout, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Danaus chrysippus,research
+115717302,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-05-06,2022,5,6,126,pre_monsoon,15.9694199722,75.2774629722,"Belagavi, Karnataka, India",Danaus chrysippus,research
+117173528,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-05-14,2022,5,14,134,pre_monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+117587884,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-05-18,2022,5,18,138,pre_monsoon,15.969469,75.277479,"Belagavi, Karnataka, India",Danaus chrysippus,research
+118487214,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-05-21,2022,5,21,141,pre_monsoon,13.0873859122,77.6099347696,Jakkur Lake,Danaus chrysippus,research
+119031712,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-05-28,2022,5,28,148,pre_monsoon,12.7584352682,77.6118099219,"Bangalore Urban, Karnataka, India",Danaus chrysippus,research
+119198265,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-05-29,2022,5,29,149,pre_monsoon,12.2124735266,76.6334253714,"Dadadahalli kere and surroundings, Mysuru, Karnataka, India",Danaus chrysippus,research
+119198348,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-05-29,2022,5,29,149,pre_monsoon,12.2124735266,76.6334253714,"Dadadahalli kere and surroundings, Mysuru, Karnataka, India",Danaus chrysippus,research
+119688137,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-06-01,2022,6,1,152,monsoon,12.8848864593,74.853563346,"VVM3+WF2, Vasanth Vihar, Kadri, Mangaluru, Karnataka 575004, India",Danaus chrysippus,research
+120124407,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-06-04,2022,6,4,155,monsoon,12.2132993036,76.6253000651,"Shanubhoganahalli Kere, Sindhuvalli, Karnataka, India",Danaus chrysippus,research
+120631538,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-06-07,2022,6,7,158,monsoon,13.0559878997,77.5356763997,"Kammagondahalli, Jalahalli, Bengaluru, Karnataka 560015, India",Danaus chrysippus,research
+120796521,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-06-08,2022,6,8,159,monsoon,13.6623754444,77.46051025,"opposite to shambukanagara, Gauribidanur chandanur, MF76+VC3, Karnataka 561208, India",Danaus chrysippus,research
+121071901,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-06-02,2022,6,2,153,monsoon,13.0551799979,77.5355574489,KENDRIYA VIDYALAYA NO.1 JALAHALLI (WEST),Danaus chrysippus,research
+121071998,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-05-29,2022,5,29,149,pre_monsoon,13.0551799979,77.5355574489,KENDRIYA VIDYALAYA NO.1 JALAHALLI (WEST),Danaus chrysippus,research
+121378489,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-06-12,2022,6,12,163,monsoon,12.2418067174,76.7353177088,Janthagalli,Danaus chrysippus,research
+121446413,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-06-11,2022,6,11,162,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+121575300,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-06-13,2022,6,13,164,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+122124207,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-06-17,2022,6,17,168,monsoon,12.8500583333,77.7786116667,"Bikkanahalli Main Road, Bengaluru, KA, IN",Danaus chrysippus,research
+122270820,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-05-22,2022,5,22,142,pre_monsoon,12.2823763,77.3704729,"Galibore Nature Camp - Junglelodges and Resorts, Sangam, Ramanagara, Karnataka, India",Danaus chrysippus,research
+122646009,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-08-23,2020,8,23,236,monsoon,13.0086620815,76.1136118323,"Sh 48, Kuvempu Nagar, Krishnaraja Pura, Hassan, Karnataka 573201, India",Danaus chrysippus,research
+123202639,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-06-24,2022,6,24,175,monsoon,12.7735996111,77.6179428056,"QJF8+9QH, Nandanavana Layout, Bukkasagara, Karnataka 560105, India",Danaus chrysippus,research
+123214490,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-06-24,2022,6,24,175,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+123214494,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-06-24,2022,6,24,175,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+123364439,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-06-25,2022,6,25,176,monsoon,12.9137169323,77.469640738,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+123381974,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-06-24,2022,6,24,175,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+123382627,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-06-24,2022,6,24,175,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+123544090,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-06-26,2022,6,26,177,monsoon,13.055802375,77.5357828389,"Kammagondahalli, Jalahalli, Bengaluru, Karnataka 560015, India",Danaus chrysippus,research
+123818004,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-06-28,2022,6,28,179,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+123959275,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-06-29,2022,6,29,180,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+124238907,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-01,2022,7,1,182,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+124238915,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-01,2022,7,1,182,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+124248577,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-01,2022,7,1,182,monsoon,12.9075126389,77.6782913056,"Oceanus Vista Tower-4, Bengaluru, Karnataka 560035, India",Danaus chrysippus,research
+124351570,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-02,2022,7,2,183,monsoon,12.961924,77.709616,"Nisarga park, Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+124507554,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-03,2022,7,3,184,monsoon,12.961924,77.709616,"Nisarga park, Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+125009118,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-06,2022,7,6,187,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+125009123,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-06,2022,7,6,187,monsoon,12.9635716863,77.7191638506,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+125152674,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-07,2022,7,7,188,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+125405651,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-09,2022,7,9,190,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+125565863,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-09,2022,7,9,190,monsoon,13.662105,77.4605663889,"Chikballapur, Karnataka, India",Danaus chrysippus,research
+125566186,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-10,2022,7,10,191,monsoon,12.961924,77.709616,"Nisarga park, Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+125566195,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-10,2022,7,10,191,monsoon,12.961924,77.709616,"Nisarga park, Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+125634371,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-05-13,2022,5,13,133,pre_monsoon,12.3090909951,76.2832793221,Hunsur,Danaus chrysippus,research
+125764090,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-11,2022,7,11,192,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+125764091,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-11,2022,7,11,192,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+125764093,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-11,2022,7,11,192,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+125764094,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-11,2022,7,11,192,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+125767956,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-10,2022,7,10,191,monsoon,12.8840746026,77.4631307647,"Block 18-24, GOOD EARTH MALHAR RESONANCE, Bengaluru, Karnataka 560060, India",Danaus chrysippus,research
+125914003,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-12,2022,7,12,193,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+125923156,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-12,2022,7,12,193,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+126038926,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-13,2022,7,13,194,monsoon,13.0560293,77.5355804997,"Kammagondahalli, Jalahalli, Bengaluru, Karnataka 560015, India",Danaus chrysippus,research
+126048299,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-13,2022,7,13,194,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+126048301,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-13,2022,7,13,194,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+126192423,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-14,2022,7,14,195,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+126331699,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-15,2022,7,15,196,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+126331704,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-15,2022,7,15,196,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+126374163,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-15,2022,7,15,196,monsoon,12.313105,76.6329633333,"Chamarajapuram, Mysuru, KA, IN",Danaus chrysippus,research
+126448416,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-16,2022,7,16,197,monsoon,12.9243861111,77.53285,"1, Durga Parameshwari Nagar, Banashankari 3rd Stage, Banashankari, Bengaluru, Karnataka 560085, India",Danaus chrysippus,research
+126448598,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-15,2022,7,15,196,monsoon,12.310395043,76.6304409876,Kukkarahalli Lake,Danaus chrysippus,research
+126627490,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-17,2022,7,17,198,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+126797478,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-18,2022,7,18,199,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+126797481,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-18,2022,7,18,199,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+126948523,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-19,2022,7,19,200,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+126948524,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-19,2022,7,19,200,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+126948525,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-19,2022,7,19,200,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+127110413,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-20,2022,7,20,201,monsoon,12.8497133333,77.7783883333,"Bikkanahalli Main Road, Bengaluru, KA, IN",Danaus chrysippus,research
+127215631,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-21,2022,7,21,202,monsoon,12.9124727222,77.64995575,"2301, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102, India",Danaus chrysippus,research
+127361641,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-22,2022,7,22,203,monsoon,13.060383694,77.6569831893,"Yashbans Road, Bengaluru, KA, IN",Danaus chrysippus,research
+127649647,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-24,2022,7,24,205,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+127693423,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-22,2022,7,22,203,monsoon,13.0551799979,77.5355574489,KENDRIYA VIDYALAYA NO. 1 JALAHALLI (WEST),Danaus chrysippus,research
+127829991,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-25,2022,7,25,206,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+127985149,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-26,2022,7,26,207,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+128128075,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-27,2022,7,27,208,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+128565610,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-30,2022,7,30,211,monsoon,12.773775,77.617985,"QJF8+9QH, Nandanavana Layout, Bukkasagara, Karnataka 560105, India",Danaus chrysippus,research
+128964872,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-01,2022,8,1,213,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+129000201,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-24,2022,7,24,205,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+129090578,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-02,2022,7,2,183,monsoon,12.8220326829,77.549486166,"Byatarayana Doddi Kere, Bengaluru, Karnataka, India",Danaus chrysippus,research
+129268242,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-03,2022,8,3,215,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+129407327,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-04,2022,8,4,216,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+129511758,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-05,2022,8,5,217,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+130080256,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-09,2022,8,9,221,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+130114468,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-08,2022,8,8,220,monsoon,12.9183222921,77.6802690003,"Kaikondrahalli, Bengaluru, Karnataka, India",Danaus chrysippus,research
+130230946,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-10,2022,8,10,222,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+130230947,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-10,2022,8,10,222,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+131042804,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-16,2022,8,16,228,monsoon,12.269372,76.611978,"Lingambudhi Lake, Lingambudhi Kere, Ramakrishnanagar, Mysuru, Karnataka 570023",Danaus chrysippus,research
+131062431,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-16,2022,8,16,228,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+131192429,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-17,2022,8,17,229,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+131326685,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-18,2022,8,18,230,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+131326686,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-18,2022,8,18,230,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+131326694,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-18,2022,8,18,230,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+131846049,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-21,2022,8,21,233,monsoon,12.1509382535,76.5289861606,"Gujjegowdana purada kere, Karnataka 570008, India",Danaus chrysippus,research
+131879436,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-22,2022,8,22,234,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+132005797,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-23,2022,8,23,235,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+132005811,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-23,2022,8,23,235,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+132268936,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-25,2022,8,25,237,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+132539389,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-27,2022,8,27,239,monsoon,13.4940468592,77.3943176866,The Lilac Farm,Danaus chrysippus,research
+133177289,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-09-01,2022,9,1,244,monsoon,12.9067678333,77.6766891389,"WM4G+PM6, Kasavanahalli, Karnataka 560035, India",Danaus chrysippus,research
+133430206,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-09-03,2022,9,3,246,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+133446852,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-09-03,2022,9,3,246,monsoon,12.9597654,77.66946416,"Vinayaka Nagar, Vimanapura, Bengaluru, Karnataka, India",Danaus chrysippus,research
+133459580,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-09-03,2022,9,3,246,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+133578422,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-09-03,2022,9,3,246,monsoon,12.1800913642,76.7419524863,Hadinaru PHC,Danaus chrysippus,research
+133604119,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-09-04,2022,9,4,247,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+134542954,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-09-11,2022,9,11,254,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+134830225,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-09-12,2022,9,12,255,monsoon,13.0792638333,77.5845416667,"3rd Cross Road, Bengaluru, KA, IN",Danaus chrysippus,research
+136025359,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-09-21,2022,9,21,264,monsoon,13.250013,77.465152,"7F27+5Q7, Kalludevanahalli, Karnataka 561203, India",Danaus chrysippus,research
+136999581,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-09-30,2022,9,30,273,monsoon,12.9654796,77.7184638,"Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+137522201,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-10-02,2022,10,2,275,post_monsoon,12.3469273987,77.0542827556,"Mandya, Karnataka, India",Danaus chrysippus,research
+137859218,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-10-07,2022,10,7,280,post_monsoon,12.958266,77.7255357,"Thubarahalli Lake, Brookefield, Bengaluru, Karnataka 560066",Danaus chrysippus,research
+137971739,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-02-02,2022,2,2,33,winter,12.8408567617,77.43971508,"Bangalore, IN-KA, IN",Danaus chrysippus,research
+138263113,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-10-09,2022,10,9,282,post_monsoon,13.0167217823,77.4581273764,"Karnataka, IN",Danaus chrysippus,research
+139217509,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-10-17,2022,10,17,290,post_monsoon,12.2947833333,76.6580580556,"Ramachandra Agrahara, Mysuru, Karnataka, India",Danaus chrysippus,research
+140037905,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-10-26,2022,10,26,299,post_monsoon,12.75008,77.606655,"PJX4+2W4, YallammanaDhoddi, Karnataka 562112, India",Danaus chrysippus,research
+140353629,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-10-28,2022,10,28,301,post_monsoon,12.9691306163,77.6923752341,"Doddanekkundi, Bengaluru, Karnataka, India",Danaus chrysippus,research
+142293722,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-11-13,2022,11,13,317,post_monsoon,12.9901560977,77.6624017954,"Prestige Greenwoods, Nagavarapalya, Bangalore",Danaus chrysippus,research
+142298667,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-11-18,2022,11,18,322,post_monsoon,12.958266,77.7255357,"Thubarahalli Lake, Brookefield, Bengaluru, Karnataka 560066",Danaus chrysippus,research
+142529891,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-10-15,2022,10,15,288,post_monsoon,13.0837956017,77.5779594854,"Vignana Kendra, Bengaluru, Karnataka, India",Danaus chrysippus,research
+142790241,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-06-19,2021,6,19,170,monsoon,12.9714785136,77.5945626944,Bangalore,Danaus chrysippus,research
+143188322,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-11-27,2022,11,27,331,post_monsoon,13.070291138,77.7695255354,Hoskote Lake,Danaus chrysippus,research
+143188389,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-11-27,2022,11,27,331,post_monsoon,13.070291138,77.7695255354,Hoskote Lake,Danaus chrysippus,research
+144997274,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-12-17,2022,12,17,351,winter,13.0702915,77.7695255,"Hoskote Lake, Karnataka",Danaus chrysippus,research
+145360883,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-12-28,2022,12,28,362,winter,15.165205,74.6350631667,"5J8M+CW8, Kulgi, Karnataka 581363, India",Danaus chrysippus,research
+146023327,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-12-18,2022,12,18,352,winter,12.9205893,77.2944334,"Savandurga Hill, Karnataka, India",Danaus chrysippus,research
+146141565,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-01-01,2023,1,1,1,winter,13.0709228,77.5801971,"NCBS Campus, Bengaluru, Karnataka, India",Danaus chrysippus,research
+146326438,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-01-11,2023,1,11,11,winter,12.7731681012,77.6106509194,Bukkasagara,Danaus chrysippus,research
+146343249,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-12-22,2022,12,22,356,winter,12.3242848304,76.5853617713,"8HFP+H49, Basavanahalli, Karnataka 570026, India",Danaus chrysippus,research
+146536867,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-01-14,2023,1,14,14,winter,12.8789074,77.5298515,"100 Feet Road, SOBHA FOREST VIEW, Off, Kanakapura Rd, Banashankari 6th Stage, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Danaus chrysippus,research
+146536878,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-01-14,2023,1,14,14,winter,12.8789074,77.5298515,"100 Feet Road, SOBHA FOREST VIEW, Off, Kanakapura Rd, Banashankari 6th Stage, Lingadeeranahalli, Bengaluru, Karnataka 560062, India",Danaus chrysippus,research
+146752414,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-01-17,2023,1,17,17,winter,12.97895,77.6800916667,"1st A Cross Road, Bengaluru, KA, IN",Danaus chrysippus,research
+146969770,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-12-22,2022,12,22,356,winter,12.3260316474,76.58506874,"8HFP+H49, Basavanahalli, Karnataka 570026, India",Danaus chrysippus,research
+147104774,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-01-18,2023,1,18,18,winter,12.870676953,77.5547768176,Thippasandra,Danaus chrysippus,research
+147104830,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-01-18,2023,1,18,18,winter,12.870676953,77.5547768176,Thippasandra,Danaus chrysippus,research
+147530212,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-01-28,2023,1,28,28,winter,12.8307341171,77.5941034195,"Bengaluru, Karnataka, India",Danaus chrysippus,research
+148145814,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-02-05,2023,2,5,36,winter,12.9064845833,77.6759948611,"#58 1st flloor GR arcade Opp to Lacasa, above KFC near Kasavanahalli, Bengaluru, Karnataka 560035, India",Danaus chrysippus,research
+148217124,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-02-06,2023,2,6,37,winter,12.9066467222,77.6758651667,"WM4G+M89, Kasavanahalli, Karnataka 560035, India",Danaus chrysippus,research
+148508773,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-02-11,2023,2,11,42,winter,13.0562248219,77.5355537608,"94, Kammagondahalli, Jalahalli, Bengaluru, Karnataka 560015, India",Danaus chrysippus,research
+148749388,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-02-09,2023,2,9,40,winter,12.189455,76.642543,"PB No. 1, Byatha Halli, Kadakola,, Mysuru, Karnataka 571311, India",Danaus chrysippus,research
+148966821,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-02-17,2023,2,17,48,winter,13.045499081,77.5478697941,Jalahalli,Danaus chrysippus,research
+149008726,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-11-21,2022,11,21,325,post_monsoon,12.189455,76.642543,"PB No. 1, Byatha Halli, Kadakola,, Mysuru, Karnataka 571311, India",Danaus chrysippus,research
+149010989,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-02-15,2023,2,15,46,winter,12.189455,76.642543,"PB No. 1, Byatha Halli, Kadakola,, Mysuru, Karnataka 571311, India",Danaus chrysippus,research
+149373166,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-02-19,2023,2,19,50,winter,12.9018516389,77.6680373889,"Eastwood Twp, Haralur, Karnataka, India",Danaus chrysippus,research
+150032329,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-03-02,2023,3,2,61,pre_monsoon,12.9698190945,77.7499718964,Whitefield,Danaus chrysippus,research
+150280856,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-03-05,2023,3,5,64,pre_monsoon,12.9901383333,77.6626583333,"Varthuru Road, Bengaluru, KA, IN",Danaus chrysippus,research
+150477628,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-03-07,2023,3,7,66,pre_monsoon,13.0648775,77.6481322222,"BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Danaus chrysippus,research
+151201472,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-03-15,2023,3,15,74,pre_monsoon,12.8452628,77.7768752,"Burugunte Village, Survey No 66, Bikkanahalli Main Rd, Sarjapura, Bengaluru, Karnataka 562125, India",Danaus chrysippus,research
+151449017,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-12-16,2022,12,16,350,winter,12.5916416234,77.077447714,"Buddaguppe, Karnataka, India",Danaus chrysippus,research
+151583275,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-03-19,2023,3,19,78,pre_monsoon,12.8752734365,77.6901187375,"Gattahalli, Bengaluru, Karnataka 560099, India",Danaus chrysippus,research
+151701462,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-03-17,2023,3,17,76,pre_monsoon,12.9231632972,77.6140268147,"Cashier Layout, 1st Stage, BTM Layout, Bengaluru, Karnataka 560029, India",Danaus chrysippus,research
+151812986,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-03-12,2023,3,12,71,pre_monsoon,13.1227761135,74.9933188409,Sammilan Shetty's Butterfly Park,Danaus chrysippus,research
+152213032,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-03-04,2023,3,4,63,pre_monsoon,12.8830472222,77.4642472222,"Bengaluru, Karnataka, India",Danaus chrysippus,research
+152227222,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-01-04,2023,1,4,4,winter,13.0634636111,77.6207702778,"3J7C+F72, Rachenahalli, Thanisandra, Mesthri Palya, Karnataka 560077, India",Danaus chrysippus,research
+152719825,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-03-29,2023,3,29,88,pre_monsoon,13.0187017,77.6450939,"310, 8th Main Rd HRBR Layout 1st Block, HRBR Layout, Kalyan Nagar Blue Building, HRBR Layout 1st Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043, India",Danaus chrysippus,research
+152821836,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-05-01,2021,5,1,121,pre_monsoon,14.8257125115,74.131953232,Kodibag,Danaus chrysippus,research
+153317422,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-02,2023,4,2,92,pre_monsoon,12.9901508706,77.6624017954,"Prestige Greenwoods, Nagavarapalya, Bangalore",Danaus chrysippus,research
+153322060,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-01-08,2023,1,8,8,winter,12.8935554967,77.5923837678,"Panduranga Nagar, Bengaluru, Karnataka 560076, India",Danaus chrysippus chrysippus,research
+153448657,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-08-10,2022,8,10,222,monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Danaus chrysippus,research
+153542197,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-03-25,2023,3,25,84,pre_monsoon,13.055285,75.2336761,"Shirlalu, Karnataka 574214, India",Danaus chrysippus,research
+154068576,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-09,2023,4,9,99,pre_monsoon,13.06503,77.6480636111,"No 62 Beck n Josh, Bornmann Enclave, BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Danaus chrysippus,research
+154244483,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-01-12,2023,1,12,12,winter,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Danaus chrysippus,research
+154551041,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-10-02,2022,10,2,275,post_monsoon,13.6704805615,77.7486578178,"Kondaralahalli, Karnataka 561209, India",Danaus chrysippus,research
+155124837,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-16,2023,4,16,106,pre_monsoon,12.8949004,77.5936259,"Bengaluru, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India",Danaus chrysippus,research
+155297667,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-17,2023,4,17,107,pre_monsoon,13.0649747222,77.6480405556,"BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Danaus chrysippus,research
+155342351,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-17,2023,4,17,107,pre_monsoon,12.9915370377,77.7343919501,"Forest Technical and Administrative Training Institute, Karnataka Forest Department, Kadugodi.",Danaus chrysippus,research
+156694798,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-26,2023,4,26,116,pre_monsoon,12.8700732558,77.525193058,"Adarsha Layout, Lingadeeranahalli, Bengaluru, Karnataka 560109, India",Danaus chrysippus,research
+157033777,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-28,2023,4,28,118,pre_monsoon,12.9254533,77.546757,"Banashankari, Bengaluru, Karnataka, India",Danaus chrysippus,research
+157159535,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-28,2023,4,28,118,pre_monsoon,12.9769633333,77.596,"Gandhi Nagar, Bengaluru, KA, IN",Danaus chrysippus,research
+157457045,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-29,2023,4,29,119,pre_monsoon,13.061014864,77.7682562817,"Hosakote, Bengaluru Rural, KA, IN",Danaus chrysippus,research
+157515163,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-29,2023,4,29,119,pre_monsoon,12.8217299,77.6085041,"Sakalavara Rd, Hullakasavanahalli, Bengaluru, Karnataka 560083, India",Danaus chrysippus,research
+157586408,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-29,2023,4,29,119,pre_monsoon,12.9901508706,77.6624017954,"Prestige Greenwoods, Nagavarapalya, Bangalore",Danaus chrysippus,research
+157634313,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-29,2023,4,29,119,pre_monsoon,12.885675,77.4641361111,"Bangalore, Karnataka, India",Danaus chrysippus,research
+157913237,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-30,2023,4,30,120,pre_monsoon,12.9443416667,77.5857611111,"Maharaja Agrasen Bhawan 340/8 2nd Cross Rd 1st Block Jaya Nagar East Jayanagar बंगलोर Bangalore Urban Karnataka 560011 Republic of, 1st Block, Jayanagar, Bengaluru, Karnataka 560011, India",Danaus chrysippus,research
+157971669,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-30,2023,4,30,120,pre_monsoon,12.9507429852,77.5847773254,Lalbagh Botanical Garden,Danaus chrysippus,research
+158558227,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-29,2023,4,29,119,pre_monsoon,13.0551760786,77.5355574489,KENDRIYA VIDYALAYA NO. 1 JALAHALLI (WEST),Danaus chrysippus,research
+159064168,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-29,2023,4,29,119,pre_monsoon,12.8307518729,77.5938720619,"Kalkere Research Forest, Bengaluru, Karnataka, India",Danaus chrysippus,research
+159065521,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-05-02,2020,5,2,123,pre_monsoon,12.959045,77.308366,"Centre for Learning (CFL), Varadenahalli",Danaus chrysippus,research
+159370366,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-11-18,2022,11,18,322,post_monsoon,12.9714785136,77.5945626944,Bengaluru,Danaus chrysippus,research
+159617121,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-30,2023,4,30,120,pre_monsoon,12.9609816,77.7083642,"Munekolala Lake, Chennappa Layout, Bengaluru, Karnataka 560037",Danaus chrysippus,research
+159617122,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-30,2023,4,30,120,pre_monsoon,12.9609816,77.7083642,"Munekolala Lake, Chennappa Layout, Bengaluru, Karnataka 560037",Danaus chrysippus,research
+160546627,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-05-07,2023,5,7,127,pre_monsoon,13.1407804557,77.4914384633,"Hesaraghatta Lake Bed, 4FRQ+QWF, Bengaluru, Karnataka 560089, India",Danaus chrysippus,research
+160684730,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-05-09,2023,5,9,129,pre_monsoon,12.9755958116,77.5353877991,Vijayanagar,Danaus chrysippus,research
+160933028,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-05-05,2023,5,5,125,pre_monsoon,13.374425,77.1405722222,"Tumkur, IN-KA, IN",Danaus chrysippus,research
+161351091,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-05-12,2023,5,12,132,pre_monsoon,12.961119297,77.3088138923,"Location: 12.961100, 77.308800",Danaus chrysippus,research
+161751471,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-05-13,2023,5,13,133,pre_monsoon,12.7667968342,77.4995239824,"Bengaluru, Karnataka 560082, India",Danaus chrysippus,research
+162591128,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-05-20,2023,5,20,140,pre_monsoon,13.10692858,77.61750486,"4J49+V3M Kogilu lake walk park, Srinivaspur, Bengaluru, Karnataka 560064, India",Danaus chrysippus,research
+162857349,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-05-21,2023,5,21,141,pre_monsoon,12.2132993036,76.6253000651,"Sindhuvalli, Karnataka, India",Danaus chrysippus,research
+163971863,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-05-27,2023,5,27,147,pre_monsoon,13.0789341913,77.6112917584,"Agrahara, Bengaluru, Karnataka 560064, India",Danaus chrysippus,research
+164443535,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-05-28,2023,5,28,148,pre_monsoon,13.0842417416,77.6093069234,"Agrahara, Bengaluru, Karnataka 560064, India",Danaus chrysippus,research
+164939565,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-01,2023,6,1,152,monsoon,12.272214,76.615527,"7JC7+XM Birdwatching tower, Lingambudhi Kere, Ramakrishnanagar, Mysuru, Karnataka 570023, India",Danaus chrysippus,research
+165144379,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-04-21,2022,4,21,111,pre_monsoon,13.0709838349,77.5802671909,"National Center For Biological Sciences gate land mark near GKVK Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka 560065, Sahakar Nagar, Kodigehalli, Bengaluru, Karnataka 560097, India",Danaus chrysippus,research
+165265684,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-03,2023,6,3,154,monsoon,13.0650496354,77.6480154321,"No 62 Beck n Josh, Bornmann Enclave, BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Danaus chrysippus,research
+165331233,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-03,2023,6,3,154,monsoon,12.5256838773,76.8041260913,"Avverahalli, Karnataka 571434, India",Danaus chrysippus,research
+165486577,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-04,2023,6,4,155,monsoon,13.1306510125,77.5465022027,Avalahalli Forest,Danaus chrysippus,research
+165487083,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-03,2023,6,3,154,monsoon,12.285582,76.5676071,"Kemmannupura, Karnataka 570026, India",Danaus chrysippus,research
+165507924,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-05-07,2023,5,7,127,pre_monsoon,12.2878258,77.1836675,"75QM+4FM, Chamarajnagar, Karnataka 571430, India",Danaus chrysippus,research
+165708848,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-15,2023,4,15,105,pre_monsoon,13.6674493,77.7437775,"Kondaralahalli, Karnataka 561209, India",Danaus chrysippus,research
+166543045,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-10,2023,6,10,161,monsoon,12.9507429852,77.5847773254,Lalbagh Botanical Garden,Danaus chrysippus,research
+166558116,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-05,2023,6,5,156,monsoon,15.3350130586,76.4600238204,Hampi,Danaus chrysippus,research
+166767717,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-11,2023,6,11,162,monsoon,13.0790322,77.604432,"Jakkuru, Bengaluru, Karnataka 560064, India",Danaus chrysippus,research
+167047209,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-04,2023,6,4,155,monsoon,13.1345586343,77.5482617328,"Bengaluru, Karnataka, India",Danaus chrysippus,research
+167864996,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-17,2023,6,17,168,monsoon,13.1309861111,77.5527833333,"4HJ3+QQ gawawa garden, Bengaluru, Karnataka 560064, India",Danaus chrysippus,research
+167865298,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-16,2023,6,16,167,monsoon,12.8225173,77.7294705,"Muthanallur Lake, Bommasandra, Karnataka",Danaus chrysippus,research
+168094064,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-18,2023,6,18,169,monsoon,12.8831678491,77.3034096033,"Savanadurga State Forest, Karnataka, India",Danaus chrysippus,research
+168620725,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-20,2023,6,20,171,monsoon,12.833426209,77.6737954472,"Karnataka, IN",Danaus chrysippus,research
+169526808,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-26,2023,6,26,177,monsoon,13.0580138889,77.6397833333,"3J5Q+5V3, Ferns Residency, Kothanur, Kothnur Narayanapura, Karnataka 560077, India",Danaus chrysippus,research
+169849211,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-11-12,2022,11,12,316,post_monsoon,14.2663406613,76.2618508794,"Chitradurga, IN-KA, IN",Danaus chrysippus,research
+169945077,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-25,2023,6,25,176,monsoon,12.6761518544,76.5970591399,"Madigara Hosahalli, Karnataka 571431, India",Danaus chrysippus,research
+170229001,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-28,2023,6,28,179,monsoon,12.8225173,77.7294705,"Muthanallur Lake, Bommasandra, Karnataka",Danaus chrysippus,research
+170242779,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-11,2023,6,11,162,monsoon,12.2369555556,76.3339166667,"68PM+VXG, Rathnapuri, Karnataka 571189, India",Danaus chrysippus,research
+170255652,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-28,2023,6,28,179,monsoon,12.6864208,77.6654326,"Pearl Vally, Thammanayakanahalli, Karnataka 562106, India",Danaus chrysippus chrysippus,research
+170255654,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-28,2023,6,28,179,monsoon,12.6864208,77.6654326,"Pearl Vally, Thammanayakanahalli, Karnataka 562106, India",Danaus chrysippus chrysippus,research
+170807388,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-06,2023,6,6,157,monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Danaus chrysippus,research
+170813717,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-07,2023,6,7,158,monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Danaus chrysippus,research
+170815259,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-30,2023,6,30,181,monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Danaus chrysippus,research
+172487072,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-07-10,2023,7,10,191,monsoon,12.8225173,77.7294705,"Muthanallur Lake, Bommasandra, Karnataka",Danaus chrysippus chrysippus,research
+172836167,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-09,2023,6,9,160,monsoon,12.958266,77.7255357,"Thubarahalli Lake, Brookefield, Bengaluru, Karnataka 560066",Danaus chrysippus,research
+172973677,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-07-15,2023,7,15,196,monsoon,12.3151003052,76.5168847599,"Kamaravalli, Karnataka, India",Danaus chrysippus,research
+172993660,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-07-15,2023,7,15,196,monsoon,12.8749763,77.6299858,"Begur Lake, Begur, Bengaluru, Karnataka 560068",Danaus chrysippus chrysippus,research
+173025495,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-07-15,2023,7,15,196,monsoon,12.8660783092,77.5969061641,"Karnataka, IN",Danaus chrysippus,research
+173387142,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-07-15,2023,7,15,196,monsoon,12.884123301,77.4633600935,"Kambipura, Karnataka 560060, India",Danaus chrysippus,research
+173931122,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-07-17,2023,7,17,198,monsoon,12.958266,77.7255357,"Thubarahalli Lake, Brookefield, Bengaluru, Karnataka 560066",Danaus chrysippus,research
+174214543,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-07-18,2023,7,18,199,monsoon,12.9689968,77.7208853,"Kundalahalli, Brookefield, Bengaluru, Karnataka, India",Danaus chrysippus,research
+174998042,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-07-26,2023,7,26,207,monsoon,15.3441765833,76.2677406278,"Kanakapur, Karnataka 583228, India",Danaus chrysippus,research
+175679685,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-07-29,2023,7,29,210,monsoon,12.84904,77.4889272,"RFXQ+JH7, Aagara Lake Rd, Bengaluru, Badamanavarathekaval, Karnataka 560062, India",Danaus chrysippus chrysippus,research
+175779286,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-07-30,2023,7,30,211,monsoon,13.0558315997,77.5355411,"Kammagondahalli, Jalahalli, Bengaluru, Karnataka 560015, India",Danaus chrysippus,research
+176068289,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-07,2023,4,7,97,pre_monsoon,12.8777942116,74.8172977961,"Mangaluru, Karnataka, India",Danaus chrysippus,research
+176258247,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-08-02,2023,8,2,214,monsoon,12.8225173,77.7294705,"Muthanallur Lake, Bommasandra, Karnataka",Danaus chrysippus chrysippus,research
+177147214,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-08-07,2023,8,7,219,monsoon,12.8225173,77.7294705,"Muthanallur Lake, Bommasandra, Karnataka",Danaus chrysippus,research
+177332504,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-08-08,2023,8,8,220,monsoon,12.2536111111,76.6,"Mysuru, Karnataka 570008, India",Danaus chrysippus,research
+177784092,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-08-11,2023,8,11,223,monsoon,12.8718581949,77.5246200711,"Adarsha Layout, Lingadeeranahalli, Bengaluru, Karnataka 560109, India",Danaus chrysippus,research
+177794807,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-08-10,2023,8,10,222,monsoon,12.8719222576,77.5242261216,"Adarsha Layout, Lingadeeranahalli, Bengaluru, Karnataka 560109, India",Danaus chrysippus,research
+178667933,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-08-06,2023,8,6,218,monsoon,12.8225173,77.7294705,"Muthanallur Lake, Bommasandra, Karnataka",Danaus chrysippus,research
+179415064,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-08-11,2023,8,11,223,monsoon,12.7354609759,77.5010776986,"Bangalore Division, Karnataka, India",Danaus chrysippus,research
+180085891,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-07-18,2023,7,18,199,monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Danaus chrysippus,research
+180085930,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-07-13,2023,7,13,194,monsoon,12.9206072,77.4415806,"WCCR+6JW, Hunasemaradapalya, Bheemanakuppe Ramasagara, Karnataka 560060, India",Danaus chrysippus,research
+180382700,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-08-27,2023,8,27,239,monsoon,12.8989939811,77.4507548846,"VFX2+QCM, Bengaluru, Challegatta, Karnataka 560060, India",Danaus chrysippus,research
+180472843,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-08-27,2023,8,27,239,monsoon,12.90878639,77.55969556,"1st Stage, Kumaraswamy Layout, Bengaluru, Karnataka, India",Danaus chrysippus,research
+180750360,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-08-25,2023,8,25,237,monsoon,12.5892785071,77.3785268515,"Ramanagara, IN-KA, IN",Danaus chrysippus,research
+180879229,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-08-29,2023,8,29,241,monsoon,12.8811160751,77.5170662999,"Banashankari 6th Stage 3rd Block, Banashankari 6th Stage, Thurahalli, Hemmigepura, Karnataka 560062, India",Danaus chrysippus,research
+181721062,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-09-04,2023,9,4,247,monsoon,12.8225173,77.7294705,"Muthanallur Lake, Bommasandra, Karnataka",Danaus chrysippus,research
+182011937,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-09-06,2023,9,6,249,monsoon,12.2666666667,76.5988888889,"Kergalli, Karnataka 570026, India",Danaus chrysippus,research
+182422003,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-04-29,2021,4,29,119,pre_monsoon,14.6374067,75.5101999,"Kadaramandalagi, Karnataka, India",Danaus chrysippus,research
+183643519,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-09-17,2023,9,17,260,monsoon,13.0873671,77.609935,"Jakkur Lake, Agrahara, Bengaluru, Karnataka 560064",Danaus chrysippus chrysippus,research
+183846099,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-09-18,2023,9,18,261,monsoon,12.2666666667,76.5988888889,"Kergalli, Karnataka 570026, India",Danaus chrysippus,research
+184356772,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-04,2023,6,4,155,monsoon,13.128508291,77.5486609864,"Bengaluru, Karnataka, India",Danaus chrysippus,research
+184652130,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-09-24,2023,9,24,267,monsoon,12.2731461017,76.6142095696,"Ramakrishnanagar, Mysuru, Karnataka, India",Danaus chrysippus,research
+184652139,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-09-24,2023,9,24,267,monsoon,12.2731461017,76.6142095696,"Ramakrishnanagar, Mysuru, Karnataka, India",Danaus chrysippus,research
+185535562,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-09-23,2023,9,23,266,monsoon,12.9659278,77.495291,"Mallathahalli lake, ITI Employees Layout, Annapurneshwari Nagar, Bengaluru, Karnataka 560091",Danaus chrysippus,research
+186292201,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-04-05,2020,4,5,96,pre_monsoon,15.268852301,76.3909240812,"799R+G9V, Hosapete, Karnataka 583201, India",Danaus chrysippus,research
+186498317,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-10-07,2023,10,7,280,post_monsoon,12.2666666667,76.6161111111,"7J88+W7F, Lingambudhi Kere, Ramakrishnanagar, Mysuru, Karnataka 570023, India",Danaus chrysippus,research
+186845804,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-20,2023,6,20,171,monsoon,12.958266,77.7255357,"Thubarahalli Lake, Brookefield, Bengaluru, Karnataka 560066",Danaus chrysippus,research
+186871831,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-10-08,2023,10,8,281,post_monsoon,12.9836351,77.6797411,"Kaggadasapura, Bengaluru, Karnataka, India",Danaus chrysippus,research
+187101917,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-10-09,2023,10,9,282,post_monsoon,12.8452628,77.7768752,"Burugunte Village, Survey No 66, Bikkanahalli Main Rd, Sarjapura, Bengaluru, Karnataka 562125, India",Danaus chrysippus,research
+187455975,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-16,2023,4,16,106,pre_monsoon,12.8934861111,77.5931,"200, Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India",Danaus chrysippus,research
+187628262,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-10-15,2023,10,15,288,post_monsoon,12.1850967987,76.7174309238,"Basahallihundi, Karnataka, India",Danaus chrysippus,research
+188123536,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-10-19,2023,10,19,292,post_monsoon,13.6594444444,76.0602777778,"Chikmagalur, IN-KA, IN",Danaus chrysippus,research
+188257970,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-24,2023,4,24,114,pre_monsoon,12.9714785136,77.5945626944,Bangalore,Danaus chrysippus,research
+189451825,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-10-30,2023,10,30,303,post_monsoon,12.7746460422,77.6120835543,Nandanavana Layout,Danaus chrysippus,research
+189931658,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-10-31,2023,10,31,304,post_monsoon,14.5298956193,74.3300970644,"Gokarna, Karnataka, India",Danaus chrysippus,research
+190301101,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-11-07,2023,11,7,311,post_monsoon,12.309793956,76.6704726229,"Chamundi Vihar Layout, Mysuru, Karnataka, India",Danaus chrysippus,research
+190645112,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-10-29,2023,10,29,302,post_monsoon,13.1107361667,77.572625,"Yelahanka, Bengaluru, KA, IN",Danaus chrysippus,research
+190882932,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-11-11,2023,11,11,315,post_monsoon,12.5652689,77.4556008,"HF84+24C, Karnataka 562117, India",Danaus chrysippus,research
+190991808,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-11-13,2023,11,13,317,post_monsoon,12.9845244,77.5845792,"41, Race Course Rd, Sampangi Rama Nagar, High Grounds, Bengaluru, Karnataka 560001, India",Danaus chrysippus,research
+191327989,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-11-18,2023,11,18,322,post_monsoon,12.910865137,77.6127993688,"MCHS Colony, Stage 2, BTM Layout, Bengaluru, Karnataka, India",Danaus chrysippus,research
+191941668,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-11-24,2023,11,24,328,post_monsoon,12.819836,77.726727,Location Muthanallur Kere,Danaus chrysippus,research
+192457625,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-11-17,2023,11,17,321,post_monsoon,12.8956152056,77.6025469601,"Room H004, Hostel Blocks, Indian Institute of Management Bangalore, Sundar Ram Shetty Nagar, Bilekahalli, Bengaluru, Karnataka 560076, India",Danaus chrysippus,research
+192616383,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-11-30,2023,11,30,334,post_monsoon,12.910865137,77.6127993688,"MCHS Colony, Stage 2, BTM Layout, Bengaluru, Karnataka, India",Danaus chrysippus,research
+193126450,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-10-17,2023,10,17,290,post_monsoon,13.0454304901,77.5478697941,Jalahalli,Danaus chrysippus,research
+193209713,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-22,2023,6,22,173,monsoon,12.7828253722,77.5544550361,"QHM4+2QV, Bengaluru, Ragihalli State Forest, Karnataka 562112, India",Danaus chrysippus,research
+193464199,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-11-26,2023,11,26,330,post_monsoon,12.9318694444,74.8812305556,"Mangalore WVJM+C5Q Padushedde, Vamanjoor, Shekhar, Padushedde, Karnataka 575028, India",Danaus chrysippus,research
+193466379,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-12-09,2023,12,9,343,winter,12.8880972548,77.4678638577,"VFQ9+99, Bengaluru, Kambipura, Karnataka 560060, India",Danaus chrysippus,research
+193574553,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-12-10,2023,12,10,344,winter,12.8879684839,77.5752253085,"Chunchugatta Lake, Bengaluru, VHQG+53Q, Chunchgatta, JP Nagar 7th Phase, J. P. Nagar, Bengaluru, Kothnur, Karnataka 560078, India",Danaus chrysippus,research
+194261604,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-12-18,2023,12,18,352,winter,12.3778474752,76.6661115178,"Mysore Road, Mysuru, KA, IN",Danaus chrysippus chrysippus,research
+194645775,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-12-22,2023,12,22,356,winter,12.8953498277,77.5916809961,"WH2W+Q7X, Doresanipalya, Anthappa Layout, Phase 4, J. P. Nagar, Bengaluru, Karnataka 560076, India",Danaus chrysippus,research
+196643845,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-01-14,2024,1,14,14,winter,12.6927432778,76.0306701389,"Mudaganur, Karnataka 573130, India",Danaus chrysippus,research
+196668478,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-01-14,2024,1,14,14,winter,12.2747287559,76.6138136378,"Somanath Nagar, Ayyajayyanahundi, Mysuru, Karnataka, India",Danaus chrysippus,research
+197301619,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-01-22,2024,1,22,22,winter,13.0575933333,77.6144133333,"Rachenahalli, Thanisandra, Bengaluru, Karnataka, India",Danaus chrysippus,research
+197541960,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-01-25,2024,1,25,25,winter,12.9141417,74.8559568,"Mangaluru, Karnataka, India",Danaus chrysippus,research
+198102137,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-10-13,2023,10,13,286,post_monsoon,12.958266,77.7255357,"Thubarahalli Lake, Brookefield, Bengaluru, Karnataka 560066",Danaus chrysippus,research
+198200080,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-02-01,2024,2,1,32,winter,13.2235761111,77.1907300556,"Honnudike, Karnataka 572122, India",Danaus chrysippus,research
+198284161,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-02-03,2024,2,3,34,winter,12.3097123923,76.6024102271,"Bogadi 2nd Stage North, Mysuru, Karnataka, India",Danaus chrysippus,research
+199005582,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-02-11,2024,2,11,42,winter,15.4831268878,74.984120205,"FXJJ+XW, Dharwad, Hiremalligawad, Karnataka 580005, India",Danaus chrysippus,research
+199979708,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-02-17,2024,2,17,48,winter,13.0197555,77.5690287997,"Devasandra Layout, Bengaluru, Karnataka, India",Danaus chrysippus,research
+200069585,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-02-22,2024,2,22,53,winter,13.0171195,77.5671466667,"Indian Institute of Science, Bengaluru, KA, IN",Danaus chrysippus,research
+202794853,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-03-17,2024,3,17,77,pre_monsoon,13.1154652072,77.6069977507,"4J84+5QQ, BSF Campus, Yelahanka, Bengaluru, Karnataka 560064, India",Danaus chrysippus,research
+202977573,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-10-23,2023,10,23,296,post_monsoon,12.958266,77.7255357,"Thubarahalli Lake, Brookefield, Bengaluru, Karnataka 560066",Danaus chrysippus,research
+204008397,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-03-26,2024,3,26,86,pre_monsoon,13.0652423277,77.6475074887,Anjanappa Layout,Danaus chrysippus,research
+204713471,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-03-31,2024,3,31,91,pre_monsoon,13.0444648997,77.7442134,"2PVV+JPJ Brigade Exotica- Children Play area, Virgonagar, Aavalahalli, Bengaluru, Karnataka 560049, India",Danaus chrysippus,research
+205622765,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-06,2024,4,6,97,pre_monsoon,12.8515050185,77.5324239582,"SUVIDHA RETIREMENT VILLASGE =39 ,near vajruneshwar temple thalaggsrtapura kanakpura road 560063, Bengaluru, Uttarahalli -Manavarthekaval, Karnataka 560062, India",Danaus chrysippus,research
+206110379,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-07,2024,4,7,98,pre_monsoon,15.4653664583,74.9868587404,"FX8P+5MW Sadhanakeri Garden, Sadhankeri, Police Head Quarter's, Dharwad, Karnataka 580008, India",Danaus chrysippus,research
+206194642,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-03-20,2024,3,20,80,pre_monsoon,13.0766680568,77.5776268914,"3HGH+Q29, Vignana Kendra, Bengaluru, Karnataka 560065, India",Danaus chrysippus,research
+206194815,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-03-14,2024,3,14,74,pre_monsoon,13.0677776866,77.5787718594,"361, Canara Bank Layout, Rajiv Gandhi Nagar, Kodigehalli, Bengaluru, Karnataka 560112, India",Danaus chrysippus,research
+207529570,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-15,2024,4,15,106,pre_monsoon,13.0173738441,77.5668876359,"Devasandra Layout, Bengaluru, Karnataka, India",Danaus chrysippus,research
+207529573,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-15,2024,4,15,106,pre_monsoon,13.0170393439,77.566952009,"Devasandra Layout, Bengaluru, Karnataka, India",Danaus chrysippus,research
+207779660,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-17,2024,4,17,108,pre_monsoon,13.1594074398,77.489268624,"Bengaluru, Karnataka, India",Danaus chrysippus,research
+208201941,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-20,2024,4,20,111,pre_monsoon,12.950369839,77.5857036933,"Bangalore, IN-KA, IN",Danaus chrysippus,research
+208423658,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-21,2024,4,21,112,pre_monsoon,12.9040878676,77.5492739305,"Bangalore, IN-KA, IN",Danaus chrysippus,research
+208423812,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-21,2024,4,21,112,pre_monsoon,12.9040999595,77.5492890179,"Bangalore, IN-KA, IN",Danaus chrysippus,research
+208713468,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-21,2024,4,21,112,pre_monsoon,12.9043863,77.5491068997,"WG3X+PJR, BHCS Layout, 2nd Stage, Uttarahalli Hobli, Bengaluru, Karnataka 560061, India",Danaus chrysippus,research
+209513774,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-25,2024,4,25,116,pre_monsoon,13.0580292997,77.6233232997,"Bangalore, IN-KA, IN",Danaus chrysippus,research
+209728898,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-07,2024,4,7,98,pre_monsoon,12.7971420481,77.5764504075,"QHWG+G9G Butterfly Park, Byrappanahalli, Bengaluru, Karnataka 560083, India",Danaus chrysippus,research
+209963992,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-27,2024,4,27,118,pre_monsoon,13.00870453,77.57269326,"5115, Raj Mahal Vilas Extension, Armane Nagar, Bengaluru, Karnataka 560080, India",Danaus chrysippus,research
+209964156,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-27,2024,4,27,118,pre_monsoon,13.008620725,77.5727339555,"Kodandarampura, Malleshwaram, Bengaluru, Karnataka, India",Danaus chrysippus,research
+209965215,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-27,2024,4,27,118,pre_monsoon,13.00854638,77.57265727,"Kodandarampura, Malleshwaram, Bengaluru, Karnataka, India",Danaus chrysippus,research
+210022176,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-27,2024,4,27,118,pre_monsoon,12.8896111111,77.5882694444,"Nataraja Layout, JP Nagar 7th Phase, Bengaluru, Karnataka, India",Danaus chrysippus,research
+210588525,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-28,2024,4,28,119,pre_monsoon,13.0778253,77.57795568,"Bangalore, IN-KA, IN",Danaus chrysippus,research
+210752738,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-28,2024,4,28,119,pre_monsoon,13.07769945,77.5779113833,"3HHH+775, Vignana Kendra, Bengaluru, Karnataka 560065, India",Danaus chrysippus,research
+211264600,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-29,2024,4,29,120,pre_monsoon,13.32711915,77.64442317,"Thylagere, Karnataka, India",Danaus chrysippus,research
+211363646,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-29,2024,4,29,120,pre_monsoon,12.9061682406,77.7134749385,"Mullur Lake, Bengaluru, KA, IN",Danaus chrysippus,research
+211471405,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-29,2024,4,29,120,pre_monsoon,13.0434028055,77.7449893579,"Bandapura, Virgonagar, Aavalahalli, Bengaluru, Karnataka 560049, India",Danaus chrysippus,research
+212954880,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-20,2024,4,20,111,pre_monsoon,12.9522616667,77.583375,"Walk Trail 3, Bengaluru, KA, IN",Danaus chrysippus,research
+213108195,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-22,2024,4,22,113,pre_monsoon,13.0270333333,77.773545,"Kannamangala, Bengaluru, KA, IN",Danaus chrysippus,research
+213320753,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-05-04,2024,5,4,125,pre_monsoon,13.4047280141,77.9094883885,"Sidlaghatta, Chikkaballapur, KA, IN",Danaus chrysippus,research
+213864433,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-04-28,2024,4,28,119,pre_monsoon,13.1133445,77.5790466667,"Puttena Halli Lake, Bengaluru, KA, IN",Danaus chrysippus,research
+213891264,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-05-05,2024,5,5,126,pre_monsoon,13.0604582895,77.7672081068,"3Q68+PJ, Bengaluru, Karnataka 562129, India",Danaus chrysippus,research
+213893814,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-05-06,2024,5,6,127,pre_monsoon,13.0797895059,77.5886309892,"1725, Judicial Layout, Bengaluru, Karnataka 560065, India",Danaus chrysippus,research
+214151329,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-05-04,2024,5,4,125,pre_monsoon,12.9504048,77.5020617,"Mysore Rd, Jnana Bharathi, Bengaluru, Karnataka 560056, India",Danaus chrysippus,research
+214320336,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-05-08,2024,5,8,129,pre_monsoon,13.0693237758,77.5722936541,"17, Sri Venkateswara Nilaya, Kodige Enclave, near Indane Gas Godown, Sonappa Layout, Virupakshapura, Bengaluru, Karnataka 560097, India",Danaus chrysippus,research
+215173441,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-05-07,2024,5,7,128,pre_monsoon,12.9604555556,77.3093472222,"X855+99C, Varadenahalli, Karnataka 562120, India",Danaus chrysippus,research
+216039239,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-05-12,2024,5,12,133,pre_monsoon,12.9362409408,77.4369153207,"M Krishnasagara, Bengaluru, KA, IN",Danaus chrysippus,research
+216728659,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-05-19,2024,5,19,140,pre_monsoon,12.7998233997,77.5757749997,"RH2G+48J, Bannerughatta, Bengaluru, Karnataka 560083, India",Danaus chrysippus,research
+217288796,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-05-21,2024,5,21,142,pre_monsoon,12.2732336827,76.6164028615,Lingambudhi Botanical Park,Danaus chrysippus,research
+218074841,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-05-25,2024,5,25,146,pre_monsoon,13.141625,77.5454066667,"Bengaluru, Karnataka, India",Danaus chrysippus,research
+218923720,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-05-23,2024,5,23,144,pre_monsoon,12.9509331782,77.5850795759,"Mavalli, Bengaluru, Karnataka, India",Danaus chrysippus,research
+220443736,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-12-30,2023,12,30,364,winter,13.6970555835,77.6612604921,"Sabbanahalli, Bangalore Division, Karnataka, India",Danaus chrysippus,research
+220482290,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-02,2024,6,2,154,monsoon,13.0168720936,77.5668661783,"Devasandra Layout, Bengaluru, Karnataka, India",Danaus chrysippus,research
+221036314,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-04,2024,6,4,156,monsoon,12.2957998857,76.639380455,"Siddhartha Nagar, Chamarajapuram Mohalla, Lakshmipuram, Mysuru, Karnataka, India",Danaus chrysippus,research
+221362009,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-05,2024,6,5,157,monsoon,15.3154521814,74.7645791297,"Paswan Pond, E.I.D Parry (India) Campus, Alolli, Haliyal [Restricted Access]",Danaus chrysippus,research
+221511177,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-09,2024,6,9,161,monsoon,12.9483356997,77.5816575,"Mavalli, Bengaluru, Karnataka, India",Danaus chrysippus,research
+221551360,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-09,2024,6,9,161,monsoon,12.9422972222,77.5090972222,"WGR6+J2R, Gnana Bharathi, Bengaluru, Karnataka 560056, India",Danaus chrysippus,research
+221555863,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-07,2024,6,7,159,monsoon,12.9129677,77.2922332,"Savanadurga State Forest, Karnataka, India",Danaus chrysippus,research
+221559556,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-09,2024,6,9,161,monsoon,12.8819416686,77.5615835935,"1074, Doctors Colony, PNB Layout, Konanakunte, Bengaluru, Karnataka 560062, India",Danaus chrysippus,research
+221588154,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-09,2024,6,9,161,monsoon,12.2740728,76.7459164,"Varuna Lake, Karnataka 570010",Danaus chrysippus,research
+221977585,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-11,2024,6,11,163,monsoon,12.2419655228,76.6330719005,"Gurur, Karnataka, India",Danaus chrysippus,research
+222208748,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-05-03,2024,5,3,124,pre_monsoon,12.884688071,77.4649895355,"Bangalore, IN-KA, IN",Danaus chrysippus,research
+222240127,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-05,2024,6,5,157,monsoon,15.3155723987,74.7645431284,"Paswan Pond, E.I.D Parry (India) Ltd. Campus, Haliyal",Danaus chrysippus,research
+222398862,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-05-03,2024,5,3,124,pre_monsoon,12.884688071,77.4649895355,"Bangalore, IN-KA, IN",Danaus chrysippus,research
+222478796,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-05-07,2024,5,7,128,pre_monsoon,12.9605001351,77.309399955,"Ramanagara, IN-KA, IN",Danaus chrysippus,research
+222577808,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-14,2024,6,14,166,monsoon,12.9484941065,77.5826854539,"Karumbigal Road, Bengaluru, KA, IN",Danaus chrysippus,research
+222577895,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-14,2024,6,14,166,monsoon,12.9484483333,77.582785,"WHXM+G46 Bird Observatory and Sun Dial Park, Mavalli, Bengaluru, Karnataka 560004, India",Danaus chrysippus,research
+223364320,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-03,2024,6,3,155,monsoon,12.8820366667,77.4646,"Kambipura, Bengaluru, KA, IN",Danaus chrysippus,research
+223929511,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-20,2024,6,20,172,monsoon,13.3698726502,74.7952915493,"Karnataka, IN",Danaus chrysippus,research
+223982471,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-20,2024,6,20,172,monsoon,12.8631399997,77.5389308,"No.5, Mallasandra, Judicial Layout 2nd Phase, Jyotipuram, Bengaluru, Mallasandra, Karnataka 560062, India",Danaus chrysippus,research
+224369559,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-18,2024,6,18,170,monsoon,12.0460250744,77.6021365615,"Mahadeshwarabetta, Karnataka, India",Danaus chrysippus,research
+224369577,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-18,2024,6,18,170,monsoon,12.0460250744,77.6021365615,"Mahadeshwarabetta, Karnataka, India",Danaus chrysippus,research
+224570027,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-05-12,2024,5,12,133,pre_monsoon,13.1499992439,77.4900001287,"Hesaraghatta Grass Farm, Karnataka 560089, India",Danaus chrysippus,research
+224575834,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-23,2024,6,23,175,monsoon,13.0604709722,77.6272079722,"Rachenahalli Main Rd, Rachenahalli, P&T Layout, Thanisandra, Bengaluru, Karnataka 560045, India",Danaus chrysippus,research
+225120674,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-21,2024,6,21,173,monsoon,12.045328,77.602158,"Mahadeshwarabetta, Karnataka, India",Danaus chrysippus,research
+225132639,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-21,2024,6,21,173,monsoon,12.045328,77.602158,"Mahadeshwarabetta, Karnataka, India",Danaus chrysippus,research
+225132653,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-21,2024,6,21,173,monsoon,12.045328,77.602158,"Mahadeshwarabetta, Karnataka, India",Danaus chrysippus,research
+225132665,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-21,2024,6,21,173,monsoon,12.045328,77.602158,"Mahadeshwarabetta, Karnataka, India",Danaus chrysippus,research
+225132681,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-21,2024,6,21,173,monsoon,12.045328,77.602158,"Mahadeshwarabetta, Karnataka, India",Danaus chrysippus,research
+225495583,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-27,2024,6,27,179,monsoon,12.9377555556,77.5076361111,"WGQ5+3CV, Mutharayana Nagar, Gnana Bharathi, Bengaluru, Karnataka 560056, India",Danaus chrysippus,research
+225524782,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-27,2024,6,27,179,monsoon,12.3521833333,77.4685833333,"Hunasalanatha, 562119, India",Danaus chrysippus chrysippus,research
+225925342,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-29,2024,6,29,181,monsoon,12.1575011724,76.4627931603,"Malleshwara hillock Temple foothills, Maddur, Karnataka, India",Danaus chrysippus,research
+226122145,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-30,2024,6,30,182,monsoon,12.2133333333,76.5488888889,"Mysuru, Karnataka 570008, India",Danaus chrysippus,research
+226480549,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-30,2024,6,30,182,monsoon,13.3844743217,76.5555547178,"Settikere, Karnataka 572226, India",Danaus chrysippus,research
+226506807,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-01,2024,7,1,183,monsoon,12.298642983,76.6051665321,"239, CFTRI layout, Bogadi 2nd Stage, Mysuru, Karnataka 570026, India",Danaus chrysippus,research
+227287961,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-05,2024,7,5,187,monsoon,12.8477001502,77.7115926938,"Karnataka, IN",Danaus chrysippus,research
+227823463,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-06,2024,7,6,188,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+227823465,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-06,2024,7,6,188,monsoon,12.9150945315,77.4696979879,"Kengeri Satellite Town, Bengaluru, Karnataka, India",Danaus chrysippus,research
+228259607,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-06-25,2021,6,25,176,monsoon,12.9401931378,77.5131306159,"Gnana Bharathi, Bengaluru, Karnataka 560056, India",Danaus chrysippus,research
+228550389,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-04-07,2023,4,7,97,pre_monsoon,12.125547,76.429181,"Mysore Division, Karnataka, India",Danaus chrysippus,research
+228569872,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-10,2024,7,10,192,monsoon,12.9026005563,77.4767040834,"No. 52/1, Wnd Cross, Brundhavana Layout, Doddabeley Mine, Wayer Tsnk, Kengeri, Bengaluru, Karnataka 560060, India",Danaus chrysippus,research
+228770635,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-12,2024,7,12,194,monsoon,13.0186472222,77.6451444444,"HRBR Layout 1st Block, Kalyan Nagar, Bengaluru, Karnataka 560043, India",Danaus chrysippus,research
+228770692,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-12,2024,7,12,194,monsoon,13.0186083333,77.6452138889,"HRBR Layout 1st Block, Kalyan Nagar, Bengaluru, Karnataka 560043, India",Danaus chrysippus,research
+228981755,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-05-20,2024,5,20,141,pre_monsoon,11.72695,76.6681619722,"Chamrajnagar, IN-KA, IN",Danaus chrysippus,research
+228997513,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-13,2024,7,13,195,monsoon,12.2675,76.5975,"1641, Rabindranath Tagore Nagar, Dattagalli 3rd Stage, Mysuru, Karnataka 570026, India",Danaus chrysippus,research
+229501148,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-21,2024,6,21,173,monsoon,12.0465779946,77.5946159956,"Mahadeshwarabetta, Karnataka, India",Danaus chrysippus,research
+229501237,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-21,2024,6,21,173,monsoon,12.0465779946,77.5946159956,"Mahadeshwarabetta, Karnataka, India",Danaus chrysippus,research
+229501268,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-21,2024,6,21,173,monsoon,12.0465779946,77.5946159956,"Mahadeshwarabetta, Karnataka, India",Danaus chrysippus,research
+229770210,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-13,2024,7,13,195,monsoon,12.58902413,77.37558487,"Sy.No.61/1, 61/1, 62/2. 62/3, Allimaranahalli village, Kanakapura Taluk, Kanakapura, Karnataka 562117, India",Danaus chrysippus,research
+230865949,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-21,2024,7,21,203,monsoon,13.0860712712,77.6100208123,"Agrahara, Bengaluru, Karnataka 560064, India",Danaus chrysippus,research
+231183081,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-23,2024,7,23,205,monsoon,12.2732336827,76.6164028615,Lingambudhi Botanical Park,Danaus chrysippus,research
+231185294,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-23,2024,7,23,205,monsoon,12.276246248,76.6059789062,Inchara- Park,Danaus chrysippus,research
+231189342,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-23,2024,7,23,205,monsoon,12.9714785136,77.5945626944,"67/1, KG Halli, D' Souza Layout, Ashok Nagar, Bengaluru, Karnataka 560002, India",Danaus chrysippus,research
+231387974,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-24,2024,7,24,206,monsoon,12.73003,77.5185033333,"Harohalli, Ramanagara, KA, IN",Danaus chrysippus,research
+231440882,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-24,2024,7,24,206,monsoon,12.9056175526,77.6189820424,"Bommanahalli, Bengaluru, Karnataka, India",Danaus chrysippus,research
+231614149,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-21,2024,7,21,203,monsoon,12.8915028,77.5923063,"181, Main Rd, Arekere MICO Layout 2nd stage, Manjunatha Layout, Sahyadri Layout, Garvebhavi Palya, Bengaluru, Karnataka 560076, India",Danaus chrysippus,research
+231793917,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-06,2024,7,6,188,monsoon,12.9620787,77.8990441,"XV6X+RJM, Hulimangala-Hosakote, Hulimangala Hosakote, Karnataka 563160, India",Danaus chrysippus,research
+232100039,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-02-01,2024,2,1,32,winter,13.2236738997,77.1908159997,"Honnudike, Karnataka 572122, India",Danaus chrysippus,research
+232196162,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-07,2024,7,7,189,monsoon,12.27313,76.616895,"Ramakrishnanagar, Mysuru, Karnataka, India",Danaus chrysippus,research
+232262957,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-28,2024,7,28,210,monsoon,12.8269792,77.6632001,"3, Neotown Rd, Shikaripalya, Electronic City, Bengaluru, Karnataka 560100, India",Danaus chrysippus,research
+232271372,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-27,2024,7,27,209,monsoon,12.9368736488,77.436997275,"M Krishnasagara, Bengaluru, KA, IN",Danaus chrysippus,research
+232454661,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-28,2024,7,28,210,monsoon,12.8269792,77.6632001,"3, Neotown Rd, Shikaripalya, Electronic City, Bengaluru, Karnataka 560100, India",Danaus chrysippus,research
+232537440,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-09,2024,6,9,161,monsoon,12.2982956,76.6926105,"Lalitha Mahal Palace Road, Lalithmahal Nagar, Siddhartha Layout, Mysuru, Karnataka 570028, India",Danaus chrysippus,research
+232862214,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-31,2024,7,31,213,monsoon,13.01845,77.64305,"2J9V+958, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043, India",Danaus chrysippus,research
+233021486,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-08-01,2024,8,1,214,monsoon,11.9240775239,76.9317881763,"WWFJ+JP2, Urban, Chamarajanagar, Karnataka 571313, India",Danaus chrysippus,research
+233494638,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-08-03,2024,8,3,216,monsoon,12.75178,77.5155966667,"Sunkadakatte, Karnataka 560082, India",Danaus chrysippus,research
+233688162,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-08-04,2024,8,4,217,monsoon,12.8915028,77.5923063,"181, Main Rd, Arekere MICO Layout 2nd stage, Manjunatha Layout, Sahyadri Layout, Garvebhavi Palya, Bengaluru, Karnataka 560076, India",Danaus chrysippus,research
+233724021,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-08-04,2024,8,4,217,monsoon,13.7409527779,77.3226464978,"Mydanahalli, Karnataka, India",Danaus chrysippus,research
+233906782,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-08-04,2024,8,4,217,monsoon,12.8915028,77.5923063,"181, Main Rd, Arekere MICO Layout 2nd stage, Manjunatha Layout, Sahyadri Layout, Garvebhavi Palya, Bengaluru, Karnataka 560076, India",Danaus chrysippus,research
+233957242,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-08-04,2024,8,4,217,monsoon,12.8917495501,77.592218779,"Sahyadri Layout, Panduranga Nagar, Bengaluru, Karnataka 560076, India",Danaus chrysippus,research
+234299607,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-08-06,2024,8,6,219,monsoon,12.3141856742,76.6670417445,"Sri Venkatalingaiah Circle, Mysuru, KA, IN",Danaus chrysippus,research
+236240333,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-08-16,2024,8,16,229,monsoon,12.8411573059,77.5880020195,"Pillaganahalli, Bengaluru, Karnataka 560083, India",Danaus chrysippus,research
+236690341,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-08-18,2024,8,18,231,monsoon,12.3572499847,77.5825027274,"Kanakapura, Ramanagara, KA, IN",Danaus chrysippus,research
+238234873,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-08-27,2024,8,27,240,monsoon,13.0425095,77.5818071,"26, Vijay Nagar, Bhoopasandra, R.M.V. 2nd Stage, Bengaluru, Karnataka 560094, India",Danaus chrysippus,research
+238336492,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-14,2024,7,14,196,monsoon,12.589711,77.376695,"Sy.No.61/1, 61/1, 62/2. 62/3, Allimaranahalli village, Kanakapura Taluk, Kanakapura, Karnataka 562117, India",Danaus chrysippus,research
+238582191,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-13,2024,7,13,195,monsoon,12.832433,77.6521826,Shikaripalya Lake,Danaus chrysippus,research
+238583027,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-13,2024,7,13,195,monsoon,12.832433,77.6521826,Shikaripalya Lake,Danaus chrysippus,research
+238586144,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-13,2024,7,13,195,monsoon,12.832433,77.6521826,Shikaripalya Lake,Danaus chrysippus,research
+238589520,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-13,2024,7,13,195,monsoon,12.832433,77.6521826,Shikaripalya Lake,Danaus chrysippus,research
+238944155,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-08-31,2024,8,31,244,monsoon,13.1404222222,77.4836388889,"55, Hesaraghtta, Bengaluru, Karnataka 560088, India",Danaus chrysippus,research
+239107230,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-09-01,2024,9,1,245,monsoon,12.8411353938,77.7798917135,"B Hosahalli, Bengaluru, KA, IN",Danaus chrysippus,research
+239225917,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-08-31,2024,8,31,244,monsoon,13.4942278005,77.3933537677,"Chikballapura, IN-KA, IN",Danaus chrysippus,research
+239238676,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-09-01,2024,9,1,245,monsoon,13.4942532301,77.3933494091,"Chikballapura, IN-KA, IN",Danaus chrysippus,research
+239284067,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-07-20,2024,7,20,202,monsoon,12.792228,77.618567,"2nd Main Road, Bengaluru, KA, IN",Danaus chrysippus,research
+239377689,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-08-17,2024,8,17,230,monsoon,12.83742,77.58723,"Kalkere State Forest, Bengaluru, Karnataka, India",Danaus chrysippus,research
+240728842,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-05-11,2022,5,11,131,pre_monsoon,12.4252776944,76.7209930278,"CPGC+37M KARIGHATTA SRINIVASA FOREST CHECK POST & CHILDREN's PARK, Kallikoppalu, Karnataka 571807, India",Danaus chrysippus,research
+240747172,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-09-09,2024,9,9,253,monsoon,15.3490260986,75.1266883314,"84XG+PM3, Vikas Nagar, Hubballi, Karnataka 580030, India",Danaus chrysippus,research
+241835756,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-09-15,2024,9,15,259,monsoon,12.8915028,77.5923063,"181, Main Rd, Arekere MICO Layout 2nd stage, Manjunatha Layout, Sahyadri Layout, Garvebhavi Palya, Bengaluru, Karnataka 560076, India",Danaus chrysippus,research
+242754261,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-09-19,2024,9,19,263,monsoon,13.3049527778,76.9525722222,"Gubbi Rural, Karnataka 572216, India",Danaus chrysippus,research
+243898097,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-11-10,2021,11,10,314,post_monsoon,12.8841308182,77.4633517116,"32, Maheshwari Nagar, Bengaluru, Kambipura, Karnataka 560074, India",Danaus chrysippus,research
+248788406,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-10-18,2022,10,18,291,post_monsoon,13.0769341191,77.5706427618,"GKVK Campus, Bengaluru, KA, IN",Danaus chrysippus,research
+251000361,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-11-09,2024,11,9,314,post_monsoon,13.0650305556,77.6480083333,"BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Danaus chrysippus,research
+251133303,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-09-30,2024,9,30,274,monsoon,12.3042687997,76.7502187,"Bonthagahalli, Karnataka, India",Danaus chrysippus,research
+251290341,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-11-11,2024,11,11,316,post_monsoon,13.0650111111,77.6480027778,"BDS Nagar, Narayanapura, Bengaluru, Karnataka 560077, India",Danaus chrysippus,research
+252890441,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-11-24,2024,11,24,329,post_monsoon,15.3190217756,76.4614432224,"Hosapete, Hampi, Karnataka, IN",Danaus chrysippus,research
+253144209,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-11-26,2024,11,26,331,post_monsoon,13.30150403,77.63741326,"7JXP+WMW, Bengaluru, Chikkagollahalli, Karnataka 562110, India",Danaus chrysippus,research
+253269040,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-11-24,2024,11,24,329,post_monsoon,11.9124090369,76.2997371876,"Huralipura, Karnataka, Indien",Danaus chrysippus,research
+253277965,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-11-27,2024,11,27,332,post_monsoon,15.3202889152,76.4689815022,"Hosapete, Hampi, Karnataka, IN",Danaus chrysippus,research
+253584148,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-11-30,2024,11,30,335,post_monsoon,13.13576895,77.476648,"Hesaraghatta, Bengaluru, Karnataka, IN",Danaus chrysippus,research
+254272405,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-12-06,2024,12,6,341,winter,12.3137611008,77.2819217294,"Basavana Betta Forest, Karnataka, India",Danaus chrysippus,research
+255744316,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-12-21,2024,12,21,356,winter,12.9307,77.6266633333,"7th Cross Road, Bengaluru, Karnataka, IN",Danaus chrysippus,research
+256290061,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-08-25,2024,8,25,238,monsoon,12.8307794808,77.5941278838,"Bengaluru, Karnataka, India",Danaus chrysippus,research
+257932396,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-10-10,2024,10,10,284,post_monsoon,15.3353792842,76.4600731332,"Hampi, Karnataka 583239, India",Danaus chrysippus,research
+262777183,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-11-15,2023,11,15,319,post_monsoon,12.8707077997,77.6156553997,"Akshayanagara West, Akshaya Vana, Akshayanagar, Bengaluru, Karnataka, India",Danaus chrysippus,research
+263264655,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-29,2024,6,29,181,monsoon,13.6981503811,77.6547665935,"Sabbanahalli, Karnataka, India",Danaus chrysippus,research
+263371280,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-29,2024,6,29,181,monsoon,13.6981503811,77.6547665935,"Sabbanahalli, Karnataka, India",Danaus chrysippus,research
+263371309,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-29,2024,6,29,181,monsoon,13.6981503811,77.6547665935,"Sabbanahalli, Karnataka, India",Danaus chrysippus,research
+263371310,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-06-29,2024,6,29,181,monsoon,13.6981503811,77.6547665935,"Sabbanahalli, Karnataka, India",Danaus chrysippus,research
+266714767,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-09-26,2024,9,26,270,monsoon,13.0924758,77.5759163997,"Soma Nagar, Yelahanka, Bengaluru, Karnataka 560065, India",Danaus chrysippus chrysippus,research
+266748939,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-11-20,2023,11,20,324,post_monsoon,12.9715987,77.5945627,"Bengaluru, Karnataka, India",Danaus chrysippus,research
+272345462,danaus_chrysippus,Plain Tiger,butterfly,consumer,2021-08-27,2021,8,27,239,monsoon,12.2958104,76.6393805,"Mysuru, Karnataka, India",Danaus chrysippus,research
+279433299,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-18,2023,6,18,169,monsoon,12.9129677,77.2922332,"Savanadurga State Forest, Karnataka, India",Danaus chrysippus,research
+279433393,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-08-18,2023,8,18,230,monsoon,12.8608396,77.5991544,"Ramanshree Nagar, Phase 2, Gottigere, Bengaluru, Karnataka 560083, India",Danaus chrysippus,research
+279433447,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-11-09,2023,11,9,313,post_monsoon,12.8608396,77.5991544,"Ramanshree Nagar, Phase 2, Gottigere, Bengaluru, Karnataka 560083, India",Danaus chrysippus,research
+280996905,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-09-05,2024,9,5,249,monsoon,13.0347347034,77.5730222204,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Danaus chrysippus,research
+280996917,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-09-01,2024,9,1,245,monsoon,13.0347347034,77.5730222204,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Danaus chrysippus,research
+280996924,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-08-31,2024,8,31,244,monsoon,13.0347347034,77.5730222204,"Sanjayanagara, Bengaluru, Karnataka 560094, India",Danaus chrysippus,research
+283340118,danaus_chrysippus,Plain Tiger,butterfly,consumer,2024-10-05,2024,10,5,279,post_monsoon,15.3425588475,76.4743241927,"Nimbapura, Karnataka, India",Danaus chrysippus,research
+287491520,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-03-20,2022,3,20,79,pre_monsoon,15.4636102046,75.0344689563,"F27P+G2F, Dharwad, Karnataka 580001, India",Danaus chrysippus,research
+287493561,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-05-14,2023,5,14,134,pre_monsoon,13.0687993,74.9936004,"Mudbidri, Karnataka, India",Danaus chrysippus,research
+291663954,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-07-15,2022,7,15,196,monsoon,12.313105,76.63295,"Mysuru, Karnataka, IN",Danaus chrysippus,research
+294344977,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-10-29,2023,10,29,302,post_monsoon,12.7895268,77.6370854,"Bangalore, Karnataka, India",Danaus chrysippus,research
+295343842,danaus_chrysippus,Plain Tiger,butterfly,consumer,2023-06-08,2023,6,8,159,monsoon,13.0810709934,77.5561665371,Vidyaranyapura,Danaus chrysippus,research
+300943759,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-02-12,2022,2,12,43,winter,15.3374681568,76.4597787336,"8FP6+222, Hampi, Karnataka 583239, India",Danaus chrysippus,research
+320610738,danaus_chrysippus,Plain Tiger,butterfly,consumer,2020-07-24,2020,7,24,206,monsoon,13.4593456465,74.9747857824,"FX5F+FX8, Huthorke, Karnataka 576112, India",Danaus chrysippus,research
+322863200,danaus_chrysippus,Plain Tiger,butterfly,consumer,2022-10-26,2022,10,26,299,post_monsoon,11.9504117543,77.6530928537,"Palar Bridge, TN",Danaus chrysippus,research
